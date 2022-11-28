@@ -41,7 +41,7 @@ def main():
 
     #Scheduel Page
     if page == "Scheduel":
-        Scheduel()
+        Scheduele()
 
 
 def homepage():
