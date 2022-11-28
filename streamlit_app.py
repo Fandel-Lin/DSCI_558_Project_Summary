@@ -43,7 +43,7 @@ def main():
     if page == "Scheduel":
         Scheduel()
 
-@st.cache
+
 def homepage():
     st.write("""
             # MLB KG
@@ -79,7 +79,7 @@ def homepage():
     ```
     """)
 
-@st.cache
+
 def Search():
     st.write("""
     # Search for query
@@ -150,7 +150,7 @@ def Search():
                 st.write(row)
     except:
         st.error('Invalid query')
-@st.cache
+
 def Search2():
     namespaces = {
         'ppl': 'http://dsci558.org/player/',
@@ -433,7 +433,6 @@ def Search2():
             for row in g.query(query):
                 st.write(row)
 
-@st.cache
 def Player():
 
     st.write("""
@@ -453,7 +452,7 @@ def Player():
         st.write('###### Stats')
         st.write(pd.read_csv(player_path + 'Stats.csv'))
 
-@st.cache
+
 def Predict():
     st.write("""
     # Predict
