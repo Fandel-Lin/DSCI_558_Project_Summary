@@ -553,7 +553,8 @@ def Scheduele():
     st.title('Scheduele')
     st.write('Scheduele')
     path = ''
-    name_list = os.listdir(path + 'scheduel').sort()
+    name_list = os.listdir(path + 'scheduel')
+    
     table_list = []
 
     for j in range(len(name_list)):
