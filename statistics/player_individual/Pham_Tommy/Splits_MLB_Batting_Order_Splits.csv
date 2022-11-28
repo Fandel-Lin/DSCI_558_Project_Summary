@@ -1,0 +1,6 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Boston Red Sox,MLB,Batting First,203,184,,44,10,0,5,23,12,57,,,6,.239,.305,.375,.680
+Boston Red Sox,MLB,Batting Second,24,22,,5,2,0,0,0,2,8,,,0,.227,.292,.318,.610
+Cincinnati Reds,MLB,Batting Third,385,339,,81,11,1,11,38,41,99,,,1,.239,.319,.375,.694
+Boston Red Sox,MLB,Batting Third,8,8,,1,0,0,1,1,0,2,,,0,.125,.125,.500,.625
+Cincinnati Reds,MLB,Batting Fifth,2,1,,0,0,0,0,1,1,1,,,0,.000,.500,.000,.500

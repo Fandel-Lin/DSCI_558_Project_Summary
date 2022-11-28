@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Atlanta Braves,MLB,Bases Empty,372,335,,95,22,1,22,22,31,94,,,6,.284,.355,.552,.907
+Atlanta Braves,MLB,Bases Loaded,10,7,,1,1,0,0,5,0,1,,,1,.143,.200,.286,.486
+Atlanta Braves,MLB,Runner at 1st,147,130,,36,7,0,8,19,12,32,,,5,.277,.361,.515,.876
+Atlanta Braves,MLB,Runners at 1st & 2nd,34,33,,6,0,0,1,6,1,10,,,0,.182,.206,.273,.479
+Atlanta Braves,MLB,Runners at 1st & 3rd,25,22,,6,1,0,2,12,2,4,,,0,.273,.320,.591,.911
+Atlanta Braves,MLB,Runner at 2nd,66,54,,14,5,1,3,15,8,14,,,4,.259,.394,.556,.950
+Atlanta Braves,MLB,Runners at 2nd & 3rd,14,11,,2,0,0,0,3,2,5,,,1,.182,.357,.182,.539
+Atlanta Braves,MLB,Runner at 3rd,25,23,,8,3,0,2,11,1,8,,,0,.348,.360,.739,1.099
+Atlanta Braves,MLB,Scoring Position,174,150,,37,10,1,8,52,14,42,,,6,.247,.328,.487,.815

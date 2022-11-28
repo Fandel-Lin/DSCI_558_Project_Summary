@@ -1,0 +1,13 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Cincinnati Reds,MLB,Home Games,218,189,35,47,5,1,6,25,24,61,3,2,1,.249,.330,.381,.711
+Boston Red Sox,MLB,Home Games,114,102,16,25,5,0,3,13,8,33,0,1,3,.245,.316,.382,.698
+Cincinnati Reds,MLB,Away Games,169,151,22,34,6,0,5,14,18,39,4,0,0,.225,.308,.364,.672
+Boston Red Sox,MLB,Away Games,121,112,16,25,7,0,3,11,6,34,1,0,3,.223,.281,.366,.647
+Cincinnati Reds,MLB,Day Games,147,129,24,33,4,1,2,18,15,38,2,2,0,.256,.327,.349,.676
+Boston Red Sox,MLB,Day Games,64,59,8,12,2,0,2,7,3,14,1,1,1,.203,.250,.339,.589
+Boston Red Sox,MLB,Night Games,171,155,24,38,10,0,4,17,11,53,0,0,5,.245,.316,.387,.703
+Cincinnati Reds,MLB,Night Games,240,211,33,48,7,0,9,21,27,62,5,0,1,.227,.317,.389,.706
+Boston Red Sox,MLB,Leading Off,80,72,,17,5,0,0,0,7,27,,,1,.236,.313,.306,.619
+Cincinnati Reds,MLB,Leading Off,63,57,,12,3,0,0,0,6,17,,,0,.211,.286,.263,.549
+Cincinnati Reds,MLB,Late / Close,31,27,,6,1,0,0,1,4,12,,,0,.222,.323,.259,.582
+Boston Red Sox,MLB,Late / Close,25,24,,5,1,0,0,1,0,8,,,1,.208,.240,.250,.490

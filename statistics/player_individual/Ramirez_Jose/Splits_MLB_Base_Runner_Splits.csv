@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Cleveland Guardians,MLB,Bases Empty,366,331,,79,24,1,12,12,30,50,,,5,.239,.311,.426,.737
+Cleveland Guardians,MLB,Bases Loaded,13,11,,4,0,1,2,18,1,1,,,1,.364,.462,1.091,1.553
+Cleveland Guardians,MLB,Runner at 1st,117,113,,37,11,1,6,15,4,13,,,0,.327,.350,.602,.952
+Cleveland Guardians,MLB,Runners at 1st & 2nd,51,45,,14,2,1,4,22,6,4,,,0,.311,.392,.667,1.059
+Cleveland Guardians,MLB,Runners at 1st & 3rd,19,16,,5,1,0,0,12,0,1,,,0,.313,.263,.375,.638
+Cleveland Guardians,MLB,Runner at 2nd,64,45,,14,3,1,4,17,19,9,,,0,.311,.516,.689,1.205
+Cleveland Guardians,MLB,Runners at 2nd & 3rd,23,18,,6,3,0,0,14,4,2,,,0,.333,.435,.500,.935
+Cleveland Guardians,MLB,Runner at 3rd,32,22,,9,0,0,1,16,5,2,,,0,.409,.438,.545,.983
+Cleveland Guardians,MLB,Scoring Position,202,157,,52,9,3,11,99,35,19,,,1,.331,.436,.637,1.073

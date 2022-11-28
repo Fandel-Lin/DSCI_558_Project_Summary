@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Boston Red Sox,MLB,Bases Empty,334,311,,87,18,0,5,5,22,55,,,1,.280,.329,.386,.715
+Boston Red Sox,MLB,Bases Loaded,14,11,,2,1,0,0,8,2,1,,,0,.182,.286,.273,.559
+Boston Red Sox,MLB,Runner at 1st,126,116,,37,11,0,4,15,9,10,,,1,.319,.373,.517,.890
+Boston Red Sox,MLB,Runners at 1st & 2nd,58,57,,14,4,0,2,16,1,5,,,0,.246,.259,.421,.680
+Boston Red Sox,MLB,Runners at 1st & 3rd,21,17,,5,0,0,0,7,2,1,,,0,.294,.333,.294,.627
+Boston Red Sox,MLB,Runner at 2nd,63,60,,14,4,1,0,9,2,9,,,1,.233,.270,.333,.603
+Boston Red Sox,MLB,Runners at 2nd & 3rd,20,14,,4,1,0,0,10,4,3,,,0,.286,.400,.357,.757
+Boston Red Sox,MLB,Runner at 3rd,8,7,,3,0,0,0,4,0,2,,,0,.429,.375,.429,.804
+Boston Red Sox,MLB,Scoring Position,184,166,,42,10,1,2,54,11,21,,,1,.253,.293,.361,.654

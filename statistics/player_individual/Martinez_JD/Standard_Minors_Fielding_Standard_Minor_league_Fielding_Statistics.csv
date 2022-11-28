@@ -1,0 +1,76 @@
+Season,Tm,LG,L,POS,G,GS,INN,TC,PO,A,E,DP,RF,FPCT%
+2009,2 Teams,,Minors,DH,39,38,0.0,0,0,0,0,0,,.000
+2009,2 Teams,,Minors,1B,2,2,18.0,22,19,2,1,1,,.955
+2009,2 Teams,,Minors,LF,30,29,242.0,61,55,4,2,1,,.967
+2009,2 Teams,,Minors,DH,39,38,0.0,0,0,0,0,0,,.000
+2009,2 Teams,,Minors,1B,2,2,18.0,22,19,2,1,1,,.955
+2009,2 Teams,,Minors,LF,30,29,242.0,61,55,4,2,1,,.967
+2009,2 Teams,,Minors,DH,39,38,0.0,0,0,0,0,0,,.000
+2009,2 Teams,,Minors,1B,2,2,18.0,22,19,2,1,1,,.955
+2009,2 Teams,,Minors,LF,30,29,242.0,61,55,4,2,1,,.967
+2009,Greeneville Astros,APP,ROK,1B,1,1,9.0,12,10,1,1,1,,.917
+2009,Greeneville Astros,APP,ROK,LF,8,7,67.0,13,12,1,0,0,,1.000
+2009,Greeneville Astros,APP,ROK,DH,10,10,0.0,0,0,0,0,0,,.000
+2009,Tri-City ValleyCats,NYP,A(Short),1B,1,1,9.0,10,9,1,0,0,,1.000
+2009,Tri-City ValleyCats,NYP,A(Short),LF,22,22,175.0,48,43,3,2,1,,.958
+2009,Tri-City ValleyCats,NYP,A(Short),DH,29,28,0.0,0,0,0,0,0,,.000
+2010,2 Teams,,Minors,RF,92,92,808.2,170,154,10,6,0,,.965
+2010,2 Teams,,Minors,DH,29,29,0.0,0,0,0,0,0,,.000
+2010,2 Teams,,Minors,RF,92,92,808.2,170,154,10,6,0,,.965
+2010,2 Teams,,Minors,DH,29,29,0.0,0,0,0,0,0,,.000
+2010,2 Teams,,Minors,RF,92,92,808.2,170,154,10,6,0,,.965
+2010,2 Teams,,Minors,DH,29,29,0.0,0,0,0,0,0,,.000
+2010,Lexington Legends,SAL,A(Full),RF,65,65,568.1,126,114,9,3,0,,.976
+2010,Lexington Legends,SAL,A(Full),DH,23,23,0.0,0,0,0,0,0,,.000
+2010,Corpus Christi Hooks,TEX,AA,LF,15,15,131.0,35,32,2,1,0,,.971
+2010,Corpus Christi Hooks,TEX,AA,RF,27,27,240.1,44,40,1,3,0,,.932
+2010,Corpus Christi Hooks,TEX,AA,DH,6,6,0.0,0,0,0,0,0,,.000
+2011,Corpus Christi Hooks,TEX,AA,LF,72,72,625.0,121,115,4,2,2,,.983
+2011,Corpus Christi Hooks,TEX,AA,DH,14,14,0.0,0,0,0,0,0,,.000
+2012,Oklahoma City RedHawks,PCL,AAA,LF,19,19,160.0,24,22,2,0,0,,1.000
+2012,Oklahoma City RedHawks,PCL,AAA,DH,4,4,0.0,0,0,0,0,0,,.000
+2013,Corpus Christi Hooks,TEX,AA,LF,2,2,17.0,1,1,0,0,0,,1.000
+2013,Corpus Christi Hooks,TEX,AA,RF,2,2,18.0,1,1,0,0,0,,1.000
+2013,Corpus Christi Hooks,TEX,AA,DH,1,1,0.0,0,0,0,0,0,,.000
+2014,Toledo Mud Hens,INT,AAA,LF,12,12,94.2,19,19,0,0,0,,1.000
+2014,Toledo Mud Hens,INT,AAA,DH,5,5,0.0,0,0,0,0,0,,.000
+2016,Toledo Mud Hens,INT,AAA,RF,2,2,18.0,4,4,0,0,0,,1.000
+2016,Toledo Mud Hens,INT,AAA,DH,6,6,0.0,0,0,0,0,0,,.000
+2017,2 Teams,,Minors,RF,4,4,32.0,8,7,0,1,0,,.875
+2017,2 Teams,,Minors,DH,2,2,0.0,0,0,0,0,0,,.000
+2017,2 Teams,,Minors,RF,4,4,32.0,8,7,0,1,0,,.875
+2017,2 Teams,,Minors,DH,2,2,0.0,0,0,0,0,0,,.000
+2017,2 Teams,,Minors,RF,4,4,32.0,8,7,0,1,0,,.875
+2017,2 Teams,,Minors,DH,2,2,0.0,0,0,0,0,0,,.000
+2017,Lakeland Flying Tigers,FSL,A(Adv),RF,1,1,7.0,3,3,0,0,0,,1.000
+2017,Lakeland Flying Tigers,FSL,A(Adv),DH,1,1,0.0,0,0,0,0,0,,.000
+2017,Toledo Mud Hens,INT,AAA,RF,3,3,25.0,5,4,0,1,0,,.800
+2017,Toledo Mud Hens,INT,AAA,DH,1,1,0.0,0,0,0,0,0,,.000
+,Greeneville Flyboys,APP,ROK,1B,1,1,9.0,12,10,1,1,1,,.917
+,Greeneville Flyboys,APP,ROK,LF,8,7,67.0,13,12,1,0,0,,1.000
+,Greeneville Flyboys,APP,ROK,DH,10,10,0.0,0,0,0,0,0,,.000
+,2 Teams,,AAA,LF,31,31,254.2,43,41,2,0,0,,1.000
+,2 Teams,,AAA,DH,16,16,0.0,0,0,0,0,0,,.000
+,Toledo Mud Hens,INT,AAA,RF,5,5,43.0,9,8,0,1,0,,.889
+,Corpus Christi Hooks,TEX,AA,LF,89,89,773.0,157,148,6,3,2,,.981
+,Corpus Christi Hooks,TEX,AA,RF,29,29,258.1,45,41,1,3,0,,.933
+,Corpus Christi Hooks,TEX,AA,DH,21,21,0.0,0,0,0,0,0,,.000
+,Lakeland Flying Tigers,FSL,A+,RF,1,1,7.0,3,3,0,0,0,,1.000
+,Lakeland Flying Tigers,FSL,A+,DH,1,1,0.0,0,0,0,0,0,,.000
+,Lexington Legends,ALPB,A,RF,65,65,568.1,126,114,9,3,0,,.976
+,Lexington Legends,ALPB,A,DH,23,23,0.0,0,0,0,0,0,,.000
+,Tri-City ValleyCats,NYP,A(Short),1B,1,1,9.0,10,9,1,0,0,,1.000
+,Tri-City ValleyCats,NYP,A(Short),LF,22,22,175.0,48,43,3,2,1,,.958
+,Tri-City ValleyCats,NYP,A(Short),DH,29,28,0.0,0,0,0,0,0,,.000
+,2 Teams,,Minors,1B,2,2,18.0,22,19,2,1,1,,.955
+,3 Teams,,Minors,LF,119,118,1015.0,218,203,10,5,3,,.977
+,4 Teams,,Minors,RF,100,100,876.2,183,166,10,7,0,,.962
+,5 Teams,,Minors,DH,84,83,0.0,0,0,0,0,0,,.000
+,2 Teams,,Minors,1B,2,2,18.0,22,19,2,1,1,,.955
+,3 Teams,,Minors,LF,119,118,1015.0,218,203,10,5,3,,.977
+,4 Teams,,Minors,RF,100,100,876.2,183,166,10,7,0,,.962
+,5 Teams,,Minors,DH,84,83,0.0,0,0,0,0,0,,.000
+,2 Teams,,Minors,1B,2,2,18.0,22,19,2,1,1,,.955
+,3 Teams,,Minors,LF,119,118,1015.0,218,203,10,5,3,,.977
+,4 Teams,,Minors,RF,100,100,876.2,183,166,10,7,0,,.962
+Career Minors,5 Teams,,,DH,84,83,0.0,0,0,0,0,0,,.000

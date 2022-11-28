@@ -1,0 +1,13 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Kansas City Royals,MLB,Home Games,106,90,9,18,8,0,2,12,16,14,0,0,0,.200,.321,.356,.677
+Seattle Mariners,MLB,Home Games,159,139,20,28,3,0,8,20,17,38,0,0,2,.201,.296,.396,.692
+Seattle Mariners,MLB,Away Games,135,116,15,21,5,0,7,19,18,22,0,0,0,.181,.289,.405,.694
+Kansas City Royals,MLB,Away Games,106,86,8,20,2,0,2,9,20,14,0,0,0,.233,.377,.326,.703
+Kansas City Royals,MLB,Day Games,101,80,8,16,8,0,0,7,21,13,0,0,0,.200,.366,.300,.666
+Seattle Mariners,MLB,Day Games,135,119,20,25,2,0,9,21,15,22,0,0,1,.210,.304,.454,.758
+Seattle Mariners,MLB,Night Games,159,136,15,24,6,0,6,18,20,38,0,0,1,.176,.283,.353,.636
+Kansas City Royals,MLB,Night Games,111,96,9,22,2,0,4,14,15,15,0,0,0,.229,.333,.375,.708
+Kansas City Royals,MLB,Leading Off,61,55,,6,2,0,1,1,6,10,,,0,.109,.197,.200,.397
+Seattle Mariners,MLB,Leading Off,69,66,,14,3,0,3,4,3,14,,,0,.212,.246,.394,.640
+Kansas City Royals,MLB,Late / Close,25,20,,2,0,0,0,1,5,8,,,0,.100,.280,.100,.380
+Seattle Mariners,MLB,Late / Close,44,36,,7,0,0,3,9,7,8,,,0,.194,.318,.444,.762

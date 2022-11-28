@@ -1,0 +1,62 @@
+Season,Tm,LG,L,POS,G,GS,INN,TC,PO,A,E,DP,RF,FPCT%
+2016,2 Teams,,Minors,DH,2,2,0.0,0,0,0,0,0,,.000
+2016,2 Teams,,Minors,3B,8,8,72.0,21,2,17,2,1,,.905
+2016,2 Teams,,Minors,DH,2,2,0.0,0,0,0,0,0,,.000
+2016,2 Teams,,Minors,3B,8,8,72.0,21,2,17,2,1,,.905
+2016,3 Teams,,Minors,C,39,39,332.2,342,296,44,2,3,,.994
+2016,3 Teams,,Minors,2B,6,6,51.0,26,9,15,2,2,,.923
+2016,3 Teams,,Minors,C,39,39,332.2,342,296,44,2,3,,.994
+2016,3 Teams,,Minors,2B,6,6,51.0,26,9,15,2,2,,.923
+2016,Ogden Raptors,PIO,ROK,C,5,5,42.1,45,36,9,0,0,,1.000
+2016,Ogden Raptors,PIO,ROK,2B,1,1,9.0,7,3,3,1,1,,.857
+2016,Ogden Raptors,PIO,ROK,DH,1,1,0.0,0,0,0,0,0,,.000
+2016,Great Lakes Loons,MID,A(Full),C,18,18,150.1,165,145,18,2,0,,.988
+2016,Great Lakes Loons,MID,A(Full),2B,3,3,25.0,11,4,6,1,1,,.909
+2016,Great Lakes Loons,MID,A(Full),3B,2,2,18.0,8,0,6,2,0,,.750
+2016,Rancho Cucamonga Quakes,CAL,A(Adv),C,16,16,140.0,132,115,17,0,3,,1.000
+2016,Rancho Cucamonga Quakes,CAL,A(Adv),2B,2,2,17.0,8,2,6,0,0,,1.000
+2016,Rancho Cucamonga Quakes,CAL,A(Adv),3B,6,6,54.0,13,2,11,0,1,,1.000
+2016,Rancho Cucamonga Quakes,CAL,A(Adv),DH,1,1,0.0,0,0,0,0,0,,.000
+2017,2 Teams,,Minors,C,56,54,474.0,554,483,66,5,4,,.991
+2017,2 Teams,,Minors,C,56,54,474.0,554,483,66,5,4,,.991
+2017,Rancho Cucamonga Quakes,CAL,A(Adv),C,55,53,467.0,547,476,66,5,4,,.991
+2017,Rancho Cucamonga Quakes,CAL,A(Adv),2B,5,5,45.0,19,6,12,1,4,,.947
+2017,Rancho Cucamonga Quakes,CAL,A(Adv),3B,6,6,51.0,5,0,3,2,0,,.600
+2017,Rancho Cucamonga Quakes,CAL,A(Adv),DH,5,5,0.0,0,0,0,0,0,,.000
+2017,Tulsa Drillers,TEX,AA,C,1,1,7.0,7,7,0,0,0,,1.000
+2018,2 Teams,,Minors,C,49,49,402.1,396,362,32,2,3,,.995
+2018,2 Teams,,Minors,3B,43,39,354.1,102,25,67,10,9,,.902
+2018,2 Teams,,Minors,C,49,49,402.1,396,362,32,2,3,,.995
+2018,2 Teams,,Minors,3B,43,39,354.1,102,25,67,10,9,,.902
+2018,Tulsa Drillers,TEX,AA,C,33,33,271.1,271,244,25,2,2,,.993
+2018,Tulsa Drillers,TEX,AA,3B,33,30,273.2,75,16,50,9,7,,.880
+2018,Tulsa Drillers,TEX,AA,DH,8,8,0.0,0,0,0,0,0,,.000
+2018,Oklahoma City Dodgers,PCL,AAA,C,16,16,131.0,125,118,7,0,1,,1.000
+2018,Oklahoma City Dodgers,PCL,AAA,3B,10,9,80.2,27,9,17,1,2,,.963
+2019,Oklahoma City Dodgers,PCL,AAA,C,52,52,427.0,543,509,29,5,1,,.991
+2019,Oklahoma City Dodgers,PCL,AAA,3B,1,1,9.0,1,1,0,0,0,,1.000
+2019,Oklahoma City Dodgers,PCL,AAA,DH,8,8,0.0,0,0,0,0,0,,.000
+,Ogden Raptors,PIO,ROK,C,5,5,42.1,45,36,9,0,0,,1.000
+,Ogden Raptors,PIO,ROK,2B,1,1,9.0,7,3,3,1,1,,.857
+,Ogden Raptors,PIO,ROK,DH,1,1,0.0,0,0,0,0,0,,.000
+,Oklahoma City Dodgers,PCL,AAA,C,68,68,558.0,668,627,36,5,2,,.993
+,Oklahoma City Dodgers,PCL,AAA,3B,11,10,89.2,28,10,17,1,2,,.964
+,Oklahoma City Dodgers,PCL,AAA,DH,8,8,0.0,0,0,0,0,0,,.000
+,Tulsa Drillers,TEX,AA,C,34,34,278.1,278,251,25,2,2,,.993
+,Tulsa Drillers,TEX,AA,3B,33,30,273.2,75,16,50,9,7,,.880
+,Tulsa Drillers,TEX,AA,DH,8,8,0.0,0,0,0,0,0,,.000
+,Rancho Cucamonga Quakes,CAL,A+,C,71,69,607.0,679,591,83,5,7,,.993
+,Rancho Cucamonga Quakes,CAL,A+,2B,7,7,62.0,27,8,18,1,4,,.963
+,Rancho Cucamonga Quakes,CAL,A+,3B,12,12,105.0,18,2,14,2,1,,.889
+,Rancho Cucamonga Quakes,CAL,A+,DH,6,6,0.0,0,0,0,0,0,,.000
+,Great Lakes Loons,MID,A,C,18,18,150.1,165,145,18,2,0,,.988
+,Great Lakes Loons,MID,A,2B,3,3,25.0,11,4,6,1,1,,.909
+,Great Lakes Loons,MID,A,3B,2,2,18.0,8,0,6,2,0,,.750
+,5 Teams,,Minors,C,196,194,1636.0,1835,1650,171,14,11,,.992
+,3 Teams,,Minors,2B,11,11,96.0,45,15,27,3,6,,.933
+,4 Teams,,Minors,3B,58,54,486.1,129,28,87,14,10,,.891
+,4 Teams,,Minors,DH,23,23,0.0,0,0,0,0,0,,.000
+,5 Teams,,Minors,C,196,194,1636.0,1835,1650,171,14,11,,.992
+,3 Teams,,Minors,2B,11,11,96.0,45,15,27,3,6,,.933
+,4 Teams,,Minors,3B,58,54,486.1,129,28,87,14,10,,.891
+Career Minors,4 Teams,,,DH,23,23,0.0,0,0,0,0,0,,.000

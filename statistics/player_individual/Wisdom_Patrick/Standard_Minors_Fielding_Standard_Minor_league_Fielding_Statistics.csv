@@ -1,0 +1,61 @@
+Season,Tm,LG,L,POS,G,GS,INN,TC,PO,A,E,DP,RF,FPCT%
+2012,Batavia Muckdogs,NYP,A(Short),3B,58,58,514.0,159,42,112,5,15,,.969
+2012,Batavia Muckdogs,NYP,A(Short),DH,7,7,0.0,0,0,0,0,0,,.000
+2013,2 Teams,,Minors,3B,87,87,754.1,241,67,155,19,18,,.921
+2013,2 Teams,,Minors,DH,15,13,0.0,0,0,0,0,0,,.000
+2013,Peoria Chiefs,MID,A(Full),1B,28,26,229.0,266,249,15,2,21,,.992
+2013,Peoria Chiefs,MID,A(Full),3B,63,63,550.1,184,49,119,16,13,,.913
+2013,Peoria Chiefs,MID,A(Full),DH,14,12,0.0,0,0,0,0,0,,.000
+2013,Palm Beach Cardinals,FSL,A(Adv),3B,24,24,204.0,57,18,36,3,5,,.947
+2013,Palm Beach Cardinals,FSL,A(Adv),DH,1,1,0.0,0,0,0,0,0,,.000
+2014,Springfield Cardinals,TEX,AA,3B,125,122,1069.2,362,77,259,26,21,,.928
+2014,Springfield Cardinals,TEX,AA,DH,1,1,0.0,0,0,0,0,0,,.000
+2015,Springfield Cardinals,TEX,AA,1B,3,3,28.0,25,22,2,1,5,,.960
+2015,Springfield Cardinals,TEX,AA,3B,107,106,923.1,286,75,194,17,12,,.941
+2015,Springfield Cardinals,TEX,AA,DH,4,4,0.0,0,0,0,0,0,,.000
+2016,2 Teams,,Minors,3B,68,65,548.2,178,41,128,9,6,,.949
+2016,GCL Cardinals,GCL,ROK,3B,3,3,17.0,9,4,5,0,1,,1.000
+2016,Memphis Redbirds,PCL,AAA,1B,4,4,29.0,40,39,1,0,3,,1.000
+2016,Memphis Redbirds,PCL,AAA,3B,65,62,531.2,169,37,123,9,5,,.947
+2016,Memphis Redbirds,PCL,AAA,SS,3,3,26.0,12,5,5,2,0,,.833
+2016,Memphis Redbirds,PCL,AAA,DH,1,1,0.0,0,0,0,0,0,,.000
+2017,Memphis Redbirds,PCL,AAA,1B,8,6,62.0,70,65,5,0,12,,1.000
+2017,Memphis Redbirds,PCL,AAA,3B,113,111,975.0,269,73,181,15,26,,.944
+2017,Memphis Redbirds,PCL,AAA,DH,5,5,0.0,0,0,0,0,0,,.000
+2018,Memphis Redbirds,PCL,AAA,1B,7,6,57.0,50,46,3,1,8,,.980
+2018,Memphis Redbirds,PCL,AAA,3B,93,87,768.1,199,53,135,11,10,,.945
+2018,Memphis Redbirds,PCL,AAA,DH,7,6,0.0,0,0,0,0,0,,.000
+2019,Nashville Sounds,PCL,AAA,1B,14,14,122.2,106,102,4,0,9,,1.000
+2019,Nashville Sounds,PCL,AAA,3B,56,56,493.2,179,51,113,15,10,,.916
+2019,Nashville Sounds,PCL,AAA,LF,16,16,144.1,24,20,2,2,0,,.917
+2019,Nashville Sounds,PCL,AAA,CF,1,1,9.0,1,1,0,0,0,,1.000
+2019,Nashville Sounds,PCL,AAA,RF,8,7,71.0,19,17,2,0,0,,1.000
+2019,Nashville Sounds,PCL,AAA,DH,12,11,0.0,0,0,0,0,0,,.000
+2021,Iowa Cubs,INT,AAA,1B,4,4,33.0,33,30,3,0,2,,1.000
+2021,Iowa Cubs,INT,AAA,3B,3,2,20.0,5,4,1,0,0,,1.000
+2021,Iowa Cubs,INT,AAA,LF,1,1,9.0,2,2,0,0,0,,1.000
+2021,Iowa Cubs,INT,AAA,DH,1,1,0.0,0,0,0,0,0,,.000
+,FCL Cardinals,GCL,ROK,3B,3,3,17.0,9,4,5,0,1,,1.000
+,3 Teams,,AAA,1B,37,34,303.2,299,282,16,1,34,,.997
+,3 Teams,,AAA,3B,330,318,2788.2,821,218,553,50,51,,.939
+,Memphis Redbirds,INT,AAA,SS,3,3,26.0,12,5,5,2,0,,.833
+,3 Teams,,AAA,DH,26,24,0.0,0,0,0,0,0,,.000
+,2 Teams,,AAA,LF,17,17,153.1,26,22,2,2,0,,.923
+,Nashville Sounds,INT,AAA,CF,1,1,9.0,1,1,0,0,0,,1.000
+,Nashville Sounds,INT,AAA,RF,8,7,71.0,19,17,2,0,0,,1.000
+,Springfield Cardinals,TEX,AA,1B,3,3,28.0,25,22,2,1,5,,.960
+,Springfield Cardinals,TEX,AA,3B,232,228,1993.0,648,152,453,43,33,,.934
+,Springfield Cardinals,TEX,AA,DH,5,5,0.0,0,0,0,0,0,,.000
+,Palm Beach Cardinals,FSL,A+,3B,24,24,204.0,57,18,36,3,5,,.947
+,Palm Beach Cardinals,FSL,A+,DH,1,1,0.0,0,0,0,0,0,,.000
+,Peoria Chiefs,MID,A,1B,28,26,229.0,266,249,15,2,21,,.992
+,Peoria Chiefs,MID,A,3B,63,63,550.1,184,49,119,16,13,,.913
+,Peoria Chiefs,MID,A,DH,14,12,0.0,0,0,0,0,0,,.000
+,Batavia Muckdogs,NYP,A(Short),3B,58,58,514.0,159,42,112,5,15,,.969
+,Batavia Muckdogs,NYP,A(Short),DH,7,7,0.0,0,0,0,0,0,,.000
+,2 Teams,,Minors,1B,31,29,257.0,291,271,17,3,26,,.990
+,5 Teams,,Minors,3B,380,376,3278.1,1057,265,725,67,67,,.937
+,1 Teams,,Minors,SS,3,3,26.0,12,5,5,2,0,,.833
+,1 Teams,,Minors,CF,1,1,9.0,1,1,0,0,0,,1.000
+,1 Teams,,Minors,RF,8,7,71.0,19,17,2,0,0,,1.000
+Career Minors,4 Teams,,,DH,27,25,0.0,0,0,0,0,0,,.000

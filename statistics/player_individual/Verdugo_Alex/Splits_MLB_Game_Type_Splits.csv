@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Boston Red Sox,MLB,Home Games,312,290,38,76,18,1,5,32,19,43,0,2,1,.262,.308,.383,.691
+Boston Red Sox,MLB,Away Games,332,303,37,90,21,0,6,42,23,43,1,1,2,.297,.346,.426,.772
+Boston Red Sox,MLB,Day Games,190,174,17,48,7,0,4,17,13,25,0,2,1,.276,.326,.385,.711
+Boston Red Sox,MLB,Night Games,454,419,58,118,32,1,7,57,29,61,1,1,2,.282,.328,.413,.741
+Boston Red Sox,MLB,Leading Off,154,140,,46,12,0,3,3,14,22,,,0,.329,.390,.479,.869
+Boston Red Sox,MLB,Late / Close,74,66,,15,2,0,0,9,5,15,,,1,.227,.284,.258,.542

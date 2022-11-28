@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Kansas City Royals,MLB,Bases Empty,356,338,,83,14,4,13,13,18,82,,,0,.246,.284,.426,.710
+Kansas City Royals,MLB,Bases Loaded,8,8,,0,0,0,0,0,0,1,,,0,.000,.000,.000,.000
+Kansas City Royals,MLB,Runner at 1st,135,126,,26,6,0,4,11,4,23,,,5,.206,.259,.349,.608
+Kansas City Royals,MLB,Runners at 1st & 2nd,36,35,,8,3,0,1,9,1,14,,,0,.229,.250,.400,.650
+Kansas City Royals,MLB,Runners at 1st & 3rd,25,19,,7,2,2,0,16,2,4,,,0,.368,.360,.684,1.044
+Kansas City Royals,MLB,Runner at 2nd,44,40,,13,5,0,0,10,3,5,,,1,.325,.386,.450,.836
+Kansas City Royals,MLB,Runners at 2nd & 3rd,13,12,,6,0,0,2,12,1,3,,,0,.500,.538,1.000,1.538
+Kansas City Royals,MLB,Runner at 3rd,15,13,,7,1,0,0,9,1,3,,,0,.538,.533,.615,1.148
+Kansas City Royals,MLB,Scoring Position,141,127,,41,11,2,3,56,8,30,,,1,.323,.355,.512,.867

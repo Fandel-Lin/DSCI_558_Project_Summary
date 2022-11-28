@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Toronto Blue Jays,MLB,Bases Empty,393,373,,103,24,0,17,17,19,71,,,1,.276,.313,.477,.790
+Toronto Blue Jays,MLB,Bases Loaded,10,9,,2,0,0,0,5,1,1,,,0,.222,.300,.222,.522
+Toronto Blue Jays,MLB,Runner at 1st,141,119,,33,3,0,10,21,20,20,,,2,.277,.390,.555,.945
+Toronto Blue Jays,MLB,Runners at 1st & 2nd,45,43,,13,2,0,2,15,2,7,,,0,.302,.333,.488,.821
+Toronto Blue Jays,MLB,Runners at 1st & 3rd,26,23,,5,0,0,2,14,0,2,,,1,.217,.231,.478,.709
+Toronto Blue Jays,MLB,Runner at 2nd,57,48,,13,5,0,1,12,9,12,,,0,.271,.386,.438,.824
+Toronto Blue Jays,MLB,Runners at 2nd & 3rd,15,10,,2,1,0,0,7,3,2,,,1,.200,.400,.300,.700
+Toronto Blue Jays,MLB,Runner at 3rd,19,13,,4,0,0,0,6,4,1,,,1,.308,.474,.308,.782
+Toronto Blue Jays,MLB,Scoring Position,172,146,,39,8,0,5,59,19,25,,,3,.267,.355,.425,.780

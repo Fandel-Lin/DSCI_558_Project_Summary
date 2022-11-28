@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Seattle Mariners,MLB,Home Games,262,239,39,68,14,2,15,38,20,66,10,2,2,.285,.344,.548,.892
+Seattle Mariners,MLB,Away Games,298,272,45,77,11,1,13,37,20,79,15,5,6,.283,.346,.474,.820
+Seattle Mariners,MLB,Day Games,204,186,30,57,7,1,13,31,14,45,16,3,3,.306,.363,.565,.928
+Seattle Mariners,MLB,Night Games,356,325,54,88,18,2,15,44,26,100,9,4,5,.271,.334,.477,.811
+Seattle Mariners,MLB,Leading Off,158,145,,49,5,2,9,9,11,32,,,2,.338,.392,.586,.978
+Seattle Mariners,MLB,Late / Close,66,59,,19,3,0,5,15,7,20,,,0,.322,.394,.627,1.021

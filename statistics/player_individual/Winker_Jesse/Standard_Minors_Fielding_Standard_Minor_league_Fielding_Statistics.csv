@@ -1,0 +1,52 @@
+Season,Tm,LG,L,POS,G,GS,INN,TC,PO,A,E,DP,RF,FPCT%
+2012,Billings Mustangs,PIO,ROK,LF,34,34,287.2,57,53,2,2,0,,.965
+2012,Billings Mustangs,PIO,ROK,RF,19,19,161.2,23,21,0,2,0,,.913
+2012,Billings Mustangs,PIO,ROK,DH,8,8,0.0,0,0,0,0,0,,.000
+2013,Dayton Dragons,MID,A(Full),LF,100,100,871.0,154,143,9,2,1,,.987
+2013,Dayton Dragons,MID,A(Full),RF,1,1,9.0,1,1,0,0,0,,1.000
+2013,Dayton Dragons,MID,A(Full),DH,11,11,0.0,0,0,0,0,0,,.000
+2014,2 Teams,,Minors,DH,5,5,0.0,0,0,0,0,0,,.000
+2014,2 Teams,,Minors,LF,68,68,599.2,112,104,6,2,0,,.982
+2014,2 Teams,,Minors,DH,5,5,0.0,0,0,0,0,0,,.000
+2014,2 Teams,,Minors,LF,68,68,599.2,112,104,6,2,0,,.982
+2014,Bakersfield Blaze,CAL,A(Adv),LF,48,48,418.1,72,66,4,2,0,,.972
+2014,Bakersfield Blaze,CAL,A(Adv),DH,4,4,0.0,0,0,0,0,0,,.000
+2014,Pensacola Blue Wahoos,SOU,AA,LF,20,20,181.1,40,38,2,0,0,,1.000
+2014,Pensacola Blue Wahoos,SOU,AA,DH,1,1,0.0,0,0,0,0,0,,.000
+2015,Pensacola Blue Wahoos,SOU,AA,LF,83,83,702.2,137,126,11,0,2,,1.000
+2015,Pensacola Blue Wahoos,SOU,AA,RF,40,36,313.1,63,57,4,2,0,,.968
+2015,Pensacola Blue Wahoos,SOU,AA,DH,1,1,0.0,0,0,0,0,0,,.000
+2016,2 Teams,,Minors,LF,50,50,422.1,81,79,2,0,0,,1.000
+2016,2 Teams,,Minors,LF,50,50,422.1,81,79,2,0,0,,1.000
+2016,AZL Reds,AZL,ROK,LF,4,4,26.0,4,4,0,0,0,,1.000
+2016,Louisville Bats,INT,AAA,LF,46,46,396.1,77,75,2,0,0,,1.000
+2016,Louisville Bats,INT,AAA,RF,52,52,454.0,110,105,4,1,0,,.991
+2016,Louisville Bats,INT,AAA,DH,8,8,0.0,0,0,0,0,0,,.000
+2017,Louisville Bats,INT,AAA,LF,3,3,26.0,6,6,0,0,0,,1.000
+2017,Louisville Bats,INT,AAA,CF,2,2,16.0,3,3,0,0,0,,1.000
+2017,Louisville Bats,INT,AAA,RF,70,68,587.1,135,131,3,1,2,,.993
+2017,Louisville Bats,INT,AAA,DH,6,6,0.0,0,0,0,0,0,,.000
+2021,Louisville Bats,INT,AAA,LF,2,2,8.0,1,1,0,0,0,,1.000
+,2 Teams,,ROK,LF,38,38,313.2,61,57,2,2,0,,.967
+,Billings Mustangs,PIO,ROK,RF,19,19,161.2,23,21,0,2,0,,.913
+,Billings Mustangs,PIO,ROK,DH,8,8,0.0,0,0,0,0,0,,.000
+,Louisville Bats,INT,AAA,LF,51,51,430.1,84,82,2,0,0,,1.000
+,Louisville Bats,INT,AAA,CF,2,2,16.0,3,3,0,0,0,,1.000
+,Louisville Bats,INT,AAA,RF,122,120,1041.1,245,236,7,2,2,,.992
+,Louisville Bats,INT,AAA,DH,14,14,0.0,0,0,0,0,0,,.000
+,Pensacola Blue Wahoos,SOU,AA,LF,103,103,884.0,177,164,13,0,2,,1.000
+,Pensacola Blue Wahoos,SOU,AA,RF,40,36,313.1,63,57,4,2,0,,.968
+,Pensacola Blue Wahoos,SOU,AA,DH,2,2,0.0,0,0,0,0,0,,.000
+,Bakersfield Blaze,CAL,A+,LF,48,48,418.1,72,66,4,2,0,,.972
+,Bakersfield Blaze,CAL,A+,DH,4,4,0.0,0,0,0,0,0,,.000
+,Dayton Dragons,MID,A,LF,100,100,871.0,154,143,9,2,1,,.987
+,Dayton Dragons,MID,A,RF,1,1,9.0,1,1,0,0,0,,1.000
+,Dayton Dragons,MID,A,DH,11,11,0.0,0,0,0,0,0,,.000
+,4 Teams,,Minors,LF,302,302,2603.2,487,455,28,4,3,,.992
+,1 Teams,,Minors,CF,2,2,16.0,3,3,0,0,0,,1.000
+,4 Teams,,Minors,RF,182,176,1525.1,332,315,11,6,2,,.982
+,5 Teams,,Minors,DH,39,39,0.0,0,0,0,0,0,,.000
+,4 Teams,,Minors,LF,302,302,2603.2,487,455,28,4,3,,.992
+,1 Teams,,Minors,CF,2,2,16.0,3,3,0,0,0,,1.000
+,4 Teams,,Minors,RF,182,176,1525.1,332,315,11,6,2,,.982
+Career Minors,5 Teams,,,DH,39,39,0.0,0,0,0,0,0,,.000

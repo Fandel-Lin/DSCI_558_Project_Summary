@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Minnesota Twins,MLB,Batting First,4,4,,1,0,0,0,0,0,0,,,0,.250,.250,.250,.500
+Minnesota Twins,MLB,Batting Second,5,4,,2,0,0,0,0,1,0,,,0,.500,.600,.500,1.100
+Minnesota Twins,MLB,Batting Third,38,36,,12,1,0,0,4,2,7,,,0,.333,.368,.361,.729
+Minnesota Twins,MLB,Batting Fourth,104,90,,23,5,0,2,10,12,16,,,1,.256,.346,.378,.724
+Minnesota Twins,MLB,Batting Fifth,134,124,,33,5,1,2,10,7,26,,,1,.266,.306,.371,.677
+Minnesota Twins,MLB,Batting Sixth,138,126,,37,9,2,7,25,10,25,,,0,.294,.341,.563,.904
+Minnesota Twins,MLB,Batting Seventh,45,41,,17,1,0,1,6,4,5,,,0,.415,.467,.512,.979
+Minnesota Twins,MLB,Batting Eighth,75,69,,15,6,0,1,9,4,16,,,0,.217,.253,.348,.601
+Minnesota Twins,MLB,Batting Ninth,8,7,,3,0,0,0,0,1,1,,,0,.429,.500,.429,.929

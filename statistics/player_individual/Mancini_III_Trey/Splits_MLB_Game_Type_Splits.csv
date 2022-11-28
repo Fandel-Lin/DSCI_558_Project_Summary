@@ -1,0 +1,13 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Houston Astros,MLB,Home Games,103,90,11,18,4,0,5,14,12,29,0,0,0,.200,.291,.411,.702
+Baltimore Orioles,MLB,Home Games,191,173,22,50,7,0,5,21,13,37,0,0,3,.289,.346,.416,.762
+Houston Astros,MLB,Away Games,83,75,6,11,3,0,3,8,6,20,0,0,1,.147,.217,.307,.524
+Baltimore Orioles,MLB,Away Games,210,181,17,45,9,1,5,20,22,49,0,0,6,.249,.348,.392,.740
+Houston Astros,MLB,Day Games,55,49,4,8,2,0,3,7,5,14,0,0,1,.163,.255,.388,.643
+Baltimore Orioles,MLB,Day Games,163,144,16,36,5,0,5,15,14,34,0,0,5,.250,.337,.389,.726
+Houston Astros,MLB,Night Games,131,116,13,21,5,0,5,15,13,35,0,0,0,.181,.260,.353,.613
+Baltimore Orioles,MLB,Night Games,238,210,23,59,11,1,5,26,21,52,0,0,4,.281,.353,.414,.767
+Houston Astros,MLB,Leading Off,52,47,,6,0,0,0,0,4,12,,,1,.128,.212,.128,.340
+Baltimore Orioles,MLB,Leading Off,71,62,,19,3,0,3,3,8,14,,,1,.306,.394,.500,.894
+Houston Astros,MLB,Late / Close,20,18,,4,1,0,0,0,2,4,,,0,.222,.300,.278,.578
+Baltimore Orioles,MLB,Late / Close,49,42,,12,1,0,1,7,4,11,,,1,.286,.347,.381,.728

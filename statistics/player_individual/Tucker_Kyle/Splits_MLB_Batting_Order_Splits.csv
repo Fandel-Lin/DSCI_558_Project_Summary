@@ -1,0 +1,9 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Houston Astros,MLB,Batting First,1,1,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+Houston Astros,MLB,Batting Second,5,4,,1,0,0,0,0,1,1,,,0,.250,.400,.250,.650
+Houston Astros,MLB,Batting Third,46,43,,10,1,0,1,2,3,17,,,0,.233,.283,.326,.609
+Houston Astros,MLB,Batting Fourth,74,66,,14,3,0,2,7,6,10,,,0,.212,.278,.348,.626
+Houston Astros,MLB,Batting Fifth,336,302,,78,17,1,18,70,31,41,,,1,.258,.328,.500,.828
+Houston Astros,MLB,Batting Sixth,145,127,,36,7,0,8,26,17,26,,,0,.283,.366,.528,.894
+Houston Astros,MLB,Batting Seventh,1,0,,0,0,0,0,0,1,0,,,0,.000,1.000,.000,1.000
+Houston Astros,MLB,Batting Eighth,1,1,,1,0,0,1,2,0,0,,,0,1.000,1.000,4.000,5.000

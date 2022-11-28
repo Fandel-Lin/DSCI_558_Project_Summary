@@ -1,0 +1,27 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Harrisburg Senators,Double-A,Bases Empty,11,9,,0,0,0,0,0,2,4,,,0,.000,.182,.000,.182
+Potomac Nationals,Class A Advanced,Bases Empty,33,26,,13,2,1,3,3,7,5,,,0,.500,.606,1.000,1.606
+Hagerstown Suns,Class A,Bases Empty,37,29,,9,1,1,1,1,8,5,,,0,.310,.459,.517,.976
+Harrisburg Senators,Double-A,Bases Loaded,1,1,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+Potomac Nationals,Class A Advanced,Bases Loaded,1,1,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+Hagerstown Suns,Class A,Bases Loaded,5,5,,1,0,1,0,3,0,2,,,0,.200,.200,.600,.800
+Harrisburg Senators,Double-A,Runner at 1st,9,9,,4,1,0,0,1,0,2,,,0,.444,.444,.556,1.000
+Potomac Nationals,Class A Advanced,Runner at 1st,20,18,,3,1,0,1,3,2,2,,,0,.167,.250,.389,.639
+Hagerstown Suns,Class A,Runner at 1st,12,9,,3,1,0,1,3,3,3,,,0,.333,.500,.778,1.278
+Harrisburg Senators,Double-A,Runners at 1st & 2nd,4,4,,3,1,0,0,4,0,0,,,0,.750,.750,1.000,1.750
+Potomac Nationals,Class A Advanced,Runners at 1st & 2nd,7,7,,3,0,0,2,6,0,0,,,0,.429,.429,1.286,1.715
+Hagerstown Suns,Class A,Runners at 1st & 2nd,4,3,,2,1,0,1,5,1,0,,,0,.667,.750,2.000,2.750
+Potomac Nationals,Class A Advanced,Runners at 1st & 3rd,3,3,,0,0,0,0,2,0,0,,,0,.000,.000,.000,.000
+Hagerstown Suns,Class A,Runners at 1st & 3rd,6,6,,2,1,0,0,2,0,2,,,0,.333,.333,.500,.833
+Harrisburg Senators,Double-A,Runner at 2nd,6,4,,1,0,0,1,2,2,0,,,0,.250,.500,1.000,1.500
+Potomac Nationals,Class A Advanced,Runner at 2nd,7,6,,4,0,0,1,4,1,0,,,0,.667,.714,1.167,1.881
+Hagerstown Suns,Class A,Runner at 2nd,5,3,,3,0,1,2,5,2,0,,,0,1.000,1.000,3.667,4.667
+Harrisburg Senators,Double-A,Runners at 2nd & 3rd,1,1,,1,0,0,0,1,0,0,,,0,1.000,1.000,1.000,2.000
+Potomac Nationals,Class A Advanced,Runners at 2nd & 3rd,1,0,,0,0,0,0,0,1,0,,,0,.000,1.000,.000,1.000
+Hagerstown Suns,Class A,Runners at 2nd & 3rd,4,3,,2,1,0,0,5,0,0,,,0,.667,.500,1.000,1.500
+Harrisburg Senators,Double-A,Runner at 3rd,3,3,,1,0,0,1,2,0,1,,,0,.333,.333,1.333,1.666
+Potomac Nationals,Class A Advanced,Runner at 3rd,1,1,,0,0,0,0,0,0,1,,,0,.000,.000,.000,.000
+Hagerstown Suns,Class A,Runner at 3rd,1,1,,0,0,0,0,0,0,1,,,0,.000,.000,.000,.000
+Harrisburg Senators,Double-A,Scoring Position,15,13,,6,1,0,2,9,2,1,,,0,.462,.533,1.000,1.533
+Potomac Nationals,Class A Advanced,Scoring Position,20,18,,7,0,0,3,12,2,1,,,0,.389,.450,.889,1.339
+Hagerstown Suns,Class A,Scoring Position,25,21,,10,3,2,3,20,3,5,,,0,.476,.520,1.238,1.758

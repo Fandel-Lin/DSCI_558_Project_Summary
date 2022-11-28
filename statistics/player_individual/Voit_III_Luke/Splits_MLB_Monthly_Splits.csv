@@ -1,0 +1,12 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+San Diego Padres,MLB,April,54,42,5,6,1,0,0,5,10,17,1,0,1,.143,.315,.167,.482
+San Diego Padres,MLB,May,69,61,10,16,2,0,3,5,8,23,0,0,0,.262,.348,.443,.791
+San Diego Padres,MLB,June,120,109,13,27,10,0,6,23,10,41,0,0,0,.248,.308,.505,.813
+San Diego Padres,MLB,July,97,84,10,18,5,0,4,15,10,28,0,0,1,.214,.299,.417,.716
+San Diego Padres,MLB,August,4,2,0,0,0,0,0,0,1,1,0,1,1,.000,.500,.000,.500
+Washington Nationals,MLB,August,87,78,8,17,0,0,5,9,5,29,0,0,4,.218,.299,.410,.709
+Washington Nationals,MLB,September,114,101,6,26,4,0,3,10,11,30,0,0,0,.257,.325,.386,.711
+Washington Nationals,MLB,October,23,23,3,3,0,0,1,2,0,10,0,0,0,.130,.130,.261,.391
+San Diego Padres,MLB,Pre All-Star,302,264,33,58,15,0,12,40,34,99,1,0,1,.220,.308,.413,.721
+Washington Nationals,MLB,Post All-Star,224,202,17,46,4,0,9,21,16,69,0,0,4,.228,.295,.381,.676
+San Diego Padres,MLB,Post All-Star,42,34,5,9,3,0,1,8,5,11,0,1,2,.265,.381,.441,.822

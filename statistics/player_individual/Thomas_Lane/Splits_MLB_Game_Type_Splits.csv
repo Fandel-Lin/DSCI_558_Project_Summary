@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Washington Nationals,MLB,Home Games,254,232,29,42,10,0,7,14,22,63,1,1,0,.181,.252,.315,.567
+Washington Nationals,MLB,Away Games,294,266,33,78,16,2,10,38,19,69,7,3,4,.293,.344,.481,.825
+Washington Nationals,MLB,Day Games,216,194,27,46,15,0,4,18,18,43,3,2,1,.237,.301,.376,.677
+Washington Nationals,MLB,Night Games,332,304,35,74,11,2,13,34,23,89,5,2,3,.243,.301,.421,.722
+Washington Nationals,MLB,Leading Off,153,138,,29,5,0,6,6,13,32,,,2,.210,.288,.377,.665
+Washington Nationals,MLB,Late / Close,54,48,,13,3,0,2,4,5,16,,,1,.271,.352,.458,.810

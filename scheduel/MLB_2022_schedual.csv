@@ -1,0 +1,623 @@
+,time,match
+0,2022/04/07,Chicago Cubs VS. Milwaukee Brewers
+1,2022/04/07,Atlanta Braves VS. Cincinnati Reds
+2,2022/04/08,New York Yankees VS. Boston Red Sox
+3,2022/04/08,Philadelphia Phillies VS. Oakland Athletics
+4,2022/04/09,Detroit Tigers VS. Chicago White Sox
+5,2022/04/09,Tampa Bay Rays VS. Baltimore Orioles
+6,2022/04/09,New York Yankees VS. Boston Red Sox
+7,2022/04/09,Washington Nationals VS. New York Mets
+8,2022/04/09,Atlanta Braves VS. Cincinnati Reds
+9,2022/04/10,Washington Nationals VS. New York Mets
+10,2022/04/10,Toronto Blue Jays VS. Texas Rangers
+11,2022/04/10,New York Yankees VS. Boston Red Sox
+12,2022/04/11,Philadelphia Phillies VS. New York Mets
+13,2022/04/11,Los Angeles Angels VS. Miami Marlins
+14,2022/04/11,San Francisco Giants VS. San Diego Padres
+15,2022/04/12,Tampa Bay Rays VS. Oakland Athletics
+16,2022/04/12,Philadelphia Phillies VS. New York Mets
+17,2022/04/12,San Francisco Giants VS. San Diego Padres
+18,2022/04/13,Atlanta Braves VS. Washington Nationals
+19,2022/04/13,Cincinnati Reds VS. Cleveland Guardians
+20,2022/04/13,Pittsburgh Pirates VS. Chicago Cubs
+21,2022/04/13,Arizona Diamondbacks VS. Houston Astros
+22,2022/04/13,San Francisco Giants VS. San Diego Padres
+23,2022/04/13,New York Yankees VS. Toronto Blue Jays
+24,2022/04/13,Chicago White Sox VS. Seattle Mariners
+25,2022/04/14,New York Yankees VS. Toronto Blue Jays
+26,2022/04/14,Texas Rangers VS. Los Angeles Angels
+27,2022/04/15,New York Mets VS. Arizona Diamondbacks
+28,2022/04/16,New York Mets VS. Arizona Diamondbacks
+29,2022/04/16,San Diego Padres VS. Atlanta Braves
+30,2022/04/16,Texas Rangers VS. Los Angeles Angels
+31,2022/04/16,Milwaukee Brewers VS. St. Louis Cardinals
+32,2022/04/16,Colorado Rockies VS. Chicago Cubs
+33,2022/04/16,Los Angeles Dodgers VS. Cincinnati Reds
+34,2022/04/17,Baltimore Orioles VS. New York Yankees
+35,2022/04/17,Boston Red Sox VS. Minnesota Twins
+36,2022/04/17,Seattle Mariners VS. Houston Astros
+37,2022/04/17,San Diego Padres VS. Atlanta Braves
+38,2022/04/18,Boston Red Sox VS. Minnesota Twins
+39,2022/04/18,Los Angeles Dodgers VS. Atlanta Braves
+40,2022/04/19,New York Mets VS. San Francisco Giants
+41,2022/04/19,Boston Red Sox VS. Toronto Blue Jays
+42,2022/04/19,Los Angeles Dodgers VS. Atlanta Braves
+43,2022/04/20,Los Angeles Dodgers VS. Atlanta Braves
+44,2022/04/20,Colorado Rockies VS. Philadelphia Phillies
+45,2022/04/20,New York Mets VS. San Francisco Giants
+46,2022/04/20,Boston Red Sox VS. Toronto Blue Jays
+47,2022/04/21,Cleveland Guardians VS. Chicago White Sox
+48,2022/04/21,Detroit Tigers VS. New York Yankees
+49,2022/04/21,Miami Marlins VS. St. Louis Cardinals
+50,2022/04/21,Chicago Cubs VS. Pittsburgh Pirates
+51,2022/04/21,Seattle Mariners VS. Texas Rangers
+52,2022/04/22,Chicago Cubs VS. Pittsburgh Pirates
+53,2022/04/23,New York Yankees VS. Cleveland Guardians
+54,2022/04/23,Washington Nationals VS. San Francisco Giants
+55,2022/04/23,Detroit Tigers VS. Colorado Rockies
+56,2022/04/23,Minnesota Twins VS. Chicago White Sox
+57,2022/04/23,Arizona Diamondbacks VS. New York Mets
+58,2022/04/23,San Diego Padres VS. Los Angeles Dodgers
+59,2022/04/24,Tampa Bay Rays VS. Boston Red Sox
+60,2022/04/24,New York Yankees VS. Cleveland Guardians
+61,2022/04/24,San Diego Padres VS. Los Angeles Dodgers
+62,2022/04/24,Philadelphia Phillies VS. Milwaukee Brewers
+63,2022/04/25,Toronto Blue Jays VS. Boston Red Sox
+64,2022/04/25,St. Louis Cardinals VS. New York Mets
+65,2022/04/26,St. Louis Cardinals VS. New York Mets
+66,2022/04/26,Arizona Diamondbacks VS. Los Angeles Dodgers
+67,2022/04/26,San Francisco Giants VS. Oakland Athletics
+68,2022/04/27,St. Louis Cardinals VS. New York Mets
+69,2022/04/27,New York Yankees VS. Baltimore Orioles
+70,2022/04/27,Toronto Blue Jays VS. Boston Red Sox
+71,2022/04/28,Philadelphia Phillies VS. Colorado Rockies
+72,2022/04/28,Tampa Bay Rays VS. Seattle Mariners
+73,2022/04/28,Atlanta Braves VS. Chicago Cubs
+74,2022/04/28,St. Louis Cardinals VS. Arizona Diamondbacks
+75,2022/04/30,Chicago White Sox VS. Los Angeles Angels
+76,2022/04/30,New York Mets VS. Philadelphia Phillies
+77,2022/05/01,Toronto Blue Jays VS. Houston Astros
+78,2022/05/01,New York Mets VS. Philadelphia Phillies
+79,2022/05/02,New York Mets VS. Atlanta Braves
+80,2022/05/03,New York Mets VS. Atlanta Braves
+81,2022/05/03,Toronto Blue Jays VS. New York Yankees
+82,2022/05/03,Los Angeles Dodgers VS. San Francisco Giants
+83,2022/05/04,New York Mets VS. Atlanta Braves
+84,2022/05/04,Boston Red Sox VS. Los Angeles Angels
+85,2022/05/05,Boston Red Sox VS. Los Angeles Angels
+86,2022/05/05,Colorado Rockies VS. Washington Nationals
+87,2022/05/05,Philadelphia Phillies VS. New York Mets
+88,2022/05/05,San Francisco Giants VS. St. Louis Cardinals
+89,2022/05/07,Cincinnati Reds VS. Pittsburgh Pirates
+90,2022/05/07,Chicago Cubs VS. Los Angeles Dodgers
+91,2022/05/07,Houston Astros VS. Detroit Tigers
+92,2022/05/07,San Francisco Giants VS. St. Louis Cardinals
+93,2022/05/07,Chicago Cubs VS. Los Angeles Dodgers
+94,2022/05/08,Houston Astros VS. Detroit Tigers
+95,2022/05/08,Chicago Cubs VS. Los Angeles Dodgers
+96,2022/05/09,Baltimore Orioles VS. Kansas City Royals
+97,2022/05/09,New York Yankees VS. Texas Rangers
+98,2022/05/09,Chicago White Sox VS. Cleveland Guardians
+99,2022/05/10,Oakland Athletics VS. Detroit Tigers
+100,2022/05/10,Atlanta Braves VS. Boston Red Sox
+101,2022/05/10,San Diego Padres VS. Chicago Cubs
+102,2022/05/11,Cincinnati Reds VS. Milwaukee Brewers
+103,2022/05/11,New York Yankees VS. Toronto Blue Jays
+104,2022/05/11,Seattle Mariners VS. Philadelphia Phillies
+105,2022/05/11,Los Angeles Angels VS. Tampa Bay Rays
+106,2022/05/12,Washington Nationals VS. New York Mets
+107,2022/05/12,Minnesota Twins VS. Houston Astros
+108,2022/05/12,Chicago White Sox VS. New York Yankees
+109,2022/05/14,Atlanta Braves VS. San Diego Padres
+110,2022/05/14,Chicago White Sox VS. New York Yankees
+111,2022/05/14,Los Angeles Dodgers VS. Philadelphia Phillies
+112,2022/05/15,Tampa Bay Rays VS. Toronto Blue Jays
+113,2022/05/15,St. Louis Cardinals VS. San Francisco Giants
+114,2022/05/16,Boston Red Sox VS. Houston Astros
+115,2022/05/17,New York Mets VS. St. Louis Cardinals
+116,2022/05/17,Los Angeles Dodgers VS. Arizona Diamondbacks
+117,2022/05/17,Boston Red Sox VS. Houston Astros
+118,2022/05/17,Los Angeles Dodgers VS. Arizona Diamondbacks
+119,2022/05/18,Milwaukee Brewers VS. Atlanta Braves
+120,2022/05/18,Los Angeles Dodgers VS. Arizona Diamondbacks
+121,2022/05/18,New York Mets VS. St. Louis Cardinals
+122,2022/05/18,Chicago Cubs VS. Pittsburgh Pirates
+123,2022/05/19,Philadelphia Phillies VS. San Diego Padres
+124,2022/05/19,Boston Red Sox VS. Seattle Mariners
+125,2022/05/20,Chicago Cubs VS. Arizona Diamondbacks
+126,2022/05/21,New York Yankees VS. Chicago White Sox
+127,2022/05/21,San Francisco Giants VS. San Diego Padres
+128,2022/05/21,Los Angeles Angels VS. Oakland Athletics
+129,2022/05/22,Philadelphia Phillies VS. Los Angeles Dodgers
+130,2022/05/22,New York Yankees VS. Chicago White Sox
+131,2022/05/23,Washington Nationals VS. Los Angeles Dodgers
+132,2022/05/24,Cincinnati Reds VS. Chicago Cubs
+133,2022/05/24,San Diego Padres VS. Milwaukee Brewers
+134,2022/05/25,Pittsburgh Pirates VS. Colorado Rockies
+135,2022/05/25,Minnesota Twins VS. Detroit Tigers
+136,2022/05/25,San Francisco Giants VS. New York Mets
+137,2022/05/25,New York Yankees VS. Baltimore Orioles
+138,2022/05/25,Atlanta Braves VS. Philadelphia Phillies
+139,2022/05/26,Cincinnati Reds VS. Chicago Cubs
+140,2022/05/26,Tampa Bay Rays VS. New York Yankees
+141,2022/05/26,Los Angeles Angels VS. Toronto Blue Jays
+142,2022/05/28,Boston Red Sox VS. Baltimore Orioles
+143,2022/05/28,Detroit Tigers VS. Cleveland Guardians
+144,2022/05/28,New York Mets VS. Philadelphia Phillies
+145,2022/05/28,Arizona Diamondbacks VS. Los Angeles Dodgers
+146,2022/05/28,Chicago White Sox VS. Chicago Cubs
+147,2022/05/28,Los Angeles Angels VS. Toronto Blue Jays
+148,2022/05/29,Tampa Bay Rays VS. New York Yankees
+149,2022/05/29,New York Mets VS. Philadelphia Phillies
+150,2022/05/30,Chicago Cubs VS. Milwaukee Brewers
+151,2022/05/30,Philadelphia Phillies VS. San Francisco Giants
+152,2022/05/30,New York Mets VS. Washington Nationals
+153,2022/05/30,Chicago Cubs VS. Milwaukee Brewers
+154,2022/05/30,Los Angeles Dodgers VS. Pittsburgh Pirates
+155,2022/05/31,New York Yankees VS. Los Angeles Angels
+156,2022/05/31,Los Angeles Dodgers VS. Pittsburgh Pirates
+157,2022/06/01,Cleveland Guardians VS. Kansas City Royals
+158,2022/06/01,St. Louis Cardinals VS. San Diego Padres
+159,2022/06/02,New York Yankees VS. Los Angeles Angels
+160,2022/06/02,Detroit Tigers VS. Minnesota Twins
+161,2022/06/02,Texas Rangers VS. Tampa Bay Rays
+162,2022/06/02,Baltimore Orioles VS. Seattle Mariners
+163,2022/06/02,New York Yankees VS. Los Angeles Angels
+164,2022/06/03,Chicago Cubs VS. St. Louis Cardinals
+165,2022/06/04,New York Yankees VS. Detroit Tigers
+166,2022/06/04,Chicago Cubs VS. St. Louis Cardinals
+167,2022/06/04,Milwaukee Brewers VS. San Diego Padres
+168,2022/06/04,Philadelphia Phillies VS. Los Angeles Angels
+169,2022/06/04,Chicago Cubs VS. St. Louis Cardinals
+170,2022/06/04,Los Angeles Dodgers VS. New York Mets
+171,2022/06/05,Philadelphia Phillies VS. Los Angeles Angels
+172,2022/06/05,Tampa Bay Rays VS. Chicago White Sox
+173,2022/06/05,Chicago Cubs VS. St. Louis Cardinals
+174,2022/06/06,Los Angeles Angels VS. Boston Red Sox
+175,2022/06/06,San Diego Padres VS. New York Mets
+176,2022/06/07,Chicago White Sox VS. Los Angeles Dodgers
+177,2022/06/07,Chicago White Sox VS. Los Angeles Dodgers
+178,2022/06/08,Pittsburgh Pirates VS. Detroit Tigers
+179,2022/06/08,Kansas City Royals VS. Toronto Blue Jays
+180,2022/06/08,Minnesota Twins VS. New York Yankees
+181,2022/06/08,Los Angeles Angels VS. Boston Red Sox
+182,2022/06/08,San Diego Padres VS. New York Mets
+183,2022/06/09,Chicago White Sox VS. Los Angeles Dodgers
+184,2022/06/09,Milwaukee Brewers VS. Philadelphia Phillies
+185,2022/06/09,Miami Marlins VS. Washington Nationals
+186,2022/06/09,Cleveland Guardians VS. Oakland Athletics
+187,2022/06/09,Minnesota Twins VS. New York Yankees
+188,2022/06/09,Los Angeles Angels VS. Boston Red Sox
+189,2022/06/11,Cleveland Guardians VS. Oakland Athletics
+190,2022/06/11,New York Yankees VS. Chicago Cubs
+191,2022/06/11,San Francisco Giants VS. Los Angeles Dodgers
+192,2022/06/11,Los Angeles Angels VS. New York Mets
+193,2022/06/11,San Diego Padres VS. Colorado Rockies
+194,2022/06/12,New York Yankees VS. Chicago Cubs
+195,2022/06/12,Detroit Tigers VS. Toronto Blue Jays
+196,2022/06/12,Los Angeles Angels VS. New York Mets
+197,2022/06/13,Chicago Cubs VS. San Diego Padres
+198,2022/06/13,Texas Rangers VS. Houston Astros
+199,2022/06/14,New York Yankees VS. Tampa Bay Rays
+200,2022/06/14,Washington Nationals VS. Atlanta Braves
+201,2022/06/14,Detroit Tigers VS. Chicago White Sox
+202,2022/06/14,Los Angeles Dodgers VS. Los Angeles Angels
+203,2022/06/15,Philadelphia Phillies VS. Miami Marlins
+204,2022/06/15,Detroit Tigers VS. Chicago White Sox
+205,2022/06/15,Seattle Mariners VS. Minnesota Twins
+206,2022/06/15,New York Mets VS. Milwaukee Brewers
+207,2022/06/15,Los Angeles Dodgers VS. Los Angeles Angels
+208,2022/06/16,New York Yankees VS. Tampa Bay Rays
+209,2022/06/16,Detroit Tigers VS. Texas Rangers
+210,2022/06/16,Seattle Mariners VS. Los Angeles Angels
+211,2022/06/18,Seattle Mariners VS. Los Angeles Angels
+212,2022/06/18,Detroit Tigers VS. Texas Rangers
+213,2022/06/18,Boston Red Sox VS. St. Louis Cardinals
+214,2022/06/18,Los Angeles Dodgers VS. Cleveland Guardians
+215,2022/06/18,Arizona Diamondbacks VS. Minnesota Twins
+216,2022/06/19,Boston Red Sox VS. St. Louis Cardinals
+217,2022/06/19,Toronto Blue Jays VS. New York Yankees
+218,2022/06/19,Houston Astros VS. Chicago White Sox
+219,2022/06/20,New York Mets VS. Miami Marlins
+220,2022/06/20,Milwaukee Brewers VS. St. Louis Cardinals
+221,2022/06/21,Atlanta Braves VS. San Francisco Giants
+222,2022/06/21,Oakland Athletics VS. Seattle Mariners
+223,2022/06/21,San Diego Padres VS. Arizona Diamondbacks
+224,2022/06/22,Houston Astros VS. New York Mets
+225,2022/06/22,Chicago White Sox VS. Toronto Blue Jays
+226,2022/06/22,Boston Red Sox VS. Detroit Tigers
+227,2022/06/23,Miami Marlins VS. Colorado Rockies
+228,2022/06/23,Atlanta Braves VS. San Francisco Giants
+229,2022/06/23,New York Yankees VS. Houston Astros
+230,2022/06/23,Chicago White Sox VS. Baltimore Orioles
+231,2022/06/24,Miami Marlins VS. New York Mets
+232,2022/06/25,New York Yankees VS. Houston Astros
+233,2022/06/25,Tampa Bay Rays VS. Pittsburgh Pirates
+234,2022/06/25,Texas Rangers VS. Washington Nationals
+235,2022/06/25,Minnesota Twins VS. Colorado Rockies
+236,2022/06/25,Atlanta Braves VS. Los Angeles Dodgers
+237,2022/06/25,Los Angeles Angels VS. Seattle Mariners
+238,2022/06/26,New York Yankees VS. Houston Astros
+239,2022/06/26,Atlanta Braves VS. Los Angeles Dodgers
+240,2022/06/26,Atlanta Braves VS. Los Angeles Dodgers
+241,2022/06/27,New York Yankees VS. Oakland Athletics
+242,2022/06/27,Toronto Blue Jays VS. Boston Red Sox
+243,2022/06/27,Seattle Mariners VS. Baltimore Orioles
+244,2022/06/28,New York Mets VS. Houston Astros
+245,2022/06/28,Los Angeles Angels VS. Chicago White Sox
+246,2022/06/28,San Francisco Giants VS. Detroit Tigers
+247,2022/06/29,New York Mets VS. Houston Astros
+248,2022/06/29,Philadelphia Phillies VS. Atlanta Braves
+249,2022/06/29,Toronto Blue Jays VS. Boston Red Sox
+250,2022/06/30,Cleveland Guardians VS. Minnesota Twins
+251,2022/06/30,Philadelphia Phillies VS. Atlanta Braves
+252,2022/06/30,Houston Astros VS. New York Yankees
+253,2022/06/30,Toronto Blue Jays VS. Tampa Bay Rays
+254,2022/06/30,Los Angeles Dodgers VS. San Diego Padres
+255,2022/07/01,Chicago Cubs VS. Boston Red Sox
+256,2022/07/01,Toronto Blue Jays VS. Tampa Bay Rays
+257,2022/07/01,Philadelphia Phillies VS. St. Louis Cardinals
+258,2022/07/01,Cincinnati Reds VS. Atlanta Braves
+259,2022/07/02,Toronto Blue Jays VS. Tampa Bay Rays
+260,2022/07/02,Seattle Mariners VS. Oakland Athletics
+261,2022/07/02,Chicago Cubs VS. Boston Red Sox
+262,2022/07/02,Los Angeles Dodgers VS. San Diego Padres
+263,2022/07/03,Toronto Blue Jays VS. Tampa Bay Rays
+264,2022/07/03,Cleveland Guardians VS. New York Yankees
+265,2022/07/03,Philadelphia Phillies VS. St. Louis Cardinals
+266,2022/07/04,Washington Nationals VS. Miami Marlins
+267,2022/07/04,Detroit Tigers VS. Cleveland Guardians
+268,2022/07/04,Houston Astros VS. Kansas City Royals
+269,2022/07/04,Atlanta Braves VS. St. Louis Cardinals
+270,2022/07/05,San Diego Padres VS. Seattle Mariners
+271,2022/07/05,Boston Red Sox VS. Tampa Bay Rays
+272,2022/07/05,Oakland Athletics VS. Toronto Blue Jays
+273,2022/07/05,Los Angeles Dodgers VS. Colorado Rockies
+274,2022/07/06,Detroit Tigers VS. Cleveland Guardians
+275,2022/07/06,Chicago White Sox VS. Minnesota Twins
+276,2022/07/06,Atlanta Braves VS. St. Louis Cardinals
+277,2022/07/06,Los Angeles Dodgers VS. Colorado Rockies
+278,2022/07/07,Houston Astros VS. Kansas City Royals
+279,2022/07/07,Cincinnati Reds VS. Pittsburgh Pirates
+280,2022/07/07,Boston Red Sox VS. New York Yankees
+281,2022/07/07,Atlanta Braves VS. St. Louis Cardinals
+282,2022/07/08,Baltimore Orioles VS. Los Angeles Angels
+283,2022/07/08,Boston Red Sox VS. New York Yankees
+284,2022/07/08,Atlanta Braves VS. Washington Nationals
+285,2022/07/08,Los Angeles Dodgers VS. Chicago Cubs
+286,2022/07/09,Cincinnati Reds VS. Tampa Bay Rays
+287,2022/07/09,Boston Red Sox VS. New York Yankees
+288,2022/07/09,San Diego Padres VS. San Francisco Giants
+289,2022/07/09,Los Angeles Dodgers VS. Chicago Cubs
+290,2022/07/09,Seattle Mariners VS. Toronto Blue Jays
+291,2022/07/10,Atlanta Braves VS. Washington Nationals
+292,2022/07/10,New York Mets VS. Miami Marlins
+293,2022/07/10,Boston Red Sox VS. New York Yankees
+294,2022/07/11,Kansas City Royals VS. Detroit Tigers
+295,2022/07/12,Cleveland Guardians VS. Chicago White Sox
+296,2022/07/12,St. Louis Cardinals VS. Los Angeles Dodgers
+297,2022/07/12,Los Angeles Angels VS. Houston Astros
+298,2022/07/12,San Francisco Giants VS. Arizona Diamondbacks
+299,2022/07/13,Washington Nationals VS. Seattle Mariners
+300,2022/07/13,Atlanta Braves VS. New York Mets
+301,2022/07/13,Minnesota Twins VS. Milwaukee Brewers
+302,2022/07/13,Toronto Blue Jays VS. Philadelphia Phillies
+303,2022/07/14,Miami Marlins VS. Pittsburgh Pirates
+304,2022/07/14,Colorado Rockies VS. San Diego Padres
+305,2022/07/14,Tampa Bay Rays VS. Boston Red Sox
+306,2022/07/14,St. Louis Cardinals VS. Los Angeles Dodgers
+307,2022/07/15,New York Yankees VS. Boston Red Sox
+308,2022/07/15,Toronto Blue Jays VS. Kansas City Royals
+309,2022/07/16,Cleveland Guardians VS. Detroit Tigers
+310,2022/07/16,San Francisco Giants VS. Milwaukee Brewers
+311,2022/07/16,New York Yankees VS. Boston Red Sox
+312,2022/07/16,Chicago Cubs VS. New York Mets
+313,2022/07/16,Los Angeles Angels VS. Los Angeles Dodgers
+314,2022/07/17,New York Yankees VS. Boston Red Sox
+315,2022/07/19,National League All-Stars VS. American League All-Stars
+316,2022/07/19,National League All-Stars VS. American League All-Stars
+317,2022/07/21,Houston Astros VS. New York Yankees
+318,2022/07/21,Oakland Athletics VS. Detroit Tigers
+319,2022/07/21,Houston Astros VS. New York Yankees
+320,2022/07/21,Los Angeles Dodgers VS. San Francisco Giants
+321,2022/07/22,Los Angeles Dodgers VS. San Francisco Giants
+322,2022/07/22,Seattle Mariners VS. Houston Astros
+323,2022/07/23,Chicago White Sox VS. Cleveland Guardians
+324,2022/07/23,Seattle Mariners VS. Houston Astros
+325,2022/07/23,Chicago White Sox VS. Cleveland Guardians
+326,2022/07/23,Los Angeles Dodgers VS. San Francisco Giants
+327,2022/07/23,Oakland Athletics VS. Texas Rangers
+328,2022/07/24,New York Mets VS. San Diego Padres
+329,2022/07/25,Philadelphia Phillies VS. Atlanta Braves
+330,2022/07/25,Detroit Tigers VS. San Diego Padres
+331,2022/07/25,Los Angeles Dodgers VS. Washington Nationals
+332,2022/07/25,Seattle Mariners VS. Texas Rangers
+333,2022/07/26,Chicago Cubs VS. Pittsburgh Pirates
+334,2022/07/26,New York Mets VS. New York Yankees
+335,2022/07/26,Seattle Mariners VS. Texas Rangers
+336,2022/07/26,Los Angeles Dodgers VS. Washington Nationals
+337,2022/07/27,Philadelphia Phillies VS. Atlanta Braves
+338,2022/07/27,Detroit Tigers VS. San Diego Padres
+339,2022/07/27,Milwaukee Brewers VS. Minnesota Twins
+340,2022/07/27,Arizona Diamondbacks VS. San Francisco Giants
+341,2022/07/27,New York Mets VS. New York Yankees
+342,2022/07/28,Cincinnati Reds VS. Miami Marlins
+343,2022/07/29,Los Angeles Angels VS. Texas Rangers
+344,2022/07/29,San Diego Padres VS. Minnesota Twins
+345,2022/07/30,Tampa Bay Rays VS. Cleveland Guardians
+346,2022/07/30,Boston Red Sox VS. Milwaukee Brewers
+347,2022/07/30,Washington Nationals VS. St. Louis Cardinals
+348,2022/07/30,Pittsburgh Pirates VS. Philadelphia Phillies
+349,2022/07/30,San Diego Padres VS. Minnesota Twins
+350,2022/07/30,Los Angeles Angels VS. Texas Rangers
+351,2022/07/31,Boston Red Sox VS. Milwaukee Brewers
+352,2022/07/31,New York Yankees VS. Kansas City Royals
+353,2022/07/31,San Francisco Giants VS. Chicago Cubs
+354,2022/08/01,Houston Astros VS. Boston Red Sox
+355,2022/08/02,New York Yankees VS. Seattle Mariners
+356,2022/08/02,Washington Nationals VS. New York Mets
+357,2022/08/02,Tampa Bay Rays VS. Toronto Blue Jays
+358,2022/08/02,San Francisco Giants VS. Los Angeles Dodgers
+359,2022/08/03,New York Yankees VS. Seattle Mariners
+360,2022/08/03,Minnesota Twins VS. Detroit Tigers
+361,2022/08/03,Washington Nationals VS. New York Mets
+362,2022/08/03,San Diego Padres VS. Colorado Rockies
+363,2022/08/03,San Francisco Giants VS. Los Angeles Dodgers
+364,2022/08/03,San Francisco Giants VS. Los Angeles Dodgers
+365,2022/08/04,Pittsburgh Pirates VS. Milwaukee Brewers
+366,2022/08/04,San Francisco Giants VS. Los Angeles Dodgers
+367,2022/08/04,San Diego Padres VS. Colorado Rockies
+368,2022/08/04,Detroit Tigers VS. Tampa Bay Rays
+369,2022/08/05,Chicago Cubs VS. Miami Marlins
+370,2022/08/05,Arizona Diamondbacks VS. Colorado Rockies
+371,2022/08/05,Los Angeles Dodgers VS. San Diego Padres
+372,2022/08/06,Chicago Cubs VS. Miami Marlins
+373,2022/08/06,Seattle Mariners VS. Los Angeles Angels
+374,2022/08/06,St. Louis Cardinals VS. New York Yankees
+375,2022/08/06,Milwaukee Brewers VS. Cincinnati Reds
+376,2022/08/07,Philadelphia Phillies VS. Washington Nationals
+377,2022/08/07,Detroit Tigers VS. Tampa Bay Rays
+378,2022/08/07,Los Angeles Dodgers VS. San Diego Padres
+379,2022/08/08,San Diego Padres VS. San Francisco Giants
+380,2022/08/08,Seattle Mariners VS. New York Yankees
+381,2022/08/09,Boston Red Sox VS. Atlanta Braves
+382,2022/08/10,New York Mets VS. Cincinnati Reds
+383,2022/08/10,Kansas City Royals VS. Chicago White Sox
+384,2022/08/11,Philadelphia Phillies VS. Miami Marlins
+385,2022/08/11,Detroit Tigers VS. Cleveland Guardians
+386,2022/08/11,Houston Astros VS. Texas Rangers
+387,2022/08/11,Cincinnati Reds VS. Chicago Cubs
+388,2022/08/12,Toronto Blue Jays VS. Cleveland Guardians
+389,2022/08/12,Boston Red Sox VS. New York Yankees
+390,2022/08/13,Miami Marlins VS. Atlanta Braves
+391,2022/08/13,Toronto Blue Jays VS. Cleveland Guardians
+392,2022/08/13,Tampa Bay Rays VS. Baltimore Orioles
+393,2022/08/13,Boston Red Sox VS. New York Yankees
+394,2022/08/13,Texas Rangers VS. Seattle Mariners
+395,2022/08/14,Toronto Blue Jays VS. Cleveland Guardians
+396,2022/08/14,New York Mets VS. Philadelphia Phillies
+397,2022/08/14,Boston Red Sox VS. New York Yankees
+398,2022/08/15,Cleveland Guardians VS. Detroit Tigers
+399,2022/08/15,Cleveland Guardians VS. Detroit Tigers
+400,2022/08/15,Chicago White Sox VS. Houston Astros
+401,2022/08/16,New York Yankees VS. Tampa Bay Rays
+402,2022/08/16,Los Angeles Angels VS. Seattle Mariners
+403,2022/08/16,San Francisco Giants VS. Arizona Diamondbacks
+404,2022/08/17,Washington Nationals VS. Chicago Cubs
+405,2022/08/17,Minnesota Twins VS. Kansas City Royals
+406,2022/08/17,Los Angeles Angels VS. Seattle Mariners
+407,2022/08/17,Miami Marlins VS. San Diego Padres
+408,2022/08/17,Milwaukee Brewers VS. Los Angeles Dodgers
+409,2022/08/18,Milwaukee Brewers VS. Los Angeles Dodgers
+410,2022/08/18,New York Yankees VS. Toronto Blue Jays
+411,2022/08/18,Pittsburgh Pirates VS. Boston Red Sox
+412,2022/08/19,Chicago Cubs VS. Milwaukee Brewers
+413,2022/08/19,San Diego Padres VS. Washington Nationals
+414,2022/08/19,Los Angeles Dodgers VS. Miami Marlins
+415,2022/08/20,New York Yankees VS. Toronto Blue Jays
+416,2022/08/20,Detroit Tigers VS. Los Angeles Angels
+417,2022/08/20,Chicago Cubs VS. Milwaukee Brewers
+418,2022/08/20,Oakland Athletics VS. Seattle Mariners
+419,2022/08/20,Atlanta Braves VS. Houston Astros
+420,2022/08/20,Philadelphia Phillies VS. New York Mets
+421,2022/08/21,New York Yankees VS. Toronto Blue Jays
+422,2022/08/21,Atlanta Braves VS. Houston Astros
+423,2022/08/21,Baltimore Orioles VS. Boston Red Sox
+424,2022/08/22,New York Yankees VS. New York Mets
+425,2022/08/22,Tampa Bay Rays VS. Los Angeles Angels
+426,2022/08/23,Chicago Cubs VS. St. Louis Cardinals
+427,2022/08/23,New York Yankees VS. New York Mets
+428,2022/08/23,Houston Astros VS. Minnesota Twins
+429,2022/08/23,Kansas City Royals VS. Arizona Diamondbacks
+430,2022/08/24,Pittsburgh Pirates VS. Atlanta Braves
+431,2022/08/24,Detroit Tigers VS. San Francisco Giants
+432,2022/08/24,Oakland Athletics VS. Miami Marlins
+433,2022/08/24,San Diego Padres VS. Cleveland Guardians
+434,2022/08/24,Baltimore Orioles VS. Chicago White Sox
+435,2022/08/25,Tampa Bay Rays VS. Los Angeles Angels
+436,2022/08/25,Chicago Cubs VS. St. Louis Cardinals
+437,2022/08/25,Seattle Mariners VS. Cleveland Guardians
+438,2022/08/25,Boston Red Sox VS. Toronto Blue Jays
+439,2022/08/25,Houston Astros VS. Minnesota Twins
+440,2022/08/26,Minnesota Twins VS. San Francisco Giants
+441,2022/08/26,St. Louis Cardinals VS. Atlanta Braves
+442,2022/08/27,Toronto Blue Jays VS. Los Angeles Angels
+443,2022/08/27,Boston Red Sox VS. Tampa Bay Rays
+444,2022/08/27,St. Louis Cardinals VS. Atlanta Braves
+445,2022/08/27,Minnesota Twins VS. San Francisco Giants
+446,2022/08/27,Seattle Mariners VS. Cleveland Guardians
+447,2022/08/28,Toronto Blue Jays VS. Los Angeles Angels
+448,2022/08/28,New York Mets VS. Colorado Rockies
+449,2022/08/28,St. Louis Cardinals VS. Atlanta Braves
+450,2022/08/29,Los Angeles Angels VS. New York Yankees
+451,2022/08/29,Arizona Diamondbacks VS. Philadelphia Phillies
+452,2022/08/30,New York Mets VS. Los Angeles Dodgers
+453,2022/08/30,Los Angeles Angels VS. New York Yankees
+454,2022/08/30,San Francisco Giants VS. San Diego Padres
+455,2022/08/31,Texas Rangers VS. Houston Astros
+456,2022/08/31,Milwaukee Brewers VS. Pittsburgh Pirates
+457,2022/08/31,Toronto Blue Jays VS. Chicago Cubs
+458,2022/08/31,New York Mets VS. Los Angeles Dodgers
+459,2022/09/01,Chicago White Sox VS. Kansas City Royals
+460,2022/09/01,Washington Nationals VS. Oakland Athletics
+461,2022/09/01,Boston Red Sox VS. Texas Rangers
+462,2022/09/01,Atlanta Braves VS. Colorado Rockies
+463,2022/09/02,Boston Red Sox VS. Texas Rangers
+464,2022/09/02,Tampa Bay Rays VS. New York Yankees
+465,2022/09/03,San Francisco Giants VS. Philadelphia Phillies
+466,2022/09/03,Boston Red Sox VS. Texas Rangers
+467,2022/09/03,Cleveland Guardians VS. Seattle Mariners
+468,2022/09/03,Chicago White Sox VS. Minnesota Twins
+469,2022/09/04,Boston Red Sox VS. Texas Rangers
+470,2022/09/04,Tampa Bay Rays VS. New York Yankees
+471,2022/09/04,Los Angeles Dodgers VS. San Diego Padres
+472,2022/09/05,New York Yankees VS. Minnesota Twins
+473,2022/09/05,Baltimore Orioles VS. Toronto Blue Jays
+474,2022/09/05,Tampa Bay Rays VS. Boston Red Sox
+475,2022/09/05,St. Louis Cardinals VS. Washington Nationals
+476,2022/09/05,Houston Astros VS. Texas Rangers
+477,2022/09/06,Seattle Mariners VS. Chicago White Sox
+478,2022/09/06,Los Angeles Dodgers VS. San Francisco Giants
+479,2022/09/07,New York Yankees VS. Minnesota Twins
+480,2022/09/07,Los Angeles Dodgers VS. San Francisco Giants
+481,2022/09/07,Seattle Mariners VS. Chicago White Sox
+482,2022/09/07,San Diego Padres VS. Arizona Diamondbacks
+483,2022/09/08,St. Louis Cardinals VS. Washington Nationals
+484,2022/09/08,Chicago Cubs VS. Cincinnati Reds
+485,2022/09/08,Milwaukee Brewers VS. San Francisco Giants
+486,2022/09/08,Milwaukee Brewers VS. San Francisco Giants
+487,2022/09/08,New York Yankees VS. Minnesota Twins
+488,2022/09/09,Chicago Cubs VS. San Francisco Giants
+489,2022/09/09,Texas Rangers VS. Toronto Blue Jays
+490,2022/09/09,Kansas City Royals VS. Detroit Tigers
+491,2022/09/10,New York Yankees VS. Tampa Bay Rays
+492,2022/09/10,Oakland Athletics VS. Chicago White Sox
+493,2022/09/10,Minnesota Twins VS. Cleveland Guardians
+494,2022/09/10,Houston Astros VS. Los Angeles Angels
+495,2022/09/11,Pittsburgh Pirates VS. St. Louis Cardinals
+496,2022/09/11,New York Yankees VS. Tampa Bay Rays
+497,2022/09/11,Chicago Cubs VS. San Francisco Giants
+498,2022/09/12,Cleveland Guardians VS. Los Angeles Angels
+499,2022/09/12,Detroit Tigers VS. Houston Astros
+500,2022/09/12,Arizona Diamondbacks VS. Los Angeles Dodgers
+501,2022/09/12,San Francisco Giants VS. Atlanta Braves
+502,2022/09/13,Cincinnati Reds VS. Pittsburgh Pirates
+503,2022/09/13,Toronto Blue Jays VS. Tampa Bay Rays
+504,2022/09/13,Boston Red Sox VS. New York Yankees
+505,2022/09/13,Seattle Mariners VS. San Diego Padres
+506,2022/09/13,San Francisco Giants VS. Atlanta Braves
+507,2022/09/14,Detroit Tigers VS. Houston Astros
+508,2022/09/14,Cleveland Guardians VS. Los Angeles Angels
+509,2022/09/14,Seattle Mariners VS. San Diego Padres
+510,2022/09/14,St. Louis Cardinals VS. Milwaukee Brewers
+511,2022/09/15,Cleveland Guardians VS. Chicago White Sox
+512,2022/09/15,Houston Astros VS. Oakland Athletics
+513,2022/09/15,New York Mets VS. Pittsburgh Pirates
+514,2022/09/16,Chicago Cubs VS. Colorado Rockies
+515,2022/09/16,Milwaukee Brewers VS. New York Yankees
+516,2022/09/16,Houston Astros VS. Oakland Athletics
+517,2022/09/17,Cleveland Guardians VS. Minnesota Twins
+518,2022/09/17,Chicago Cubs VS. Colorado Rockies
+519,2022/09/17,Milwaukee Brewers VS. New York Yankees
+520,2022/09/17,Atlanta Braves VS. Philadelphia Phillies
+521,2022/09/18,Atlanta Braves VS. Philadelphia Phillies
+522,2022/09/18,New York Mets VS. Pittsburgh Pirates
+523,2022/09/18,San Francisco Giants VS. Los Angeles Dodgers
+524,2022/09/19,Cleveland Guardians VS. Minnesota Twins
+525,2022/09/19,Los Angeles Angels VS. Seattle Mariners
+526,2022/09/19,Atlanta Braves VS. Washington Nationals
+527,2022/09/19,Milwaukee Brewers VS. New York Mets
+528,2022/09/20,Tampa Bay Rays VS. Houston Astros
+529,2022/09/20,Chicago White Sox VS. Cleveland Guardians
+530,2022/09/20,Kansas City Royals VS. Minnesota Twins
+531,2022/09/20,San Diego Padres VS. St. Louis Cardinals
+532,2022/09/20,Oakland Athletics VS. Seattle Mariners
+533,2022/09/21,Atlanta Braves VS. Washington Nationals
+534,2022/09/21,Oakland Athletics VS. Seattle Mariners
+535,2022/09/21,San Diego Padres VS. St. Louis Cardinals
+536,2022/09/22,Texas Rangers VS. Los Angeles Angels
+537,2022/09/22,Kansas City Royals VS. Minnesota Twins
+538,2022/09/22,Philadelphia Phillies VS. Atlanta Braves
+539,2022/09/22,New York Yankees VS. Boston Red Sox
+540,2022/09/22,Los Angeles Dodgers VS. Arizona Diamondbacks
+541,2022/09/23,Baltimore Orioles VS. Houston Astros
+542,2022/09/23,Tampa Bay Rays VS. Toronto Blue Jays
+543,2022/09/24,New York Yankees VS. Boston Red Sox
+544,2022/09/24,Texas Rangers VS. Cleveland Guardians
+545,2022/09/24,Minnesota Twins VS. Los Angeles Angels
+546,2022/09/25,Philadelphia Phillies VS. Atlanta Braves
+547,2022/09/25,Tampa Bay Rays VS. Toronto Blue Jays
+548,2022/09/25,Cincinnati Reds VS. Milwaukee Brewers
+549,2022/09/25,Oakland Athletics VS. New York Mets
+550,2022/09/25,New York Yankees VS. Boston Red Sox
+551,2022/09/26,Washington Nationals VS. Atlanta Braves
+552,2022/09/26,Toronto Blue Jays VS. New York Yankees
+553,2022/09/27,Toronto Blue Jays VS. New York Yankees
+554,2022/09/27,Minnesota Twins VS. Chicago White Sox
+555,2022/09/27,Milwaukee Brewers VS. St. Louis Cardinals
+556,2022/09/28,Pittsburgh Pirates VS. Cincinnati Reds
+557,2022/09/28,Washington Nationals VS. Atlanta Braves
+558,2022/09/28,Toronto Blue Jays VS. New York Yankees
+559,2022/09/29,Minnesota Twins VS. Chicago White Sox
+560,2022/09/29,Detroit Tigers VS. Kansas City Royals
+561,2022/09/29,Chicago Cubs VS. Philadelphia Phillies
+562,2022/09/29,Cleveland Guardians VS. Tampa Bay Rays
+563,2022/09/29,Milwaukee Brewers VS. Miami Marlins
+564,2022/09/29,San Diego Padres VS. Los Angeles Dodgers
+565,2022/09/30,Chicago Cubs VS. Cincinnati Reds
+566,2022/09/30,New York Yankees VS. Baltimore Orioles
+567,2022/09/30,Toronto Blue Jays VS. Boston Red Sox
+568,2022/09/30,Atlanta Braves VS. New York Mets
+569,2022/10/01,New York Yankees VS. Baltimore Orioles
+570,2022/10/01,Chicago Cubs VS. Cincinnati Reds
+571,2022/10/01,Seattle Mariners VS. Oakland Athletics
+572,2022/10/01,Houston Astros VS. Tampa Bay Rays
+573,2022/10/01,Atlanta Braves VS. New York Mets
+574,2022/10/02,New York Yankees VS. Baltimore Orioles
+575,2022/10/02,Toronto Blue Jays VS. Boston Red Sox
+576,2022/10/02,Atlanta Braves VS. New York Mets
+577,2022/10/03,Texas Rangers VS. New York Yankees
+578,2022/10/03,Boston Red Sox VS. Tampa Bay Rays
+579,2022/10/03,Los Angeles Dodgers VS. Colorado Rockies
+580,2022/10/04,Texas Rangers VS. New York Yankees
+581,2022/10/04,Houston Astros VS. Philadelphia Phillies
+582,2022/10/07,Cleveland Guardians VS. Tampa Bay Rays
+583,2022/10/07,St. Louis Cardinals VS. Philadelphia Phillies
+584,2022/10/07,Toronto Blue Jays VS. Seattle Mariners
+585,2022/10/07,New York Mets VS. San Diego Padres
+586,2022/10/08,Cleveland Guardians VS. Tampa Bay Rays
+587,2022/10/08,Toronto Blue Jays VS. Seattle Mariners
+588,2022/10/08,New York Mets VS. San Diego Padres
+589,2022/10/08,St. Louis Cardinals VS. Philadelphia Phillies
+590,2022/10/09,New York Mets VS. San Diego Padres
+591,2022/10/11,Atlanta Braves VS. Philadelphia Phillies
+592,2022/10/11,Houston Astros VS. Seattle Mariners
+593,2022/10/11,New York Yankees VS. Cleveland Guardians
+594,2022/10/11,Los Angeles Dodgers VS. San Diego Padres
+595,2022/10/12,Atlanta Braves VS. Philadelphia Phillies
+596,2022/10/12,Los Angeles Dodgers VS. San Diego Padres
+597,2022/10/13,Houston Astros VS. Seattle Mariners
+598,2022/10/14,New York Yankees VS. Cleveland Guardians
+599,2022/10/14,Philadelphia Phillies VS. Atlanta Braves
+600,2022/10/14,San Diego Padres VS. Los Angeles Dodgers
+601,2022/10/15,Philadelphia Phillies VS. Atlanta Braves
+602,2022/10/15,Seattle Mariners VS. Houston Astros
+603,2022/10/15,Cleveland Guardians VS. New York Yankees
+604,2022/10/15,San Diego Padres VS. Los Angeles Dodgers
+605,2022/10/16,Cleveland Guardians VS. New York Yankees
+606,2022/10/18,New York Yankees VS. Cleveland Guardians
+607,2022/10/18,San Diego Padres VS. Philadelphia Phillies
+608,2022/10/19,San Diego Padres VS. Philadelphia Phillies
+609,2022/10/19,Houston Astros VS. New York Yankees
+610,2022/10/20,Houston Astros VS. New York Yankees
+611,2022/10/21,Philadelphia Phillies VS. San Diego Padres
+612,2022/10/22,New York Yankees VS. Houston Astros
+613,2022/10/22,Philadelphia Phillies VS. San Diego Padres
+614,2022/10/23,Philadelphia Phillies VS. San Diego Padres
+615,2022/10/23,New York Yankees VS. Houston Astros
+616,2022/10/28,Houston Astros VS. Philadelphia Phillies
+617,2022/10/29,Houston Astros VS. Philadelphia Phillies
+618,2022/11/01,Philadelphia Phillies VS. Houston Astros
+619,2022/11/02,Philadelphia Phillies VS. Houston Astros
+620,2022/11/03,Philadelphia Phillies VS. Houston Astros
+621,2022/11/05,Houston Astros VS. Philadelphia Phillies

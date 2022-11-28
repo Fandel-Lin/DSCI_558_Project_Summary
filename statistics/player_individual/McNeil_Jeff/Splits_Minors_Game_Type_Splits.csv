@@ -1,0 +1,8 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Brooklyn Cyclones,High-A,Home Games,2,2,0,0,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+Syracuse Mets,Triple-A,Away Games,16,15,4,6,2,0,1,2,1,4,0,0,0,.400,.438,.733,1.171
+Brooklyn Cyclones,High-A,Day Games,2,2,0,0,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+Syracuse Mets,Triple-A,Night Games,16,15,4,6,2,0,1,2,1,4,0,0,0,.400,.438,.733,1.171
+Syracuse Mets,Triple-A,Leading Off,2,2,,1,0,0,0,0,0,0,,,0,.500,.500,.500,1.000
+Brooklyn Cyclones,High-A,Leading Off,1,1,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+Syracuse Mets,Triple-A,Late / Close,1,1,,1,0,0,1,1,0,0,,,0,1.000,1.000,4.000,5.000

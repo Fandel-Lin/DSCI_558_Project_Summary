@@ -1,0 +1,18 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Nashville Sounds,Triple-A,Bases Empty,23,21,,4,2,0,0,0,1,2,,,1,.190,.261,.286,.547
+Frisco RoughRiders,Double-A,Bases Empty,37,31,,7,2,0,1,1,5,6,,,1,.226,.351,.387,.738
+Nashville Sounds,Triple-A,Bases Loaded,2,2,,0,0,0,0,1,0,0,,,0,.000,.000,.000,.000
+Frisco RoughRiders,Double-A,Bases Loaded,3,3,,1,0,0,0,1,0,1,,,0,.333,.333,.333,.666
+Nashville Sounds,Triple-A,Runner at 1st,4,4,,0,0,0,0,0,0,2,,,0,.000,.000,.000,.000
+Frisco RoughRiders,Double-A,Runner at 1st,15,13,,5,1,0,1,2,2,1,,,0,.385,.467,.692,1.159
+Nashville Sounds,Triple-A,Runners at 1st & 2nd,4,4,,0,0,0,0,0,0,2,,,0,.000,.000,.000,.000
+Frisco RoughRiders,Double-A,Runners at 1st & 2nd,3,3,,1,0,0,0,1,0,0,,,0,.333,.333,.333,.666
+Nashville Sounds,Triple-A,Runners at 1st & 3rd,1,1,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+Frisco RoughRiders,Double-A,Runners at 1st & 3rd,2,1,,1,1,0,0,3,0,0,,,0,1.000,.500,2.000,2.500
+Nashville Sounds,Triple-A,Runner at 2nd,2,2,,1,1,0,0,1,0,0,,,0,.500,.500,1.000,1.500
+Frisco RoughRiders,Double-A,Runner at 2nd,6,4,,0,0,0,0,0,1,0,,,1,.000,.333,.000,.333
+Nashville Sounds,Triple-A,Runners at 2nd & 3rd,1,0,,0,0,0,0,0,0,0,,,1,.000,1.000,.000,1.000
+Frisco RoughRiders,Double-A,Runners at 2nd & 3rd,3,3,,1,0,0,0,2,0,0,,,0,.333,.333,.333,.666
+Frisco RoughRiders,Double-A,Runner at 3rd,2,2,,1,0,0,0,1,0,1,,,0,.500,.500,.500,1.000
+Nashville Sounds,Triple-A,Scoring Position,10,9,,1,1,0,0,2,0,2,,,1,.111,.200,.222,.422
+Frisco RoughRiders,Double-A,Scoring Position,19,16,,5,1,0,0,8,1,2,,,1,.313,.368,.375,.743

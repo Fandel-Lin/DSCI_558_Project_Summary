@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Houston Astros,MLB,Home Games,277,263,36,69,6,1,14,35,10,65,9,2,1,.262,.291,.452,.743
+Houston Astros,MLB,Away Games,281,258,36,63,14,1,8,28,12,70,2,0,5,.244,.287,.399,.686
+Houston Astros,MLB,Day Games,182,170,27,45,6,0,8,19,4,51,2,0,4,.265,.294,.441,.735
+Houston Astros,MLB,Night Games,376,351,45,87,14,2,14,44,18,84,9,2,2,.248,.286,.419,.705
+Houston Astros,MLB,Leading Off,115,111,,25,7,0,3,3,3,30,,,1,.225,.252,.369,.621
+Houston Astros,MLB,Late / Close,65,59,,20,1,0,2,8,3,15,,,2,.339,.385,.458,.843

@@ -1,0 +1,93 @@
+Season,Tm,LG,L,POS,G,GS,INN,TC,PO,A,E,DP,RF,FPCT%
+2011,DSL Astros,DSL,ROK,CF,42,39,317.0,83,75,4,4,0,,.952
+2011,DSL Astros,DSL,ROK,RF,19,18,150.0,31,27,3,1,3,,.968
+2011,DSL Astros,DSL,ROK,DH,3,3,0.0,0,0,0,0,0,,.000
+2012,2 Teams,,Minors,RF,46,45,370.2,100,85,11,4,4,,.960
+2012,2 Teams,,Minors,CF,16,11,104.2,23,20,2,1,1,,.957
+2012,2 Teams,,Minors,RF,46,45,370.2,100,85,11,4,4,,.960
+2012,2 Teams,,Minors,CF,16,11,104.2,23,20,2,1,1,,.957
+2012,2 Teams,,Minors,RF,46,45,370.2,100,85,11,4,4,,.960
+2012,2 Teams,,Minors,CF,16,11,104.2,23,20,2,1,1,,.957
+2012,GCL Astros,GCL,ROK,CF,11,6,60.2,17,14,2,1,1,,.941
+2012,GCL Astros,GCL,ROK,RF,43,42,349.2,98,84,10,4,4,,.959
+2012,GCL Astros,GCL,ROK,DH,2,2,0.0,0,0,0,0,0,,.000
+2012,Lexington Legends,SAL,A,CF,5,5,44.0,6,6,0,0,0,,1.000
+2012,Lexington Legends,SAL,A,RF,3,3,21.0,2,1,1,0,0,,1.000
+2013,Quad Cities River Bandits,MID,A,CF,108,107,930.2,218,201,9,8,1,,.963
+2013,Quad Cities River Bandits,MID,A,RF,15,15,131.2,28,23,5,0,1,,1.000
+2014,2 Teams,,Minors,CF,117,116,1025.1,288,268,11,9,5,,.969
+2014,2 Teams,,Minors,CF,117,116,1025.1,288,268,11,9,5,,.969
+2014,2 Teams,,Minors,CF,117,116,1025.1,288,268,11,9,5,,.969
+2014,Lancaster JetHawks,CAL,A(Adv),CF,96,95,844.1,243,224,10,9,4,,.963
+2014,Corpus Christi Hooks,TEX,AA,CF,21,21,181.0,45,44,1,0,1,,1.000
+2014,Corpus Christi Hooks,TEX,AA,RF,2,2,18.0,6,6,0,0,0,,1.000
+2015,Corpus Christi Hooks,TEX,AA,CF,81,77,699.1,202,196,5,1,2,,.995
+2015,Corpus Christi Hooks,TEX,AA,RF,39,37,318.1,83,79,2,2,0,,.976
+2016,2 Teams,,Minors,RF,63,61,555.1,127,120,5,2,1,,.984
+2016,2 Teams,,Minors,CF,41,41,366.0,73,65,5,3,0,,.959
+2016,2 Teams,,Minors,DH,3,3,0.0,0,0,0,0,0,,.000
+2016,2 Teams,,Minors,RF,63,61,555.1,127,120,5,2,1,,.984
+2016,2 Teams,,Minors,CF,41,41,366.0,73,65,5,3,0,,.959
+2016,2 Teams,,Minors,DH,3,3,0.0,0,0,0,0,0,,.000
+2016,2 Teams,,Minors,RF,63,61,555.1,127,120,5,2,1,,.984
+2016,2 Teams,,Minors,CF,41,41,366.0,73,65,5,3,0,,.959
+2016,2 Teams,,Minors,DH,3,3,0.0,0,0,0,0,0,,.000
+2016,Corpus Christi Hooks,TEX,AA,CF,30,30,272.0,59,52,5,2,0,,.966
+2016,Corpus Christi Hooks,TEX,AA,RF,37,36,341.1,76,73,2,1,0,,.987
+2016,Corpus Christi Hooks,TEX,AA,DH,1,1,0.0,0,0,0,0,0,,.000
+2016,Fresno Grizzlies,PCL,AAA,CF,11,11,94.0,14,13,0,1,0,,.929
+2016,Fresno Grizzlies,PCL,AAA,RF,26,25,214.0,51,47,3,1,1,,.980
+2016,Fresno Grizzlies,PCL,AAA,DH,2,2,0.0,0,0,0,0,0,,.000
+2017,2 Teams,,Minors,RF,54,52,464.0,135,125,6,4,0,,.970
+2017,2 Teams,,Minors,DH,15,14,0.0,0,0,0,0,0,,.000
+2017,2 Teams,,Minors,LF,9,9,83.0,22,20,1,1,1,,.955
+2017,2 Teams,,Minors,CF,29,29,244.2,80,77,3,0,0,,1.000
+2017,2 Teams,,Minors,RF,54,52,464.0,135,125,6,4,0,,.970
+2017,2 Teams,,Minors,DH,15,14,0.0,0,0,0,0,0,,.000
+2017,2 Teams,,Minors,LF,9,9,83.0,22,20,1,1,1,,.955
+2017,2 Teams,,Minors,CF,29,29,244.2,80,77,3,0,0,,1.000
+2017,2 Teams,,Minors,RF,54,52,464.0,135,125,6,4,0,,.970
+2017,2 Teams,,Minors,DH,15,14,0.0,0,0,0,0,0,,.000
+2017,2 Teams,,Minors,LF,9,9,83.0,22,20,1,1,1,,.955
+2017,2 Teams,,Minors,CF,29,29,244.2,80,77,3,0,0,,1.000
+2017,Fresno Grizzlies,PCL,AAA,LF,3,3,26.0,3,3,0,0,0,,1.000
+2017,Fresno Grizzlies,PCL,AAA,CF,22,22,187.2,58,56,2,0,0,,1.000
+2017,Fresno Grizzlies,PCL,AAA,RF,44,42,374.0,107,99,4,4,0,,.963
+2017,Fresno Grizzlies,PCL,AAA,DH,12,12,0.0,0,0,0,0,0,,.000
+2017,Buffalo Bisons,INT,AAA,LF,6,6,57.0,19,17,1,1,1,,.947
+2017,Buffalo Bisons,INT,AAA,CF,7,7,57.0,22,21,1,0,0,,1.000
+2017,Buffalo Bisons,INT,AAA,RF,10,10,90.0,28,26,2,0,0,,1.000
+2017,Buffalo Bisons,INT,AAA,DH,3,2,0.0,0,0,0,0,0,,.000
+2017,2 Teams,,AAA,LF,9,9,83.0,22,20,1,1,1,,.955
+2017,2 Teams,,AAA,CF,29,29,244.2,80,77,3,0,0,,1.000
+2017,2 Teams,,AAA,RF,54,52,464.0,135,125,6,4,0,,.970
+2017,2 Teams,,AAA,DH,15,14,0.0,0,0,0,0,0,,.000
+2018,Buffalo Bisons,INT,AAA,RF,4,4,37.0,11,11,0,0,0,,1.000
+2019,Buffalo Bisons,INT,AAA,LF,5,4,41.0,8,7,1,0,0,,1.000
+2019,Buffalo Bisons,INT,AAA,CF,9,9,76.1,23,21,0,2,0,,.913
+2019,Buffalo Bisons,INT,AAA,DH,5,5,0.0,0,0,0,0,0,,.000
+2022,Dunedin Blue Jays,FSL,A,RF,2,2,17.0,4,4,0,0,0,,1.000
+2022,Dunedin Blue Jays,FSL,A,DH,1,1,0.0,0,0,0,0,0,,.000
+,2 Teams,,ROK,CF,53,45,377.2,100,89,6,5,1,,.950
+,2 Teams,,ROK,RF,62,60,499.2,129,111,13,5,7,,.961
+,2 Teams,,ROK,DH,5,5,0.0,0,0,0,0,0,,.000
+,2 Teams,,AAA,LF,14,13,124.0,30,27,2,1,1,,.967
+,2 Teams,,AAA,CF,49,49,415.0,117,111,3,3,0,,.974
+,2 Teams,,AAA,RF,84,81,715.0,197,183,9,5,1,,.975
+,2 Teams,,AAA,DH,22,21,0.0,0,0,0,0,0,,.000
+,Corpus Christi Hooks,TEX,AA,CF,132,128,1152.1,306,292,11,3,3,,.990
+,Corpus Christi Hooks,TEX,AA,RF,78,75,677.2,165,158,4,3,0,,.982
+,Corpus Christi Hooks,TEX,AA,DH,1,1,0.0,0,0,0,0,0,,.000
+,Lancaster JetHawks,CAL,A+,CF,96,95,844.1,243,224,10,9,4,,.963
+,3 Teams,,A,RF,20,20,169.2,34,28,6,0,1,,1.000
+,Dunedin Blue Jays,FSL,A,DH,1,1,0.0,0,0,0,0,0,,.000
+,2 Teams,,A,CF,113,112,974.2,224,207,9,8,1,,.964
+,2 Teams,,Minors,CF,228,223,1996.2,549,516,21,12,7,,.978
+,1 Teams,,Minors,RF,78,75,677.2,165,158,4,3,0,,.982
+,2 Teams,,Minors,DH,2,2,0.0,0,0,0,0,0,,.000
+,2 Teams,,Minors,CF,228,223,1996.2,549,516,21,12,7,,.978
+,1 Teams,,Minors,RF,78,75,677.2,165,158,4,3,0,,.982
+,2 Teams,,Minors,DH,2,2,0.0,0,0,0,0,0,,.000
+,2 Teams,,Minors,CF,228,223,1996.2,549,516,21,12,7,,.978
+,1 Teams,,Minors,RF,78,75,677.2,165,158,4,3,0,,.982
+Career Minors,2 Teams,,,DH,2,2,0.0,0,0,0,0,0,,.000

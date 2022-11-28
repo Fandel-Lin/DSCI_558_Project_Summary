@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+New York Mets,MLB,Bases Empty,450,395,,102,17,4,10,10,43,90,,,12,.258,.349,.397,.746
+New York Mets,MLB,Bases Loaded,7,5,,2,0,0,0,5,2,0,,,0,.400,.571,.400,.971
+New York Mets,MLB,Runner at 1st,98,81,,24,4,1,2,6,10,10,,,4,.296,.400,.444,.844
+New York Mets,MLB,Runners at 1st & 2nd,32,28,,9,3,0,1,7,4,6,,,0,.321,.406,.536,.942
+New York Mets,MLB,Runners at 1st & 3rd,17,13,,4,1,0,1,9,3,2,,,0,.308,.412,.615,1.027
+New York Mets,MLB,Runner at 2nd,39,33,,8,2,1,1,6,6,4,,,0,.242,.359,.455,.814
+New York Mets,MLB,Runners at 2nd & 3rd,16,16,,7,3,1,1,16,0,3,,,0,.438,.438,.938,1.376
+New York Mets,MLB,Runner at 3rd,14,9,,3,0,0,0,5,3,1,,,0,.333,.429,.333,.762
+New York Mets,MLB,Scoring Position,125,104,,33,9,2,4,48,18,16,,,0,.317,.408,.558,.966

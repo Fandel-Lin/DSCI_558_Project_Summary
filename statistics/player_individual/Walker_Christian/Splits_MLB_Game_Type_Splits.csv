@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Arizona Diamondbacks,MLB,Home Games,332,286,40,65,13,0,15,42,37,65,0,1,4,.227,.319,.430,.749
+Arizona Diamondbacks,MLB,Away Games,335,297,44,76,12,2,21,52,32,66,2,1,4,.256,.334,.522,.856
+Arizona Diamondbacks,MLB,Day Games,242,214,25,43,8,2,11,27,25,58,2,1,1,.201,.285,.411,.696
+Arizona Diamondbacks,MLB,Night Games,425,369,59,98,17,0,25,67,44,73,0,1,7,.266,.351,.515,.866
+Arizona Diamondbacks,MLB,Leading Off,177,160,,38,9,2,7,7,17,37,,,0,.238,.311,.450,.761
+Arizona Diamondbacks,MLB,Late / Close,69,64,,15,3,0,1,6,5,16,,,0,.234,.290,.328,.618

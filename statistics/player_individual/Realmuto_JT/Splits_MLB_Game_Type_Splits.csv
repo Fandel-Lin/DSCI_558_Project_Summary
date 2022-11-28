@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Philadelphia Phillies,MLB,Home Games,280,255,40,80,16,3,12,50,18,57,10,0,5,.314,.368,.541,.909
+Philadelphia Phillies,MLB,Away Games,282,249,35,59,10,2,10,34,23,62,11,1,7,.237,.316,.414,.730
+Philadelphia Phillies,MLB,Day Games,165,145,21,33,7,0,4,16,13,43,5,0,5,.228,.309,.359,.668
+Philadelphia Phillies,MLB,Night Games,397,359,54,106,19,5,18,68,28,76,16,1,7,.295,.355,.526,.881
+Philadelphia Phillies,MLB,Leading Off,131,123,,29,3,1,7,7,6,31,,,2,.236,.282,.447,.729
+Philadelphia Phillies,MLB,Late / Close,62,51,,10,2,0,0,6,8,14,,,3,.196,.339,.235,.574

@@ -1,0 +1,60 @@
+Season,Tm,LG,L,POS,G,GS,INN,TC,PO,A,E,DP,RF,FPCT%
+2012,Burlington Bees,MID,A(Full),1B,63,63,555.1,580,541,33,6,48,,.990
+2012,Burlington Bees,MID,A(Full),DH,1,1,0.0,0,0,0,0,0,,.000
+2013,2 Teams,,Minors,1B,128,128,1149.1,1167,1077,81,9,91,,.992
+2013,2 Teams,,Minors,DH,12,12,0.0,0,0,0,0,0,,.000
+2013,2 Teams,,Minors,1B,128,128,1149.1,1167,1077,81,9,91,,.992
+2013,2 Teams,,Minors,DH,12,12,0.0,0,0,0,0,0,,.000
+2013,Stockton Ports,CAL,A(Adv),1B,85,85,766.0,728,678,47,3,66,,.996
+2013,Stockton Ports,CAL,A(Adv),DH,8,8,0.0,0,0,0,0,0,,.000
+2013,Midland RockHounds,TEX,AA,1B,43,43,383.1,439,399,34,6,25,,.986
+2013,Midland RockHounds,TEX,AA,DH,4,4,0.0,0,0,0,0,0,,.000
+2014,Midland RockHounds,TEX,AA,1B,86,86,742.2,797,739,54,4,77,,.995
+2014,Midland RockHounds,TEX,AA,3B,22,21,197.0,68,16,48,4,7,,.941
+2014,Midland RockHounds,TEX,AA,RF,1,1,9.0,1,0,1,0,0,,1.000
+2014,Midland RockHounds,TEX,AA,DH,14,14,0.0,0,0,0,0,0,,.000
+2015,Nashville Sounds,PCL,AAA,1B,26,25,220.1,209,189,18,2,22,,.990
+2015,Nashville Sounds,PCL,AAA,3B,32,31,262.1,93,24,65,4,7,,.957
+2015,Nashville Sounds,PCL,AAA,DH,2,2,0.0,0,0,0,0,0,,.000
+2016,Nashville Sounds,PCL,AAA,1B,3,3,26.1,28,26,2,0,6,,1.000
+2016,Nashville Sounds,PCL,AAA,2B,3,3,27.0,15,7,8,0,2,,1.000
+2016,Nashville Sounds,PCL,AAA,3B,13,13,116.2,30,7,22,1,3,,.967
+2016,Nashville Sounds,PCL,AAA,LF,28,28,246.1,46,43,3,0,0,,1.000
+2016,Nashville Sounds,PCL,AAA,RF,8,8,74.0,15,15,0,0,0,,1.000
+2016,Nashville Sounds,PCL,AAA,DH,7,7,0.0,0,0,0,0,0,,.000
+2017,Oklahoma City Dodgers,PCL,AAA,P,3,0,2.1,0,0,0,0,0,,.000
+2017,Oklahoma City Dodgers,PCL,AAA,1B,22,19,175.1,171,159,10,2,16,,.988
+2017,Oklahoma City Dodgers,PCL,AAA,2B,9,9,69.2,34,18,16,0,2,,1.000
+2017,Oklahoma City Dodgers,PCL,AAA,3B,53,48,398.1,112,22,81,9,3,,.920
+2017,Oklahoma City Dodgers,PCL,AAA,LF,9,5,51.0,2,2,0,0,0,,1.000
+2017,Oklahoma City Dodgers,PCL,AAA,RF,8,6,60.0,12,12,0,0,0,,1.000
+2017,Oklahoma City Dodgers,PCL,AAA,DH,3,1,0.0,0,0,0,0,0,,.000
+2018,Oklahoma City Dodgers,PCL,AAA,1B,7,5,42.2,38,35,2,1,2,,.974
+2018,Oklahoma City Dodgers,PCL,AAA,3B,3,3,27.0,10,1,8,1,0,,.900
+2022,Oklahoma City Dodgers,PCL,AAA,2B,2,2,16.0,7,2,5,0,1,,1.000
+2022,Oklahoma City Dodgers,PCL,AAA,3B,2,2,17.0,3,0,3,0,0,,1.000
+,Oklahoma City Dodgers,PCL,AAA,P,3,0,2.1,0,0,0,0,0,,.000
+,2 Teams,,AAA,1B,58,52,464.2,446,409,32,5,46,,.989
+,2 Teams,,AAA,2B,14,14,112.2,56,27,29,0,5,,1.000
+,2 Teams,,AAA,3B,103,97,821.1,248,54,179,15,13,,.940
+,2 Teams,,AAA,LF,37,33,297.1,48,45,3,0,0,,1.000
+,2 Teams,,AAA,RF,16,14,134.0,27,27,0,0,0,,1.000
+,2 Teams,,AAA,DH,12,10,0.0,0,0,0,0,0,,.000
+,Midland RockHounds,TEX,AA,1B,129,129,1126.0,1236,1138,88,10,102,,.992
+,Midland RockHounds,TEX,AA,3B,22,21,197.0,68,16,48,4,7,,.941
+,Midland RockHounds,TEX,AA,RF,1,1,9.0,1,0,1,0,0,,1.000
+,Midland RockHounds,TEX,AA,DH,18,18,0.0,0,0,0,0,0,,.000
+,Stockton Ports,CAL,A+,1B,85,85,766.0,728,678,47,3,66,,.996
+,Stockton Ports,CAL,A+,DH,8,8,0.0,0,0,0,0,0,,.000
+,Burlington Bees,MID,A,1B,63,63,555.1,580,541,33,6,48,,.990
+,Burlington Bees,MID,A,DH,1,1,0.0,0,0,0,0,0,,.000
+,1 Teams,,Minors,P,3,0,2.1,0,0,0,0,0,,.000
+,3 Teams,,Minors,1B,277,277,2447.1,2544,2357,168,19,216,,.993
+,1 Teams,,Minors,3B,22,21,197.0,68,16,48,4,7,,.941
+,1 Teams,,Minors,RF,1,1,9.0,1,0,1,0,0,,1.000
+,3 Teams,,Minors,DH,27,27,0.0,0,0,0,0,0,,.000
+,1 Teams,,Minors,P,3,0,2.1,0,0,0,0,0,,.000
+,3 Teams,,Minors,1B,277,277,2447.1,2544,2357,168,19,216,,.993
+,1 Teams,,Minors,3B,22,21,197.0,68,16,48,4,7,,.941
+,1 Teams,,Minors,RF,1,1,9.0,1,0,1,0,0,,1.000
+Career Minors,3 Teams,,,DH,27,27,0.0,0,0,0,0,0,,.000

@@ -1,0 +1,22 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+AZL Athletics Gold,Rookie,Bases Empty,17,15,,6,2,0,1,1,2,2,,,0,.400,.471,.733,1.204
+AZL Athletics Green,Rookie,Bases Empty,3,1,,1,0,0,0,0,2,0,,,0,1.000,1.000,1.000,2.000
+Las Vegas Aviators,Triple-A,Bases Empty,70,63,,18,2,0,4,4,7,16,,,0,.286,.357,.508,.865
+AZL Athletics Gold,Rookie,Bases Loaded,1,1,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+Las Vegas Aviators,Triple-A,Bases Loaded,1,1,,1,1,0,0,2,0,0,,,0,1.000,1.000,2.000,3.000
+AZL Athletics Gold,Rookie,Runner at 1st,3,2,,0,0,0,0,0,1,0,,,0,.000,.333,.000,.333
+Las Vegas Aviators,Triple-A,Runner at 1st,19,18,,5,2,0,0,1,1,7,,,0,.278,.316,.389,.705
+AZL Athletics Gold,Rookie,Runners at 1st & 2nd,3,3,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+Las Vegas Aviators,Triple-A,Runners at 1st & 2nd,20,17,,5,0,0,3,10,2,2,,,1,.294,.400,.824,1.224
+AZL Athletics Gold,Rookie,Runners at 1st & 3rd,3,3,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+AZL Athletics Green,Rookie,Runners at 1st & 3rd,1,1,,0,0,0,0,0,0,1,,,0,.000,.000,.000,.000
+Las Vegas Aviators,Triple-A,Runners at 1st & 3rd,7,3,,2,1,0,1,5,3,1,,,0,.667,.714,2.000,2.714
+AZL Athletics Gold,Rookie,Runner at 2nd,2,1,,0,0,0,0,0,1,0,,,0,.000,.500,.000,.500
+AZL Athletics Green,Rookie,Runner at 2nd,1,0,,0,0,0,0,0,1,0,,,0,.000,1.000,.000,1.000
+Las Vegas Aviators,Triple-A,Runner at 2nd,18,16,,5,0,0,2,5,1,4,,,1,.313,.389,.688,1.077
+Las Vegas Aviators,Triple-A,Runners at 2nd & 3rd,2,0,,0,0,0,0,1,1,0,,,0,.000,.500,.000,.500
+AZL Athletics Gold,Rookie,Runner at 3rd,3,3,,0,0,0,0,0,0,2,,,0,.000,.000,.000,.000
+Las Vegas Aviators,Triple-A,Runner at 3rd,3,2,,1,0,1,0,2,0,1,,,0,.500,.333,1.500,1.833
+AZL Athletics Gold,Rookie,Scoring Position,12,11,,0,0,0,0,0,1,2,,,0,.000,.083,.000,.083
+AZL Athletics Green,Rookie,Scoring Position,2,1,,0,0,0,0,0,1,1,,,0,.000,.500,.000,.500
+Las Vegas Aviators,Triple-A,Scoring Position,51,39,,14,2,1,6,25,7,8,,,2,.359,.451,.923,1.374

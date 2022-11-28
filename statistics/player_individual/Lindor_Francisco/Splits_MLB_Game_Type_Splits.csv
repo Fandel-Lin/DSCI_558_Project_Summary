@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+New York Mets,MLB,Home Games,347,302,51,78,8,1,12,50,34,71,10,3,7,.258,.343,.411,.754
+New York Mets,MLB,Away Games,359,328,47,92,17,4,14,57,25,62,6,3,3,.280,.334,.485,.819
+New York Mets,MLB,Day Games,262,233,43,71,14,1,9,40,23,43,6,3,3,.305,.370,.489,.859
+New York Mets,MLB,Night Games,444,397,55,99,11,4,17,67,36,90,10,3,7,.249,.320,.426,.746
+New York Mets,MLB,Leading Off,122,114,,29,2,0,2,2,7,21,,,1,.254,.303,.325,.628
+New York Mets,MLB,Late / Close,52,45,,13,1,1,1,9,7,9,,,0,.289,.385,.422,.807

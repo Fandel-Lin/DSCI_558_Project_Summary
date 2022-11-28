@@ -1,0 +1,14 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Baltimore Orioles,MLB,Batting First,5,5,,0,0,0,0,0,0,2,,,0,.000,.000,.000,.000
+Baltimore Orioles,MLB,Batting Second,266,235,,62,11,1,8,30,22,54,,,8,.264,.346,.421,.767
+Houston Astros,MLB,Batting Third,1,1,,0,0,0,0,0,0,1,,,0,.000,.000,.000,.000
+Baltimore Orioles,MLB,Batting Third,84,71,,20,3,0,2,7,11,18,,,1,.282,.381,.408,.789
+Houston Astros,MLB,Batting Fourth,5,3,,0,0,0,0,0,1,0,,,1,.000,.400,.000,.400
+Baltimore Orioles,MLB,Batting Fourth,41,38,,11,2,0,0,4,2,11,,,0,.289,.317,.342,.659
+Houston Astros,MLB,Batting Fifth,26,25,,4,0,0,2,6,1,8,,,0,.160,.192,.400,.592
+Baltimore Orioles,MLB,Batting Fifth,4,4,,2,0,0,0,0,0,1,,,0,.500,.500,.500,1.000
+Houston Astros,MLB,Batting Sixth,84,77,,16,5,0,4,10,6,24,,,0,.208,.262,.429,.691
+Houston Astros,MLB,Batting Seventh,67,56,,7,1,0,2,6,10,16,,,0,.125,.254,.250,.504
+Baltimore Orioles,MLB,Batting Eighth,1,1,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+Houston Astros,MLB,Batting Eighth,1,1,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+Houston Astros,MLB,Batting Ninth,2,2,,2,1,0,0,0,0,0,,,0,1.000,1.000,1.500,2.500

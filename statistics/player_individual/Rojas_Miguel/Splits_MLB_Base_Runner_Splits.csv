@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Miami Marlins,MLB,Bases Empty,308,296,,63,11,1,5,5,8,40,,,4,.213,.244,.307,.551
+Miami Marlins,MLB,Bases Loaded,7,7,,2,1,0,0,4,0,2,,,0,.286,.286,.429,.715
+Miami Marlins,MLB,Runner at 1st,89,82,,20,1,1,0,2,7,10,,,0,.244,.303,.280,.583
+Miami Marlins,MLB,Runners at 1st & 2nd,33,30,,9,2,0,0,5,2,4,,,0,.300,.344,.367,.711
+Miami Marlins,MLB,Runners at 1st & 3rd,8,6,,2,1,0,0,4,1,1,,,0,.333,.375,.500,.875
+Miami Marlins,MLB,Runner at 2nd,42,35,,12,3,0,0,7,5,2,,,2,.343,.452,.429,.881
+Miami Marlins,MLB,Runners at 2nd & 3rd,8,6,,0,0,0,0,2,2,0,,,0,.000,.250,.000,.250
+Miami Marlins,MLB,Runner at 3rd,12,9,,3,0,0,1,7,1,2,,,0,.333,.333,.667,1.000
+Miami Marlins,MLB,Scoring Position,110,93,,28,7,0,1,29,11,11,,,2,.301,.376,.409,.785

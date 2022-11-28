@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Los Angeles Dodgers,MLB,Home Games,250,226,34,67,14,0,11,44,21,46,2,0,2,.296,.360,.504,.864
+Los Angeles Dodgers,MLB,Away Games,282,242,27,63,22,0,2,37,29,43,1,0,4,.260,.340,.376,.716
+Los Angeles Dodgers,MLB,Day Games,164,145,19,46,11,0,6,31,14,30,1,0,2,.317,.378,.517,.895
+Los Angeles Dodgers,MLB,Night Games,368,323,42,84,25,0,7,50,36,59,2,0,4,.260,.337,.402,.739
+Los Angeles Dodgers,MLB,Leading Off,126,110,,26,7,0,0,0,12,24,,,4,.236,.333,.300,.633
+Los Angeles Dodgers,MLB,Late / Close,57,49,,16,5,0,1,7,8,11,,,0,.327,.421,.490,.911

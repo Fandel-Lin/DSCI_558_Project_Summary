@@ -1,0 +1,19 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Harrisburg Senators,Double-A,Home Games,18,14,2,2,1,0,1,4,4,2,1,0,0,.143,.333,.429,.762
+Potomac Nationals,Class A Advanced,Home Games,28,23,10,12,2,0,5,10,5,2,0,1,0,.522,.607,1.261,1.868
+Hagerstown Suns,Class A,Home Games,27,20,4,7,3,0,1,6,7,4,0,0,0,.350,.519,.650,1.169
+Harrisburg Senators,Double-A,Away Games,17,17,2,8,1,0,1,6,0,5,0,0,0,.471,.471,.706,1.177
+Potomac Nationals,Class A Advanced,Away Games,45,39,7,11,1,1,2,8,6,6,0,0,0,.282,.378,.513,.891
+Hagerstown Suns,Class A,Away Games,47,39,8,15,2,3,4,18,7,9,2,0,0,.385,.468,.897,1.365
+Harrisburg Senators,Double-A,Day Games,13,10,1,1,0,0,1,2,3,2,0,0,0,.100,.308,.400,.708
+Potomac Nationals,Class A Advanced,Day Games,10,8,1,3,0,0,1,1,2,2,0,0,0,.375,.500,.750,1.250
+Hagerstown Suns,Class A,Day Games,15,14,1,5,0,1,1,4,1,4,1,0,0,.357,.400,.714,1.114
+Harrisburg Senators,Double-A,Night Games,22,21,3,9,2,0,1,8,1,5,1,0,0,.429,.455,.667,1.122
+Potomac Nationals,Class A Advanced,Night Games,63,54,16,20,3,1,6,17,9,6,0,1,0,.370,.460,.796,1.256
+Hagerstown Suns,Class A,Night Games,59,45,11,17,5,2,4,20,13,9,1,0,0,.378,.508,.844,1.352
+Harrisburg Senators,Double-A,Leading Off,5,4,,0,0,0,0,0,1,1,,,0,.000,.200,.000,.200
+Potomac Nationals,Class A Advanced,Leading Off,15,12,,8,1,0,3,3,3,2,,,0,.667,.733,1.500,2.233
+Hagerstown Suns,Class A,Leading Off,12,11,,2,0,1,0,0,1,2,,,0,.182,.250,.364,.614
+Harrisburg Senators,Double-A,Late / Close,3,2,,1,0,0,0,0,1,0,,,0,.500,.667,.500,1.167
+Potomac Nationals,Class A Advanced,Late / Close,4,2,,1,0,0,0,0,2,0,,,0,.500,.750,.500,1.250
+Hagerstown Suns,Class A,Late / Close,6,5,,2,0,0,1,4,1,2,,,0,.400,.500,1.000,1.500

@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Atlanta Braves,MLB,Home Games,340,309,54,94,14,1,14,52,28,84,12,5,1,.304,.362,.492,.854
+Atlanta Braves,MLB,Away Games,356,331,45,83,18,0,11,44,21,98,6,2,2,.251,.298,.405,.703
+Atlanta Braves,MLB,Day Games,217,196,33,55,10,0,6,25,17,56,8,0,2,.281,.341,.423,.764
+Atlanta Braves,MLB,Night Games,479,444,66,122,22,1,19,71,32,126,10,7,1,.275,.324,.457,.781
+Atlanta Braves,MLB,Leading Off,143,136,,34,7,1,5,5,7,35,,,0,.250,.287,.426,.713
+Atlanta Braves,MLB,Late / Close,72,66,,12,3,0,2,9,5,24,,,1,.182,.250,.318,.568

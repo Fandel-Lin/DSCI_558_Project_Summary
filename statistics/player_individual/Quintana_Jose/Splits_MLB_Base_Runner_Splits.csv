@@ -1,0 +1,13 @@
+Team,L,Type,W,L,ERA,G,GS,SV,IP,BF,H,R,ER,HR,BB,SO,WHIP
+St. Louis Cardinals,MLB,Home Games,1,1,1.86,5,5,0,29.0,109,19,8,6,1,6,24,0.86
+Pittsburgh Pirates,MLB,Home Games,3,3,2.42,12,12,0,63.1,259,58,20,17,4,17,59,1.18
+St. Louis Cardinals,MLB,Away Games,2,1,2.14,7,7,0,33.2,138,35,10,8,0,10,24,1.34
+Pittsburgh Pirates,MLB,Away Games,0,2,5.22,8,8,0,39.2,173,42,23,23,3,14,30,1.41
+St. Louis Cardinals,MLB,Day Games,0,0,3.24,2,2,0,8.1,39,11,5,3,0,4,4,1.80
+Pittsburgh Pirates,MLB,Day Games,0,2,3.83,9,9,0,47.0,194,44,20,20,7,13,41,1.21
+St. Louis Cardinals,MLB,Night Games,3,2,1.82,10,10,0,54.1,208,43,13,11,1,12,44,1.01
+Pittsburgh Pirates,MLB,Night Games,3,3,3.21,11,11,0,56.0,238,56,23,20,0,18,48,1.32
+St. Louis Cardinals,MLB,Leading Off,,,,12,,,15.2,66,16,,,0,3,10,1.21
+Pittsburgh Pirates,MLB,Leading Off,,,,20,,,25.1,109,27,,,3,6,24,1.30
+Pittsburgh Pirates,MLB,Late / Close,,,,2,,,2.0,7,0,,,0,1,0,0.50
+St. Louis Cardinals,MLB,Late / Close,,,,1,,,2.0,7,1,,,0,0,0,0.50
