@@ -549,6 +549,18 @@ def Predict():
 
 
 
+def Scheduele():
+    st.title('Scheduele')
+    st.write('Scheduele')
+    path = ''
+    name_list = os.listdir(path + 'scheduel')
+    table_list = []
+
+    for j in range(len(name_list)):
+
+        st.write('#### ' + name_list[j])
+
+        st.write(pd.read_csv( path + 'scheduel/'+name_list[j]+'/'+ 'score.csv',header=None,names=['home','VS.', 'away']))
 
 
 
