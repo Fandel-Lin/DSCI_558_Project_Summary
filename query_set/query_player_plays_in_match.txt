@@ -1,0 +1,27 @@
+# Player plays in a match?
+query = """
+SELECT DISTINCT ?player_name ?team1_name ?team2_name ?date ?location
+WHERE {
+    ?team1 a <http://xmlns.com/foaf/0.1/Group>.
+    ?team2 a <http://xmlns.com/foaf/0.1/Group>.
+    ?player a <http://xmlns.com/foaf/0.1/Person>.
+
+    ?team1 <http://dsci558.org/ontology/has_player> ?player_cluster.
+    ?player_cluster <http://dsci558.org/ontology/for_player> ?player.
+    ?player <http://dsci558.org/ontology/has_match> ?match_cluster.
+    ?match_cluster <http://dsci558.org/ontology/for_match> ?match.
+    ?match <http://dsci558.org/ontology/plays_at> ?location.
+    ?match <http://dsci558.org/ontology/plays_on> ?date.
+    ?match <http://dsci558.org/ontology/plays_against> ?team2.
+    
+    ?player <http://schema.org/name> ?player_name.
+    ?team1 <http://schema.org/name> ?team1_name.
+    ?team2 <http://schema.org/name> ?team2_name.
+}
+LIMIT 10
+"""
+
+# Can use either text or table to visualize
+qres = gg.query(query)
+for row in qres:
+    print(row.player_name, '-(belongs to)->',row.team1_name, '-(plays against)->', row.team2_name, '-(plays on)->', row.date, '-(plays at)->', row.location)

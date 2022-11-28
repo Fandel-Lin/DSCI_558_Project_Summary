@@ -1,0 +1,24 @@
+# Team plays against another team?
+query = """
+SELECT DISTINCT ?team1_name ?team2_name ?date ?location ?simple_result ?score_secured ?score_given
+WHERE {
+    ?team1 <http://dsci558.org/ontology/has_player> ?player_cluster.
+    ?team1 <http://dsci558.org/ontology/has_match> ?match_cluster.
+    ?match_cluster <http://dsci558.org/ontology/for_match> ?match.
+    ?match <http://dsci558.org/ontology/plays_at> ?location.
+    ?match <http://dsci558.org/ontology/plays_on> ?date.
+    ?match <http://dsci558.org/ontology/ends_with> ?simple_result.
+    ?match <http://dsci558.org/ontology/has_score_secured> ?score_secured.
+    ?match <http://dsci558.org/ontology/has_score_given> ?score_given.
+    ?match <http://dsci558.org/ontology/plays_against> ?team2.
+    
+    
+    ?team1 <http://schema.org/name> ?team1_name.
+    ?team2 <http://schema.org/name> ?team2_name.
+}
+"""
+
+# Can use either text or table to visualize
+qres = gg.query(query)
+for row in qres:
+    print(row.team1_name, '-(plays against)->', row.team2_name, '-(plays on)->', row.date, '-(plays at)->', row.location, '-(ends with)->', row.simple_result, '(', row.score_secured, ':', row.score_given, ')')

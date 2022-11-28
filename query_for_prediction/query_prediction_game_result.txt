@@ -1,0 +1,23 @@
+# Prediction - Game result
+query = """
+SELECT DISTINCT ?team1_name ?team2_name ?date ?location ?simple_result ?inference_simple_result
+WHERE {
+    ?team1 <http://dsci558.org/ontology/has_player> ?player_cluster.
+    ?team1 <http://dsci558.org/ontology/has_match> ?match_cluster.
+    ?match_cluster <http://dsci558.org/ontology/for_match> ?match.
+    ?match <http://dsci558.org/ontology/plays_at> ?location.
+    ?match <http://dsci558.org/ontology/plays_on> ?date.
+    ?match <http://dsci558.org/ontology/ends_with> ?simple_result.
+    ?match <http://dsci558.org/ontology/plays_against> ?team2.
+    ?match <http://dsci558.org/ontology/inference-ends_with> ?inference_simple_result.
+    
+    ?team1 <http://schema.org/name> ?team1_name.
+    ?team2 <http://schema.org/name> ?team2_name.
+}
+LIMIT 10
+"""
+
+# Can use either text or table to visualize
+qres = gg.query(query)
+for row in qres:
+    print(row.team1_name, '-(plays against)->', row.team2_name, '-(plays on)->', row.date, '-(plays at)->', row.location, '-(ends with)->', row.simple_result, '<-(prediction)-', row.inference_simple_result)

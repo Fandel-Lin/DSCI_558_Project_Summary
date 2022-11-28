@@ -1,0 +1,30 @@
+# Player plays against another player in a match?
+query = """
+SELECT DISTINCT ?match ?player1_name ?player2_name ?team1_name ?team2_name ?date ?location
+WHERE {
+    ?match a <http://dsci558.org/class/Match>.
+
+    ?match <http://dsci558.org/ontology/has_player_played> ?player1.
+    ?match <http://dsci558.org/ontology/has_player_played> ?player2.
+    ?match <http://dsci558.org/ontology/plays_at> ?location.
+    ?match <http://dsci558.org/ontology/plays_on> ?date.
+    ?match <http://dsci558.org/ontology/plays_by> ?team1.
+    ?match <http://dsci558.org/ontology/plays_against> ?team2.
+    
+    ?team1 <http://dsci558.org/ontology/has_player> ?player1_cluster.
+    ?player1_cluster <http://dsci558.org/ontology/for_player> ?player1.
+    ?team2 <http://dsci558.org/ontology/has_player> ?player2_cluster.
+    ?player2_cluster <http://dsci558.org/ontology/for_player> ?player2.
+
+    ?player1 <http://schema.org/name> ?player1_name.
+    ?player2 <http://schema.org/name> ?player2_name.
+    ?team1 <http://schema.org/name> ?team1_name.
+    ?team2 <http://schema.org/name> ?team2_name.
+}
+LIMIT 10
+"""
+
+# Can use either text or table to visualize
+qres = gg.query(query)
+for row in qres:
+    print(row.player1_name, '<-(from)-',row.team1_name, '-(plays against)->', row.player2_name, '<-(from)-', row.team2_name, '-(plays on)->', row.date, '-(plays at)->', row.location)

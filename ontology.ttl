@@ -20,6 +20,7 @@ bkgmc:match a bkgcs:Match,
     bkgot:has_player_played bkgpy:player ;
     bkgot:has_score_given xsd:integer ;
     bkgot:has_score_secured xsd:integer ;
+    bkgot:inference-ends_with xsd:string ;
     bkgot:plays_against bkgtm:team ;
     bkgot:plays_at xsd:string ;
     bkgot:plays_by bkgtm:team ;
@@ -366,11 +367,31 @@ bkgot:has_status a rdf:Property ;
         bkgct:player_platoon,
         bkgct:player_split .
 
+bkgot:has_status_for_match a rdf:Property ;
+    rdfs:label "Has Status for Match"^^xsd:string ;
+    rdfs:domain bkgct:player_match ;
+    rdfs:range bkgmc:match .
+
 bkgot:has_type a rdf:Property ;
     rdfs:label "Has Type"^^xsd:string ;
     rdfs:domain bkgpy:player ;
     rdfs:range bkgct:Batter,
         bkgct:Pitcher .
+
+bkgot:inference-ends_with a rdf:Property ;
+    rdfs:label "Inference- Ends with"^^xsd:string ;
+    rdfs:domain bkgmc:match ;
+    rdfs:range xsd:string .
+
+bkgot:inference-has_ER a rdf:Property ;
+    rdfs:label "Inference- Has ER"^^xsd:string ;
+    rdfs:domain bkgct:Pitcher_match ;
+    rdfs:range xsd:integer .
+
+bkgot:inference-has_RBI a rdf:Property ;
+    rdfs:label "Inference- Has RBI"^^xsd:string ;
+    rdfs:domain bkgct:Batter_match ;
+    rdfs:range xsd:integer .
 
 bkgot:plays_against a rdf:Property ;
     rdfs:label "Plays against"^^xsd:string ;
@@ -435,18 +456,6 @@ bkgct:team_match a bkgcs:Cluster ;
 bkgct:team_player a bkgcs:Cluster ;
     bkgot:for_player bkgpy:player .
 
-bkgct:Batter_match bkgot:has_AB xsd:float ;
-    bkgot:has_H xsd:integer ;
-    bkgot:has_R xsd:integer ;
-    bkgot:has_RBI xsd:integer ;
-    rdfs:subClassOf bkgct:player_match .
-
-bkgct:Pitcher_match bkgot:has_ER xsd:integer ;
-    bkgot:has_H xsd:integer ;
-    bkgot:has_IP xsd:float ;
-    bkgot:has_R xsd:integer ;
-    rdfs:subClassOf bkgct:player_match .
-
 bkgct:player_game_type a bkgcs:Cluster .
 
 bkgct:player_inning a bkgcs:Cluster .
@@ -457,8 +466,23 @@ bkgct:player_overall a bkgcs:Cluster .
 
 bkgct:player_platoon a bkgcs:Cluster .
 
+bkgct:Batter_match bkgot:has_AB xsd:float ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_RBI xsd:integer ;
+    bkgot:inference-has_RBI xsd:integer ;
+    rdfs:subClassOf bkgct:player_match .
+
+bkgct:Pitcher_match bkgot:has_ER xsd:integer ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_IP xsd:float ;
+    bkgot:has_R xsd:integer ;
+    bkgot:inference-has_ER xsd:integer ;
+    rdfs:subClassOf bkgct:player_match .
+
 bkgct:player_match a bkgcs:Cluster ;
-    bkgot:for_match bkgmc:match .
+    bkgot:for_match bkgmc:match ;
+    bkgot:has_status_for_match bkgmc:match .
 
 bkgct:Pitcher_overall bkgot:has_ERA xsd:float ;
     bkgot:has_G xsd:integer ;
