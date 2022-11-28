@@ -43,7 +43,7 @@ def main():
     if page == "Scheduel":
         Scheduel()
 
-@st.cache(suppress_st_warning=True)
+
 def homepage():
     st.write("""
             # MLB KG
@@ -79,7 +79,7 @@ def homepage():
     ```
     """)
 
-@st.cache(suppress_st_warning=True)
+
 def Search():
     st.write("""
     # Search for query
@@ -138,7 +138,7 @@ def Search():
 
     buff, col, buff2 = st.columns([1, 50, 1])
 
-
+    @st.cache(suppress_st_warning=True)
     sparql = """ {} """.format(col.text_area("Enter a query"))
 
     g = rdflib.Graph()
@@ -150,7 +150,7 @@ def Search():
                 st.write(row)
     except:
         st.error('Invalid query')
-@st.cache(suppress_st_warning=True)
+
 def Search2():
     namespaces = {
         'ppl': 'http://dsci558.org/player/',
@@ -175,6 +175,7 @@ def Search2():
 
 
     st.write("""Please select the class you want to search for""")
+    @st.cache(suppress_st_warning=True)
     g = rdflib.Graph()
     g.parse('prototype.ttl', format="ttl")
     classes=st.selectbox('Select a class', [' ', 'player','match','team'])
@@ -433,7 +434,7 @@ def Search2():
             for row in g.query(query):
                 st.write(row)
 
-@st.cache(suppress_st_warning=True)
+
 def Player():
 
     st.write("""
@@ -441,6 +442,7 @@ def Player():
     """)
     name= st.text_input("Enter a player name")
     path=''
+    @st.cache(suppress_st_warning=True)
     name_list=os.listdir(path+'statistics/player_individual')
     table_list = []
     for i in name_list:
@@ -453,11 +455,12 @@ def Player():
         st.write('###### Stats')
         st.write(pd.read_csv(player_path + 'Stats.csv'))
 
-@st.cache(suppress_st_warning=True)
+
 def Predict():
     st.write("""
     # Predict
     """)
+    @st.cache(suppress_st_warning=True)
     g = rdflib.Graph()
     g.parse('prototype.ttl', format="ttl")
     sample_query = st.selectbox('Select a prediction query', [' ', 'Prediction - Game result','Prediction - Player Performance - How player (a hitter) performs in a match','Prediction - Player Performance - How player (a pitcher) performs in a match'])
