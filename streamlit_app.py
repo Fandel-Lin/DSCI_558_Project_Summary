@@ -137,9 +137,10 @@ def Search():
         st.code(s, language='sparql')
 
     buff, col, buff2 = st.columns([1, 50, 1])
-    @st.cache(suppress_st_warning=True)
+    
     
     sparql = """ {} """.format(col.text_area("Enter a query"))
+    @st.cache(suppress_st_warning=True)
     g = rdflib.Graph()
     g.parse('prototype.ttl', format="ttl")
     try:
