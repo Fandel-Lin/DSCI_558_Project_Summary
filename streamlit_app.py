@@ -85,7 +85,15 @@ def Search():
     # Search for query
     """)
 
-    sample_query = st.selectbox('Select a sample query', ['All', 'Player belongs to which team?','How player (a hitter) performs in a match?'])
+    sample_query = st.selectbox('Select a sample query', ['All',
+                                                          'Player belongs to which team?',
+                                                          'How player (a hitter) performs in a match?',
+                                                          'How player (a pitcher) performs in a match?',
+                                                          'Player plays against another player in a match?',
+                                                          'Player plays in a match?',
+                                                          'Team ever plays against another team?',
+                                                          'Team plays against another team?'
+                                                          ])
     if sample_query == 'All':
         st.caption('Copy sample query from the text box')
         s="""
@@ -134,7 +142,160 @@ def Search():
             }
             LIMIT 10
             """
+
         st.code(s, language='sparql')
+    elif sample_query == 'How player (a hitter) performs in a match?':
+        st.caption('Copy sample query from the text box')
+        s="""
+            SELECT DISTINCT ?match ?player1_name ?player_H_in_match ?player_RBI_in_match ?team1_name ?team2_name ?date ?location
+            WHERE {
+                ?match a <http://dsci558.org/class/Match>.
+            
+                ?match <http://dsci558.org/ontology/has_player_played> ?player1.
+                ?match <http://dsci558.org/ontology/plays_at> ?location.
+                ?match <http://dsci558.org/ontology/plays_on> ?date.
+                ?match <http://dsci558.org/ontology/plays_by> ?team1.
+                ?match <http://dsci558.org/ontology/plays_against> ?team2.
+            
+                ?player1 <http://dsci558.org/ontology/has_match> ?player_match.
+                ?player_match <http://dsci558.org/ontology/has_status> ?player_status_in_match.
+                ?player_status_in_match <http://dsci558.org/ontology/has_status_for_match> ?match.
+                ?player_status_in_match <http://dsci558.org/ontology/has_H> ?player_H_in_match.
+                ?player_status_in_match <http://dsci558.org/ontology/has_RBI> ?player_RBI_in_match.
+                
+                ?team1 <http://dsci558.org/ontology/has_player> ?player1_cluster.
+                ?player1_cluster <http://dsci558.org/ontology/for_player> ?player1.
+            
+                ?player1 <http://schema.org/name> ?player1_name.
+                ?team1 <http://schema.org/name> ?team1_name.
+                ?team2 <http://schema.org/name> ?team2_name.
+            }
+            LIMIT 10
+            """
+
+        st.code(s, language='sparql')
+    elif sample_query == 'How player (a pitcher) performs in a match?':
+        st.caption('Copy sample query from the text box')
+        s="""
+        SELECT DISTINCT ?match ?player1_name ?player_IP_in_match ?player_ER_in_match ?team1_name ?team2_name ?date ?location
+        WHERE {
+            ?match a <http://dsci558.org/class/Match>.
+        
+            ?match <http://dsci558.org/ontology/has_player_played> ?player1.
+            ?match <http://dsci558.org/ontology/plays_at> ?location.
+            ?match <http://dsci558.org/ontology/plays_on> ?date.
+            ?match <http://dsci558.org/ontology/plays_by> ?team1.
+            ?match <http://dsci558.org/ontology/plays_against> ?team2.
+        
+            ?player1 <http://dsci558.org/ontology/has_match> ?player_match.
+            ?player_match <http://dsci558.org/ontology/has_status> ?player_status_in_match.
+            ?player_status_in_match <http://dsci558.org/ontology/has_status_for_match> ?match.
+            ?player_status_in_match <http://dsci558.org/ontology/has_IP> ?player_IP_in_match.
+            ?player_status_in_match <http://dsci558.org/ontology/has_ER> ?player_ER_in_match.
+            
+            ?team1 <http://dsci558.org/ontology/has_player> ?player1_cluster.
+            ?player1_cluster <http://dsci558.org/ontology/for_player> ?player1.
+        
+            ?player1 <http://schema.org/name> ?player1_name.
+            ?team1 <http://schema.org/name> ?team1_name.
+            ?team2 <http://schema.org/name> ?team2_name.
+        }
+        LIMIT 10
+        """
+        st.code(s, language='sparql')
+
+    elif sample_query == 'Player plays against another player in a match?':
+        st.caption('Copy sample query from the text box')
+        s= """
+            SELECT DISTINCT ?match ?player1_name ?player2_name ?team1_name ?team2_name ?date ?location
+            WHERE {
+                ?match a <http://dsci558.org/class/Match>.
+            
+                ?match <http://dsci558.org/ontology/has_player_played> ?player1.
+                ?match <http://dsci558.org/ontology/has_player_played> ?player2.
+                ?match <http://dsci558.org/ontology/plays_at> ?location.
+                ?match <http://dsci558.org/ontology/plays_on> ?date.
+                ?match <http://dsci558.org/ontology/plays_by> ?team1.
+                ?match <http://dsci558.org/ontology/plays_against> ?team2.
+                
+                ?team1 <http://dsci558.org/ontology/has_player> ?player1_cluster.
+                ?player1_cluster <http://dsci558.org/ontology/for_player> ?player1.
+                ?team2 <http://dsci558.org/ontology/has_player> ?player2_cluster.
+                ?player2_cluster <http://dsci558.org/ontology/for_player> ?player2.
+            
+                ?player1 <http://schema.org/name> ?player1_name.
+                ?player2 <http://schema.org/name> ?player2_name.
+                ?team1 <http://schema.org/name> ?team1_name.
+                ?team2 <http://schema.org/name> ?team2_name.
+            }
+            LIMIT 10
+            """
+        st.code(s, language='sparql')
+
+    elif sample_query == 'Player plays in a match?':
+
+        st.caption('Copy sample query from the text box')
+        s = """
+                    SELECT DISTINCT ?player_name ?team1_name ?team2_name ?date ?location
+            WHERE {
+                ?team1 a <http://xmlns.com/foaf/0.1/Group>.
+                ?team2 a <http://xmlns.com/foaf/0.1/Group>.
+                ?player a <http://xmlns.com/foaf/0.1/Person>.
+            
+                ?team1 <http://dsci558.org/ontology/has_player> ?player_cluster.
+                ?player_cluster <http://dsci558.org/ontology/for_player> ?player.
+                ?player <http://dsci558.org/ontology/has_match> ?match_cluster.
+                ?match_cluster <http://dsci558.org/ontology/for_match> ?match.
+                ?match <http://dsci558.org/ontology/plays_at> ?location.
+                ?match <http://dsci558.org/ontology/plays_on> ?date.
+                ?match <http://dsci558.org/ontology/plays_against> ?team2.
+                
+                ?player <http://schema.org/name> ?player_name.
+                ?team1 <http://schema.org/name> ?team1_name.
+                ?team2 <http://schema.org/name> ?team2_name.
+            }
+            LIMIT 10
+            """
+        st.code(s, language='sparql')
+
+    elif sample_query == 'Team plays against another team?':
+        st.caption('Copy sample query from the text box')
+        s = """
+                SELECT DISTINCT ?team1_name ?team2_name ?date ?location ?simple_result ?score_secured ?score_given
+                WHERE {
+                    ?team1 <http://dsci558.org/ontology/has_player> ?player_cluster.
+                    ?team1 <http://dsci558.org/ontology/has_match> ?match_cluster.
+                    ?match_cluster <http://dsci558.org/ontology/for_match> ?match.
+                    ?match <http://dsci558.org/ontology/plays_at> ?location.
+                    ?match <http://dsci558.org/ontology/plays_on> ?date.
+                    ?match <http://dsci558.org/ontology/ends_with> ?simple_result.
+                    ?match <http://dsci558.org/ontology/has_score_secured> ?score_secured.
+                    ?match <http://dsci558.org/ontology/has_score_given> ?score_given.
+                    ?match <http://dsci558.org/ontology/plays_against> ?team2.
+                    
+                    
+                    ?team1 <http://schema.org/name> ?team1_name.
+                    ?team2 <http://schema.org/name> ?team2_name.
+                }
+                """
+        st.code(s, language='sparql')
+
+    elif sample_query == 'Team ever plays against another team?':
+        st.caption('Copy sample query from the text box')
+        s = """
+            SELECT DISTINCT ?team1_name ?team2_name
+            WHERE {
+                ?match <http://dsci558.org/ontology/plays_by> ?team1.
+                ?match <http://dsci558.org/ontology/plays_against> ?team2.
+                ?team1 <http://schema.org/name> ?team1_name.
+                ?team2 <http://schema.org/name> ?team2_name.
+            }
+            """
+        st.code(s, language='sparql')
+
+
+
+
 
     buff, col, buff2 = st.columns([1, 50, 1])
 
@@ -202,22 +363,37 @@ def Search2():
             source_code = HtmlFile.read()
             st.components.v1.html(source_code, height=300, width=300)
 
-        for row in g.query(query):
-                st.write('**{}** '.format(row.person_name)+'  plays   at   '+' *{}*'.format(row.object_name))
+            for row in g.query(query):
+                    st.write('**{}** '.format(row.person_name)+'  plays   at   '+' *{}*'.format(row.object_name))
 
 
 
 
         if predicate=='has_match':
             query="""
-            SELECT ?person ?object
+            SELECT ?person_name ?team_name
             WHERE {
-                ?person <http://dsci558.org/ontology/has_match> ?object.
+                ?person <http://dsci558.org/ontology/has_match> ?match_id.
+                ?match_id <http://dsci558.org/ontology/for_match>  ?match.
+                ?match <http://dsci558.org/ontology/plays_against>  ?team.
+                ?team <http://schema.org/name> ?team_name.
+                ?person <http://schema.org/name> ?person_name.
                 
             }
             """
+
+            pyvis_graph = kg.visualize_query(query)
+
+            pyvis_graph.force_atlas_2based()
+
+            pyvis_graph.show("test1.html")
+            HtmlFile = open("test1.html", 'r', encoding='utf-8')
+            source_code = HtmlFile.read()
+            st.components.v1.html(source_code, height=400, width=400)
+
             for row in g.query(query):
-                st.write(row)
+
+                st.write(row.person_name, ' has match against ', row.team_name)
 
         if predicate=='pos_bat':
             query="""
@@ -301,7 +477,7 @@ def Search2():
             }
             """
             for row in g.query(query):
-                st.write(row)
+                st.write(row.t_name, ' has player ', row.object_name)
         if predicate == 'has_score_given':
             query = """
             SELECT ?object_name ?object
@@ -312,7 +488,7 @@ def Search2():
             }
             """
             for row in g.query(query):
-                st.write(row)
+                st.write(row.object_name, ' has score given ', row.object)
 
         if predicate == 'has_score_secured':
             query = """
@@ -324,22 +500,56 @@ def Search2():
                 
             }
             """
-            for row in g.query(query):
-                st.write(row)
+            col1, col2 = st.columns([40, 60])
+
+            person_names = []
+            object_names = []
+            teams=[]
+            with col1:
+                for row in g.query(query):
+                    st.write(row.object_name, ' has score secured ', row.object)
+                    person_names.append(row[0])
+                    object_names.append(row[1])
+            with col2:
+                df = pd.DataFrame(np.array([person_names, object_names]).T, columns=['teams', 'oppo_teams'])
+                for t in df['teams'].unique().tolist():
+                    teams=df[df['teams']==t].iloc[:,1].astype(int).values.tolist()
+                    df_t = pd.DataFrame(teams)
+                    team_names = [t]
+                    df_t.columns = team_names
+                    st.line_chart(df_t)
+
+
+
+
 
 
 
         if predicate == 'plays_against':
             query = """
-            SELECT ?person ?object_name
+            SELECT ?person_name ?object_name
             WHERE {
                 ?person <http://dsci558.org/ontology/plays_against> ?object.
-                ?object <http://schema.org/name> ?object_name
+                ?object <http://schema.org/name> ?object_name.
+                ?person  <http://dsci558.org/ontology/plays_by> ?t.
+                ?t <http://schema.org/name> ?person_name
                 
             }
             """
-            for row in g.query(query):
-                st.write(row)
+            col1, col2 = st.columns([40, 60])
+
+            person_names = []
+            object_names = []
+            with col1:
+                for row in g.query(query):
+                    st.write(row.person_name, ' plays against ', row.object_name)
+                    person_names.append(row[0])
+                    object_names.append(row[1])
+            with col2:
+                df = pd.DataFrame(np.array([person_names, object_names]).T, columns=['teams', 'num_of_matches_with_oppo_teams'])
+                st.bar_chart(df.groupby(['teams']).count())
+
+
 
         if predicate == 'plays_at':
             query = """
@@ -352,7 +562,7 @@ def Search2():
             }
             """
             for row in g.query(query):
-                st.write(row)
+                st.write(row.object_name, ' plays at ', row.object)
         if predicate == 'plays_by':
             query = """
             SELECT ?person ?object_name
@@ -554,7 +764,6 @@ def Scheduele():
     st.write('Scheduele')
     path = ''
     name_list = os.listdir(path + 'scheduel')
-    
     table_list = []
 
     for j in range(len(name_list)):
@@ -562,6 +771,7 @@ def Scheduele():
         st.write('#### ' + name_list[j])
 
         st.write(pd.read_csv( path + 'scheduel/'+name_list[j]+'/'+ 'score.csv',header=None,names=['home','VS.', 'away']))
+
 
 
 
