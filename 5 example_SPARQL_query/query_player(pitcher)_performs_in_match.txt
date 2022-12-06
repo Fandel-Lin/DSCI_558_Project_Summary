@@ -1,0 +1,32 @@
+# How player (a pitcher) performs in a match
+query = """
+SELECT DISTINCT ?match ?player1_name ?player_IP_in_match ?player_ER_in_match ?team1_name ?team2_name ?date ?location
+WHERE {
+    ?match a <http://dsci558.org/class/Match>.
+
+    ?match <http://dsci558.org/ontology/has_player_played> ?player1.
+    ?match <http://dsci558.org/ontology/plays_at> ?location.
+    ?match <http://dsci558.org/ontology/plays_on> ?date.
+    ?match <http://dsci558.org/ontology/plays_by> ?team1.
+    ?match <http://dsci558.org/ontology/plays_against> ?team2.
+
+    ?player1 <http://dsci558.org/ontology/has_match> ?player_match.
+    ?player_match <http://dsci558.org/ontology/has_status> ?player_status_in_match.
+    ?player_status_in_match <http://dsci558.org/ontology/has_status_for_match> ?match.
+    ?player_status_in_match <http://dsci558.org/ontology/has_IP> ?player_IP_in_match.
+    ?player_status_in_match <http://dsci558.org/ontology/has_ER> ?player_ER_in_match.
+    
+    ?team1 <http://dsci558.org/ontology/has_player> ?player1_cluster.
+    ?player1_cluster <http://dsci558.org/ontology/for_player> ?player1.
+
+    ?player1 <http://schema.org/name> ?player1_name.
+    ?team1 <http://schema.org/name> ?team1_name.
+    ?team2 <http://schema.org/name> ?team2_name.
+}
+LIMIT 10
+"""
+
+# Can use either text or table to visualize
+qres = gg.query(query)
+for row in qres:
+    print(row.player1_name, '<-(from)-',row.team1_name, '-(has IP in match)', row.player_IP_in_match , '-(has ER in match)->', row.player_ER_in_match, '-(plays against)->', row.team2_name, '-(plays on)->', row.date, '-(plays at)->', row.location)

@@ -1,0 +1,175 @@
+Id,Uri,PlayerName,Team
+88,Manoah_Alek,Alek Manoah,Toronto Blue Jays
+89,Marquez_German,German Marquez,Colorado Rockies
+110,Nola_Aaron,Aaron Nola,Philadelphia Phillies
+111,Ohtani_Shohei,Shohei Ohtani,Los Angeles Angels
+112,Olson_Matt,Matt Olson,Atlanta Braves
+113,Ozuna_Marcell,Marcell Ozuna,Atlanta Braves
+114,Pena_Jeremy,Jeremy Pena,Houston Astros
+115,Perez_Martin,Martin Perez,Texas Rangers
+116,Pham_Tommy,Tommy Pham,Cincinnati Reds
+90,Marte_Ketel,Ketel Marte,Arizona Diamondbacks
+117,Pivetta_Nick,Nick Pivetta,Boston Red Sox
+91,Marte_Starling,Starling Marte,New York Mets
+118,Pollock_AJ,AJ Pollock,Chicago White Sox
+92,Martinez_JD,JD Martinez,Boston Red Sox
+119,Profar_Jurickson,Jurickson Profar,San Diego Padres
+93,Mateo_Jorge,Jorge Mateo,Baltimore Orioles
+94,McClanahan_Shane,Shane McClanahan,Tampa Bay Rays
+95,McCutchen_Andrew,Andrew McCutchen,Milwaukee Brewers
+96,McKenzie_Triston,Triston McKenzie,Cleveland Guardians
+97,McMahon_Ryan,Ryan McMahon,Colorado Rockies
+10,Arenado_Nolan,Nolan Arenado,St. Louis Cardinals
+98,McNeil_Jeff,Jeff McNeil,New York Mets
+11,Arozarena_Randy,Randy Arozarena,Tampa Bay Rays
+99,Melendez_Jr_MJ,MJ Melendez Jr,Kansas City Royals
+12,Arraez_Luis,Luis Arraez,Minnesota Twins
+13,Baez_Javier,Javier Baez,Detroit Tigers
+14,Bassitt_Chris,Chris Bassitt,New York Mets
+15,Bellinger_Cody,Cody Bellinger,Los Angeles Dodgers
+16,Bell_Josh,Josh Bell,Washington Nationals
+17,Benintendi_Andrew,Andrew Benintendi,Kansas City Royals
+18,Berrios_Jose,Jose Berrios,Toronto Blue Jays
+19,Betts_Mookie,Mookie Betts,Los Angeles Dodgers
+120,Quantrill_Cal,Cal Quantrill,Cleveland Guardians
+0,Abreu_Jose,Jose Abreu,Chicago White Sox
+121,Quintana_Jose,Jose Quintana,St. Louis Cardinals
+1,Acuna_Jr_Ronald,Ronald Acuna Jr,Atlanta Braves
+122,Ramirez_Jose,Jose Ramirez,Cleveland Guardians
+2,Adames_Willy,Willy Adames,Milwaukee Brewers
+123,Ray_Robbie,Robbie Ray,Seattle Mariners
+3,Aguilar_Jesus,Jesus Aguilar,Miami Marlins
+124,Realmuto_JT,JT Realmuto,Philadelphia Phillies
+4,Alcantara_Sandy,Sandy Alcantara,Miami Marlins
+125,Renfroe_Hunter,Hunter Renfroe,Milwaukee Brewers
+5,Alonso_Pete,Pete Alonso,New York Mets
+126,Rengifo_Luis,Luis Rengifo,Los Angeles Angels
+6,Altuve_Jose,Jose Altuve,Houston Astros
+127,Reynolds_Bryan,Bryan Reynolds,Pittsburgh Pirates
+7,Alvarez_Yordan,Yordan Alvarez,Houston Astros
+128,Riley_Austin,Austin Riley,Atlanta Braves
+8,Anderson_Tyler,Tyler Anderson,Los Angeles Dodgers
+129,Rizzo_Anthony,Anthony Rizzo,New York Yankees
+9,Andrus_Elvis,Elvis Andrus,Oakland Athletics
+20,Bichette_Bo,Bo Bichette,Toronto Blue Jays
+21,Bieber_Shane,Shane Bieber,Cleveland Guardians
+22,Blackmon_Charlie,Charlie Blackmon,Colorado Rockies
+23,Bogaerts_Xander,Xander Bogaerts,Boston Red Sox
+24,Bohm_Alec,Alec Bohm,Philadelphia Phillies
+25,Bregman_Alex,Alex Bregman,Houston Astros
+26,Brown_Seth,Seth Brown,Oakland Athletics
+27,Burnes_Corbin,Corbin Burnes,Milwaukee Brewers
+28,Canha_Mark,Mark Canha,New York Mets
+29,Castellanos_Nick,Nick Castellanos,Philadelphia Phillies
+130,Rodgers_Brendan,Brendan Rodgers,Colorado Rockies
+131,Rodon_Carlos,Carlos Rodon,San Francisco Giants
+132,Rodriguez_Julio,Julio Rodriguez,Seattle Mariners
+133,Rojas_Josh,Josh Rojas,Arizona Diamondbacks
+134,Rojas_Miguel,Miguel Rojas,Miami Marlins
+135,Rosario_Amed,Amed Rosario,Cleveland Guardians
+136,Santana_Carlos,Carlos Santana,Seattle Mariners
+137,Santander_Anthony,Anthony Santander,Baltimore Orioles
+138,Schoop_Jonathan,Jonathan Schoop,Detroit Tigers
+139,Schwarber_Kyle,Kyle Schwarber,Philadelphia Phillies
+30,Cease_Dylan,Dylan Cease,Chicago White Sox
+31,Chapman_Matt,Matt Chapman,Toronto Blue Jays
+32,Cole_Gerrit,Gerrit Cole,New York Yankees
+33,Correa_Carlos,Carlos Correa,Minnesota Twins
+34,Crawford_JP,JP Crawford,Seattle Mariners
+35,Cronenworth_Jake,Jake Cronenworth,San Diego Padres
+36,Cron_CJ,CJ Cron,Colorado Rockies
+37,Cruz_Jr_Nelson,Nelson Cruz Jr,Washington Nationals
+38,Darvish_Yu,Yu Darvish,San Diego Padres
+39,Devers_Rafael,Rafael Devers,Boston Red Sox
+140,Seager_Corey,Corey Seager,Texas Rangers
+141,Semien_Marcus,Marcus Semien,Texas Rangers
+142,Smith_Will,Will Smith,Los Angeles Dodgers
+143,Soto_Juan,Juan Soto,San Diego Padres
+144,Springer_III_George,George Springer III,Toronto Blue Jays
+145,Straw_Myles,Myles Straw,Cleveland Guardians
+146,Suarez_Eugenio,Eugenio Suarez,Seattle Mariners
+147,Swanson_Dansby,Dansby Swanson,Atlanta Braves
+148,Taillon_Jameson,Jameson Taillon,New York Yankees
+149,Tellez_Rowdy,Rowdy Tellez,Milwaukee Brewers
+40,Diaz_Yandy,Yandy Diaz,Tampa Bay Rays
+41,Donaldson_Josh,Josh Donaldson,New York Yankees
+42,Drury_Brandon,Brandon Drury,San Diego Padres
+43,Edman_Tommy,Tommy Edman,St. Louis Cardinals
+44,Escobar_Eduardo,Eduardo Escobar,New York Mets
+45,Estrada_Thairo,Thairo Estrada,San Francisco Giants
+46,Farmer_Kyle,Kyle Farmer,Cincinnati Reds
+47,Flores_Wilmer,Wilmer Flores,San Francisco Giants
+48,France_Ty,Ty France,Seattle Mariners
+49,Frazier_Adam,Adam Frazier,Seattle Mariners
+150,Thomas_Lane,Lane Thomas,Washington Nationals
+151,Torres_Gleyber,Gleyber Torres,New York Yankees
+152,Tucker_Kyle,Kyle Tucker,Houston Astros
+153,Turner_Justin,Justin Turner,Los Angeles Dodgers
+154,Turner_Trea,Trea Turner,Los Angeles Dodgers
+155,Urias_Julio,Julio Urias,Los Angeles Dodgers
+156,Urquidy_Jose,Jose Urquidy,Houston Astros
+157,Urshela_Gio,Gio Urshela,Minnesota Twins
+158,Valdez_Framber,Framber Valdez,Houston Astros
+159,Varsho_Daulton,Daulton Varsho,Arizona Diamondbacks
+50,Freeland_Kyle,Kyle Freeland,Colorado Rockies
+51,Freeman_Freddie,Freddie Freeman,Los Angeles Dodgers
+52,Fried_Max,Max Fried,Atlanta Braves
+53,Gallen_Zac,Zac Gallen,Arizona Diamondbacks
+54,Garcia_Adolis,Adolis Garcia,Texas Rangers
+55,Gausman_Kevin,Kevin Gausman,Toronto Blue Jays
+56,Gibson_Kyle,Kyle Gibson,Philadelphia Phillies
+57,Gilbert_Logan,Logan Gilbert,Seattle Mariners
+58,Gimenez_Andres,Andres Gimenez,Cleveland Guardians
+59,Goldschmidt_Paul,Paul Goldschmidt,St. Louis Cardinals
+160,Vaughn_Andrew,Andrew Vaughn,Chicago White Sox
+161,Verdugo_Alex,Alex Verdugo,Boston Red Sox
+162,Verlander_Justin,Justin Verlander,Houston Astros
+163,Voit_III_Luke,Luke Voit III,San Diego Padres
+164,Wainwright_Adam,Adam Wainwright,St. Louis Cardinals
+165,Walker_Christian,Christian Walker,Arizona Diamondbacks
+166,Ward_Taylor,Taylor Ward,Los Angeles Angels
+167,Webb_Logan,Logan Webb,San Francisco Giants
+168,Winker_Jesse,Jesse Winker,Seattle Mariners
+169,Wisdom_Patrick,Patrick Wisdom,Chicago Cubs
+60,Gonzales_Marco,Marco Gonzales,Seattle Mariners
+61,Grichuk_Randal,Randal Grichuk,Colorado Rockies
+62,Grisham_Trent,Trent Grisham,San Diego Padres
+63,Guerrero_Jr_Vladimir,Vladimir Guerrero Jr,Toronto Blue Jays
+64,Gurriel_Yuli,Yuli Gurriel,Houston Astros
+65,Happ_Ian,Ian Happ,Chicago Cubs
+66,Hayes_Ke_Bryan,Bryan Hayes Ke,Pittsburgh Pirates
+67,Hays_Austin,Austin Hays,Baltimore Orioles
+68,Hernandez_Cesar,Cesar Hernandez,Washington Nationals
+69,Hernandez_Teoscar,Teoscar Hernandez,Toronto Blue Jays
+170,Witt_Jr_Bobby,Bobby Witt Jr,Kansas City Royals
+171,Wright_Kyle,Kyle Wright,Atlanta Braves
+172,Yastrzemski_Mike,Mike Yastrzemski,San Francisco Giants
+173,Yelich_Christian,Christian Yelich,Milwaukee Brewers
+70,Hoerner_Nico,Nico Hoerner,Chicago Cubs
+71,Hoskins_Rhys,Rhys Hoskins,Philadelphia Phillies
+72,Irvin_Cole,Cole Irvin,Oakland Athletics
+73,Judge_Aaron,Aaron Judge,New York Yankees
+74,Kelly_Merrill,Merrill Kelly,Arizona Diamondbacks
+75,Kemp_Tony,Tony Kemp,Oakland Athletics
+76,Kim_Ha-Seong,Ha-Seong Kim,San Diego Padres
+77,Kiner-Falefa_Isiah,Isiah Kiner-Falefa,New York Yankees
+78,Kirk_Alejandro,Alejandro Kirk,Toronto Blue Jays
+79,Kluber_Corey,Corey Kluber,Tampa Bay Rays
+100,Merrifield_Whit,Whit Merrifield,Toronto Blue Jays
+101,Mikolas_Miles,Miles Mikolas,St. Louis Cardinals
+102,Montgomery_Jordan,Jordan Montgomery,St. Louis Cardinals
+103,Morton_Charlie,Charlie Morton,Atlanta Braves
+104,Mountcastle_Ryan,Ryan Mountcastle,Baltimore Orioles
+105,Mullins_II_Cedric,Cedric Mullins II,Baltimore Orioles
+106,Muncy_Max,Max Muncy,Los Angeles Dodgers
+80,Kwan_Steven,Steven Kwan,Cleveland Guardians
+107,Murphy_Sean,Sean Murphy,Oakland Athletics
+81,LeMahieu_DJ,DJ LeMahieu,New York Yankees
+108,Musgrove_Joe,Joe Musgrove,San Diego Padres
+82,Lindor_Francisco,Francisco Lindor,New York Mets
+109,Nimmo_Brandon,Brandon Nimmo,New York Mets
+83,Lopez_Pablo,Pablo Lopez,Miami Marlins
+84,Lowe_Nathaniel,Nathaniel Lowe,Texas Rangers
+85,Lyles_Jordan,Jordan Lyles,Baltimore Orioles
+86,Machado_Manny,Manny Machado,San Diego Padres
+87,Mancini_III_Trey,Trey Mancini III,Baltimore Orioles

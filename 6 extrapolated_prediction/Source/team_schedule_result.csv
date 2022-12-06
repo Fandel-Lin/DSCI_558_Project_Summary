@@ -1,0 +1,1217 @@
+Id,Team,TimeInfo,Against,SimpleResult,SimpleLocation,ScoreSecured,ScoreGiven,GeneralInfo
+0,Atlanta Braves,04/07,Cincinnati Reds,LOSE,HOME,3,6,2022 04 07 Atlanta Braves VS. Cincinnati Reds
+1,Cincinnati Reds,04/07,Atlanta Braves,WIN,AWAY,6,3,2022 04 07 Atlanta Braves VS. Cincinnati Reds
+2,Chicago Cubs,04/07,Milwaukee Brewers,WIN,HOME,5,4,2022 04 07 Chicago Cubs VS. Milwaukee Brewers
+3,Milwaukee Brewers,04/07,Chicago Cubs,LOSE,AWAY,4,5,2022 04 07 Chicago Cubs VS. Milwaukee Brewers
+4,New York Yankees,04/08,Boston Red Sox,WIN,HOME,6,5,2022 04 08 New York Yankees VS. Boston Red Sox
+5,Boston Red Sox,04/08,New York Yankees,LOSE,AWAY,5,6,2022 04 08 New York Yankees VS. Boston Red Sox
+6,Philadelphia Phillies,04/08,Oakland Athletics,WIN,HOME,9,5,2022 04 08 Philadelphia Phillies VS. Oakland Athletics
+7,Oakland Athletics,04/08,Philadelphia Phillies,LOSE,AWAY,5,9,2022 04 08 Philadelphia Phillies VS. Oakland Athletics
+8,Atlanta Braves,04/09,Cincinnati Reds,WIN,HOME,2,1,2022 04 09 Atlanta Braves VS. Cincinnati Reds
+9,Cincinnati Reds,04/09,Atlanta Braves,LOSE,AWAY,1,2,2022 04 09 Atlanta Braves VS. Cincinnati Reds
+10,Detroit Tigers,04/09,Chicago White Sox,LOSE,HOME,2,5,2022 04 09 Detroit Tigers VS. Chicago White Sox
+11,Chicago White Sox,04/09,Detroit Tigers,WIN,AWAY,5,2,2022 04 09 Detroit Tigers VS. Chicago White Sox
+12,New York Yankees,04/09,Boston Red Sox,WIN,HOME,4,2,2022 04 09 New York Yankees VS. Boston Red Sox
+13,Boston Red Sox,04/09,New York Yankees,LOSE,AWAY,2,4,2022 04 09 New York Yankees VS. Boston Red Sox
+14,Tampa Bay Rays,04/09,Baltimore Orioles,WIN,HOME,5,3,2022 04 09 Tampa Bay Rays VS. Baltimore Orioles
+15,Baltimore Orioles,04/09,Tampa Bay Rays,LOSE,AWAY,3,5,2022 04 09 Tampa Bay Rays VS. Baltimore Orioles
+16,Washington Nationals,04/09,New York Mets,LOSE,HOME,0,5,2022 04 09 Washington Nationals VS. New York Mets
+17,New York Mets,04/09,Washington Nationals,WIN,AWAY,5,0,2022 04 09 Washington Nationals VS. New York Mets
+18,New York Yankees,04/10,Boston Red Sox,LOSE,HOME,3,4,2022 04 10 New York Yankees VS. Boston Red Sox
+19,Boston Red Sox,04/10,New York Yankees,WIN,AWAY,4,3,2022 04 10 New York Yankees VS. Boston Red Sox
+20,Toronto Blue Jays,04/10,Texas Rangers,LOSE,HOME,6,12,2022 04 10 Toronto Blue Jays VS. Texas Rangers
+21,Texas Rangers,04/10,Toronto Blue Jays,WIN,AWAY,12,6,2022 04 10 Toronto Blue Jays VS. Texas Rangers
+22,Washington Nationals,04/10,New York Mets,WIN,HOME,4,2,2022 04 10 Washington Nationals VS. New York Mets
+23,New York Mets,04/10,Washington Nationals,LOSE,AWAY,2,4,2022 04 10 Washington Nationals VS. New York Mets
+24,Los Angeles Angels,04/11,Miami Marlins,WIN,HOME,6,2,2022 04 11 Los Angeles Angels VS. Miami Marlins
+25,Miami Marlins,04/11,Los Angeles Angels,LOSE,AWAY,2,6,2022 04 11 Los Angeles Angels VS. Miami Marlins
+26,Philadelphia Phillies,04/11,New York Mets,WIN,HOME,5,4,2022 04 11 Philadelphia Phillies VS. New York Mets
+27,New York Mets,04/11,Philadelphia Phillies,LOSE,AWAY,4,5,2022 04 11 Philadelphia Phillies VS. New York Mets
+28,San Francisco Giants,04/11,San Diego Padres,LOSE,HOME,2,4,2022 04 11 San Francisco Giants VS. San Diego Padres
+29,San Diego Padres,04/11,San Francisco Giants,WIN,AWAY,4,2,2022 04 11 San Francisco Giants VS. San Diego Padres
+30,Philadelphia Phillies,04/12,New York Mets,LOSE,HOME,0,2,2022 04 12 Philadelphia Phillies VS. New York Mets
+31,New York Mets,04/12,Philadelphia Phillies,WIN,AWAY,2,0,2022 04 12 Philadelphia Phillies VS. New York Mets
+32,San Francisco Giants,04/12,San Diego Padres,WIN,HOME,13,2,2022 04 12 San Francisco Giants VS. San Diego Padres
+33,San Diego Padres,04/12,San Francisco Giants,LOSE,AWAY,2,13,2022 04 12 San Francisco Giants VS. San Diego Padres
+34,Tampa Bay Rays,04/12,Oakland Athletics,WIN,HOME,9,8,2022 04 12 Tampa Bay Rays VS. Oakland Athletics
+35,Oakland Athletics,04/12,Tampa Bay Rays,LOSE,AWAY,8,9,2022 04 12 Tampa Bay Rays VS. Oakland Athletics
+36,Arizona Diamondbacks,04/13,Houston Astros,WIN,HOME,3,2,2022 04 13 Arizona Diamondbacks VS. Houston Astros
+37,Houston Astros,04/13,Arizona Diamondbacks,LOSE,AWAY,2,3,2022 04 13 Arizona Diamondbacks VS. Houston Astros
+38,Atlanta Braves,04/13,Washington Nationals,LOSE,HOME,1,3,2022 04 13 Atlanta Braves VS. Washington Nationals
+39,Washington Nationals,04/13,Atlanta Braves,WIN,AWAY,3,1,2022 04 13 Atlanta Braves VS. Washington Nationals
+40,Chicago White Sox,04/13,Seattle Mariners,WIN,HOME,6,4,2022 04 13 Chicago White Sox VS. Seattle Mariners
+41,Seattle Mariners,04/13,Chicago White Sox,LOSE,AWAY,4,6,2022 04 13 Chicago White Sox VS. Seattle Mariners
+42,Cincinnati Reds,04/13,Cleveland Guardians,LOSE,HOME,3,7,2022 04 13 Cincinnati Reds VS. Cleveland Guardians
+43,Cleveland Guardians,04/13,Cincinnati Reds,WIN,AWAY,7,3,2022 04 13 Cincinnati Reds VS. Cleveland Guardians
+44,New York Yankees,04/13,Toronto Blue Jays,LOSE,HOME,4,6,2022 04 13 New York Yankees VS. Toronto Blue Jays
+45,Toronto Blue Jays,04/13,New York Yankees,WIN,AWAY,6,4,2022 04 13 New York Yankees VS. Toronto Blue Jays
+46,Pittsburgh Pirates,04/13,Chicago Cubs,WIN,HOME,6,2,2022 04 13 Pittsburgh Pirates VS. Chicago Cubs
+47,Chicago Cubs,04/13,Pittsburgh Pirates,LOSE,AWAY,2,6,2022 04 13 Pittsburgh Pirates VS. Chicago Cubs
+48,San Francisco Giants,04/13,San Diego Padres,WIN,HOME,2,1,2022 04 13 San Francisco Giants VS. San Diego Padres
+49,San Diego Padres,04/13,San Francisco Giants,LOSE,AWAY,1,2,2022 04 13 San Francisco Giants VS. San Diego Padres
+50,New York Yankees,04/14,Toronto Blue Jays,WIN,HOME,3,0,2022 04 14 New York Yankees VS. Toronto Blue Jays
+51,Toronto Blue Jays,04/14,New York Yankees,LOSE,AWAY,0,3,2022 04 14 New York Yankees VS. Toronto Blue Jays
+52,Texas Rangers,04/14,Los Angeles Angels,WIN,HOME,10,5,2022 04 14 Texas Rangers VS. Los Angeles Angels
+53,Los Angeles Angels,04/14,Texas Rangers,LOSE,AWAY,5,10,2022 04 14 Texas Rangers VS. Los Angeles Angels
+54,New York Mets,04/15,Arizona Diamondbacks,WIN,HOME,10,3,2022 04 15 New York Mets VS. Arizona Diamondbacks
+55,Arizona Diamondbacks,04/15,New York Mets,LOSE,AWAY,3,10,2022 04 15 New York Mets VS. Arizona Diamondbacks
+56,Colorado Rockies,04/16,Chicago Cubs,WIN,HOME,9,6,2022 04 16 Colorado Rockies VS. Chicago Cubs
+57,Chicago Cubs,04/16,Colorado Rockies,LOSE,AWAY,6,9,2022 04 16 Colorado Rockies VS. Chicago Cubs
+58,Los Angeles Dodgers,04/16,Cincinnati Reds,WIN,HOME,5,2,2022 04 16 Los Angeles Dodgers VS. Cincinnati Reds
+59,Cincinnati Reds,04/16,Los Angeles Dodgers,LOSE,AWAY,2,5,2022 04 16 Los Angeles Dodgers VS. Cincinnati Reds
+60,Milwaukee Brewers,04/16,St. Louis Cardinals,LOSE,HOME,1,2,2022 04 16 Milwaukee Brewers VS. St. Louis Cardinals
+61,St. Louis Cardinals,04/16,Milwaukee Brewers,WIN,AWAY,2,1,2022 04 16 Milwaukee Brewers VS. St. Louis Cardinals
+62,New York Mets,04/16,Arizona Diamondbacks,LOSE,HOME,2,3,2022 04 16 New York Mets VS. Arizona Diamondbacks
+63,Arizona Diamondbacks,04/16,New York Mets,WIN,AWAY,3,2,2022 04 16 New York Mets VS. Arizona Diamondbacks
+64,San Diego Padres,04/16,Atlanta Braves,LOSE,HOME,2,5,2022 04 16 San Diego Padres VS. Atlanta Braves
+65,Atlanta Braves,04/16,San Diego Padres,WIN,AWAY,5,2,2022 04 16 San Diego Padres VS. Atlanta Braves
+66,Texas Rangers,04/16,Los Angeles Angels,LOSE,HOME,2,7,2022 04 16 Texas Rangers VS. Los Angeles Angels
+67,Los Angeles Angels,04/16,Texas Rangers,WIN,AWAY,7,2,2022 04 16 Texas Rangers VS. Los Angeles Angels
+68,Baltimore Orioles,04/17,New York Yankees,WIN,HOME,5,0,2022 04 17 Baltimore Orioles VS. New York Yankees
+69,New York Yankees,04/17,Baltimore Orioles,LOSE,AWAY,0,5,2022 04 17 Baltimore Orioles VS. New York Yankees
+70,Boston Red Sox,04/17,Minnesota Twins,WIN,HOME,8,1,2022 04 17 Boston Red Sox VS. Minnesota Twins
+71,Minnesota Twins,04/17,Boston Red Sox,LOSE,AWAY,1,8,2022 04 17 Boston Red Sox VS. Minnesota Twins
+72,San Diego Padres,04/17,Atlanta Braves,WIN,HOME,2,1,2022 04 17 San Diego Padres VS. Atlanta Braves
+73,Atlanta Braves,04/17,San Diego Padres,LOSE,AWAY,1,2,2022 04 17 San Diego Padres VS. Atlanta Braves
+74,Seattle Mariners,04/17,Houston Astros,WIN,HOME,7,2,2022 04 17 Seattle Mariners VS. Houston Astros
+75,Houston Astros,04/17,Seattle Mariners,LOSE,AWAY,2,7,2022 04 17 Seattle Mariners VS. Houston Astros
+76,Boston Red Sox,04/18,Minnesota Twins,LOSE,HOME,3,8,2022 04 18 Boston Red Sox VS. Minnesota Twins
+77,Minnesota Twins,04/18,Boston Red Sox,WIN,AWAY,8,3,2022 04 18 Boston Red Sox VS. Minnesota Twins
+78,Los Angeles Dodgers,04/18,Atlanta Braves,WIN,HOME,7,4,2022 04 18 Los Angeles Dodgers VS. Atlanta Braves
+79,Atlanta Braves,04/18,Los Angeles Dodgers,LOSE,AWAY,4,7,2022 04 18 Los Angeles Dodgers VS. Atlanta Braves
+80,Boston Red Sox,04/19,Toronto Blue Jays,WIN,HOME,2,1,2022 04 19 Boston Red Sox VS. Toronto Blue Jays
+81,Toronto Blue Jays,04/19,Boston Red Sox,LOSE,AWAY,1,2,2022 04 19 Boston Red Sox VS. Toronto Blue Jays
+82,Los Angeles Dodgers,04/19,Atlanta Braves,LOSE,HOME,1,3,2022 04 19 Los Angeles Dodgers VS. Atlanta Braves
+83,Atlanta Braves,04/19,Los Angeles Dodgers,WIN,AWAY,3,1,2022 04 19 Los Angeles Dodgers VS. Atlanta Braves
+84,New York Mets,04/19,San Francisco Giants,WIN,HOME,5,4,2022 04 19 New York Mets VS. San Francisco Giants
+85,San Francisco Giants,04/19,New York Mets,LOSE,AWAY,4,5,2022 04 19 New York Mets VS. San Francisco Giants
+86,Boston Red Sox,04/20,Toronto Blue Jays,LOSE,HOME,1,6,2022 04 20 Boston Red Sox VS. Toronto Blue Jays
+87,Toronto Blue Jays,04/20,Boston Red Sox,WIN,AWAY,6,1,2022 04 20 Boston Red Sox VS. Toronto Blue Jays
+88,Colorado Rockies,04/20,Philadelphia Phillies,LOSE,HOME,6,9,2022 04 20 Colorado Rockies VS. Philadelphia Phillies
+89,Philadelphia Phillies,04/20,Colorado Rockies,WIN,AWAY,9,6,2022 04 20 Colorado Rockies VS. Philadelphia Phillies
+90,Los Angeles Dodgers,04/20,Atlanta Braves,WIN,HOME,5,1,2022 04 20 Los Angeles Dodgers VS. Atlanta Braves
+91,Atlanta Braves,04/20,Los Angeles Dodgers,LOSE,AWAY,1,5,2022 04 20 Los Angeles Dodgers VS. Atlanta Braves
+92,New York Mets,04/20,San Francisco Giants,LOSE,HOME,2,5,2022 04 20 New York Mets VS. San Francisco Giants
+93,San Francisco Giants,04/20,New York Mets,WIN,AWAY,5,2,2022 04 20 New York Mets VS. San Francisco Giants
+94,Chicago Cubs,04/21,Pittsburgh Pirates,LOSE,HOME,3,4,2022 04 21 Chicago Cubs VS. Pittsburgh Pirates
+95,Pittsburgh Pirates,04/21,Chicago Cubs,WIN,AWAY,4,3,2022 04 21 Chicago Cubs VS. Pittsburgh Pirates
+96,Cleveland Guardians,04/21,Chicago White Sox,WIN,HOME,6,3,2022 04 21 Cleveland Guardians VS. Chicago White Sox
+97,Chicago White Sox,04/21,Cleveland Guardians,LOSE,AWAY,3,6,2022 04 21 Cleveland Guardians VS. Chicago White Sox
+98,Detroit Tigers,04/21,New York Yankees,WIN,HOME,3,0,2022 04 21 Detroit Tigers VS. New York Yankees
+99,New York Yankees,04/21,Detroit Tigers,LOSE,AWAY,0,3,2022 04 21 Detroit Tigers VS. New York Yankees
+100,Miami Marlins,04/21,St. Louis Cardinals,WIN,HOME,5,0,2022 04 21 Miami Marlins VS. St. Louis Cardinals
+101,St. Louis Cardinals,04/21,Miami Marlins,LOSE,AWAY,0,5,2022 04 21 Miami Marlins VS. St. Louis Cardinals
+102,Seattle Mariners,04/21,Texas Rangers,LOSE,HOME,6,8,2022 04 21 Seattle Mariners VS. Texas Rangers
+103,Texas Rangers,04/21,Seattle Mariners,WIN,AWAY,8,6,2022 04 21 Seattle Mariners VS. Texas Rangers
+104,Chicago Cubs,04/22,Pittsburgh Pirates,LOSE,HOME,2,4,2022 04 22 Chicago Cubs VS. Pittsburgh Pirates
+105,Pittsburgh Pirates,04/22,Chicago Cubs,WIN,AWAY,4,2,2022 04 22 Chicago Cubs VS. Pittsburgh Pirates
+106,Arizona Diamondbacks,04/23,New York Mets,WIN,HOME,5,2,2022 04 23 Arizona Diamondbacks VS. New York Mets
+107,New York Mets,04/23,Arizona Diamondbacks,LOSE,AWAY,2,5,2022 04 23 Arizona Diamondbacks VS. New York Mets
+108,Detroit Tigers,04/23,Colorado Rockies,WIN,HOME,13,0,2022 04 23 Detroit Tigers VS. Colorado Rockies
+109,Colorado Rockies,04/23,Detroit Tigers,LOSE,AWAY,0,13,2022 04 23 Detroit Tigers VS. Colorado Rockies
+110,Minnesota Twins,04/23,Chicago White Sox,WIN,HOME,9,2,2022 04 23 Minnesota Twins VS. Chicago White Sox
+111,Chicago White Sox,04/23,Minnesota Twins,LOSE,AWAY,2,9,2022 04 23 Minnesota Twins VS. Chicago White Sox
+112,New York Yankees,04/23,Cleveland Guardians,WIN,HOME,5,4,2022 04 23 New York Yankees VS. Cleveland Guardians
+113,Cleveland Guardians,04/23,New York Yankees,LOSE,AWAY,4,5,2022 04 23 New York Yankees VS. Cleveland Guardians
+114,San Diego Padres,04/23,Los Angeles Dodgers,WIN,HOME,3,2,2022 04 23 San Diego Padres VS. Los Angeles Dodgers
+115,Los Angeles Dodgers,04/23,San Diego Padres,LOSE,AWAY,2,3,2022 04 23 San Diego Padres VS. Los Angeles Dodgers
+116,Washington Nationals,04/23,San Francisco Giants,LOSE,HOME,2,5,2022 04 23 Washington Nationals VS. San Francisco Giants
+117,San Francisco Giants,04/23,Washington Nationals,WIN,AWAY,5,2,2022 04 23 Washington Nationals VS. San Francisco Giants
+118,New York Yankees,04/24,Cleveland Guardians,WIN,HOME,10,2,2022 04 24 New York Yankees VS. Cleveland Guardians
+119,Cleveland Guardians,04/24,New York Yankees,LOSE,AWAY,2,10,2022 04 24 New York Yankees VS. Cleveland Guardians
+120,Philadelphia Phillies,04/24,Milwaukee Brewers,LOSE,HOME,0,1,2022 04 24 Philadelphia Phillies VS. Milwaukee Brewers
+121,Milwaukee Brewers,04/24,Philadelphia Phillies,WIN,AWAY,1,0,2022 04 24 Philadelphia Phillies VS. Milwaukee Brewers
+122,San Diego Padres,04/24,Los Angeles Dodgers,LOSE,HOME,2,10,2022 04 24 San Diego Padres VS. Los Angeles Dodgers
+123,Los Angeles Dodgers,04/24,San Diego Padres,WIN,AWAY,10,2,2022 04 24 San Diego Padres VS. Los Angeles Dodgers
+124,Tampa Bay Rays,04/24,Boston Red Sox,WIN,HOME,5,2,2022 04 24 Tampa Bay Rays VS. Boston Red Sox
+125,Boston Red Sox,04/24,Tampa Bay Rays,LOSE,AWAY,2,5,2022 04 24 Tampa Bay Rays VS. Boston Red Sox
+126,St. Louis Cardinals,04/25,New York Mets,LOSE,HOME,2,5,2022 04 25 St. Louis Cardinals VS. New York Mets
+127,New York Mets,04/25,St. Louis Cardinals,WIN,AWAY,5,2,2022 04 25 St. Louis Cardinals VS. New York Mets
+128,Toronto Blue Jays,04/25,Boston Red Sox,WIN,HOME,6,2,2022 04 25 Toronto Blue Jays VS. Boston Red Sox
+129,Boston Red Sox,04/25,Toronto Blue Jays,LOSE,AWAY,2,6,2022 04 25 Toronto Blue Jays VS. Boston Red Sox
+130,Arizona Diamondbacks,04/26,Los Angeles Dodgers,WIN,HOME,5,3,2022 04 26 Arizona Diamondbacks VS. Los Angeles Dodgers
+131,Los Angeles Dodgers,04/26,Arizona Diamondbacks,LOSE,AWAY,3,5,2022 04 26 Arizona Diamondbacks VS. Los Angeles Dodgers
+132,San Francisco Giants,04/26,Oakland Athletics,WIN,HOME,8,2,2022 04 26 San Francisco Giants VS. Oakland Athletics
+133,Oakland Athletics,04/26,San Francisco Giants,LOSE,AWAY,2,8,2022 04 26 San Francisco Giants VS. Oakland Athletics
+134,St. Louis Cardinals,04/26,New York Mets,LOSE,HOME,0,3,2022 04 26 St. Louis Cardinals VS. New York Mets
+135,New York Mets,04/26,St. Louis Cardinals,WIN,AWAY,3,0,2022 04 26 St. Louis Cardinals VS. New York Mets
+136,New York Yankees,04/27,Baltimore Orioles,WIN,HOME,5,2,2022 04 27 New York Yankees VS. Baltimore Orioles
+137,Baltimore Orioles,04/27,New York Yankees,LOSE,AWAY,2,5,2022 04 27 New York Yankees VS. Baltimore Orioles
+138,St. Louis Cardinals,04/27,New York Mets,WIN,HOME,10,5,2022 04 27 St. Louis Cardinals VS. New York Mets
+139,New York Mets,04/27,St. Louis Cardinals,LOSE,AWAY,5,10,2022 04 27 St. Louis Cardinals VS. New York Mets
+140,Toronto Blue Jays,04/27,Boston Red Sox,LOSE,HOME,1,7,2022 04 27 Toronto Blue Jays VS. Boston Red Sox
+141,Boston Red Sox,04/27,Toronto Blue Jays,WIN,AWAY,7,1,2022 04 27 Toronto Blue Jays VS. Boston Red Sox
+142,Atlanta Braves,04/28,Chicago Cubs,WIN,HOME,5,1,2022 04 28 Atlanta Braves VS. Chicago Cubs
+143,Chicago Cubs,04/28,Atlanta Braves,LOSE,AWAY,1,5,2022 04 28 Atlanta Braves VS. Chicago Cubs
+144,Philadelphia Phillies,04/28,Colorado Rockies,WIN,HOME,7,1,2022 04 28 Philadelphia Phillies VS. Colorado Rockies
+145,Colorado Rockies,04/28,Philadelphia Phillies,LOSE,AWAY,1,7,2022 04 28 Philadelphia Phillies VS. Colorado Rockies
+146,St. Louis Cardinals,04/28,Arizona Diamondbacks,WIN,HOME,8,3,2022 04 28 St. Louis Cardinals VS. Arizona Diamondbacks
+147,Arizona Diamondbacks,04/28,St. Louis Cardinals,LOSE,AWAY,3,8,2022 04 28 St. Louis Cardinals VS. Arizona Diamondbacks
+148,Tampa Bay Rays,04/28,Seattle Mariners,WIN,HOME,2,1,2022 04 28 Tampa Bay Rays VS. Seattle Mariners
+149,Seattle Mariners,04/28,Tampa Bay Rays,LOSE,AWAY,1,2,2022 04 28 Tampa Bay Rays VS. Seattle Mariners
+150,Chicago White Sox,04/30,Los Angeles Angels,WIN,HOME,4,0,2022 04 30 Chicago White Sox VS. Los Angeles Angels
+151,Los Angeles Angels,04/30,Chicago White Sox,LOSE,AWAY,0,4,2022 04 30 Chicago White Sox VS. Los Angeles Angels
+152,New York Mets,04/30,Philadelphia Phillies,LOSE,HOME,1,4,2022 04 30 New York Mets VS. Philadelphia Phillies
+153,Philadelphia Phillies,04/30,New York Mets,WIN,AWAY,4,1,2022 04 30 New York Mets VS. Philadelphia Phillies
+154,New York Mets,05/01,Philadelphia Phillies,WIN,HOME,10,6,2022 05 01 New York Mets VS. Philadelphia Phillies
+155,Philadelphia Phillies,05/01,New York Mets,LOSE,AWAY,6,10,2022 05 01 New York Mets VS. Philadelphia Phillies
+156,Toronto Blue Jays,05/01,Houston Astros,WIN,HOME,3,2,2022 05 01 Toronto Blue Jays VS. Houston Astros
+157,Houston Astros,05/01,Toronto Blue Jays,LOSE,AWAY,2,3,2022 05 01 Toronto Blue Jays VS. Houston Astros
+158,New York Mets,05/02,Atlanta Braves,LOSE,HOME,2,5,2022 05 02 New York Mets VS. Atlanta Braves
+159,Atlanta Braves,05/02,New York Mets,WIN,AWAY,5,2,2022 05 02 New York Mets VS. Atlanta Braves
+160,Los Angeles Dodgers,05/03,San Francisco Giants,WIN,HOME,3,1,2022 05 03 Los Angeles Dodgers VS. San Francisco Giants
+161,San Francisco Giants,05/03,Los Angeles Dodgers,LOSE,AWAY,1,3,2022 05 03 Los Angeles Dodgers VS. San Francisco Giants
+162,New York Mets,05/03,Atlanta Braves,WIN,HOME,3,0,2022 05 03 New York Mets VS. Atlanta Braves
+163,Atlanta Braves,05/03,New York Mets,LOSE,AWAY,0,3,2022 05 03 New York Mets VS. Atlanta Braves
+164,Toronto Blue Jays,05/03,New York Yankees,LOSE,HOME,1,9,2022 05 03 Toronto Blue Jays VS. New York Yankees
+165,New York Yankees,05/03,Toronto Blue Jays,WIN,AWAY,9,1,2022 05 03 Toronto Blue Jays VS. New York Yankees
+166,Boston Red Sox,05/04,Los Angeles Angels,LOSE,HOME,5,10,2022 05 04 Boston Red Sox VS. Los Angeles Angels
+167,Los Angeles Angels,05/04,Boston Red Sox,WIN,AWAY,10,5,2022 05 04 Boston Red Sox VS. Los Angeles Angels
+168,New York Mets,05/04,Atlanta Braves,LOSE,HOME,2,9,2022 05 04 New York Mets VS. Atlanta Braves
+169,Atlanta Braves,05/04,New York Mets,WIN,AWAY,9,2,2022 05 04 New York Mets VS. Atlanta Braves
+170,Boston Red Sox,05/05,Los Angeles Angels,LOSE,HOME,0,8,2022 05 05 Boston Red Sox VS. Los Angeles Angels
+171,Los Angeles Angels,05/05,Boston Red Sox,WIN,AWAY,8,0,2022 05 05 Boston Red Sox VS. Los Angeles Angels
+172,Colorado Rockies,05/05,Washington Nationals,WIN,HOME,9,7,2022 05 05 Colorado Rockies VS. Washington Nationals
+173,Washington Nationals,05/05,Colorado Rockies,LOSE,AWAY,7,9,2022 05 05 Colorado Rockies VS. Washington Nationals
+174,Philadelphia Phillies,05/05,New York Mets,LOSE,HOME,7,8,2022 05 05 Philadelphia Phillies VS. New York Mets
+175,New York Mets,05/05,Philadelphia Phillies,WIN,AWAY,8,7,2022 05 05 Philadelphia Phillies VS. New York Mets
+176,San Francisco Giants,05/05,St. Louis Cardinals,LOSE,HOME,1,7,2022 05 05 San Francisco Giants VS. St. Louis Cardinals
+177,St. Louis Cardinals,05/05,San Francisco Giants,WIN,AWAY,7,1,2022 05 05 San Francisco Giants VS. St. Louis Cardinals
+178,Chicago Cubs,05/07,Los Angeles Dodgers,LOSE,HOME,2,6,2022 05 07 Chicago Cubs VS. Los Angeles Dodgers
+179,Los Angeles Dodgers,05/07,Chicago Cubs,WIN,AWAY,6,2,2022 05 07 Chicago Cubs VS. Los Angeles Dodgers
+180,Cincinnati Reds,05/07,Pittsburgh Pirates,WIN,HOME,9,2,2022 05 07 Cincinnati Reds VS. Pittsburgh Pirates
+181,Pittsburgh Pirates,05/07,Cincinnati Reds,LOSE,AWAY,2,9,2022 05 07 Cincinnati Reds VS. Pittsburgh Pirates
+182,Houston Astros,05/07,Detroit Tigers,WIN,HOME,3,2,2022 05 07 Houston Astros VS. Detroit Tigers
+183,Detroit Tigers,05/07,Houston Astros,LOSE,AWAY,2,3,2022 05 07 Houston Astros VS. Detroit Tigers
+184,San Francisco Giants,05/07,St. Louis Cardinals,WIN,HOME,13,7,2022 05 07 San Francisco Giants VS. St. Louis Cardinals
+185,St. Louis Cardinals,05/07,San Francisco Giants,LOSE,AWAY,7,13,2022 05 07 San Francisco Giants VS. St. Louis Cardinals
+186,Chicago Cubs,05/08,Los Angeles Dodgers,LOSE,HOME,1,7,2022 05 08 Chicago Cubs VS. Los Angeles Dodgers
+187,Los Angeles Dodgers,05/08,Chicago Cubs,WIN,AWAY,7,1,2022 05 08 Chicago Cubs VS. Los Angeles Dodgers
+188,Houston Astros,05/08,Detroit Tigers,WIN,HOME,5,0,2022 05 08 Houston Astros VS. Detroit Tigers
+189,Detroit Tigers,05/08,Houston Astros,LOSE,AWAY,0,5,2022 05 08 Houston Astros VS. Detroit Tigers
+190,Baltimore Orioles,05/09,Kansas City Royals,WIN,HOME,6,1,2022 05 09 Baltimore Orioles VS. Kansas City Royals
+191,Kansas City Royals,05/09,Baltimore Orioles,LOSE,AWAY,1,6,2022 05 09 Baltimore Orioles VS. Kansas City Royals
+192,Chicago White Sox,05/09,Cleveland Guardians,LOSE,HOME,9,12,2022 05 09 Chicago White Sox VS. Cleveland Guardians
+193,Cleveland Guardians,05/09,Chicago White Sox,WIN,AWAY,12,9,2022 05 09 Chicago White Sox VS. Cleveland Guardians
+194,New York Yankees,05/09,Texas Rangers,WIN,HOME,1,0,2022 05 09 New York Yankees VS. Texas Rangers
+195,Texas Rangers,05/09,New York Yankees,LOSE,AWAY,0,1,2022 05 09 New York Yankees VS. Texas Rangers
+196,Atlanta Braves,05/10,Boston Red Sox,LOSE,HOME,4,9,2022 05 10 Atlanta Braves VS. Boston Red Sox
+197,Boston Red Sox,05/10,Atlanta Braves,WIN,AWAY,9,4,2022 05 10 Atlanta Braves VS. Boston Red Sox
+198,Oakland Athletics,05/10,Detroit Tigers,LOSE,HOME,0,6,2022 05 10 Oakland Athletics VS. Detroit Tigers
+199,Detroit Tigers,05/10,Oakland Athletics,WIN,AWAY,6,0,2022 05 10 Oakland Athletics VS. Detroit Tigers
+200,San Diego Padres,05/10,Chicago Cubs,WIN,HOME,5,4,2022 05 10 San Diego Padres VS. Chicago Cubs
+201,Chicago Cubs,05/10,San Diego Padres,LOSE,AWAY,4,5,2022 05 10 San Diego Padres VS. Chicago Cubs
+202,Cincinnati Reds,05/11,Milwaukee Brewers,WIN,HOME,14,11,2022 05 11 Cincinnati Reds VS. Milwaukee Brewers
+203,Milwaukee Brewers,05/11,Cincinnati Reds,LOSE,AWAY,11,14,2022 05 11 Cincinnati Reds VS. Milwaukee Brewers
+204,Los Angeles Angels,05/11,Tampa Bay Rays,LOSE,HOME,2,4,2022 05 11 Los Angeles Angels VS. Tampa Bay Rays
+205,Tampa Bay Rays,05/11,Los Angeles Angels,WIN,AWAY,4,2,2022 05 11 Los Angeles Angels VS. Tampa Bay Rays
+206,New York Yankees,05/11,Toronto Blue Jays,WIN,HOME,5,3,2022 05 11 New York Yankees VS. Toronto Blue Jays
+207,Toronto Blue Jays,05/11,New York Yankees,LOSE,AWAY,3,5,2022 05 11 New York Yankees VS. Toronto Blue Jays
+208,Seattle Mariners,05/11,Philadelphia Phillies,LOSE,HOME,2,4,2022 05 11 Seattle Mariners VS. Philadelphia Phillies
+209,Philadelphia Phillies,05/11,Seattle Mariners,WIN,AWAY,4,2,2022 05 11 Seattle Mariners VS. Philadelphia Phillies
+210,Chicago White Sox,05/12,New York Yankees,LOSE,HOME,7,15,2022 05 12 Chicago White Sox VS. New York Yankees
+211,New York Yankees,05/12,Chicago White Sox,WIN,AWAY,15,7,2022 05 12 Chicago White Sox VS. New York Yankees
+212,Minnesota Twins,05/12,Houston Astros,LOSE,HOME,0,5,2022 05 12 Minnesota Twins VS. Houston Astros
+213,Houston Astros,05/12,Minnesota Twins,WIN,AWAY,5,0,2022 05 12 Minnesota Twins VS. Houston Astros
+214,Washington Nationals,05/12,New York Mets,LOSE,HOME,1,4,2022 05 12 Washington Nationals VS. New York Mets
+215,New York Mets,05/12,Washington Nationals,WIN,AWAY,4,1,2022 05 12 Washington Nationals VS. New York Mets
+216,Atlanta Braves,05/14,San Diego Padres,WIN,HOME,6,5,2022 05 14 Atlanta Braves VS. San Diego Padres
+217,San Diego Padres,05/14,Atlanta Braves,LOSE,AWAY,5,6,2022 05 14 Atlanta Braves VS. San Diego Padres
+218,Chicago White Sox,05/14,New York Yankees,WIN,HOME,3,2,2022 05 14 Chicago White Sox VS. New York Yankees
+219,New York Yankees,05/14,Chicago White Sox,LOSE,AWAY,2,3,2022 05 14 Chicago White Sox VS. New York Yankees
+220,Los Angeles Dodgers,05/14,Philadelphia Phillies,LOSE,HOME,3,8,2022 05 14 Los Angeles Dodgers VS. Philadelphia Phillies
+221,Philadelphia Phillies,05/14,Los Angeles Dodgers,WIN,AWAY,8,3,2022 05 14 Los Angeles Dodgers VS. Philadelphia Phillies
+222,St. Louis Cardinals,05/15,San Francisco Giants,WIN,HOME,15,6,2022 05 15 St. Louis Cardinals VS. San Francisco Giants
+223,San Francisco Giants,05/15,St. Louis Cardinals,LOSE,AWAY,6,15,2022 05 15 St. Louis Cardinals VS. San Francisco Giants
+224,Tampa Bay Rays,05/15,Toronto Blue Jays,WIN,HOME,3,0,2022 05 15 Tampa Bay Rays VS. Toronto Blue Jays
+225,Toronto Blue Jays,05/15,Tampa Bay Rays,LOSE,AWAY,0,3,2022 05 15 Tampa Bay Rays VS. Toronto Blue Jays
+226,Boston Red Sox,05/16,Houston Astros,WIN,HOME,6,3,2022 05 16 Boston Red Sox VS. Houston Astros
+227,Houston Astros,05/16,Boston Red Sox,LOSE,AWAY,3,6,2022 05 16 Boston Red Sox VS. Houston Astros
+228,Boston Red Sox,05/17,Houston Astros,LOSE,HOME,4,13,2022 05 17 Boston Red Sox VS. Houston Astros
+229,Houston Astros,05/17,Boston Red Sox,WIN,AWAY,13,4,2022 05 17 Boston Red Sox VS. Houston Astros
+230,Los Angeles Dodgers,05/17,Arizona Diamondbacks,WIN,HOME,7,6,2022 05 17 Los Angeles Dodgers VS. Arizona Diamondbacks
+231,Arizona Diamondbacks,05/17,Los Angeles Dodgers,LOSE,AWAY,6,7,2022 05 17 Los Angeles Dodgers VS. Arizona Diamondbacks
+232,New York Mets,05/17,St. Louis Cardinals,WIN,HOME,3,1,2022 05 17 New York Mets VS. St. Louis Cardinals
+233,St. Louis Cardinals,05/17,New York Mets,LOSE,AWAY,1,3,2022 05 17 New York Mets VS. St. Louis Cardinals
+234,Chicago Cubs,05/18,Pittsburgh Pirates,LOSE,HOME,2,3,2022 05 18 Chicago Cubs VS. Pittsburgh Pirates
+235,Pittsburgh Pirates,05/18,Chicago Cubs,WIN,AWAY,3,2,2022 05 18 Chicago Cubs VS. Pittsburgh Pirates
+236,Los Angeles Dodgers,05/18,Arizona Diamondbacks,WIN,HOME,5,3,2022 05 18 Los Angeles Dodgers VS. Arizona Diamondbacks
+237,Arizona Diamondbacks,05/18,Los Angeles Dodgers,LOSE,AWAY,3,5,2022 05 18 Los Angeles Dodgers VS. Arizona Diamondbacks
+238,Milwaukee Brewers,05/18,Atlanta Braves,WIN,HOME,7,6,2022 05 18 Milwaukee Brewers VS. Atlanta Braves
+239,Atlanta Braves,05/18,Milwaukee Brewers,LOSE,AWAY,6,7,2022 05 18 Milwaukee Brewers VS. Atlanta Braves
+240,New York Mets,05/18,St. Louis Cardinals,WIN,HOME,11,4,2022 05 18 New York Mets VS. St. Louis Cardinals
+241,St. Louis Cardinals,05/18,New York Mets,LOSE,AWAY,4,11,2022 05 18 New York Mets VS. St. Louis Cardinals
+242,Boston Red Sox,05/19,Seattle Mariners,WIN,HOME,12,6,2022 05 19 Boston Red Sox VS. Seattle Mariners
+243,Seattle Mariners,05/19,Boston Red Sox,LOSE,AWAY,6,12,2022 05 19 Boston Red Sox VS. Seattle Mariners
+244,Philadelphia Phillies,05/19,San Diego Padres,LOSE,HOME,0,2,2022 05 19 Philadelphia Phillies VS. San Diego Padres
+245,San Diego Padres,05/19,Philadelphia Phillies,WIN,AWAY,2,0,2022 05 19 Philadelphia Phillies VS. San Diego Padres
+246,Chicago Cubs,05/20,Arizona Diamondbacks,LOSE,HOME,6,10,2022 05 20 Chicago Cubs VS. Arizona Diamondbacks
+247,Arizona Diamondbacks,05/20,Chicago Cubs,WIN,AWAY,10,6,2022 05 20 Chicago Cubs VS. Arizona Diamondbacks
+248,Los Angeles Angels,05/21,Oakland Athletics,WIN,HOME,5,3,2022 05 21 Los Angeles Angels VS. Oakland Athletics
+249,Oakland Athletics,05/21,Los Angeles Angels,LOSE,AWAY,3,5,2022 05 21 Los Angeles Angels VS. Oakland Athletics
+250,New York Yankees,05/21,Chicago White Sox,WIN,HOME,7,5,2022 05 21 New York Yankees VS. Chicago White Sox
+251,Chicago White Sox,05/21,New York Yankees,LOSE,AWAY,5,7,2022 05 21 New York Yankees VS. Chicago White Sox
+252,San Francisco Giants,05/21,San Diego Padres,LOSE,HOME,1,2,2022 05 21 San Francisco Giants VS. San Diego Padres
+253,San Diego Padres,05/21,San Francisco Giants,WIN,AWAY,2,1,2022 05 21 San Francisco Giants VS. San Diego Padres
+254,New York Yankees,05/22,Chicago White Sox,LOSE,HOME,0,5,2022 05 22 New York Yankees VS. Chicago White Sox
+255,Chicago White Sox,05/22,New York Yankees,WIN,AWAY,5,0,2022 05 22 New York Yankees VS. Chicago White Sox
+256,Philadelphia Phillies,05/22,Los Angeles Dodgers,WIN,HOME,4,3,2022 05 22 Philadelphia Phillies VS. Los Angeles Dodgers
+257,Los Angeles Dodgers,05/22,Philadelphia Phillies,LOSE,AWAY,3,4,2022 05 22 Philadelphia Phillies VS. Los Angeles Dodgers
+258,Washington Nationals,05/23,Los Angeles Dodgers,LOSE,HOME,1,10,2022 05 23 Washington Nationals VS. Los Angeles Dodgers
+259,Los Angeles Dodgers,05/23,Washington Nationals,WIN,AWAY,10,1,2022 05 23 Washington Nationals VS. Los Angeles Dodgers
+260,Cincinnati Reds,05/24,Chicago Cubs,LOSE,HOME,4,11,2022 05 24 Cincinnati Reds VS. Chicago Cubs
+261,Chicago Cubs,05/24,Cincinnati Reds,WIN,AWAY,11,4,2022 05 24 Cincinnati Reds VS. Chicago Cubs
+262,San Diego Padres,05/24,Milwaukee Brewers,LOSE,HOME,1,4,2022 05 24 San Diego Padres VS. Milwaukee Brewers
+263,Milwaukee Brewers,05/24,San Diego Padres,WIN,AWAY,4,1,2022 05 24 San Diego Padres VS. Milwaukee Brewers
+264,Atlanta Braves,05/25,Philadelphia Phillies,WIN,HOME,8,4,2022 05 25 Atlanta Braves VS. Philadelphia Phillies
+265,Philadelphia Phillies,05/25,Atlanta Braves,LOSE,AWAY,4,8,2022 05 25 Atlanta Braves VS. Philadelphia Phillies
+266,Minnesota Twins,05/25,Detroit Tigers,LOSE,HOME,2,4,2022 05 25 Minnesota Twins VS. Detroit Tigers
+267,Detroit Tigers,05/25,Minnesota Twins,WIN,AWAY,4,2,2022 05 25 Minnesota Twins VS. Detroit Tigers
+268,New York Yankees,05/25,Baltimore Orioles,WIN,HOME,2,0,2022 05 25 New York Yankees VS. Baltimore Orioles
+269,Baltimore Orioles,05/25,New York Yankees,LOSE,AWAY,0,2,2022 05 25 New York Yankees VS. Baltimore Orioles
+270,Pittsburgh Pirates,05/25,Colorado Rockies,WIN,HOME,10,5,2022 05 25 Pittsburgh Pirates VS. Colorado Rockies
+271,Colorado Rockies,05/25,Pittsburgh Pirates,LOSE,AWAY,5,10,2022 05 25 Pittsburgh Pirates VS. Colorado Rockies
+272,San Francisco Giants,05/25,New York Mets,WIN,HOME,9,3,2022 05 25 San Francisco Giants VS. New York Mets
+273,New York Mets,05/25,San Francisco Giants,LOSE,AWAY,3,9,2022 05 25 San Francisco Giants VS. New York Mets
+274,Cincinnati Reds,05/26,Chicago Cubs,WIN,HOME,20,5,2022 05 26 Cincinnati Reds VS. Chicago Cubs
+275,Chicago Cubs,05/26,Cincinnati Reds,LOSE,AWAY,5,20,2022 05 26 Cincinnati Reds VS. Chicago Cubs
+276,Los Angeles Angels,05/26,Toronto Blue Jays,LOSE,HOME,3,6,2022 05 26 Los Angeles Angels VS. Toronto Blue Jays
+277,Toronto Blue Jays,05/26,Los Angeles Angels,WIN,AWAY,6,3,2022 05 26 Los Angeles Angels VS. Toronto Blue Jays
+278,Tampa Bay Rays,05/26,New York Yankees,LOSE,HOME,2,7,2022 05 26 Tampa Bay Rays VS. New York Yankees
+279,New York Yankees,05/26,Tampa Bay Rays,WIN,AWAY,7,2,2022 05 26 Tampa Bay Rays VS. New York Yankees
+280,Arizona Diamondbacks,05/28,Los Angeles Dodgers,LOSE,HOME,2,3,2022 05 28 Arizona Diamondbacks VS. Los Angeles Dodgers
+281,Los Angeles Dodgers,05/28,Arizona Diamondbacks,WIN,AWAY,3,2,2022 05 28 Arizona Diamondbacks VS. Los Angeles Dodgers
+282,Boston Red Sox,05/28,Baltimore Orioles,WIN,HOME,5,3,2022 05 28 Boston Red Sox VS. Baltimore Orioles
+283,Baltimore Orioles,05/28,Boston Red Sox,LOSE,AWAY,3,5,2022 05 28 Boston Red Sox VS. Baltimore Orioles
+284,Chicago White Sox,05/28,Chicago Cubs,LOSE,HOME,1,5,2022 05 28 Chicago White Sox VS. Chicago Cubs
+285,Chicago Cubs,05/28,Chicago White Sox,WIN,AWAY,5,1,2022 05 28 Chicago White Sox VS. Chicago Cubs
+286,Detroit Tigers,05/28,Cleveland Guardians,LOSE,HOME,1,8,2022 05 28 Detroit Tigers VS. Cleveland Guardians
+287,Cleveland Guardians,05/28,Detroit Tigers,WIN,AWAY,8,1,2022 05 28 Detroit Tigers VS. Cleveland Guardians
+288,Los Angeles Angels,05/28,Toronto Blue Jays,LOSE,HOME,5,6,2022 05 28 Los Angeles Angels VS. Toronto Blue Jays
+289,Toronto Blue Jays,05/28,Los Angeles Angels,WIN,AWAY,6,5,2022 05 28 Los Angeles Angels VS. Toronto Blue Jays
+290,New York Mets,05/28,Philadelphia Phillies,WIN,HOME,8,2,2022 05 28 New York Mets VS. Philadelphia Phillies
+291,Philadelphia Phillies,05/28,New York Mets,LOSE,AWAY,2,8,2022 05 28 New York Mets VS. Philadelphia Phillies
+292,New York Mets,05/29,Philadelphia Phillies,WIN,HOME,5,4,2022 05 29 New York Mets VS. Philadelphia Phillies
+293,Philadelphia Phillies,05/29,New York Mets,LOSE,AWAY,4,5,2022 05 29 New York Mets VS. Philadelphia Phillies
+294,Tampa Bay Rays,05/29,New York Yankees,WIN,HOME,4,2,2022 05 29 Tampa Bay Rays VS. New York Yankees
+295,New York Yankees,05/29,Tampa Bay Rays,LOSE,AWAY,2,4,2022 05 29 Tampa Bay Rays VS. New York Yankees
+296,Chicago Cubs,05/30,Milwaukee Brewers,LOSE,HOME,6,7,2022 05 30 Chicago Cubs VS. Milwaukee Brewers
+297,Milwaukee Brewers,05/30,Chicago Cubs,WIN,AWAY,7,6,2022 05 30 Chicago Cubs VS. Milwaukee Brewers
+298,Los Angeles Dodgers,05/30,Pittsburgh Pirates,LOSE,HOME,5,6,2022 05 30 Los Angeles Dodgers VS. Pittsburgh Pirates
+299,Pittsburgh Pirates,05/30,Los Angeles Dodgers,WIN,AWAY,6,5,2022 05 30 Los Angeles Dodgers VS. Pittsburgh Pirates
+300,New York Mets,05/30,Washington Nationals,WIN,HOME,13,5,2022 05 30 New York Mets VS. Washington Nationals
+301,Washington Nationals,05/30,New York Mets,LOSE,AWAY,5,13,2022 05 30 New York Mets VS. Washington Nationals
+302,Philadelphia Phillies,05/30,San Francisco Giants,LOSE,HOME,4,5,2022 05 30 Philadelphia Phillies VS. San Francisco Giants
+303,San Francisco Giants,05/30,Philadelphia Phillies,WIN,AWAY,5,4,2022 05 30 Philadelphia Phillies VS. San Francisco Giants
+304,Los Angeles Dodgers,05/31,Pittsburgh Pirates,LOSE,HOME,3,5,2022 05 31 Los Angeles Dodgers VS. Pittsburgh Pirates
+305,Pittsburgh Pirates,05/31,Los Angeles Dodgers,WIN,AWAY,5,3,2022 05 31 Los Angeles Dodgers VS. Pittsburgh Pirates
+306,New York Yankees,05/31,Los Angeles Angels,WIN,HOME,9,1,2022 05 31 New York Yankees VS. Los Angeles Angels
+307,Los Angeles Angels,05/31,New York Yankees,LOSE,AWAY,1,9,2022 05 31 New York Yankees VS. Los Angeles Angels
+308,Cleveland Guardians,06/01,Kansas City Royals,WIN,HOME,4,0,2022 06 01 Cleveland Guardians VS. Kansas City Royals
+309,Kansas City Royals,06/01,Cleveland Guardians,LOSE,AWAY,0,4,2022 06 01 Cleveland Guardians VS. Kansas City Royals
+310,St. Louis Cardinals,06/01,San Diego Padres,WIN,HOME,5,2,2022 06 01 St. Louis Cardinals VS. San Diego Padres
+311,San Diego Padres,06/01,St. Louis Cardinals,LOSE,AWAY,2,5,2022 06 01 St. Louis Cardinals VS. San Diego Padres
+312,Baltimore Orioles,06/02,Seattle Mariners,LOSE,HOME,6,7,2022 06 02 Baltimore Orioles VS. Seattle Mariners
+313,Seattle Mariners,06/02,Baltimore Orioles,WIN,AWAY,7,6,2022 06 02 Baltimore Orioles VS. Seattle Mariners
+314,Detroit Tigers,06/02,Minnesota Twins,WIN,HOME,3,2,2022 06 02 Detroit Tigers VS. Minnesota Twins
+315,Minnesota Twins,06/02,Detroit Tigers,LOSE,AWAY,2,3,2022 06 02 Detroit Tigers VS. Minnesota Twins
+316,New York Yankees,06/02,Los Angeles Angels,WIN,HOME,6,1,2022 06 02 New York Yankees VS. Los Angeles Angels
+317,Los Angeles Angels,06/02,New York Yankees,LOSE,AWAY,1,6,2022 06 02 New York Yankees VS. Los Angeles Angels
+318,Texas Rangers,06/02,Tampa Bay Rays,LOSE,HOME,1,3,2022 06 02 Texas Rangers VS. Tampa Bay Rays
+319,Tampa Bay Rays,06/02,Texas Rangers,WIN,AWAY,3,1,2022 06 02 Texas Rangers VS. Tampa Bay Rays
+320,Chicago Cubs,06/03,St. Louis Cardinals,LOSE,HOME,5,14,2022 06 03 Chicago Cubs VS. St. Louis Cardinals
+321,St. Louis Cardinals,06/03,Chicago Cubs,WIN,AWAY,14,5,2022 06 03 Chicago Cubs VS. St. Louis Cardinals
+322,Chicago Cubs,06/04,St. Louis Cardinals,WIN,HOME,6,1,2022 06 04 Chicago Cubs VS. St. Louis Cardinals
+323,St. Louis Cardinals,06/04,Chicago Cubs,LOSE,AWAY,1,6,2022 06 04 Chicago Cubs VS. St. Louis Cardinals
+324,Los Angeles Dodgers,06/04,New York Mets,LOSE,HOME,4,9,2022 06 04 Los Angeles Dodgers VS. New York Mets
+325,New York Mets,06/04,Los Angeles Dodgers,WIN,AWAY,9,4,2022 06 04 Los Angeles Dodgers VS. New York Mets
+326,Milwaukee Brewers,06/04,San Diego Padres,LOSE,HOME,0,4,2022 06 04 Milwaukee Brewers VS. San Diego Padres
+327,San Diego Padres,06/04,Milwaukee Brewers,WIN,AWAY,4,0,2022 06 04 Milwaukee Brewers VS. San Diego Padres
+328,New York Yankees,06/04,Detroit Tigers,WIN,HOME,3,0,2022 06 04 New York Yankees VS. Detroit Tigers
+329,Detroit Tigers,06/04,New York Yankees,LOSE,AWAY,0,3,2022 06 04 New York Yankees VS. Detroit Tigers
+330,Philadelphia Phillies,06/04,Los Angeles Angels,WIN,HOME,7,2,2022 06 04 Philadelphia Phillies VS. Los Angeles Angels
+331,Los Angeles Angels,06/04,Philadelphia Phillies,LOSE,AWAY,2,7,2022 06 04 Philadelphia Phillies VS. Los Angeles Angels
+332,Chicago Cubs,06/05,St. Louis Cardinals,LOSE,HOME,3,5,2022 06 05 Chicago Cubs VS. St. Louis Cardinals
+333,St. Louis Cardinals,06/05,Chicago Cubs,WIN,AWAY,5,3,2022 06 05 Chicago Cubs VS. St. Louis Cardinals
+334,Philadelphia Phillies,06/05,Los Angeles Angels,WIN,HOME,9,7,2022 06 05 Philadelphia Phillies VS. Los Angeles Angels
+335,Los Angeles Angels,06/05,Philadelphia Phillies,LOSE,AWAY,7,9,2022 06 05 Philadelphia Phillies VS. Los Angeles Angels
+336,Tampa Bay Rays,06/05,Chicago White Sox,LOSE,HOME,5,6,2022 06 05 Tampa Bay Rays VS. Chicago White Sox
+337,Chicago White Sox,06/05,Tampa Bay Rays,WIN,AWAY,6,5,2022 06 05 Tampa Bay Rays VS. Chicago White Sox
+338,Los Angeles Angels,06/06,Boston Red Sox,LOSE,HOME,0,1,2022 06 06 Los Angeles Angels VS. Boston Red Sox
+339,Boston Red Sox,06/06,Los Angeles Angels,WIN,AWAY,1,0,2022 06 06 Los Angeles Angels VS. Boston Red Sox
+340,San Diego Padres,06/06,New York Mets,LOSE,HOME,5,11,2022 06 06 San Diego Padres VS. New York Mets
+341,New York Mets,06/06,San Diego Padres,WIN,AWAY,11,5,2022 06 06 San Diego Padres VS. New York Mets
+342,Chicago White Sox,06/07,Los Angeles Dodgers,WIN,HOME,4,0,2022 06 07 Chicago White Sox VS. Los Angeles Dodgers
+343,Los Angeles Dodgers,06/07,Chicago White Sox,LOSE,AWAY,0,4,2022 06 07 Chicago White Sox VS. Los Angeles Dodgers
+344,Kansas City Royals,06/08,Toronto Blue Jays,WIN,HOME,8,4,2022 06 08 Kansas City Royals VS. Toronto Blue Jays
+345,Toronto Blue Jays,06/08,Kansas City Royals,LOSE,AWAY,4,8,2022 06 08 Kansas City Royals VS. Toronto Blue Jays
+346,Los Angeles Angels,06/08,Boston Red Sox,LOSE,HOME,0,1,2022 06 08 Los Angeles Angels VS. Boston Red Sox
+347,Boston Red Sox,06/08,Los Angeles Angels,WIN,AWAY,1,0,2022 06 08 Los Angeles Angels VS. Boston Red Sox
+348,Minnesota Twins,06/08,New York Yankees,WIN,HOME,8,1,2022 06 08 Minnesota Twins VS. New York Yankees
+349,New York Yankees,06/08,Minnesota Twins,LOSE,AWAY,1,8,2022 06 08 Minnesota Twins VS. New York Yankees
+350,Pittsburgh Pirates,06/08,Detroit Tigers,LOSE,HOME,1,3,2022 06 08 Pittsburgh Pirates VS. Detroit Tigers
+351,Detroit Tigers,06/08,Pittsburgh Pirates,WIN,AWAY,3,1,2022 06 08 Pittsburgh Pirates VS. Detroit Tigers
+352,San Diego Padres,06/08,New York Mets,WIN,HOME,13,2,2022 06 08 San Diego Padres VS. New York Mets
+353,New York Mets,06/08,San Diego Padres,LOSE,AWAY,2,13,2022 06 08 San Diego Padres VS. New York Mets
+354,Chicago White Sox,06/09,Los Angeles Dodgers,LOSE,HOME,9,11,2022 06 09 Chicago White Sox VS. Los Angeles Dodgers
+355,Los Angeles Dodgers,06/09,Chicago White Sox,WIN,AWAY,11,9,2022 06 09 Chicago White Sox VS. Los Angeles Dodgers
+356,Cleveland Guardians,06/09,Oakland Athletics,WIN,HOME,8,4,2022 06 09 Cleveland Guardians VS. Oakland Athletics
+357,Oakland Athletics,06/09,Cleveland Guardians,LOSE,AWAY,4,8,2022 06 09 Cleveland Guardians VS. Oakland Athletics
+358,Los Angeles Angels,06/09,Boston Red Sox,WIN,HOME,5,2,2022 06 09 Los Angeles Angels VS. Boston Red Sox
+359,Boston Red Sox,06/09,Los Angeles Angels,LOSE,AWAY,2,5,2022 06 09 Los Angeles Angels VS. Boston Red Sox
+360,Miami Marlins,06/09,Washington Nationals,WIN,HOME,7,4,2022 06 09 Miami Marlins VS. Washington Nationals
+361,Washington Nationals,06/09,Miami Marlins,LOSE,AWAY,4,7,2022 06 09 Miami Marlins VS. Washington Nationals
+362,Milwaukee Brewers,06/09,Philadelphia Phillies,LOSE,HOME,3,8,2022 06 09 Milwaukee Brewers VS. Philadelphia Phillies
+363,Philadelphia Phillies,06/09,Milwaukee Brewers,WIN,AWAY,8,3,2022 06 09 Milwaukee Brewers VS. Philadelphia Phillies
+364,Minnesota Twins,06/09,New York Yankees,LOSE,HOME,7,10,2022 06 09 Minnesota Twins VS. New York Yankees
+365,New York Yankees,06/09,Minnesota Twins,WIN,AWAY,10,7,2022 06 09 Minnesota Twins VS. New York Yankees
+366,Cleveland Guardians,06/11,Oakland Athletics,LOSE,HOME,5,10,2022 06 11 Cleveland Guardians VS. Oakland Athletics
+367,Oakland Athletics,06/11,Cleveland Guardians,WIN,AWAY,10,5,2022 06 11 Cleveland Guardians VS. Oakland Athletics
+368,Los Angeles Angels,06/11,New York Mets,WIN,HOME,11,6,2022 06 11 Los Angeles Angels VS. New York Mets
+369,New York Mets,06/11,Los Angeles Angels,LOSE,AWAY,6,11,2022 06 11 Los Angeles Angels VS. New York Mets
+370,New York Yankees,06/11,Chicago Cubs,WIN,HOME,8,0,2022 06 11 New York Yankees VS. Chicago Cubs
+371,Chicago Cubs,06/11,New York Yankees,LOSE,AWAY,0,8,2022 06 11 New York Yankees VS. Chicago Cubs
+372,San Diego Padres,06/11,Colorado Rockies,LOSE,HOME,2,6,2022 06 11 San Diego Padres VS. Colorado Rockies
+373,Colorado Rockies,06/11,San Diego Padres,WIN,AWAY,6,2,2022 06 11 San Diego Padres VS. Colorado Rockies
+374,San Francisco Giants,06/11,Los Angeles Dodgers,WIN,HOME,3,2,2022 06 11 San Francisco Giants VS. Los Angeles Dodgers
+375,Los Angeles Dodgers,06/11,San Francisco Giants,LOSE,AWAY,2,3,2022 06 11 San Francisco Giants VS. Los Angeles Dodgers
+376,Detroit Tigers,06/12,Toronto Blue Jays,LOSE,HOME,0,6,2022 06 12 Detroit Tigers VS. Toronto Blue Jays
+377,Toronto Blue Jays,06/12,Detroit Tigers,WIN,AWAY,6,0,2022 06 12 Detroit Tigers VS. Toronto Blue Jays
+378,Los Angeles Angels,06/12,New York Mets,LOSE,HOME,1,4,2022 06 12 Los Angeles Angels VS. New York Mets
+379,New York Mets,06/12,Los Angeles Angels,WIN,AWAY,4,1,2022 06 12 Los Angeles Angels VS. New York Mets
+380,New York Yankees,06/12,Chicago Cubs,WIN,HOME,18,4,2022 06 12 New York Yankees VS. Chicago Cubs
+381,Chicago Cubs,06/12,New York Yankees,LOSE,AWAY,4,18,2022 06 12 New York Yankees VS. Chicago Cubs
+382,Chicago Cubs,06/13,San Diego Padres,LOSE,HOME,1,4,2022 06 13 Chicago Cubs VS. San Diego Padres
+383,San Diego Padres,06/13,Chicago Cubs,WIN,AWAY,4,1,2022 06 13 Chicago Cubs VS. San Diego Padres
+384,Texas Rangers,06/13,Houston Astros,WIN,HOME,5,3,2022 06 13 Texas Rangers VS. Houston Astros
+385,Houston Astros,06/13,Texas Rangers,LOSE,AWAY,3,5,2022 06 13 Texas Rangers VS. Houston Astros
+386,Detroit Tigers,06/14,Chicago White Sox,LOSE,HOME,1,5,2022 06 14 Detroit Tigers VS. Chicago White Sox
+387,Chicago White Sox,06/14,Detroit Tigers,WIN,AWAY,5,1,2022 06 14 Detroit Tigers VS. Chicago White Sox
+388,Los Angeles Dodgers,06/14,Los Angeles Angels,WIN,HOME,2,0,2022 06 14 Los Angeles Dodgers VS. Los Angeles Angels
+389,Los Angeles Angels,06/14,Los Angeles Dodgers,LOSE,AWAY,0,2,2022 06 14 Los Angeles Dodgers VS. Los Angeles Angels
+390,New York Yankees,06/14,Tampa Bay Rays,WIN,HOME,2,0,2022 06 14 New York Yankees VS. Tampa Bay Rays
+391,Tampa Bay Rays,06/14,New York Yankees,LOSE,AWAY,0,2,2022 06 14 New York Yankees VS. Tampa Bay Rays
+392,Washington Nationals,06/14,Atlanta Braves,LOSE,HOME,4,10,2022 06 14 Washington Nationals VS. Atlanta Braves
+393,Atlanta Braves,06/14,Washington Nationals,WIN,AWAY,10,4,2022 06 14 Washington Nationals VS. Atlanta Braves
+394,Detroit Tigers,06/15,Chicago White Sox,LOSE,HOME,0,13,2022 06 15 Detroit Tigers VS. Chicago White Sox
+395,Chicago White Sox,06/15,Detroit Tigers,WIN,AWAY,13,0,2022 06 15 Detroit Tigers VS. Chicago White Sox
+396,Los Angeles Dodgers,06/15,Los Angeles Angels,WIN,HOME,4,1,2022 06 15 Los Angeles Dodgers VS. Los Angeles Angels
+397,Los Angeles Angels,06/15,Los Angeles Dodgers,LOSE,AWAY,1,4,2022 06 15 Los Angeles Dodgers VS. Los Angeles Angels
+398,New York Mets,06/15,Milwaukee Brewers,LOSE,HOME,2,10,2022 06 15 New York Mets VS. Milwaukee Brewers
+399,Milwaukee Brewers,06/15,New York Mets,WIN,AWAY,10,2,2022 06 15 New York Mets VS. Milwaukee Brewers
+400,Philadelphia Phillies,06/15,Miami Marlins,WIN,HOME,3,1,2022 06 15 Philadelphia Phillies VS. Miami Marlins
+401,Miami Marlins,06/15,Philadelphia Phillies,LOSE,AWAY,1,3,2022 06 15 Philadelphia Phillies VS. Miami Marlins
+402,Seattle Mariners,06/15,Minnesota Twins,LOSE,HOME,0,5,2022 06 15 Seattle Mariners VS. Minnesota Twins
+403,Minnesota Twins,06/15,Seattle Mariners,WIN,AWAY,5,0,2022 06 15 Seattle Mariners VS. Minnesota Twins
+404,Detroit Tigers,06/16,Texas Rangers,LOSE,HOME,1,3,2022 06 16 Detroit Tigers VS. Texas Rangers
+405,Texas Rangers,06/16,Detroit Tigers,WIN,AWAY,3,1,2022 06 16 Detroit Tigers VS. Texas Rangers
+406,New York Yankees,06/16,Tampa Bay Rays,WIN,HOME,2,1,2022 06 16 New York Yankees VS. Tampa Bay Rays
+407,Tampa Bay Rays,06/16,New York Yankees,LOSE,AWAY,1,2,2022 06 16 New York Yankees VS. Tampa Bay Rays
+408,Seattle Mariners,06/16,Los Angeles Angels,LOSE,HOME,1,4,2022 06 16 Seattle Mariners VS. Los Angeles Angels
+409,Los Angeles Angels,06/16,Seattle Mariners,WIN,AWAY,4,1,2022 06 16 Seattle Mariners VS. Los Angeles Angels
+410,Arizona Diamondbacks,06/18,Minnesota Twins,LOSE,HOME,1,11,2022 06 18 Arizona Diamondbacks VS. Minnesota Twins
+411,Minnesota Twins,06/18,Arizona Diamondbacks,WIN,AWAY,11,1,2022 06 18 Arizona Diamondbacks VS. Minnesota Twins
+412,Boston Red Sox,06/18,St. Louis Cardinals,LOSE,HOME,2,11,2022 06 18 Boston Red Sox VS. St. Louis Cardinals
+413,St. Louis Cardinals,06/18,Boston Red Sox,WIN,AWAY,11,2,2022 06 18 Boston Red Sox VS. St. Louis Cardinals
+414,Detroit Tigers,06/18,Texas Rangers,WIN,HOME,14,7,2022 06 18 Detroit Tigers VS. Texas Rangers
+415,Texas Rangers,06/18,Detroit Tigers,LOSE,AWAY,7,14,2022 06 18 Detroit Tigers VS. Texas Rangers
+416,Los Angeles Dodgers,06/18,Cleveland Guardians,WIN,HOME,7,1,2022 06 18 Los Angeles Dodgers VS. Cleveland Guardians
+417,Cleveland Guardians,06/18,Los Angeles Dodgers,LOSE,AWAY,1,7,2022 06 18 Los Angeles Dodgers VS. Cleveland Guardians
+418,Seattle Mariners,06/18,Los Angeles Angels,LOSE,HOME,2,4,2022 06 18 Seattle Mariners VS. Los Angeles Angels
+419,Los Angeles Angels,06/18,Seattle Mariners,WIN,AWAY,4,2,2022 06 18 Seattle Mariners VS. Los Angeles Angels
+420,Boston Red Sox,06/19,St. Louis Cardinals,WIN,HOME,6,4,2022 06 19 Boston Red Sox VS. St. Louis Cardinals
+421,St. Louis Cardinals,06/19,Boston Red Sox,LOSE,AWAY,4,6,2022 06 19 Boston Red Sox VS. St. Louis Cardinals
+422,Houston Astros,06/19,Chicago White Sox,WIN,HOME,4,3,2022 06 19 Houston Astros VS. Chicago White Sox
+423,Chicago White Sox,06/19,Houston Astros,LOSE,AWAY,3,4,2022 06 19 Houston Astros VS. Chicago White Sox
+424,Toronto Blue Jays,06/19,New York Yankees,WIN,HOME,10,9,2022 06 19 Toronto Blue Jays VS. New York Yankees
+425,New York Yankees,06/19,Toronto Blue Jays,LOSE,AWAY,9,10,2022 06 19 Toronto Blue Jays VS. New York Yankees
+426,Milwaukee Brewers,06/20,St. Louis Cardinals,WIN,HOME,2,0,2022 06 20 Milwaukee Brewers VS. St. Louis Cardinals
+427,St. Louis Cardinals,06/20,Milwaukee Brewers,LOSE,AWAY,0,2,2022 06 20 Milwaukee Brewers VS. St. Louis Cardinals
+428,New York Mets,06/20,Miami Marlins,WIN,HOME,6,0,2022 06 20 New York Mets VS. Miami Marlins
+429,Miami Marlins,06/20,New York Mets,LOSE,AWAY,0,6,2022 06 20 New York Mets VS. Miami Marlins
+430,Atlanta Braves,06/21,San Francisco Giants,LOSE,HOME,10,12,2022 06 21 Atlanta Braves VS. San Francisco Giants
+431,San Francisco Giants,06/21,Atlanta Braves,WIN,AWAY,12,10,2022 06 21 Atlanta Braves VS. San Francisco Giants
+432,Oakland Athletics,06/21,Seattle Mariners,LOSE,HOME,2,8,2022 06 21 Oakland Athletics VS. Seattle Mariners
+433,Seattle Mariners,06/21,Oakland Athletics,WIN,AWAY,8,2,2022 06 21 Oakland Athletics VS. Seattle Mariners
+434,San Diego Padres,06/21,Arizona Diamondbacks,WIN,HOME,3,2,2022 06 21 San Diego Padres VS. Arizona Diamondbacks
+435,Arizona Diamondbacks,06/21,San Diego Padres,LOSE,AWAY,2,3,2022 06 21 San Diego Padres VS. Arizona Diamondbacks
+436,Boston Red Sox,06/22,Detroit Tigers,WIN,HOME,6,2,2022 06 22 Boston Red Sox VS. Detroit Tigers
+437,Detroit Tigers,06/22,Boston Red Sox,LOSE,AWAY,2,6,2022 06 22 Boston Red Sox VS. Detroit Tigers
+438,Chicago White Sox,06/22,Toronto Blue Jays,LOSE,HOME,5,9,2022 06 22 Chicago White Sox VS. Toronto Blue Jays
+439,Toronto Blue Jays,06/22,Chicago White Sox,WIN,AWAY,9,5,2022 06 22 Chicago White Sox VS. Toronto Blue Jays
+440,Houston Astros,06/22,New York Mets,WIN,HOME,5,3,2022 06 22 Houston Astros VS. New York Mets
+441,New York Mets,06/22,Houston Astros,LOSE,AWAY,3,5,2022 06 22 Houston Astros VS. New York Mets
+442,Atlanta Braves,06/23,San Francisco Giants,WIN,HOME,7,6,2022 06 23 Atlanta Braves VS. San Francisco Giants
+443,San Francisco Giants,06/23,Atlanta Braves,LOSE,AWAY,6,7,2022 06 23 Atlanta Braves VS. San Francisco Giants
+444,Chicago White Sox,06/23,Baltimore Orioles,LOSE,HOME,0,4,2022 06 23 Chicago White Sox VS. Baltimore Orioles
+445,Baltimore Orioles,06/23,Chicago White Sox,WIN,AWAY,4,0,2022 06 23 Chicago White Sox VS. Baltimore Orioles
+446,Miami Marlins,06/23,Colorado Rockies,WIN,HOME,3,2,2022 06 23 Miami Marlins VS. Colorado Rockies
+447,Colorado Rockies,06/23,Miami Marlins,LOSE,AWAY,2,3,2022 06 23 Miami Marlins VS. Colorado Rockies
+448,New York Yankees,06/23,Houston Astros,WIN,HOME,7,6,2022 06 23 New York Yankees VS. Houston Astros
+449,Houston Astros,06/23,New York Yankees,LOSE,AWAY,6,7,2022 06 23 New York Yankees VS. Houston Astros
+450,Miami Marlins,06/24,New York Mets,LOSE,HOME,3,5,2022 06 24 Miami Marlins VS. New York Mets
+451,New York Mets,06/24,Miami Marlins,WIN,AWAY,5,3,2022 06 24 Miami Marlins VS. New York Mets
+452,Atlanta Braves,06/25,Los Angeles Dodgers,WIN,HOME,5,3,2022 06 25 Atlanta Braves VS. Los Angeles Dodgers
+453,Los Angeles Dodgers,06/25,Atlanta Braves,LOSE,AWAY,3,5,2022 06 25 Atlanta Braves VS. Los Angeles Dodgers
+454,Los Angeles Angels,06/25,Seattle Mariners,LOSE,HOME,3,5,2022 06 25 Los Angeles Angels VS. Seattle Mariners
+455,Seattle Mariners,06/25,Los Angeles Angels,WIN,AWAY,5,3,2022 06 25 Los Angeles Angels VS. Seattle Mariners
+456,Minnesota Twins,06/25,Colorado Rockies,WIN,HOME,6,0,2022 06 25 Minnesota Twins VS. Colorado Rockies
+457,Colorado Rockies,06/25,Minnesota Twins,LOSE,AWAY,0,6,2022 06 25 Minnesota Twins VS. Colorado Rockies
+458,New York Yankees,06/25,Houston Astros,LOSE,HOME,0,3,2022 06 25 New York Yankees VS. Houston Astros
+459,Houston Astros,06/25,New York Yankees,WIN,AWAY,3,0,2022 06 25 New York Yankees VS. Houston Astros
+460,Tampa Bay Rays,06/25,Pittsburgh Pirates,WIN,HOME,6,5,2022 06 25 Tampa Bay Rays VS. Pittsburgh Pirates
+461,Pittsburgh Pirates,06/25,Tampa Bay Rays,LOSE,AWAY,5,6,2022 06 25 Tampa Bay Rays VS. Pittsburgh Pirates
+462,Texas Rangers,06/25,Washington Nationals,WIN,HOME,3,2,2022 06 25 Texas Rangers VS. Washington Nationals
+463,Washington Nationals,06/25,Texas Rangers,LOSE,AWAY,2,3,2022 06 25 Texas Rangers VS. Washington Nationals
+464,Atlanta Braves,06/26,Los Angeles Dodgers,LOSE,HOME,3,5,2022 06 26 Atlanta Braves VS. Los Angeles Dodgers
+465,Los Angeles Dodgers,06/26,Atlanta Braves,WIN,AWAY,5,3,2022 06 26 Atlanta Braves VS. Los Angeles Dodgers
+466,New York Yankees,06/26,Houston Astros,WIN,HOME,6,3,2022 06 26 New York Yankees VS. Houston Astros
+467,Houston Astros,06/26,New York Yankees,LOSE,AWAY,3,6,2022 06 26 New York Yankees VS. Houston Astros
+468,New York Yankees,06/27,Oakland Athletics,WIN,HOME,9,5,2022 06 27 New York Yankees VS. Oakland Athletics
+469,Oakland Athletics,06/27,New York Yankees,LOSE,AWAY,5,9,2022 06 27 New York Yankees VS. Oakland Athletics
+470,Seattle Mariners,06/27,Baltimore Orioles,LOSE,HOME,2,9,2022 06 27 Seattle Mariners VS. Baltimore Orioles
+471,Baltimore Orioles,06/27,Seattle Mariners,WIN,AWAY,9,2,2022 06 27 Seattle Mariners VS. Baltimore Orioles
+472,Toronto Blue Jays,06/27,Boston Red Sox,WIN,HOME,7,2,2022 06 27 Toronto Blue Jays VS. Boston Red Sox
+473,Boston Red Sox,06/27,Toronto Blue Jays,LOSE,AWAY,2,7,2022 06 27 Toronto Blue Jays VS. Boston Red Sox
+474,Los Angeles Angels,06/28,Chicago White Sox,LOSE,HOME,4,11,2022 06 28 Los Angeles Angels VS. Chicago White Sox
+475,Chicago White Sox,06/28,Los Angeles Angels,WIN,AWAY,11,4,2022 06 28 Los Angeles Angels VS. Chicago White Sox
+476,New York Mets,06/28,Houston Astros,LOSE,HOME,1,9,2022 06 28 New York Mets VS. Houston Astros
+477,Houston Astros,06/28,New York Mets,WIN,AWAY,9,1,2022 06 28 New York Mets VS. Houston Astros
+478,San Francisco Giants,06/28,Detroit Tigers,WIN,HOME,4,3,2022 06 28 San Francisco Giants VS. Detroit Tigers
+479,Detroit Tigers,06/28,San Francisco Giants,LOSE,AWAY,3,4,2022 06 28 San Francisco Giants VS. Detroit Tigers
+480,New York Mets,06/29,Houston Astros,LOSE,HOME,0,2,2022 06 29 New York Mets VS. Houston Astros
+481,Houston Astros,06/29,New York Mets,WIN,AWAY,2,0,2022 06 29 New York Mets VS. Houston Astros
+482,Philadelphia Phillies,06/29,Atlanta Braves,LOSE,HOME,1,4,2022 06 29 Philadelphia Phillies VS. Atlanta Braves
+483,Atlanta Braves,06/29,Philadelphia Phillies,WIN,AWAY,4,1,2022 06 29 Philadelphia Phillies VS. Atlanta Braves
+484,Toronto Blue Jays,06/29,Boston Red Sox,LOSE,HOME,5,6,2022 06 29 Toronto Blue Jays VS. Boston Red Sox
+485,Boston Red Sox,06/29,Toronto Blue Jays,WIN,AWAY,6,5,2022 06 29 Toronto Blue Jays VS. Boston Red Sox
+486,Cleveland Guardians,06/30,Minnesota Twins,WIN,HOME,5,3,2022 06 30 Cleveland Guardians VS. Minnesota Twins
+487,Minnesota Twins,06/30,Cleveland Guardians,LOSE,AWAY,3,5,2022 06 30 Cleveland Guardians VS. Minnesota Twins
+488,Houston Astros,06/30,New York Yankees,WIN,HOME,2,1,2022 06 30 Houston Astros VS. New York Yankees
+489,New York Yankees,06/30,Houston Astros,LOSE,AWAY,1,2,2022 06 30 Houston Astros VS. New York Yankees
+490,Los Angeles Dodgers,06/30,San Diego Padres,WIN,HOME,3,1,2022 06 30 Los Angeles Dodgers VS. San Diego Padres
+491,San Diego Padres,06/30,Los Angeles Dodgers,LOSE,AWAY,1,3,2022 06 30 Los Angeles Dodgers VS. San Diego Padres
+492,Philadelphia Phillies,06/30,Atlanta Braves,WIN,HOME,14,4,2022 06 30 Philadelphia Phillies VS. Atlanta Braves
+493,Atlanta Braves,06/30,Philadelphia Phillies,LOSE,AWAY,4,14,2022 06 30 Philadelphia Phillies VS. Atlanta Braves
+494,Toronto Blue Jays,06/30,Tampa Bay Rays,WIN,HOME,4,1,2022 06 30 Toronto Blue Jays VS. Tampa Bay Rays
+495,Tampa Bay Rays,06/30,Toronto Blue Jays,LOSE,AWAY,1,4,2022 06 30 Toronto Blue Jays VS. Tampa Bay Rays
+496,Chicago Cubs,07/01,Boston Red Sox,WIN,HOME,6,5,2022 07 01 Chicago Cubs VS. Boston Red Sox
+497,Boston Red Sox,07/01,Chicago Cubs,LOSE,AWAY,5,6,2022 07 01 Chicago Cubs VS. Boston Red Sox
+498,Cincinnati Reds,07/01,Atlanta Braves,LOSE,HOME,1,9,2022 07 01 Cincinnati Reds VS. Atlanta Braves
+499,Atlanta Braves,07/01,Cincinnati Reds,WIN,AWAY,9,1,2022 07 01 Cincinnati Reds VS. Atlanta Braves
+500,Philadelphia Phillies,07/01,St. Louis Cardinals,WIN,HOME,5,3,2022 07 01 Philadelphia Phillies VS. St. Louis Cardinals
+501,St. Louis Cardinals,07/01,Philadelphia Phillies,LOSE,AWAY,3,5,2022 07 01 Philadelphia Phillies VS. St. Louis Cardinals
+502,Toronto Blue Jays,07/01,Tampa Bay Rays,WIN,HOME,9,2,2022 07 01 Toronto Blue Jays VS. Tampa Bay Rays
+503,Tampa Bay Rays,07/01,Toronto Blue Jays,LOSE,AWAY,2,9,2022 07 01 Toronto Blue Jays VS. Tampa Bay Rays
+504,Chicago Cubs,07/02,Boston Red Sox,WIN,HOME,3,1,2022 07 02 Chicago Cubs VS. Boston Red Sox
+505,Boston Red Sox,07/02,Chicago Cubs,LOSE,AWAY,1,3,2022 07 02 Chicago Cubs VS. Boston Red Sox
+506,Los Angeles Dodgers,07/02,San Diego Padres,WIN,HOME,7,2,2022 07 02 Los Angeles Dodgers VS. San Diego Padres
+507,San Diego Padres,07/02,Los Angeles Dodgers,LOSE,AWAY,2,7,2022 07 02 Los Angeles Dodgers VS. San Diego Padres
+508,Seattle Mariners,07/02,Oakland Athletics,WIN,HOME,2,1,2022 07 02 Seattle Mariners VS. Oakland Athletics
+509,Oakland Athletics,07/02,Seattle Mariners,LOSE,AWAY,1,2,2022 07 02 Seattle Mariners VS. Oakland Athletics
+510,Toronto Blue Jays,07/02,Tampa Bay Rays,LOSE,HOME,2,6,2022 07 02 Toronto Blue Jays VS. Tampa Bay Rays
+511,Tampa Bay Rays,07/02,Toronto Blue Jays,WIN,AWAY,6,2,2022 07 02 Toronto Blue Jays VS. Tampa Bay Rays
+512,Cleveland Guardians,07/03,New York Yankees,WIN,HOME,2,0,2022 07 03 Cleveland Guardians VS. New York Yankees
+513,New York Yankees,07/03,Cleveland Guardians,LOSE,AWAY,0,2,2022 07 03 Cleveland Guardians VS. New York Yankees
+514,Philadelphia Phillies,07/03,St. Louis Cardinals,WIN,HOME,4,0,2022 07 03 Philadelphia Phillies VS. St. Louis Cardinals
+515,St. Louis Cardinals,07/03,Philadelphia Phillies,LOSE,AWAY,0,4,2022 07 03 Philadelphia Phillies VS. St. Louis Cardinals
+516,Toronto Blue Jays,07/03,Tampa Bay Rays,LOSE,HOME,3,7,2022 07 03 Toronto Blue Jays VS. Tampa Bay Rays
+517,Tampa Bay Rays,07/03,Toronto Blue Jays,WIN,AWAY,7,3,2022 07 03 Toronto Blue Jays VS. Tampa Bay Rays
+518,Atlanta Braves,07/04,St. Louis Cardinals,WIN,HOME,6,3,2022 07 04 Atlanta Braves VS. St. Louis Cardinals
+519,St. Louis Cardinals,07/04,Atlanta Braves,LOSE,AWAY,3,6,2022 07 04 Atlanta Braves VS. St. Louis Cardinals
+520,Detroit Tigers,07/04,Cleveland Guardians,WIN,HOME,4,1,2022 07 04 Detroit Tigers VS. Cleveland Guardians
+521,Cleveland Guardians,07/04,Detroit Tigers,LOSE,AWAY,1,4,2022 07 04 Detroit Tigers VS. Cleveland Guardians
+522,Houston Astros,07/04,Kansas City Royals,WIN,HOME,7,6,2022 07 04 Houston Astros VS. Kansas City Royals
+523,Kansas City Royals,07/04,Houston Astros,LOSE,AWAY,6,7,2022 07 04 Houston Astros VS. Kansas City Royals
+524,Washington Nationals,07/04,Miami Marlins,LOSE,HOME,2,3,2022 07 04 Washington Nationals VS. Miami Marlins
+525,Miami Marlins,07/04,Washington Nationals,WIN,AWAY,3,2,2022 07 04 Washington Nationals VS. Miami Marlins
+526,Boston Red Sox,07/05,Tampa Bay Rays,LOSE,HOME,4,8,2022 07 05 Boston Red Sox VS. Tampa Bay Rays
+527,Tampa Bay Rays,07/05,Boston Red Sox,WIN,AWAY,8,4,2022 07 05 Boston Red Sox VS. Tampa Bay Rays
+528,Los Angeles Dodgers,07/05,Colorado Rockies,WIN,HOME,5,2,2022 07 05 Los Angeles Dodgers VS. Colorado Rockies
+529,Colorado Rockies,07/05,Los Angeles Dodgers,LOSE,AWAY,2,5,2022 07 05 Los Angeles Dodgers VS. Colorado Rockies
+530,Oakland Athletics,07/05,Toronto Blue Jays,WIN,HOME,5,3,2022 07 05 Oakland Athletics VS. Toronto Blue Jays
+531,Toronto Blue Jays,07/05,Oakland Athletics,LOSE,AWAY,3,5,2022 07 05 Oakland Athletics VS. Toronto Blue Jays
+532,San Diego Padres,07/05,Seattle Mariners,LOSE,HOME,2,6,2022 07 05 San Diego Padres VS. Seattle Mariners
+533,Seattle Mariners,07/05,San Diego Padres,WIN,AWAY,6,2,2022 07 05 San Diego Padres VS. Seattle Mariners
+534,Atlanta Braves,07/06,St. Louis Cardinals,WIN,HOME,3,0,2022 07 06 Atlanta Braves VS. St. Louis Cardinals
+535,St. Louis Cardinals,07/06,Atlanta Braves,LOSE,AWAY,0,3,2022 07 06 Atlanta Braves VS. St. Louis Cardinals
+536,Chicago White Sox,07/06,Minnesota Twins,WIN,HOME,9,8,2022 07 06 Chicago White Sox VS. Minnesota Twins
+537,Minnesota Twins,07/06,Chicago White Sox,LOSE,AWAY,8,9,2022 07 06 Chicago White Sox VS. Minnesota Twins
+538,Detroit Tigers,07/06,Cleveland Guardians,WIN,HOME,8,2,2022 07 06 Detroit Tigers VS. Cleveland Guardians
+539,Cleveland Guardians,07/06,Detroit Tigers,LOSE,AWAY,2,8,2022 07 06 Detroit Tigers VS. Cleveland Guardians
+540,Los Angeles Dodgers,07/06,Colorado Rockies,WIN,HOME,2,1,2022 07 06 Los Angeles Dodgers VS. Colorado Rockies
+541,Colorado Rockies,07/06,Los Angeles Dodgers,LOSE,AWAY,1,2,2022 07 06 Los Angeles Dodgers VS. Colorado Rockies
+542,Atlanta Braves,07/07,St. Louis Cardinals,LOSE,HOME,2,3,2022 07 07 Atlanta Braves VS. St. Louis Cardinals
+543,St. Louis Cardinals,07/07,Atlanta Braves,WIN,AWAY,3,2,2022 07 07 Atlanta Braves VS. St. Louis Cardinals
+544,Boston Red Sox,07/07,New York Yankees,LOSE,HOME,5,6,2022 07 07 Boston Red Sox VS. New York Yankees
+545,New York Yankees,07/07,Boston Red Sox,WIN,AWAY,6,5,2022 07 07 Boston Red Sox VS. New York Yankees
+546,Cincinnati Reds,07/07,Pittsburgh Pirates,LOSE,HOME,2,4,2022 07 07 Cincinnati Reds VS. Pittsburgh Pirates
+547,Pittsburgh Pirates,07/07,Cincinnati Reds,WIN,AWAY,4,2,2022 07 07 Cincinnati Reds VS. Pittsburgh Pirates
+548,Houston Astros,07/07,Kansas City Royals,WIN,HOME,5,2,2022 07 07 Houston Astros VS. Kansas City Royals
+549,Kansas City Royals,07/07,Houston Astros,LOSE,AWAY,2,5,2022 07 07 Houston Astros VS. Kansas City Royals
+550,Atlanta Braves,07/08,Washington Nationals,WIN,HOME,12,2,2022 07 08 Atlanta Braves VS. Washington Nationals
+551,Washington Nationals,07/08,Atlanta Braves,LOSE,AWAY,2,12,2022 07 08 Atlanta Braves VS. Washington Nationals
+552,Baltimore Orioles,07/08,Los Angeles Angels,WIN,HOME,5,4,2022 07 08 Baltimore Orioles VS. Los Angeles Angels
+553,Los Angeles Angels,07/08,Baltimore Orioles,LOSE,AWAY,4,5,2022 07 08 Baltimore Orioles VS. Los Angeles Angels
+554,Boston Red Sox,07/08,New York Yankees,LOSE,HOME,5,12,2022 07 08 Boston Red Sox VS. New York Yankees
+555,New York Yankees,07/08,Boston Red Sox,WIN,AWAY,12,5,2022 07 08 Boston Red Sox VS. New York Yankees
+556,Los Angeles Dodgers,07/08,Chicago Cubs,WIN,HOME,4,3,2022 07 08 Los Angeles Dodgers VS. Chicago Cubs
+557,Chicago Cubs,07/08,Los Angeles Dodgers,LOSE,AWAY,3,4,2022 07 08 Los Angeles Dodgers VS. Chicago Cubs
+558,Boston Red Sox,07/09,New York Yankees,WIN,HOME,6,5,2022 07 09 Boston Red Sox VS. New York Yankees
+559,New York Yankees,07/09,Boston Red Sox,LOSE,AWAY,5,6,2022 07 09 Boston Red Sox VS. New York Yankees
+560,Cincinnati Reds,07/09,Tampa Bay Rays,WIN,HOME,5,4,2022 07 09 Cincinnati Reds VS. Tampa Bay Rays
+561,Tampa Bay Rays,07/09,Cincinnati Reds,LOSE,AWAY,4,5,2022 07 09 Cincinnati Reds VS. Tampa Bay Rays
+562,Los Angeles Dodgers,07/09,Chicago Cubs,WIN,HOME,4,2,2022 07 09 Los Angeles Dodgers VS. Chicago Cubs
+563,Chicago Cubs,07/09,Los Angeles Dodgers,LOSE,AWAY,2,4,2022 07 09 Los Angeles Dodgers VS. Chicago Cubs
+564,San Diego Padres,07/09,San Francisco Giants,LOSE,HOME,1,3,2022 07 09 San Diego Padres VS. San Francisco Giants
+565,San Francisco Giants,07/09,San Diego Padres,WIN,AWAY,3,1,2022 07 09 San Diego Padres VS. San Francisco Giants
+566,Seattle Mariners,07/09,Toronto Blue Jays,WIN,HOME,2,1,2022 07 09 Seattle Mariners VS. Toronto Blue Jays
+567,Toronto Blue Jays,07/09,Seattle Mariners,LOSE,AWAY,1,2,2022 07 09 Seattle Mariners VS. Toronto Blue Jays
+568,Atlanta Braves,07/10,Washington Nationals,WIN,HOME,4,3,2022 07 10 Atlanta Braves VS. Washington Nationals
+569,Washington Nationals,07/10,Atlanta Braves,LOSE,AWAY,3,4,2022 07 10 Atlanta Braves VS. Washington Nationals
+570,Boston Red Sox,07/10,New York Yankees,WIN,HOME,11,6,2022 07 10 Boston Red Sox VS. New York Yankees
+571,New York Yankees,07/10,Boston Red Sox,LOSE,AWAY,6,11,2022 07 10 Boston Red Sox VS. New York Yankees
+572,New York Mets,07/10,Miami Marlins,LOSE,HOME,0,2,2022 07 10 New York Mets VS. Miami Marlins
+573,Miami Marlins,07/10,New York Mets,WIN,AWAY,2,0,2022 07 10 New York Mets VS. Miami Marlins
+574,Kansas City Royals,07/11,Detroit Tigers,WIN,HOME,3,1,2022 07 11 Kansas City Royals VS. Detroit Tigers
+575,Detroit Tigers,07/11,Kansas City Royals,LOSE,AWAY,1,3,2022 07 11 Kansas City Royals VS. Detroit Tigers
+576,Cleveland Guardians,07/12,Chicago White Sox,WIN,HOME,4,1,2022 07 12 Cleveland Guardians VS. Chicago White Sox
+577,Chicago White Sox,07/12,Cleveland Guardians,LOSE,AWAY,1,4,2022 07 12 Cleveland Guardians VS. Chicago White Sox
+578,Los Angeles Angels,07/12,Houston Astros,LOSE,HOME,5,6,2022 07 12 Los Angeles Angels VS. Houston Astros
+579,Houston Astros,07/12,Los Angeles Angels,WIN,AWAY,6,5,2022 07 12 Los Angeles Angels VS. Houston Astros
+580,San Francisco Giants,07/12,Arizona Diamondbacks,WIN,HOME,13,0,2022 07 12 San Francisco Giants VS. Arizona Diamondbacks
+581,Arizona Diamondbacks,07/12,San Francisco Giants,LOSE,AWAY,0,13,2022 07 12 San Francisco Giants VS. Arizona Diamondbacks
+582,St. Louis Cardinals,07/12,Los Angeles Dodgers,WIN,HOME,7,6,2022 07 12 St. Louis Cardinals VS. Los Angeles Dodgers
+583,Los Angeles Dodgers,07/12,St. Louis Cardinals,LOSE,AWAY,6,7,2022 07 12 St. Louis Cardinals VS. Los Angeles Dodgers
+584,Atlanta Braves,07/13,New York Mets,LOSE,HOME,3,7,2022 07 13 Atlanta Braves VS. New York Mets
+585,New York Mets,07/13,Atlanta Braves,WIN,AWAY,7,3,2022 07 13 Atlanta Braves VS. New York Mets
+586,Minnesota Twins,07/13,Milwaukee Brewers,WIN,HOME,4,1,2022 07 13 Minnesota Twins VS. Milwaukee Brewers
+587,Milwaukee Brewers,07/13,Minnesota Twins,LOSE,AWAY,1,4,2022 07 13 Minnesota Twins VS. Milwaukee Brewers
+588,Toronto Blue Jays,07/13,Philadelphia Phillies,WIN,HOME,8,2,2022 07 13 Toronto Blue Jays VS. Philadelphia Phillies
+589,Philadelphia Phillies,07/13,Toronto Blue Jays,LOSE,AWAY,2,8,2022 07 13 Toronto Blue Jays VS. Philadelphia Phillies
+590,Washington Nationals,07/13,Seattle Mariners,LOSE,HOME,4,6,2022 07 13 Washington Nationals VS. Seattle Mariners
+591,Seattle Mariners,07/13,Washington Nationals,WIN,AWAY,6,4,2022 07 13 Washington Nationals VS. Seattle Mariners
+592,Colorado Rockies,07/14,San Diego Padres,WIN,HOME,8,5,2022 07 14 Colorado Rockies VS. San Diego Padres
+593,San Diego Padres,07/14,Colorado Rockies,LOSE,AWAY,5,8,2022 07 14 Colorado Rockies VS. San Diego Padres
+594,Miami Marlins,07/14,Pittsburgh Pirates,WIN,HOME,3,2,2022 07 14 Miami Marlins VS. Pittsburgh Pirates
+595,Pittsburgh Pirates,07/14,Miami Marlins,LOSE,AWAY,2,3,2022 07 14 Miami Marlins VS. Pittsburgh Pirates
+596,St. Louis Cardinals,07/14,Los Angeles Dodgers,LOSE,HOME,0,4,2022 07 14 St. Louis Cardinals VS. Los Angeles Dodgers
+597,Los Angeles Dodgers,07/14,St. Louis Cardinals,WIN,AWAY,4,0,2022 07 14 St. Louis Cardinals VS. Los Angeles Dodgers
+598,Tampa Bay Rays,07/14,Boston Red Sox,WIN,HOME,5,4,2022 07 14 Tampa Bay Rays VS. Boston Red Sox
+599,Boston Red Sox,07/14,Tampa Bay Rays,LOSE,AWAY,4,5,2022 07 14 Tampa Bay Rays VS. Boston Red Sox
+600,New York Yankees,07/15,Boston Red Sox,LOSE,HOME,4,5,2022 07 15 New York Yankees VS. Boston Red Sox
+601,Boston Red Sox,07/15,New York Yankees,WIN,AWAY,5,4,2022 07 15 New York Yankees VS. Boston Red Sox
+602,Toronto Blue Jays,07/15,Kansas City Royals,WIN,HOME,8,1,2022 07 15 Toronto Blue Jays VS. Kansas City Royals
+603,Kansas City Royals,07/15,Toronto Blue Jays,LOSE,AWAY,1,8,2022 07 15 Toronto Blue Jays VS. Kansas City Royals
+604,Chicago Cubs,07/16,New York Mets,LOSE,HOME,3,4,2022 07 16 Chicago Cubs VS. New York Mets
+605,New York Mets,07/16,Chicago Cubs,WIN,AWAY,4,3,2022 07 16 Chicago Cubs VS. New York Mets
+606,Cleveland Guardians,07/16,Detroit Tigers,WIN,HOME,10,0,2022 07 16 Cleveland Guardians VS. Detroit Tigers
+607,Detroit Tigers,07/16,Cleveland Guardians,LOSE,AWAY,0,10,2022 07 16 Cleveland Guardians VS. Detroit Tigers
+608,Los Angeles Angels,07/16,Los Angeles Dodgers,LOSE,HOME,1,7,2022 07 16 Los Angeles Angels VS. Los Angeles Dodgers
+609,Los Angeles Dodgers,07/16,Los Angeles Angels,WIN,AWAY,7,1,2022 07 16 Los Angeles Angels VS. Los Angeles Dodgers
+610,New York Yankees,07/16,Boston Red Sox,WIN,HOME,14,1,2022 07 16 New York Yankees VS. Boston Red Sox
+611,Boston Red Sox,07/16,New York Yankees,LOSE,AWAY,1,14,2022 07 16 New York Yankees VS. Boston Red Sox
+612,San Francisco Giants,07/16,Milwaukee Brewers,WIN,HOME,2,1,2022 07 16 San Francisco Giants VS. Milwaukee Brewers
+613,Milwaukee Brewers,07/16,San Francisco Giants,LOSE,AWAY,1,2,2022 07 16 San Francisco Giants VS. Milwaukee Brewers
+614,New York Yankees,07/17,Boston Red Sox,WIN,HOME,13,2,2022 07 17 New York Yankees VS. Boston Red Sox
+615,Boston Red Sox,07/17,New York Yankees,LOSE,AWAY,2,13,2022 07 17 New York Yankees VS. Boston Red Sox
+616,Houston Astros,07/21,New York Yankees,WIN,HOME,3,2,2022 07 21 Houston Astros VS. New York Yankees
+617,New York Yankees,07/21,Houston Astros,LOSE,AWAY,2,3,2022 07 21 Houston Astros VS. New York Yankees
+618,Los Angeles Dodgers,07/21,San Francisco Giants,WIN,HOME,9,6,2022 07 21 Los Angeles Dodgers VS. San Francisco Giants
+619,San Francisco Giants,07/21,Los Angeles Dodgers,LOSE,AWAY,6,9,2022 07 21 Los Angeles Dodgers VS. San Francisco Giants
+620,Oakland Athletics,07/21,Detroit Tigers,WIN,HOME,5,0,2022 07 21 Oakland Athletics VS. Detroit Tigers
+621,Detroit Tigers,07/21,Oakland Athletics,LOSE,AWAY,0,5,2022 07 21 Oakland Athletics VS. Detroit Tigers
+622,Los Angeles Dodgers,07/22,San Francisco Giants,WIN,HOME,5,1,2022 07 22 Los Angeles Dodgers VS. San Francisco Giants
+623,San Francisco Giants,07/22,Los Angeles Dodgers,LOSE,AWAY,1,5,2022 07 22 Los Angeles Dodgers VS. San Francisco Giants
+624,Seattle Mariners,07/22,Houston Astros,LOSE,HOME,2,5,2022 07 22 Seattle Mariners VS. Houston Astros
+625,Houston Astros,07/22,Seattle Mariners,WIN,AWAY,5,2,2022 07 22 Seattle Mariners VS. Houston Astros
+626,Chicago White Sox,07/23,Cleveland Guardians,LOSE,HOME,4,7,2022 07 23 Chicago White Sox VS. Cleveland Guardians
+627,Cleveland Guardians,07/23,Chicago White Sox,WIN,AWAY,7,4,2022 07 23 Chicago White Sox VS. Cleveland Guardians
+628,Los Angeles Dodgers,07/23,San Francisco Giants,WIN,HOME,4,2,2022 07 23 Los Angeles Dodgers VS. San Francisco Giants
+629,San Francisco Giants,07/23,Los Angeles Dodgers,LOSE,AWAY,2,4,2022 07 23 Los Angeles Dodgers VS. San Francisco Giants
+630,Oakland Athletics,07/23,Texas Rangers,WIN,HOME,3,1,2022 07 23 Oakland Athletics VS. Texas Rangers
+631,Texas Rangers,07/23,Oakland Athletics,LOSE,AWAY,1,3,2022 07 23 Oakland Athletics VS. Texas Rangers
+632,Seattle Mariners,07/23,Houston Astros,LOSE,HOME,1,3,2022 07 23 Seattle Mariners VS. Houston Astros
+633,Houston Astros,07/23,Seattle Mariners,WIN,AWAY,3,1,2022 07 23 Seattle Mariners VS. Houston Astros
+634,New York Mets,07/24,San Diego Padres,WIN,HOME,8,5,2022 07 24 New York Mets VS. San Diego Padres
+635,San Diego Padres,07/24,New York Mets,LOSE,AWAY,5,8,2022 07 24 New York Mets VS. San Diego Padres
+636,Detroit Tigers,07/25,San Diego Padres,WIN,HOME,12,4,2022 07 25 Detroit Tigers VS. San Diego Padres
+637,San Diego Padres,07/25,Detroit Tigers,LOSE,AWAY,4,12,2022 07 25 Detroit Tigers VS. San Diego Padres
+638,Los Angeles Dodgers,07/25,Washington Nationals,LOSE,HOME,1,4,2022 07 25 Los Angeles Dodgers VS. Washington Nationals
+639,Washington Nationals,07/25,Los Angeles Dodgers,WIN,AWAY,4,1,2022 07 25 Los Angeles Dodgers VS. Washington Nationals
+640,Philadelphia Phillies,07/25,Atlanta Braves,WIN,HOME,6,4,2022 07 25 Philadelphia Phillies VS. Atlanta Braves
+641,Atlanta Braves,07/25,Philadelphia Phillies,LOSE,AWAY,4,6,2022 07 25 Philadelphia Phillies VS. Atlanta Braves
+642,Seattle Mariners,07/25,Texas Rangers,WIN,HOME,4,3,2022 07 25 Seattle Mariners VS. Texas Rangers
+643,Texas Rangers,07/25,Seattle Mariners,LOSE,AWAY,3,4,2022 07 25 Seattle Mariners VS. Texas Rangers
+644,Chicago Cubs,07/26,Pittsburgh Pirates,WIN,HOME,4,2,2022 07 26 Chicago Cubs VS. Pittsburgh Pirates
+645,Pittsburgh Pirates,07/26,Chicago Cubs,LOSE,AWAY,2,4,2022 07 26 Chicago Cubs VS. Pittsburgh Pirates
+646,Los Angeles Dodgers,07/26,Washington Nationals,LOSE,HOME,3,8,2022 07 26 Los Angeles Dodgers VS. Washington Nationals
+647,Washington Nationals,07/26,Los Angeles Dodgers,WIN,AWAY,8,3,2022 07 26 Los Angeles Dodgers VS. Washington Nationals
+648,New York Mets,07/26,New York Yankees,WIN,HOME,6,3,2022 07 26 New York Mets VS. New York Yankees
+649,New York Yankees,07/26,New York Mets,LOSE,AWAY,3,6,2022 07 26 New York Mets VS. New York Yankees
+650,Seattle Mariners,07/26,Texas Rangers,WIN,HOME,5,4,2022 07 26 Seattle Mariners VS. Texas Rangers
+651,Texas Rangers,07/26,Seattle Mariners,LOSE,AWAY,4,5,2022 07 26 Seattle Mariners VS. Texas Rangers
+652,Arizona Diamondbacks,07/27,San Francisco Giants,WIN,HOME,5,3,2022 07 27 Arizona Diamondbacks VS. San Francisco Giants
+653,San Francisco Giants,07/27,Arizona Diamondbacks,LOSE,AWAY,3,5,2022 07 27 Arizona Diamondbacks VS. San Francisco Giants
+654,Detroit Tigers,07/27,San Diego Padres,WIN,HOME,4,3,2022 07 27 Detroit Tigers VS. San Diego Padres
+655,San Diego Padres,07/27,Detroit Tigers,LOSE,AWAY,3,4,2022 07 27 Detroit Tigers VS. San Diego Padres
+656,Milwaukee Brewers,07/27,Minnesota Twins,WIN,HOME,10,4,2022 07 27 Milwaukee Brewers VS. Minnesota Twins
+657,Minnesota Twins,07/27,Milwaukee Brewers,LOSE,AWAY,4,10,2022 07 27 Milwaukee Brewers VS. Minnesota Twins
+658,New York Mets,07/27,New York Yankees,WIN,HOME,3,2,2022 07 27 New York Mets VS. New York Yankees
+659,New York Yankees,07/27,New York Mets,LOSE,AWAY,2,3,2022 07 27 New York Mets VS. New York Yankees
+660,Philadelphia Phillies,07/27,Atlanta Braves,WIN,HOME,7,2,2022 07 27 Philadelphia Phillies VS. Atlanta Braves
+661,Atlanta Braves,07/27,Philadelphia Phillies,LOSE,AWAY,2,7,2022 07 27 Philadelphia Phillies VS. Atlanta Braves
+662,Cincinnati Reds,07/28,Miami Marlins,LOSE,HOME,6,7,2022 07 28 Cincinnati Reds VS. Miami Marlins
+663,Miami Marlins,07/28,Cincinnati Reds,WIN,AWAY,7,6,2022 07 28 Cincinnati Reds VS. Miami Marlins
+664,Los Angeles Angels,07/29,Texas Rangers,LOSE,HOME,2,7,2022 07 29 Los Angeles Angels VS. Texas Rangers
+665,Texas Rangers,07/29,Los Angeles Angels,WIN,AWAY,7,2,2022 07 29 Los Angeles Angels VS. Texas Rangers
+666,San Diego Padres,07/29,Minnesota Twins,WIN,HOME,10,1,2022 07 29 San Diego Padres VS. Minnesota Twins
+667,Minnesota Twins,07/29,San Diego Padres,LOSE,AWAY,1,10,2022 07 29 San Diego Padres VS. Minnesota Twins
+668,Boston Red Sox,07/30,Milwaukee Brewers,LOSE,HOME,4,9,2022 07 30 Boston Red Sox VS. Milwaukee Brewers
+669,Milwaukee Brewers,07/30,Boston Red Sox,WIN,AWAY,9,4,2022 07 30 Boston Red Sox VS. Milwaukee Brewers
+670,Los Angeles Angels,07/30,Texas Rangers,WIN,HOME,9,7,2022 07 30 Los Angeles Angels VS. Texas Rangers
+671,Texas Rangers,07/30,Los Angeles Angels,LOSE,AWAY,7,9,2022 07 30 Los Angeles Angels VS. Texas Rangers
+672,Pittsburgh Pirates,07/30,Philadelphia Phillies,LOSE,HOME,1,2,2022 07 30 Pittsburgh Pirates VS. Philadelphia Phillies
+673,Philadelphia Phillies,07/30,Pittsburgh Pirates,WIN,AWAY,2,1,2022 07 30 Pittsburgh Pirates VS. Philadelphia Phillies
+674,San Diego Padres,07/30,Minnesota Twins,LOSE,HOME,4,7,2022 07 30 San Diego Padres VS. Minnesota Twins
+675,Minnesota Twins,07/30,San Diego Padres,WIN,AWAY,7,4,2022 07 30 San Diego Padres VS. Minnesota Twins
+676,Tampa Bay Rays,07/30,Cleveland Guardians,WIN,HOME,6,4,2022 07 30 Tampa Bay Rays VS. Cleveland Guardians
+677,Cleveland Guardians,07/30,Tampa Bay Rays,LOSE,AWAY,4,6,2022 07 30 Tampa Bay Rays VS. Cleveland Guardians
+678,Washington Nationals,07/30,St. Louis Cardinals,WIN,HOME,7,6,2022 07 30 Washington Nationals VS. St. Louis Cardinals
+679,St. Louis Cardinals,07/30,Washington Nationals,LOSE,AWAY,6,7,2022 07 30 Washington Nationals VS. St. Louis Cardinals
+680,Boston Red Sox,07/31,Milwaukee Brewers,WIN,HOME,7,2,2022 07 31 Boston Red Sox VS. Milwaukee Brewers
+681,Milwaukee Brewers,07/31,Boston Red Sox,LOSE,AWAY,2,7,2022 07 31 Boston Red Sox VS. Milwaukee Brewers
+682,New York Yankees,07/31,Kansas City Royals,LOSE,HOME,6,8,2022 07 31 New York Yankees VS. Kansas City Royals
+683,Kansas City Royals,07/31,New York Yankees,WIN,AWAY,8,6,2022 07 31 New York Yankees VS. Kansas City Royals
+684,San Francisco Giants,07/31,Chicago Cubs,WIN,HOME,4,0,2022 07 31 San Francisco Giants VS. Chicago Cubs
+685,Chicago Cubs,07/31,San Francisco Giants,LOSE,AWAY,0,4,2022 07 31 San Francisco Giants VS. Chicago Cubs
+686,Houston Astros,08/01,Boston Red Sox,LOSE,HOME,2,3,2022 08 01 Houston Astros VS. Boston Red Sox
+687,Boston Red Sox,08/01,Houston Astros,WIN,AWAY,3,2,2022 08 01 Houston Astros VS. Boston Red Sox
+688,New York Yankees,08/02,Seattle Mariners,LOSE,HOME,6,8,2022 08 02 New York Yankees VS. Seattle Mariners
+689,Seattle Mariners,08/02,New York Yankees,WIN,AWAY,8,6,2022 08 02 New York Yankees VS. Seattle Mariners
+690,San Francisco Giants,08/02,Los Angeles Dodgers,LOSE,HOME,5,9,2022 08 02 San Francisco Giants VS. Los Angeles Dodgers
+691,Los Angeles Dodgers,08/02,San Francisco Giants,WIN,AWAY,9,5,2022 08 02 San Francisco Giants VS. Los Angeles Dodgers
+692,Tampa Bay Rays,08/02,Toronto Blue Jays,LOSE,HOME,1,3,2022 08 02 Tampa Bay Rays VS. Toronto Blue Jays
+693,Toronto Blue Jays,08/02,Tampa Bay Rays,WIN,AWAY,3,1,2022 08 02 Tampa Bay Rays VS. Toronto Blue Jays
+694,Washington Nationals,08/02,New York Mets,WIN,HOME,5,1,2022 08 02 Washington Nationals VS. New York Mets
+695,New York Mets,08/02,Washington Nationals,LOSE,AWAY,1,5,2022 08 02 Washington Nationals VS. New York Mets
+696,Minnesota Twins,08/03,Detroit Tigers,WIN,HOME,4,1,2022 08 03 Minnesota Twins VS. Detroit Tigers
+697,Detroit Tigers,08/03,Minnesota Twins,LOSE,AWAY,1,4,2022 08 03 Minnesota Twins VS. Detroit Tigers
+698,New York Yankees,08/03,Seattle Mariners,LOSE,HOME,3,7,2022 08 03 New York Yankees VS. Seattle Mariners
+699,Seattle Mariners,08/03,New York Yankees,WIN,AWAY,7,3,2022 08 03 New York Yankees VS. Seattle Mariners
+700,San Diego Padres,08/03,Colorado Rockies,WIN,HOME,9,1,2022 08 03 San Diego Padres VS. Colorado Rockies
+701,Colorado Rockies,08/03,San Diego Padres,LOSE,AWAY,1,9,2022 08 03 San Diego Padres VS. Colorado Rockies
+702,San Francisco Giants,08/03,Los Angeles Dodgers,LOSE,HOME,0,3,2022 08 03 San Francisco Giants VS. Los Angeles Dodgers
+703,Los Angeles Dodgers,08/03,San Francisco Giants,WIN,AWAY,3,0,2022 08 03 San Francisco Giants VS. Los Angeles Dodgers
+704,Washington Nationals,08/03,New York Mets,LOSE,HOME,5,9,2022 08 03 Washington Nationals VS. New York Mets
+705,New York Mets,08/03,Washington Nationals,WIN,AWAY,9,5,2022 08 03 Washington Nationals VS. New York Mets
+706,Detroit Tigers,08/04,Tampa Bay Rays,LOSE,HOME,2,6,2022 08 04 Detroit Tigers VS. Tampa Bay Rays
+707,Tampa Bay Rays,08/04,Detroit Tigers,WIN,AWAY,6,2,2022 08 04 Detroit Tigers VS. Tampa Bay Rays
+708,Pittsburgh Pirates,08/04,Milwaukee Brewers,WIN,HOME,5,4,2022 08 04 Pittsburgh Pirates VS. Milwaukee Brewers
+709,Milwaukee Brewers,08/04,Pittsburgh Pirates,LOSE,AWAY,4,5,2022 08 04 Pittsburgh Pirates VS. Milwaukee Brewers
+710,San Diego Padres,08/04,Colorado Rockies,LOSE,HOME,3,7,2022 08 04 San Diego Padres VS. Colorado Rockies
+711,Colorado Rockies,08/04,San Diego Padres,WIN,AWAY,7,3,2022 08 04 San Diego Padres VS. Colorado Rockies
+712,San Francisco Giants,08/04,Los Angeles Dodgers,LOSE,HOME,3,5,2022 08 04 San Francisco Giants VS. Los Angeles Dodgers
+713,Los Angeles Dodgers,08/04,San Francisco Giants,WIN,AWAY,5,3,2022 08 04 San Francisco Giants VS. Los Angeles Dodgers
+714,Arizona Diamondbacks,08/05,Colorado Rockies,WIN,HOME,6,5,2022 08 05 Arizona Diamondbacks VS. Colorado Rockies
+715,Colorado Rockies,08/05,Arizona Diamondbacks,LOSE,AWAY,5,6,2022 08 05 Arizona Diamondbacks VS. Colorado Rockies
+716,Chicago Cubs,08/05,Miami Marlins,WIN,HOME,2,1,2022 08 05 Chicago Cubs VS. Miami Marlins
+717,Miami Marlins,08/05,Chicago Cubs,LOSE,AWAY,1,2,2022 08 05 Chicago Cubs VS. Miami Marlins
+718,Los Angeles Dodgers,08/05,San Diego Padres,WIN,HOME,8,1,2022 08 05 Los Angeles Dodgers VS. San Diego Padres
+719,San Diego Padres,08/05,Los Angeles Dodgers,LOSE,AWAY,1,8,2022 08 05 Los Angeles Dodgers VS. San Diego Padres
+720,Chicago Cubs,08/06,Miami Marlins,WIN,HOME,4,0,2022 08 06 Chicago Cubs VS. Miami Marlins
+721,Miami Marlins,08/06,Chicago Cubs,LOSE,AWAY,0,4,2022 08 06 Chicago Cubs VS. Miami Marlins
+722,Milwaukee Brewers,08/06,Cincinnati Reds,LOSE,HOME,5,7,2022 08 06 Milwaukee Brewers VS. Cincinnati Reds
+723,Cincinnati Reds,08/06,Milwaukee Brewers,WIN,AWAY,7,5,2022 08 06 Milwaukee Brewers VS. Cincinnati Reds
+724,Seattle Mariners,08/06,Los Angeles Angels,WIN,HOME,2,1,2022 08 06 Seattle Mariners VS. Los Angeles Angels
+725,Los Angeles Angels,08/06,Seattle Mariners,LOSE,AWAY,1,2,2022 08 06 Seattle Mariners VS. Los Angeles Angels
+726,St. Louis Cardinals,08/06,New York Yankees,WIN,HOME,1,0,2022 08 06 St. Louis Cardinals VS. New York Yankees
+727,New York Yankees,08/06,St. Louis Cardinals,LOSE,AWAY,0,1,2022 08 06 St. Louis Cardinals VS. New York Yankees
+728,Detroit Tigers,08/07,Tampa Bay Rays,LOSE,HOME,0,7,2022 08 07 Detroit Tigers VS. Tampa Bay Rays
+729,Tampa Bay Rays,08/07,Detroit Tigers,WIN,AWAY,7,0,2022 08 07 Detroit Tigers VS. Tampa Bay Rays
+730,Los Angeles Dodgers,08/07,San Diego Padres,WIN,HOME,4,0,2022 08 07 Los Angeles Dodgers VS. San Diego Padres
+731,San Diego Padres,08/07,Los Angeles Dodgers,LOSE,AWAY,0,4,2022 08 07 Los Angeles Dodgers VS. San Diego Padres
+732,Philadelphia Phillies,08/07,Washington Nationals,WIN,HOME,13,1,2022 08 07 Philadelphia Phillies VS. Washington Nationals
+733,Washington Nationals,08/07,Philadelphia Phillies,LOSE,AWAY,1,13,2022 08 07 Philadelphia Phillies VS. Washington Nationals
+734,San Diego Padres,08/08,San Francisco Giants,LOSE,HOME,0,1,2022 08 08 San Diego Padres VS. San Francisco Giants
+735,San Francisco Giants,08/08,San Diego Padres,WIN,AWAY,1,0,2022 08 08 San Diego Padres VS. San Francisco Giants
+736,Seattle Mariners,08/08,New York Yankees,LOSE,HOME,4,9,2022 08 08 Seattle Mariners VS. New York Yankees
+737,New York Yankees,08/08,Seattle Mariners,WIN,AWAY,9,4,2022 08 08 Seattle Mariners VS. New York Yankees
+738,Boston Red Sox,08/09,Atlanta Braves,LOSE,HOME,7,9,2022 08 09 Boston Red Sox VS. Atlanta Braves
+739,Atlanta Braves,08/09,Boston Red Sox,WIN,AWAY,9,7,2022 08 09 Boston Red Sox VS. Atlanta Braves
+740,Kansas City Royals,08/10,Chicago White Sox,WIN,HOME,8,3,2022 08 10 Kansas City Royals VS. Chicago White Sox
+741,Chicago White Sox,08/10,Kansas City Royals,LOSE,AWAY,3,8,2022 08 10 Kansas City Royals VS. Chicago White Sox
+742,New York Mets,08/10,Cincinnati Reds,WIN,HOME,10,2,2022 08 10 New York Mets VS. Cincinnati Reds
+743,Cincinnati Reds,08/10,New York Mets,LOSE,AWAY,2,10,2022 08 10 New York Mets VS. Cincinnati Reds
+744,Cincinnati Reds,08/11,Chicago Cubs,LOSE,HOME,2,4,2022 08 11 Cincinnati Reds VS. Chicago Cubs
+745,Chicago Cubs,08/11,Cincinnati Reds,WIN,AWAY,4,2,2022 08 11 Cincinnati Reds VS. Chicago Cubs
+746,Detroit Tigers,08/11,Cleveland Guardians,LOSE,HOME,3,4,2022 08 11 Detroit Tigers VS. Cleveland Guardians
+747,Cleveland Guardians,08/11,Detroit Tigers,WIN,AWAY,4,3,2022 08 11 Detroit Tigers VS. Cleveland Guardians
+748,Houston Astros,08/11,Texas Rangers,WIN,HOME,7,3,2022 08 11 Houston Astros VS. Texas Rangers
+749,Texas Rangers,08/11,Houston Astros,LOSE,AWAY,3,7,2022 08 11 Houston Astros VS. Texas Rangers
+750,Philadelphia Phillies,08/11,Miami Marlins,LOSE,HOME,0,3,2022 08 11 Philadelphia Phillies VS. Miami Marlins
+751,Miami Marlins,08/11,Philadelphia Phillies,WIN,AWAY,3,0,2022 08 11 Philadelphia Phillies VS. Miami Marlins
+752,Boston Red Sox,08/12,New York Yankees,WIN,HOME,3,2,2022 08 12 Boston Red Sox VS. New York Yankees
+753,New York Yankees,08/12,Boston Red Sox,LOSE,AWAY,2,3,2022 08 12 Boston Red Sox VS. New York Yankees
+754,Toronto Blue Jays,08/12,Cleveland Guardians,LOSE,HOME,0,8,2022 08 12 Toronto Blue Jays VS. Cleveland Guardians
+755,Cleveland Guardians,08/12,Toronto Blue Jays,WIN,AWAY,8,0,2022 08 12 Toronto Blue Jays VS. Cleveland Guardians
+756,Boston Red Sox,08/13,New York Yankees,LOSE,HOME,2,3,2022 08 13 Boston Red Sox VS. New York Yankees
+757,New York Yankees,08/13,Boston Red Sox,WIN,AWAY,3,2,2022 08 13 Boston Red Sox VS. New York Yankees
+758,Miami Marlins,08/13,Atlanta Braves,LOSE,HOME,2,5,2022 08 13 Miami Marlins VS. Atlanta Braves
+759,Atlanta Braves,08/13,Miami Marlins,WIN,AWAY,5,2,2022 08 13 Miami Marlins VS. Atlanta Braves
+760,Tampa Bay Rays,08/13,Baltimore Orioles,WIN,HOME,8,2,2022 08 13 Tampa Bay Rays VS. Baltimore Orioles
+761,Baltimore Orioles,08/13,Tampa Bay Rays,LOSE,AWAY,2,8,2022 08 13 Tampa Bay Rays VS. Baltimore Orioles
+762,Texas Rangers,08/13,Seattle Mariners,WIN,HOME,7,4,2022 08 13 Texas Rangers VS. Seattle Mariners
+763,Seattle Mariners,08/13,Texas Rangers,LOSE,AWAY,4,7,2022 08 13 Texas Rangers VS. Seattle Mariners
+764,Toronto Blue Jays,08/13,Cleveland Guardians,WIN,HOME,2,1,2022 08 13 Toronto Blue Jays VS. Cleveland Guardians
+765,Cleveland Guardians,08/13,Toronto Blue Jays,LOSE,AWAY,1,2,2022 08 13 Toronto Blue Jays VS. Cleveland Guardians
+766,Boston Red Sox,08/14,New York Yankees,WIN,HOME,3,0,2022 08 14 Boston Red Sox VS. New York Yankees
+767,New York Yankees,08/14,Boston Red Sox,LOSE,AWAY,0,3,2022 08 14 Boston Red Sox VS. New York Yankees
+768,New York Mets,08/14,Philadelphia Phillies,WIN,HOME,6,0,2022 08 14 New York Mets VS. Philadelphia Phillies
+769,Philadelphia Phillies,08/14,New York Mets,LOSE,AWAY,0,6,2022 08 14 New York Mets VS. Philadelphia Phillies
+770,Toronto Blue Jays,08/14,Cleveland Guardians,LOSE,HOME,2,7,2022 08 14 Toronto Blue Jays VS. Cleveland Guardians
+771,Cleveland Guardians,08/14,Toronto Blue Jays,WIN,AWAY,7,2,2022 08 14 Toronto Blue Jays VS. Cleveland Guardians
+772,Chicago White Sox,08/15,Houston Astros,WIN,HOME,4,2,2022 08 15 Chicago White Sox VS. Houston Astros
+773,Houston Astros,08/15,Chicago White Sox,LOSE,AWAY,2,4,2022 08 15 Chicago White Sox VS. Houston Astros
+774,Cleveland Guardians,08/15,Detroit Tigers,WIN,HOME,4,1,2022 08 15 Cleveland Guardians VS. Detroit Tigers
+775,Detroit Tigers,08/15,Cleveland Guardians,LOSE,AWAY,1,4,2022 08 15 Cleveland Guardians VS. Detroit Tigers
+776,Los Angeles Angels,08/16,Seattle Mariners,LOSE,HOME,2,8,2022 08 16 Los Angeles Angels VS. Seattle Mariners
+777,Seattle Mariners,08/16,Los Angeles Angels,WIN,AWAY,8,2,2022 08 16 Los Angeles Angels VS. Seattle Mariners
+778,New York Yankees,08/16,Tampa Bay Rays,LOSE,HOME,1,3,2022 08 16 New York Yankees VS. Tampa Bay Rays
+779,Tampa Bay Rays,08/16,New York Yankees,WIN,AWAY,3,1,2022 08 16 New York Yankees VS. Tampa Bay Rays
+780,San Francisco Giants,08/16,Arizona Diamondbacks,WIN,HOME,2,1,2022 08 16 San Francisco Giants VS. Arizona Diamondbacks
+781,Arizona Diamondbacks,08/16,San Francisco Giants,LOSE,AWAY,1,2,2022 08 16 San Francisco Giants VS. Arizona Diamondbacks
+782,Los Angeles Angels,08/17,Seattle Mariners,LOSE,HOME,7,11,2022 08 17 Los Angeles Angels VS. Seattle Mariners
+783,Seattle Mariners,08/17,Los Angeles Angels,WIN,AWAY,11,7,2022 08 17 Los Angeles Angels VS. Seattle Mariners
+784,Miami Marlins,08/17,San Diego Padres,LOSE,HOME,3,10,2022 08 17 Miami Marlins VS. San Diego Padres
+785,San Diego Padres,08/17,Miami Marlins,WIN,AWAY,10,3,2022 08 17 Miami Marlins VS. San Diego Padres
+786,Milwaukee Brewers,08/17,Los Angeles Dodgers,LOSE,HOME,1,2,2022 08 17 Milwaukee Brewers VS. Los Angeles Dodgers
+787,Los Angeles Dodgers,08/17,Milwaukee Brewers,WIN,AWAY,2,1,2022 08 17 Milwaukee Brewers VS. Los Angeles Dodgers
+788,Minnesota Twins,08/17,Kansas City Royals,WIN,HOME,4,0,2022 08 17 Minnesota Twins VS. Kansas City Royals
+789,Kansas City Royals,08/17,Minnesota Twins,LOSE,AWAY,0,4,2022 08 17 Minnesota Twins VS. Kansas City Royals
+790,Washington Nationals,08/17,Chicago Cubs,LOSE,HOME,2,3,2022 08 17 Washington Nationals VS. Chicago Cubs
+791,Chicago Cubs,08/17,Washington Nationals,WIN,AWAY,3,2,2022 08 17 Washington Nationals VS. Chicago Cubs
+792,Milwaukee Brewers,08/18,Los Angeles Dodgers,WIN,HOME,5,3,2022 08 18 Milwaukee Brewers VS. Los Angeles Dodgers
+793,Los Angeles Dodgers,08/18,Milwaukee Brewers,LOSE,AWAY,3,5,2022 08 18 Milwaukee Brewers VS. Los Angeles Dodgers
+794,New York Yankees,08/18,Toronto Blue Jays,LOSE,HOME,2,9,2022 08 18 New York Yankees VS. Toronto Blue Jays
+795,Toronto Blue Jays,08/18,New York Yankees,WIN,AWAY,9,2,2022 08 18 New York Yankees VS. Toronto Blue Jays
+796,Pittsburgh Pirates,08/18,Boston Red Sox,WIN,HOME,8,2,2022 08 18 Pittsburgh Pirates VS. Boston Red Sox
+797,Boston Red Sox,08/18,Pittsburgh Pirates,LOSE,AWAY,2,8,2022 08 18 Pittsburgh Pirates VS. Boston Red Sox
+798,Chicago Cubs,08/19,Milwaukee Brewers,WIN,HOME,8,7,2022 08 19 Chicago Cubs VS. Milwaukee Brewers
+799,Milwaukee Brewers,08/19,Chicago Cubs,LOSE,AWAY,7,8,2022 08 19 Chicago Cubs VS. Milwaukee Brewers
+800,Los Angeles Dodgers,08/19,Miami Marlins,WIN,HOME,2,1,2022 08 19 Los Angeles Dodgers VS. Miami Marlins
+801,Miami Marlins,08/19,Los Angeles Dodgers,LOSE,AWAY,1,2,2022 08 19 Los Angeles Dodgers VS. Miami Marlins
+802,San Diego Padres,08/19,Washington Nationals,LOSE,HOME,3,6,2022 08 19 San Diego Padres VS. Washington Nationals
+803,Washington Nationals,08/19,San Diego Padres,WIN,AWAY,6,3,2022 08 19 San Diego Padres VS. Washington Nationals
+804,Atlanta Braves,08/20,Houston Astros,WIN,HOME,5,4,2022 08 20 Atlanta Braves VS. Houston Astros
+805,Houston Astros,08/20,Atlanta Braves,LOSE,AWAY,4,5,2022 08 20 Atlanta Braves VS. Houston Astros
+806,Chicago Cubs,08/20,Milwaukee Brewers,WIN,HOME,6,5,2022 08 20 Chicago Cubs VS. Milwaukee Brewers
+807,Milwaukee Brewers,08/20,Chicago Cubs,LOSE,AWAY,5,6,2022 08 20 Chicago Cubs VS. Milwaukee Brewers
+808,Detroit Tigers,08/20,Los Angeles Angels,WIN,HOME,4,3,2022 08 20 Detroit Tigers VS. Los Angeles Angels
+809,Los Angeles Angels,08/20,Detroit Tigers,LOSE,AWAY,3,4,2022 08 20 Detroit Tigers VS. Los Angeles Angels
+810,New York Yankees,08/20,Toronto Blue Jays,LOSE,HOME,2,5,2022 08 20 New York Yankees VS. Toronto Blue Jays
+811,Toronto Blue Jays,08/20,New York Yankees,WIN,AWAY,5,2,2022 08 20 New York Yankees VS. Toronto Blue Jays
+812,Oakland Athletics,08/20,Seattle Mariners,WIN,HOME,4,3,2022 08 20 Oakland Athletics VS. Seattle Mariners
+813,Seattle Mariners,08/20,Oakland Athletics,LOSE,AWAY,3,4,2022 08 20 Oakland Athletics VS. Seattle Mariners
+814,Philadelphia Phillies,08/20,New York Mets,WIN,HOME,4,1,2022 08 20 Philadelphia Phillies VS. New York Mets
+815,New York Mets,08/20,Philadelphia Phillies,LOSE,AWAY,1,4,2022 08 20 Philadelphia Phillies VS. New York Mets
+816,Atlanta Braves,08/21,Houston Astros,LOSE,HOME,4,5,2022 08 21 Atlanta Braves VS. Houston Astros
+817,Houston Astros,08/21,Atlanta Braves,WIN,AWAY,5,4,2022 08 21 Atlanta Braves VS. Houston Astros
+818,Baltimore Orioles,08/21,Boston Red Sox,WIN,HOME,5,3,2022 08 21 Baltimore Orioles VS. Boston Red Sox
+819,Boston Red Sox,08/21,Baltimore Orioles,LOSE,AWAY,3,5,2022 08 21 Baltimore Orioles VS. Boston Red Sox
+820,New York Yankees,08/21,Toronto Blue Jays,WIN,HOME,4,2,2022 08 21 New York Yankees VS. Toronto Blue Jays
+821,Toronto Blue Jays,08/21,New York Yankees,LOSE,AWAY,2,4,2022 08 21 New York Yankees VS. Toronto Blue Jays
+822,New York Yankees,08/22,New York Mets,WIN,HOME,4,2,2022 08 22 New York Yankees VS. New York Mets
+823,New York Mets,08/22,New York Yankees,LOSE,AWAY,2,4,2022 08 22 New York Yankees VS. New York Mets
+824,Tampa Bay Rays,08/22,Los Angeles Angels,WIN,HOME,2,1,2022 08 22 Tampa Bay Rays VS. Los Angeles Angels
+825,Los Angeles Angels,08/22,Tampa Bay Rays,LOSE,AWAY,1,2,2022 08 22 Tampa Bay Rays VS. Los Angeles Angels
+826,Chicago Cubs,08/23,St. Louis Cardinals,WIN,HOME,2,0,2022 08 23 Chicago Cubs VS. St. Louis Cardinals
+827,St. Louis Cardinals,08/23,Chicago Cubs,LOSE,AWAY,0,2,2022 08 23 Chicago Cubs VS. St. Louis Cardinals
+828,Houston Astros,08/23,Minnesota Twins,WIN,HOME,4,2,2022 08 23 Houston Astros VS. Minnesota Twins
+829,Minnesota Twins,08/23,Houston Astros,LOSE,AWAY,2,4,2022 08 23 Houston Astros VS. Minnesota Twins
+830,Kansas City Royals,08/23,Arizona Diamondbacks,LOSE,HOME,3,7,2022 08 23 Kansas City Royals VS. Arizona Diamondbacks
+831,Arizona Diamondbacks,08/23,Kansas City Royals,WIN,AWAY,7,3,2022 08 23 Kansas City Royals VS. Arizona Diamondbacks
+832,New York Yankees,08/23,New York Mets,WIN,HOME,4,2,2022 08 23 New York Yankees VS. New York Mets
+833,New York Mets,08/23,New York Yankees,LOSE,AWAY,2,4,2022 08 23 New York Yankees VS. New York Mets
+834,Baltimore Orioles,08/24,Chicago White Sox,LOSE,HOME,3,5,2022 08 24 Baltimore Orioles VS. Chicago White Sox
+835,Chicago White Sox,08/24,Baltimore Orioles,WIN,AWAY,5,3,2022 08 24 Baltimore Orioles VS. Chicago White Sox
+836,Detroit Tigers,08/24,San Francisco Giants,WIN,HOME,6,1,2022 08 24 Detroit Tigers VS. San Francisco Giants
+837,San Francisco Giants,08/24,Detroit Tigers,LOSE,AWAY,1,6,2022 08 24 Detroit Tigers VS. San Francisco Giants
+838,Oakland Athletics,08/24,Miami Marlins,WIN,HOME,3,2,2022 08 24 Oakland Athletics VS. Miami Marlins
+839,Miami Marlins,08/24,Oakland Athletics,LOSE,AWAY,2,3,2022 08 24 Oakland Athletics VS. Miami Marlins
+840,Pittsburgh Pirates,08/24,Atlanta Braves,LOSE,HOME,2,14,2022 08 24 Pittsburgh Pirates VS. Atlanta Braves
+841,Atlanta Braves,08/24,Pittsburgh Pirates,WIN,AWAY,14,2,2022 08 24 Pittsburgh Pirates VS. Atlanta Braves
+842,San Diego Padres,08/24,Cleveland Guardians,LOSE,HOME,0,7,2022 08 24 San Diego Padres VS. Cleveland Guardians
+843,Cleveland Guardians,08/24,San Diego Padres,WIN,AWAY,7,0,2022 08 24 San Diego Padres VS. Cleveland Guardians
+844,Boston Red Sox,08/25,Toronto Blue Jays,LOSE,HOME,5,6,2022 08 25 Boston Red Sox VS. Toronto Blue Jays
+845,Toronto Blue Jays,08/25,Boston Red Sox,WIN,AWAY,6,5,2022 08 25 Boston Red Sox VS. Toronto Blue Jays
+846,Chicago Cubs,08/25,St. Louis Cardinals,LOSE,HOME,3,8,2022 08 25 Chicago Cubs VS. St. Louis Cardinals
+847,St. Louis Cardinals,08/25,Chicago Cubs,WIN,AWAY,8,3,2022 08 25 Chicago Cubs VS. St. Louis Cardinals
+848,Houston Astros,08/25,Minnesota Twins,WIN,HOME,6,3,2022 08 25 Houston Astros VS. Minnesota Twins
+849,Minnesota Twins,08/25,Houston Astros,LOSE,AWAY,3,6,2022 08 25 Houston Astros VS. Minnesota Twins
+850,Seattle Mariners,08/25,Cleveland Guardians,WIN,HOME,3,1,2022 08 25 Seattle Mariners VS. Cleveland Guardians
+851,Cleveland Guardians,08/25,Seattle Mariners,LOSE,AWAY,1,3,2022 08 25 Seattle Mariners VS. Cleveland Guardians
+852,Tampa Bay Rays,08/25,Los Angeles Angels,WIN,HOME,8,3,2022 08 25 Tampa Bay Rays VS. Los Angeles Angels
+853,Los Angeles Angels,08/25,Tampa Bay Rays,LOSE,AWAY,3,8,2022 08 25 Tampa Bay Rays VS. Los Angeles Angels
+854,Minnesota Twins,08/26,San Francisco Giants,WIN,HOME,9,0,2022 08 26 Minnesota Twins VS. San Francisco Giants
+855,San Francisco Giants,08/26,Minnesota Twins,LOSE,AWAY,0,9,2022 08 26 Minnesota Twins VS. San Francisco Giants
+856,St. Louis Cardinals,08/26,Atlanta Braves,LOSE,HOME,4,11,2022 08 26 St. Louis Cardinals VS. Atlanta Braves
+857,Atlanta Braves,08/26,St. Louis Cardinals,WIN,AWAY,11,4,2022 08 26 St. Louis Cardinals VS. Atlanta Braves
+858,Boston Red Sox,08/27,Tampa Bay Rays,WIN,HOME,5,1,2022 08 27 Boston Red Sox VS. Tampa Bay Rays
+859,Tampa Bay Rays,08/27,Boston Red Sox,LOSE,AWAY,1,5,2022 08 27 Boston Red Sox VS. Tampa Bay Rays
+860,Minnesota Twins,08/27,San Francisco Giants,WIN,HOME,3,2,2022 08 27 Minnesota Twins VS. San Francisco Giants
+861,San Francisco Giants,08/27,Minnesota Twins,LOSE,AWAY,2,3,2022 08 27 Minnesota Twins VS. San Francisco Giants
+862,Seattle Mariners,08/27,Cleveland Guardians,LOSE,HOME,3,4,2022 08 27 Seattle Mariners VS. Cleveland Guardians
+863,Cleveland Guardians,08/27,Seattle Mariners,WIN,AWAY,4,3,2022 08 27 Seattle Mariners VS. Cleveland Guardians
+864,St. Louis Cardinals,08/27,Atlanta Braves,WIN,HOME,6,5,2022 08 27 St. Louis Cardinals VS. Atlanta Braves
+865,Atlanta Braves,08/27,St. Louis Cardinals,LOSE,AWAY,5,6,2022 08 27 St. Louis Cardinals VS. Atlanta Braves
+866,Toronto Blue Jays,08/27,Los Angeles Angels,LOSE,HOME,0,2,2022 08 27 Toronto Blue Jays VS. Los Angeles Angels
+867,Los Angeles Angels,08/27,Toronto Blue Jays,WIN,AWAY,2,0,2022 08 27 Toronto Blue Jays VS. Los Angeles Angels
+868,New York Mets,08/28,Colorado Rockies,LOSE,HOME,0,1,2022 08 28 New York Mets VS. Colorado Rockies
+869,Colorado Rockies,08/28,New York Mets,WIN,AWAY,1,0,2022 08 28 New York Mets VS. Colorado Rockies
+870,St. Louis Cardinals,08/28,Atlanta Braves,WIN,HOME,6,3,2022 08 28 St. Louis Cardinals VS. Atlanta Braves
+871,Atlanta Braves,08/28,St. Louis Cardinals,LOSE,AWAY,3,6,2022 08 28 St. Louis Cardinals VS. Atlanta Braves
+872,Toronto Blue Jays,08/28,Los Angeles Angels,LOSE,HOME,3,8,2022 08 28 Toronto Blue Jays VS. Los Angeles Angels
+873,Los Angeles Angels,08/28,Toronto Blue Jays,WIN,AWAY,8,3,2022 08 28 Toronto Blue Jays VS. Los Angeles Angels
+874,Arizona Diamondbacks,08/29,Philadelphia Phillies,WIN,HOME,13,7,2022 08 29 Arizona Diamondbacks VS. Philadelphia Phillies
+875,Philadelphia Phillies,08/29,Arizona Diamondbacks,LOSE,AWAY,7,13,2022 08 29 Arizona Diamondbacks VS. Philadelphia Phillies
+876,Los Angeles Angels,08/29,New York Yankees,WIN,HOME,4,3,2022 08 29 Los Angeles Angels VS. New York Yankees
+877,New York Yankees,08/29,Los Angeles Angels,LOSE,AWAY,3,4,2022 08 29 Los Angeles Angels VS. New York Yankees
+878,Los Angeles Angels,08/30,New York Yankees,LOSE,HOME,4,7,2022 08 30 Los Angeles Angels VS. New York Yankees
+879,New York Yankees,08/30,Los Angeles Angels,WIN,AWAY,7,4,2022 08 30 Los Angeles Angels VS. New York Yankees
+880,New York Mets,08/30,Los Angeles Dodgers,LOSE,HOME,3,4,2022 08 30 New York Mets VS. Los Angeles Dodgers
+881,Los Angeles Dodgers,08/30,New York Mets,WIN,AWAY,4,3,2022 08 30 New York Mets VS. Los Angeles Dodgers
+882,San Francisco Giants,08/30,San Diego Padres,LOSE,HOME,3,4,2022 08 30 San Francisco Giants VS. San Diego Padres
+883,San Diego Padres,08/30,San Francisco Giants,WIN,AWAY,4,3,2022 08 30 San Francisco Giants VS. San Diego Padres
+884,Milwaukee Brewers,08/31,Pittsburgh Pirates,WIN,HOME,6,1,2022 08 31 Milwaukee Brewers VS. Pittsburgh Pirates
+885,Pittsburgh Pirates,08/31,Milwaukee Brewers,LOSE,AWAY,1,6,2022 08 31 Milwaukee Brewers VS. Pittsburgh Pirates
+886,New York Mets,08/31,Los Angeles Dodgers,WIN,HOME,2,1,2022 08 31 New York Mets VS. Los Angeles Dodgers
+887,Los Angeles Dodgers,08/31,New York Mets,LOSE,AWAY,1,2,2022 08 31 New York Mets VS. Los Angeles Dodgers
+888,Texas Rangers,08/31,Houston Astros,LOSE,HOME,3,5,2022 08 31 Texas Rangers VS. Houston Astros
+889,Houston Astros,08/31,Texas Rangers,WIN,AWAY,5,3,2022 08 31 Texas Rangers VS. Houston Astros
+890,Toronto Blue Jays,08/31,Chicago Cubs,LOSE,HOME,5,7,2022 08 31 Toronto Blue Jays VS. Chicago Cubs
+891,Chicago Cubs,08/31,Toronto Blue Jays,WIN,AWAY,7,5,2022 08 31 Toronto Blue Jays VS. Chicago Cubs
+892,Atlanta Braves,09/01,Colorado Rockies,WIN,HOME,3,0,2022 09 01 Atlanta Braves VS. Colorado Rockies
+893,Colorado Rockies,09/01,Atlanta Braves,LOSE,AWAY,0,3,2022 09 01 Atlanta Braves VS. Colorado Rockies
+894,Boston Red Sox,09/01,Texas Rangers,WIN,HOME,9,8,2022 09 01 Boston Red Sox VS. Texas Rangers
+895,Texas Rangers,09/01,Boston Red Sox,LOSE,AWAY,8,9,2022 09 01 Boston Red Sox VS. Texas Rangers
+896,Chicago White Sox,09/01,Kansas City Royals,WIN,HOME,7,1,2022 09 01 Chicago White Sox VS. Kansas City Royals
+897,Kansas City Royals,09/01,Chicago White Sox,LOSE,AWAY,1,7,2022 09 01 Chicago White Sox VS. Kansas City Royals
+898,Washington Nationals,09/01,Oakland Athletics,WIN,HOME,7,5,2022 09 01 Washington Nationals VS. Oakland Athletics
+899,Oakland Athletics,09/01,Washington Nationals,LOSE,AWAY,5,7,2022 09 01 Washington Nationals VS. Oakland Athletics
+900,Boston Red Sox,09/02,Texas Rangers,WIN,HOME,9,1,2022 09 02 Boston Red Sox VS. Texas Rangers
+901,Texas Rangers,09/02,Boston Red Sox,LOSE,AWAY,1,9,2022 09 02 Boston Red Sox VS. Texas Rangers
+902,Tampa Bay Rays,09/02,New York Yankees,WIN,HOME,9,0,2022 09 02 Tampa Bay Rays VS. New York Yankees
+903,New York Yankees,09/02,Tampa Bay Rays,LOSE,AWAY,0,9,2022 09 02 Tampa Bay Rays VS. New York Yankees
+904,Boston Red Sox,09/03,Texas Rangers,WIN,HOME,5,3,2022 09 03 Boston Red Sox VS. Texas Rangers
+905,Texas Rangers,09/03,Boston Red Sox,LOSE,AWAY,3,5,2022 09 03 Boston Red Sox VS. Texas Rangers
+906,Chicago White Sox,09/03,Minnesota Twins,WIN,HOME,13,0,2022 09 03 Chicago White Sox VS. Minnesota Twins
+907,Minnesota Twins,09/03,Chicago White Sox,LOSE,AWAY,0,13,2022 09 03 Chicago White Sox VS. Minnesota Twins
+908,Cleveland Guardians,09/03,Seattle Mariners,LOSE,HOME,0,4,2022 09 03 Cleveland Guardians VS. Seattle Mariners
+909,Seattle Mariners,09/03,Cleveland Guardians,WIN,AWAY,4,0,2022 09 03 Cleveland Guardians VS. Seattle Mariners
+910,San Francisco Giants,09/03,Philadelphia Phillies,WIN,HOME,5,4,2022 09 03 San Francisco Giants VS. Philadelphia Phillies
+911,Philadelphia Phillies,09/03,San Francisco Giants,LOSE,AWAY,4,5,2022 09 03 San Francisco Giants VS. Philadelphia Phillies
+912,Boston Red Sox,09/04,Texas Rangers,WIN,HOME,5,2,2022 09 04 Boston Red Sox VS. Texas Rangers
+913,Texas Rangers,09/04,Boston Red Sox,LOSE,AWAY,2,5,2022 09 04 Boston Red Sox VS. Texas Rangers
+914,Los Angeles Dodgers,09/04,San Diego Padres,WIN,HOME,9,4,2022 09 04 Los Angeles Dodgers VS. San Diego Padres
+915,San Diego Padres,09/04,Los Angeles Dodgers,LOSE,AWAY,4,9,2022 09 04 Los Angeles Dodgers VS. San Diego Padres
+916,Tampa Bay Rays,09/04,New York Yankees,LOSE,HOME,1,2,2022 09 04 Tampa Bay Rays VS. New York Yankees
+917,New York Yankees,09/04,Tampa Bay Rays,WIN,AWAY,2,1,2022 09 04 Tampa Bay Rays VS. New York Yankees
+918,Baltimore Orioles,09/05,Toronto Blue Jays,LOSE,HOME,3,7,2022 09 05 Baltimore Orioles VS. Toronto Blue Jays
+919,Toronto Blue Jays,09/05,Baltimore Orioles,WIN,AWAY,7,3,2022 09 05 Baltimore Orioles VS. Toronto Blue Jays
+920,Houston Astros,09/05,Texas Rangers,WIN,HOME,1,0,2022 09 05 Houston Astros VS. Texas Rangers
+921,Texas Rangers,09/05,Houston Astros,LOSE,AWAY,0,1,2022 09 05 Houston Astros VS. Texas Rangers
+922,New York Yankees,09/05,Minnesota Twins,WIN,HOME,5,2,2022 09 05 New York Yankees VS. Minnesota Twins
+923,Minnesota Twins,09/05,New York Yankees,LOSE,AWAY,2,5,2022 09 05 New York Yankees VS. Minnesota Twins
+924,St. Louis Cardinals,09/05,Washington Nationals,LOSE,HOME,0,6,2022 09 05 St. Louis Cardinals VS. Washington Nationals
+925,Washington Nationals,09/05,St. Louis Cardinals,WIN,AWAY,6,0,2022 09 05 St. Louis Cardinals VS. Washington Nationals
+926,Tampa Bay Rays,09/05,Boston Red Sox,WIN,HOME,4,3,2022 09 05 Tampa Bay Rays VS. Boston Red Sox
+927,Boston Red Sox,09/05,Tampa Bay Rays,LOSE,AWAY,3,4,2022 09 05 Tampa Bay Rays VS. Boston Red Sox
+928,Los Angeles Dodgers,09/06,San Francisco Giants,WIN,HOME,6,3,2022 09 06 Los Angeles Dodgers VS. San Francisco Giants
+929,San Francisco Giants,09/06,Los Angeles Dodgers,LOSE,AWAY,3,6,2022 09 06 Los Angeles Dodgers VS. San Francisco Giants
+930,Seattle Mariners,09/06,Chicago White Sox,WIN,HOME,3,0,2022 09 06 Seattle Mariners VS. Chicago White Sox
+931,Chicago White Sox,09/06,Seattle Mariners,LOSE,AWAY,0,3,2022 09 06 Seattle Mariners VS. Chicago White Sox
+932,Los Angeles Dodgers,09/07,San Francisco Giants,WIN,HOME,7,3,2022 09 07 Los Angeles Dodgers VS. San Francisco Giants
+933,San Francisco Giants,09/07,Los Angeles Dodgers,LOSE,AWAY,3,7,2022 09 07 Los Angeles Dodgers VS. San Francisco Giants
+934,New York Yankees,09/07,Minnesota Twins,WIN,HOME,7,1,2022 09 07 New York Yankees VS. Minnesota Twins
+935,Minnesota Twins,09/07,New York Yankees,LOSE,AWAY,1,7,2022 09 07 New York Yankees VS. Minnesota Twins
+936,San Diego Padres,09/07,Arizona Diamondbacks,WIN,HOME,6,3,2022 09 07 San Diego Padres VS. Arizona Diamondbacks
+937,Arizona Diamondbacks,09/07,San Diego Padres,LOSE,AWAY,3,6,2022 09 07 San Diego Padres VS. Arizona Diamondbacks
+938,Seattle Mariners,09/07,Chicago White Sox,LOSE,HOME,6,9,2022 09 07 Seattle Mariners VS. Chicago White Sox
+939,Chicago White Sox,09/07,Seattle Mariners,WIN,AWAY,9,6,2022 09 07 Seattle Mariners VS. Chicago White Sox
+940,Chicago Cubs,09/08,Cincinnati Reds,LOSE,HOME,3,4,2022 09 08 Chicago Cubs VS. Cincinnati Reds
+941,Cincinnati Reds,09/08,Chicago Cubs,WIN,AWAY,4,3,2022 09 08 Chicago Cubs VS. Cincinnati Reds
+942,Milwaukee Brewers,09/08,San Francisco Giants,WIN,HOME,2,1,2022 09 08 Milwaukee Brewers VS. San Francisco Giants
+943,San Francisco Giants,09/08,Milwaukee Brewers,LOSE,AWAY,1,2,2022 09 08 Milwaukee Brewers VS. San Francisco Giants
+944,New York Yankees,09/08,Minnesota Twins,LOSE,HOME,3,4,2022 09 08 New York Yankees VS. Minnesota Twins
+945,Minnesota Twins,09/08,New York Yankees,WIN,AWAY,4,3,2022 09 08 New York Yankees VS. Minnesota Twins
+946,St. Louis Cardinals,09/08,Washington Nationals,LOSE,HOME,6,11,2022 09 08 St. Louis Cardinals VS. Washington Nationals
+947,Washington Nationals,09/08,St. Louis Cardinals,WIN,AWAY,11,6,2022 09 08 St. Louis Cardinals VS. Washington Nationals
+948,Chicago Cubs,09/09,San Francisco Giants,WIN,HOME,4,2,2022 09 09 Chicago Cubs VS. San Francisco Giants
+949,San Francisco Giants,09/09,Chicago Cubs,LOSE,AWAY,2,4,2022 09 09 Chicago Cubs VS. San Francisco Giants
+950,Kansas City Royals,09/09,Detroit Tigers,LOSE,HOME,2,10,2022 09 09 Kansas City Royals VS. Detroit Tigers
+951,Detroit Tigers,09/09,Kansas City Royals,WIN,AWAY,10,2,2022 09 09 Kansas City Royals VS. Detroit Tigers
+952,Texas Rangers,09/09,Toronto Blue Jays,LOSE,HOME,3,4,2022 09 09 Texas Rangers VS. Toronto Blue Jays
+953,Toronto Blue Jays,09/09,Texas Rangers,WIN,AWAY,4,3,2022 09 09 Texas Rangers VS. Toronto Blue Jays
+954,Houston Astros,09/10,Los Angeles Angels,LOSE,HOME,1,6,2022 09 10 Houston Astros VS. Los Angeles Angels
+955,Los Angeles Angels,09/10,Houston Astros,WIN,AWAY,6,1,2022 09 10 Houston Astros VS. Los Angeles Angels
+956,Minnesota Twins,09/10,Cleveland Guardians,LOSE,HOME,4,6,2022 09 10 Minnesota Twins VS. Cleveland Guardians
+957,Cleveland Guardians,09/10,Minnesota Twins,WIN,AWAY,6,4,2022 09 10 Minnesota Twins VS. Cleveland Guardians
+958,New York Yankees,09/10,Tampa Bay Rays,WIN,HOME,10,3,2022 09 10 New York Yankees VS. Tampa Bay Rays
+959,Tampa Bay Rays,09/10,New York Yankees,LOSE,AWAY,3,10,2022 09 10 New York Yankees VS. Tampa Bay Rays
+960,Oakland Athletics,09/10,Chicago White Sox,LOSE,HOME,2,10,2022 09 10 Oakland Athletics VS. Chicago White Sox
+961,Chicago White Sox,09/10,Oakland Athletics,WIN,AWAY,10,2,2022 09 10 Oakland Athletics VS. Chicago White Sox
+962,Chicago Cubs,09/11,San Francisco Giants,LOSE,HOME,2,4,2022 09 11 Chicago Cubs VS. San Francisco Giants
+963,San Francisco Giants,09/11,Chicago Cubs,WIN,AWAY,4,2,2022 09 11 Chicago Cubs VS. San Francisco Giants
+964,New York Yankees,09/11,Tampa Bay Rays,WIN,HOME,10,4,2022 09 11 New York Yankees VS. Tampa Bay Rays
+965,Tampa Bay Rays,09/11,New York Yankees,LOSE,AWAY,4,10,2022 09 11 New York Yankees VS. Tampa Bay Rays
+966,Pittsburgh Pirates,09/11,St. Louis Cardinals,LOSE,HOME,3,4,2022 09 11 Pittsburgh Pirates VS. St. Louis Cardinals
+967,St. Louis Cardinals,09/11,Pittsburgh Pirates,WIN,AWAY,4,3,2022 09 11 Pittsburgh Pirates VS. St. Louis Cardinals
+968,Arizona Diamondbacks,09/12,Los Angeles Dodgers,LOSE,HOME,0,6,2022 09 12 Arizona Diamondbacks VS. Los Angeles Dodgers
+969,Los Angeles Dodgers,09/12,Arizona Diamondbacks,WIN,AWAY,6,0,2022 09 12 Arizona Diamondbacks VS. Los Angeles Dodgers
+970,Cleveland Guardians,09/12,Los Angeles Angels,WIN,HOME,5,4,2022 09 12 Cleveland Guardians VS. Los Angeles Angels
+971,Los Angeles Angels,09/12,Cleveland Guardians,LOSE,AWAY,4,5,2022 09 12 Cleveland Guardians VS. Los Angeles Angels
+972,Detroit Tigers,09/12,Houston Astros,LOSE,HOME,0,7,2022 09 12 Detroit Tigers VS. Houston Astros
+973,Houston Astros,09/12,Detroit Tigers,WIN,AWAY,7,0,2022 09 12 Detroit Tigers VS. Houston Astros
+974,San Francisco Giants,09/12,Atlanta Braves,WIN,HOME,3,2,2022 09 12 San Francisco Giants VS. Atlanta Braves
+975,Atlanta Braves,09/12,San Francisco Giants,LOSE,AWAY,2,3,2022 09 12 San Francisco Giants VS. Atlanta Braves
+976,Boston Red Sox,09/13,New York Yankees,LOSE,HOME,6,7,2022 09 13 Boston Red Sox VS. New York Yankees
+977,New York Yankees,09/13,Boston Red Sox,WIN,AWAY,7,6,2022 09 13 Boston Red Sox VS. New York Yankees
+978,Cincinnati Reds,09/13,Pittsburgh Pirates,LOSE,HOME,1,6,2022 09 13 Cincinnati Reds VS. Pittsburgh Pirates
+979,Pittsburgh Pirates,09/13,Cincinnati Reds,WIN,AWAY,6,1,2022 09 13 Cincinnati Reds VS. Pittsburgh Pirates
+980,San Francisco Giants,09/13,Atlanta Braves,LOSE,HOME,1,5,2022 09 13 San Francisco Giants VS. Atlanta Braves
+981,Atlanta Braves,09/13,San Francisco Giants,WIN,AWAY,5,1,2022 09 13 San Francisco Giants VS. Atlanta Braves
+982,Seattle Mariners,09/13,San Diego Padres,LOSE,HOME,0,2,2022 09 13 Seattle Mariners VS. San Diego Padres
+983,San Diego Padres,09/13,Seattle Mariners,WIN,AWAY,2,0,2022 09 13 Seattle Mariners VS. San Diego Padres
+984,Toronto Blue Jays,09/13,Tampa Bay Rays,LOSE,HOME,2,4,2022 09 13 Toronto Blue Jays VS. Tampa Bay Rays
+985,Tampa Bay Rays,09/13,Toronto Blue Jays,WIN,AWAY,4,2,2022 09 13 Toronto Blue Jays VS. Tampa Bay Rays
+986,Cleveland Guardians,09/14,Los Angeles Angels,WIN,HOME,5,3,2022 09 14 Cleveland Guardians VS. Los Angeles Angels
+987,Los Angeles Angels,09/14,Cleveland Guardians,LOSE,AWAY,3,5,2022 09 14 Cleveland Guardians VS. Los Angeles Angels
+988,Detroit Tigers,09/14,Houston Astros,LOSE,HOME,1,2,2022 09 14 Detroit Tigers VS. Houston Astros
+989,Houston Astros,09/14,Detroit Tigers,WIN,AWAY,2,1,2022 09 14 Detroit Tigers VS. Houston Astros
+990,Seattle Mariners,09/14,San Diego Padres,WIN,HOME,6,1,2022 09 14 Seattle Mariners VS. San Diego Padres
+991,San Diego Padres,09/14,Seattle Mariners,LOSE,AWAY,1,6,2022 09 14 Seattle Mariners VS. San Diego Padres
+992,St. Louis Cardinals,09/14,Milwaukee Brewers,WIN,HOME,4,1,2022 09 14 St. Louis Cardinals VS. Milwaukee Brewers
+993,Milwaukee Brewers,09/14,St. Louis Cardinals,LOSE,AWAY,1,4,2022 09 14 St. Louis Cardinals VS. Milwaukee Brewers
+994,Cleveland Guardians,09/15,Chicago White Sox,LOSE,HOME,2,8,2022 09 15 Cleveland Guardians VS. Chicago White Sox
+995,Chicago White Sox,09/15,Cleveland Guardians,WIN,AWAY,8,2,2022 09 15 Cleveland Guardians VS. Chicago White Sox
+996,Houston Astros,09/15,Oakland Athletics,WIN,HOME,5,2,2022 09 15 Houston Astros VS. Oakland Athletics
+997,Oakland Athletics,09/15,Houston Astros,LOSE,AWAY,2,5,2022 09 15 Houston Astros VS. Oakland Athletics
+998,New York Mets,09/15,Pittsburgh Pirates,WIN,HOME,7,1,2022 09 15 New York Mets VS. Pittsburgh Pirates
+999,Pittsburgh Pirates,09/15,New York Mets,LOSE,AWAY,1,7,2022 09 15 New York Mets VS. Pittsburgh Pirates
+1000,Chicago Cubs,09/16,Colorado Rockies,WIN,HOME,2,1,2022 09 16 Chicago Cubs VS. Colorado Rockies
+1001,Colorado Rockies,09/16,Chicago Cubs,LOSE,AWAY,1,2,2022 09 16 Chicago Cubs VS. Colorado Rockies
+1002,Houston Astros,09/16,Oakland Athletics,WIN,HOME,5,0,2022 09 16 Houston Astros VS. Oakland Athletics
+1003,Oakland Athletics,09/16,Houston Astros,LOSE,AWAY,0,5,2022 09 16 Houston Astros VS. Oakland Athletics
+1004,Milwaukee Brewers,09/16,New York Yankees,WIN,HOME,7,6,2022 09 16 Milwaukee Brewers VS. New York Yankees
+1005,New York Yankees,09/16,Milwaukee Brewers,LOSE,AWAY,6,7,2022 09 16 Milwaukee Brewers VS. New York Yankees
+1006,Atlanta Braves,09/17,Philadelphia Phillies,WIN,HOME,4,3,2022 09 17 Atlanta Braves VS. Philadelphia Phillies
+1007,Philadelphia Phillies,09/17,Atlanta Braves,LOSE,AWAY,3,4,2022 09 17 Atlanta Braves VS. Philadelphia Phillies
+1008,Chicago Cubs,09/17,Colorado Rockies,LOSE,HOME,1,3,2022 09 17 Chicago Cubs VS. Colorado Rockies
+1009,Colorado Rockies,09/17,Chicago Cubs,WIN,AWAY,3,1,2022 09 17 Chicago Cubs VS. Colorado Rockies
+1010,Cleveland Guardians,09/17,Minnesota Twins,WIN,HOME,5,1,2022 09 17 Cleveland Guardians VS. Minnesota Twins
+1011,Minnesota Twins,09/17,Cleveland Guardians,LOSE,AWAY,1,5,2022 09 17 Cleveland Guardians VS. Minnesota Twins
+1012,Milwaukee Brewers,09/17,New York Yankees,WIN,HOME,4,1,2022 09 17 Milwaukee Brewers VS. New York Yankees
+1013,New York Yankees,09/17,Milwaukee Brewers,LOSE,AWAY,1,4,2022 09 17 Milwaukee Brewers VS. New York Yankees
+1014,Atlanta Braves,09/18,Philadelphia Phillies,WIN,HOME,5,2,2022 09 18 Atlanta Braves VS. Philadelphia Phillies
+1015,Philadelphia Phillies,09/18,Atlanta Braves,LOSE,AWAY,2,5,2022 09 18 Atlanta Braves VS. Philadelphia Phillies
+1016,New York Mets,09/18,Pittsburgh Pirates,WIN,HOME,7,3,2022 09 18 New York Mets VS. Pittsburgh Pirates
+1017,Pittsburgh Pirates,09/18,New York Mets,LOSE,AWAY,3,7,2022 09 18 New York Mets VS. Pittsburgh Pirates
+1018,San Francisco Giants,09/18,Los Angeles Dodgers,LOSE,HOME,3,4,2022 09 18 San Francisco Giants VS. Los Angeles Dodgers
+1019,Los Angeles Dodgers,09/18,San Francisco Giants,WIN,AWAY,4,3,2022 09 18 San Francisco Giants VS. Los Angeles Dodgers
+1020,Atlanta Braves,09/19,Washington Nationals,WIN,HOME,5,2,2022 09 19 Atlanta Braves VS. Washington Nationals
+1021,Washington Nationals,09/19,Atlanta Braves,LOSE,AWAY,2,5,2022 09 19 Atlanta Braves VS. Washington Nationals
+1022,Cleveland Guardians,09/19,Minnesota Twins,WIN,HOME,11,4,2022 09 19 Cleveland Guardians VS. Minnesota Twins
+1023,Minnesota Twins,09/19,Cleveland Guardians,LOSE,AWAY,4,11,2022 09 19 Cleveland Guardians VS. Minnesota Twins
+1024,Los Angeles Angels,09/19,Seattle Mariners,LOSE,HOME,1,9,2022 09 19 Los Angeles Angels VS. Seattle Mariners
+1025,Seattle Mariners,09/19,Los Angeles Angels,WIN,AWAY,9,1,2022 09 19 Los Angeles Angels VS. Seattle Mariners
+1026,Milwaukee Brewers,09/19,New York Mets,LOSE,HOME,2,7,2022 09 19 Milwaukee Brewers VS. New York Mets
+1027,New York Mets,09/19,Milwaukee Brewers,WIN,AWAY,7,2,2022 09 19 Milwaukee Brewers VS. New York Mets
+1028,Chicago White Sox,09/20,Cleveland Guardians,LOSE,HOME,7,10,2022 09 20 Chicago White Sox VS. Cleveland Guardians
+1029,Cleveland Guardians,09/20,Chicago White Sox,WIN,AWAY,10,7,2022 09 20 Chicago White Sox VS. Cleveland Guardians
+1030,Kansas City Royals,09/20,Minnesota Twins,WIN,HOME,5,4,2022 09 20 Kansas City Royals VS. Minnesota Twins
+1031,Minnesota Twins,09/20,Kansas City Royals,LOSE,AWAY,4,5,2022 09 20 Kansas City Royals VS. Minnesota Twins
+1032,Oakland Athletics,09/20,Seattle Mariners,WIN,HOME,4,1,2022 09 20 Oakland Athletics VS. Seattle Mariners
+1033,Seattle Mariners,09/20,Oakland Athletics,LOSE,AWAY,1,4,2022 09 20 Oakland Athletics VS. Seattle Mariners
+1034,San Diego Padres,09/20,St. Louis Cardinals,WIN,HOME,5,0,2022 09 20 San Diego Padres VS. St. Louis Cardinals
+1035,St. Louis Cardinals,09/20,San Diego Padres,LOSE,AWAY,0,5,2022 09 20 San Diego Padres VS. St. Louis Cardinals
+1036,Tampa Bay Rays,09/20,Houston Astros,LOSE,HOME,0,5,2022 09 20 Tampa Bay Rays VS. Houston Astros
+1037,Houston Astros,09/20,Tampa Bay Rays,WIN,AWAY,5,0,2022 09 20 Tampa Bay Rays VS. Houston Astros
+1038,Atlanta Braves,09/21,Washington Nationals,LOSE,HOME,2,3,2022 09 21 Atlanta Braves VS. Washington Nationals
+1039,Washington Nationals,09/21,Atlanta Braves,WIN,AWAY,3,2,2022 09 21 Atlanta Braves VS. Washington Nationals
+1040,Oakland Athletics,09/21,Seattle Mariners,WIN,HOME,2,1,2022 09 21 Oakland Athletics VS. Seattle Mariners
+1041,Seattle Mariners,09/21,Oakland Athletics,LOSE,AWAY,1,2,2022 09 21 Oakland Athletics VS. Seattle Mariners
+1042,San Diego Padres,09/21,St. Louis Cardinals,WIN,HOME,1,0,2022 09 21 San Diego Padres VS. St. Louis Cardinals
+1043,St. Louis Cardinals,09/21,San Diego Padres,LOSE,AWAY,0,1,2022 09 21 San Diego Padres VS. St. Louis Cardinals
+1044,Kansas City Royals,09/22,Minnesota Twins,WIN,HOME,4,1,2022 09 22 Kansas City Royals VS. Minnesota Twins
+1045,Minnesota Twins,09/22,Kansas City Royals,LOSE,AWAY,1,4,2022 09 22 Kansas City Royals VS. Minnesota Twins
+1046,Los Angeles Dodgers,09/22,Arizona Diamondbacks,WIN,HOME,3,2,2022 09 22 Los Angeles Dodgers VS. Arizona Diamondbacks
+1047,Arizona Diamondbacks,09/22,Los Angeles Dodgers,LOSE,AWAY,2,3,2022 09 22 Los Angeles Dodgers VS. Arizona Diamondbacks
+1048,New York Yankees,09/22,Boston Red Sox,WIN,HOME,5,4,2022 09 22 New York Yankees VS. Boston Red Sox
+1049,Boston Red Sox,09/22,New York Yankees,LOSE,AWAY,4,5,2022 09 22 New York Yankees VS. Boston Red Sox
+1050,Philadelphia Phillies,09/22,Atlanta Braves,WIN,HOME,1,0,2022 09 22 Philadelphia Phillies VS. Atlanta Braves
+1051,Atlanta Braves,09/22,Philadelphia Phillies,LOSE,AWAY,0,1,2022 09 22 Philadelphia Phillies VS. Atlanta Braves
+1052,Texas Rangers,09/22,Los Angeles Angels,WIN,HOME,5,3,2022 09 22 Texas Rangers VS. Los Angeles Angels
+1053,Los Angeles Angels,09/22,Texas Rangers,LOSE,AWAY,3,5,2022 09 22 Texas Rangers VS. Los Angeles Angels
+1054,Baltimore Orioles,09/23,Houston Astros,WIN,HOME,6,0,2022 09 23 Baltimore Orioles VS. Houston Astros
+1055,Houston Astros,09/23,Baltimore Orioles,LOSE,AWAY,0,6,2022 09 23 Baltimore Orioles VS. Houston Astros
+1056,Tampa Bay Rays,09/23,Toronto Blue Jays,WIN,HOME,10,6,2022 09 23 Tampa Bay Rays VS. Toronto Blue Jays
+1057,Toronto Blue Jays,09/23,Tampa Bay Rays,LOSE,AWAY,6,10,2022 09 23 Tampa Bay Rays VS. Toronto Blue Jays
+1058,Minnesota Twins,09/24,Los Angeles Angels,WIN,HOME,8,4,2022 09 24 Minnesota Twins VS. Los Angeles Angels
+1059,Los Angeles Angels,09/24,Minnesota Twins,LOSE,AWAY,4,8,2022 09 24 Minnesota Twins VS. Los Angeles Angels
+1060,New York Yankees,09/24,Boston Red Sox,WIN,HOME,7,5,2022 09 24 New York Yankees VS. Boston Red Sox
+1061,Boston Red Sox,09/24,New York Yankees,LOSE,AWAY,5,7,2022 09 24 New York Yankees VS. Boston Red Sox
+1062,Texas Rangers,09/24,Cleveland Guardians,LOSE,HOME,2,4,2022 09 24 Texas Rangers VS. Cleveland Guardians
+1063,Cleveland Guardians,09/24,Texas Rangers,WIN,AWAY,4,2,2022 09 24 Texas Rangers VS. Cleveland Guardians
+1064,Cincinnati Reds,09/25,Milwaukee Brewers,WIN,HOME,2,1,2022 09 25 Cincinnati Reds VS. Milwaukee Brewers
+1065,Milwaukee Brewers,09/25,Cincinnati Reds,LOSE,AWAY,1,2,2022 09 25 Cincinnati Reds VS. Milwaukee Brewers
+1066,New York Yankees,09/25,Boston Red Sox,WIN,HOME,2,0,2022 09 25 New York Yankees VS. Boston Red Sox
+1067,Boston Red Sox,09/25,New York Yankees,LOSE,AWAY,0,2,2022 09 25 New York Yankees VS. Boston Red Sox
+1068,Oakland Athletics,09/25,New York Mets,LOSE,HOME,4,13,2022 09 25 Oakland Athletics VS. New York Mets
+1069,New York Mets,09/25,Oakland Athletics,WIN,AWAY,13,4,2022 09 25 Oakland Athletics VS. New York Mets
+1070,Philadelphia Phillies,09/25,Atlanta Braves,LOSE,HOME,7,8,2022 09 25 Philadelphia Phillies VS. Atlanta Braves
+1071,Atlanta Braves,09/25,Philadelphia Phillies,WIN,AWAY,8,7,2022 09 25 Philadelphia Phillies VS. Atlanta Braves
+1072,Tampa Bay Rays,09/25,Toronto Blue Jays,LOSE,HOME,1,7,2022 09 25 Tampa Bay Rays VS. Toronto Blue Jays
+1073,Toronto Blue Jays,09/25,Tampa Bay Rays,WIN,AWAY,7,1,2022 09 25 Tampa Bay Rays VS. Toronto Blue Jays
+1074,Toronto Blue Jays,09/26,New York Yankees,WIN,HOME,3,2,2022 09 26 Toronto Blue Jays VS. New York Yankees
+1075,New York Yankees,09/26,Toronto Blue Jays,LOSE,AWAY,2,3,2022 09 26 Toronto Blue Jays VS. New York Yankees
+1076,Washington Nationals,09/26,Atlanta Braves,LOSE,HOME,0,8,2022 09 26 Washington Nationals VS. Atlanta Braves
+1077,Atlanta Braves,09/26,Washington Nationals,WIN,AWAY,8,0,2022 09 26 Washington Nationals VS. Atlanta Braves
+1078,Milwaukee Brewers,09/27,St. Louis Cardinals,LOSE,HOME,2,6,2022 09 27 Milwaukee Brewers VS. St. Louis Cardinals
+1079,St. Louis Cardinals,09/27,Milwaukee Brewers,WIN,AWAY,6,2,2022 09 27 Milwaukee Brewers VS. St. Louis Cardinals
+1080,Minnesota Twins,09/27,Chicago White Sox,WIN,HOME,4,0,2022 09 27 Minnesota Twins VS. Chicago White Sox
+1081,Chicago White Sox,09/27,Minnesota Twins,LOSE,AWAY,0,4,2022 09 27 Minnesota Twins VS. Chicago White Sox
+1082,Toronto Blue Jays,09/27,New York Yankees,LOSE,HOME,2,5,2022 09 27 Toronto Blue Jays VS. New York Yankees
+1083,New York Yankees,09/27,Toronto Blue Jays,WIN,AWAY,5,2,2022 09 27 Toronto Blue Jays VS. New York Yankees
+1084,Pittsburgh Pirates,09/28,Cincinnati Reds,WIN,HOME,4,3,2022 09 28 Pittsburgh Pirates VS. Cincinnati Reds
+1085,Cincinnati Reds,09/28,Pittsburgh Pirates,LOSE,AWAY,3,4,2022 09 28 Pittsburgh Pirates VS. Cincinnati Reds
+1086,Toronto Blue Jays,09/28,New York Yankees,LOSE,HOME,3,8,2022 09 28 Toronto Blue Jays VS. New York Yankees
+1087,New York Yankees,09/28,Toronto Blue Jays,WIN,AWAY,8,3,2022 09 28 Toronto Blue Jays VS. New York Yankees
+1088,Washington Nationals,09/28,Atlanta Braves,WIN,HOME,3,2,2022 09 28 Washington Nationals VS. Atlanta Braves
+1089,Atlanta Braves,09/28,Washington Nationals,LOSE,AWAY,2,3,2022 09 28 Washington Nationals VS. Atlanta Braves
+1090,Chicago Cubs,09/29,Philadelphia Phillies,WIN,HOME,2,0,2022 09 29 Chicago Cubs VS. Philadelphia Phillies
+1091,Philadelphia Phillies,09/29,Chicago Cubs,LOSE,AWAY,0,2,2022 09 29 Chicago Cubs VS. Philadelphia Phillies
+1092,Cleveland Guardians,09/29,Tampa Bay Rays,WIN,HOME,2,1,2022 09 29 Cleveland Guardians VS. Tampa Bay Rays
+1093,Tampa Bay Rays,09/29,Cleveland Guardians,LOSE,AWAY,1,2,2022 09 29 Cleveland Guardians VS. Tampa Bay Rays
+1094,Detroit Tigers,09/29,Kansas City Royals,WIN,HOME,10,3,2022 09 29 Detroit Tigers VS. Kansas City Royals
+1095,Kansas City Royals,09/29,Detroit Tigers,LOSE,AWAY,3,10,2022 09 29 Detroit Tigers VS. Kansas City Royals
+1096,Milwaukee Brewers,09/29,Miami Marlins,LOSE,HOME,2,4,2022 09 29 Milwaukee Brewers VS. Miami Marlins
+1097,Miami Marlins,09/29,Milwaukee Brewers,WIN,AWAY,4,2,2022 09 29 Milwaukee Brewers VS. Miami Marlins
+1098,Minnesota Twins,09/29,Chicago White Sox,LOSE,HOME,3,4,2022 09 29 Minnesota Twins VS. Chicago White Sox
+1099,Chicago White Sox,09/29,Minnesota Twins,WIN,AWAY,4,3,2022 09 29 Minnesota Twins VS. Chicago White Sox
+1100,San Diego Padres,09/29,Los Angeles Dodgers,LOSE,HOME,2,5,2022 09 29 San Diego Padres VS. Los Angeles Dodgers
+1101,Los Angeles Dodgers,09/29,San Diego Padres,WIN,AWAY,5,2,2022 09 29 San Diego Padres VS. Los Angeles Dodgers
+1102,Atlanta Braves,09/30,New York Mets,WIN,HOME,5,2,2022 09 30 Atlanta Braves VS. New York Mets
+1103,New York Mets,09/30,Atlanta Braves,LOSE,AWAY,2,5,2022 09 30 Atlanta Braves VS. New York Mets
+1104,Chicago Cubs,09/30,Cincinnati Reds,WIN,HOME,6,1,2022 09 30 Chicago Cubs VS. Cincinnati Reds
+1105,Cincinnati Reds,09/30,Chicago Cubs,LOSE,AWAY,1,6,2022 09 30 Chicago Cubs VS. Cincinnati Reds
+1106,New York Yankees,09/30,Baltimore Orioles,LOSE,HOME,1,2,2022 09 30 New York Yankees VS. Baltimore Orioles
+1107,Baltimore Orioles,09/30,New York Yankees,WIN,AWAY,2,1,2022 09 30 New York Yankees VS. Baltimore Orioles
+1108,Toronto Blue Jays,09/30,Boston Red Sox,WIN,HOME,9,0,2022 09 30 Toronto Blue Jays VS. Boston Red Sox
+1109,Boston Red Sox,09/30,Toronto Blue Jays,LOSE,AWAY,0,9,2022 09 30 Toronto Blue Jays VS. Boston Red Sox
+1110,Atlanta Braves,10/01,New York Mets,WIN,HOME,4,2,2022 10 01 Atlanta Braves VS. New York Mets
+1111,New York Mets,10/01,Atlanta Braves,LOSE,AWAY,2,4,2022 10 01 Atlanta Braves VS. New York Mets
+1112,Chicago Cubs,10/01,Cincinnati Reds,WIN,HOME,2,1,2022 10 01 Chicago Cubs VS. Cincinnati Reds
+1113,Cincinnati Reds,10/01,Chicago Cubs,LOSE,AWAY,1,2,2022 10 01 Chicago Cubs VS. Cincinnati Reds
+1114,Houston Astros,10/01,Tampa Bay Rays,WIN,HOME,2,1,2022 10 01 Houston Astros VS. Tampa Bay Rays
+1115,Tampa Bay Rays,10/01,Houston Astros,LOSE,AWAY,1,2,2022 10 01 Houston Astros VS. Tampa Bay Rays
+1116,New York Yankees,10/01,Baltimore Orioles,WIN,HOME,8,0,2022 10 01 New York Yankees VS. Baltimore Orioles
+1117,Baltimore Orioles,10/01,New York Yankees,LOSE,AWAY,0,8,2022 10 01 New York Yankees VS. Baltimore Orioles
+1118,Seattle Mariners,10/01,Oakland Athletics,WIN,HOME,5,1,2022 10 01 Seattle Mariners VS. Oakland Athletics
+1119,Oakland Athletics,10/01,Seattle Mariners,LOSE,AWAY,1,5,2022 10 01 Seattle Mariners VS. Oakland Athletics
+1120,Atlanta Braves,10/02,New York Mets,WIN,HOME,5,3,2022 10 02 Atlanta Braves VS. New York Mets
+1121,New York Mets,10/02,Atlanta Braves,LOSE,AWAY,3,5,2022 10 02 Atlanta Braves VS. New York Mets
+1122,New York Yankees,10/02,Baltimore Orioles,LOSE,HOME,1,3,2022 10 02 New York Yankees VS. Baltimore Orioles
+1123,Baltimore Orioles,10/02,New York Yankees,WIN,AWAY,3,1,2022 10 02 New York Yankees VS. Baltimore Orioles
+1124,Toronto Blue Jays,10/02,Boston Red Sox,WIN,HOME,6,3,2022 10 02 Toronto Blue Jays VS. Boston Red Sox
+1125,Boston Red Sox,10/02,Toronto Blue Jays,LOSE,AWAY,3,6,2022 10 02 Toronto Blue Jays VS. Boston Red Sox
+1126,Boston Red Sox,10/03,Tampa Bay Rays,WIN,HOME,4,3,2022 10 03 Boston Red Sox VS. Tampa Bay Rays
+1127,Tampa Bay Rays,10/03,Boston Red Sox,LOSE,AWAY,3,4,2022 10 03 Boston Red Sox VS. Tampa Bay Rays
+1128,Los Angeles Dodgers,10/03,Colorado Rockies,LOSE,HOME,1,2,2022 10 03 Los Angeles Dodgers VS. Colorado Rockies
+1129,Colorado Rockies,10/03,Los Angeles Dodgers,WIN,AWAY,2,1,2022 10 03 Los Angeles Dodgers VS. Colorado Rockies
+1130,Texas Rangers,10/03,New York Yankees,LOSE,HOME,1,3,2022 10 03 Texas Rangers VS. New York Yankees
+1131,New York Yankees,10/03,Texas Rangers,WIN,AWAY,3,1,2022 10 03 Texas Rangers VS. New York Yankees
+1132,Houston Astros,10/04,Philadelphia Phillies,WIN,HOME,10,0,2022 10 04 Houston Astros VS. Philadelphia Phillies
+1133,Philadelphia Phillies,10/04,Houston Astros,LOSE,AWAY,0,10,2022 10 04 Houston Astros VS. Philadelphia Phillies
+1134,Texas Rangers,10/04,New York Yankees,LOSE,HOME,4,5,2022 10 04 Texas Rangers VS. New York Yankees
+1135,New York Yankees,10/04,Texas Rangers,WIN,AWAY,5,4,2022 10 04 Texas Rangers VS. New York Yankees
+1136,Cleveland Guardians,10/07,Tampa Bay Rays,WIN,HOME,2,1,2022 10 07 Cleveland Guardians VS. Tampa Bay Rays
+1137,Tampa Bay Rays,10/07,Cleveland Guardians,LOSE,AWAY,1,2,2022 10 07 Cleveland Guardians VS. Tampa Bay Rays
+1138,New York Mets,10/07,San Diego Padres,LOSE,HOME,1,7,2022 10 07 New York Mets VS. San Diego Padres
+1139,San Diego Padres,10/07,New York Mets,WIN,AWAY,7,1,2022 10 07 New York Mets VS. San Diego Padres
+1140,St. Louis Cardinals,10/07,Philadelphia Phillies,LOSE,HOME,3,6,2022 10 07 St. Louis Cardinals VS. Philadelphia Phillies
+1141,Philadelphia Phillies,10/07,St. Louis Cardinals,WIN,AWAY,6,3,2022 10 07 St. Louis Cardinals VS. Philadelphia Phillies
+1142,Toronto Blue Jays,10/07,Seattle Mariners,LOSE,HOME,0,4,2022 10 07 Toronto Blue Jays VS. Seattle Mariners
+1143,Seattle Mariners,10/07,Toronto Blue Jays,WIN,AWAY,4,0,2022 10 07 Toronto Blue Jays VS. Seattle Mariners
+1144,Cleveland Guardians,10/08,Tampa Bay Rays,WIN,HOME,1,0,2022 10 08 Cleveland Guardians VS. Tampa Bay Rays
+1145,Tampa Bay Rays,10/08,Cleveland Guardians,LOSE,AWAY,0,1,2022 10 08 Cleveland Guardians VS. Tampa Bay Rays
+1146,New York Mets,10/08,San Diego Padres,WIN,HOME,7,3,2022 10 08 New York Mets VS. San Diego Padres
+1147,San Diego Padres,10/08,New York Mets,LOSE,AWAY,3,7,2022 10 08 New York Mets VS. San Diego Padres
+1148,St. Louis Cardinals,10/08,Philadelphia Phillies,LOSE,HOME,0,2,2022 10 08 St. Louis Cardinals VS. Philadelphia Phillies
+1149,Philadelphia Phillies,10/08,St. Louis Cardinals,WIN,AWAY,2,0,2022 10 08 St. Louis Cardinals VS. Philadelphia Phillies
+1150,Toronto Blue Jays,10/08,Seattle Mariners,LOSE,HOME,9,10,2022 10 08 Toronto Blue Jays VS. Seattle Mariners
+1151,Seattle Mariners,10/08,Toronto Blue Jays,WIN,AWAY,10,9,2022 10 08 Toronto Blue Jays VS. Seattle Mariners
+1152,New York Mets,10/09,San Diego Padres,LOSE,HOME,0,6,2022 10 09 New York Mets VS. San Diego Padres
+1153,San Diego Padres,10/09,New York Mets,WIN,AWAY,6,0,2022 10 09 New York Mets VS. San Diego Padres
+1154,Atlanta Braves,10/11,Philadelphia Phillies,LOSE,HOME,6,7,2022 10 11 Atlanta Braves VS. Philadelphia Phillies
+1155,Philadelphia Phillies,10/11,Atlanta Braves,WIN,AWAY,7,6,2022 10 11 Atlanta Braves VS. Philadelphia Phillies
+1156,Houston Astros,10/11,Seattle Mariners,WIN,HOME,8,7,2022 10 11 Houston Astros VS. Seattle Mariners
+1157,Seattle Mariners,10/11,Houston Astros,LOSE,AWAY,7,8,2022 10 11 Houston Astros VS. Seattle Mariners
+1158,Los Angeles Dodgers,10/11,San Diego Padres,WIN,HOME,5,3,2022 10 11 Los Angeles Dodgers VS. San Diego Padres
+1159,San Diego Padres,10/11,Los Angeles Dodgers,LOSE,AWAY,3,5,2022 10 11 Los Angeles Dodgers VS. San Diego Padres
+1160,New York Yankees,10/11,Cleveland Guardians,WIN,HOME,4,1,2022 10 11 New York Yankees VS. Cleveland Guardians
+1161,Cleveland Guardians,10/11,New York Yankees,LOSE,AWAY,1,4,2022 10 11 New York Yankees VS. Cleveland Guardians
+1162,Atlanta Braves,10/12,Philadelphia Phillies,WIN,HOME,3,0,2022 10 12 Atlanta Braves VS. Philadelphia Phillies
+1163,Philadelphia Phillies,10/12,Atlanta Braves,LOSE,AWAY,0,3,2022 10 12 Atlanta Braves VS. Philadelphia Phillies
+1164,Los Angeles Dodgers,10/12,San Diego Padres,LOSE,HOME,3,5,2022 10 12 Los Angeles Dodgers VS. San Diego Padres
+1165,San Diego Padres,10/12,Los Angeles Dodgers,WIN,AWAY,5,3,2022 10 12 Los Angeles Dodgers VS. San Diego Padres
+1166,Houston Astros,10/13,Seattle Mariners,WIN,HOME,4,2,2022 10 13 Houston Astros VS. Seattle Mariners
+1167,Seattle Mariners,10/13,Houston Astros,LOSE,AWAY,2,4,2022 10 13 Houston Astros VS. Seattle Mariners
+1168,New York Yankees,10/14,Cleveland Guardians,LOSE,HOME,2,4,2022 10 14 New York Yankees VS. Cleveland Guardians
+1169,Cleveland Guardians,10/14,New York Yankees,WIN,AWAY,4,2,2022 10 14 New York Yankees VS. Cleveland Guardians
+1170,Philadelphia Phillies,10/14,Atlanta Braves,WIN,HOME,9,1,2022 10 14 Philadelphia Phillies VS. Atlanta Braves
+1171,Atlanta Braves,10/14,Philadelphia Phillies,LOSE,AWAY,1,9,2022 10 14 Philadelphia Phillies VS. Atlanta Braves
+1172,San Diego Padres,10/14,Los Angeles Dodgers,WIN,HOME,2,1,2022 10 14 San Diego Padres VS. Los Angeles Dodgers
+1173,Los Angeles Dodgers,10/14,San Diego Padres,LOSE,AWAY,1,2,2022 10 14 San Diego Padres VS. Los Angeles Dodgers
+1174,Cleveland Guardians,10/15,New York Yankees,WIN,HOME,6,5,2022 10 15 Cleveland Guardians VS. New York Yankees
+1175,New York Yankees,10/15,Cleveland Guardians,LOSE,AWAY,5,6,2022 10 15 Cleveland Guardians VS. New York Yankees
+1176,Philadelphia Phillies,10/15,Atlanta Braves,WIN,HOME,8,3,2022 10 15 Philadelphia Phillies VS. Atlanta Braves
+1177,Atlanta Braves,10/15,Philadelphia Phillies,LOSE,AWAY,3,8,2022 10 15 Philadelphia Phillies VS. Atlanta Braves
+1178,San Diego Padres,10/15,Los Angeles Dodgers,WIN,HOME,5,3,2022 10 15 San Diego Padres VS. Los Angeles Dodgers
+1179,Los Angeles Dodgers,10/15,San Diego Padres,LOSE,AWAY,3,5,2022 10 15 San Diego Padres VS. Los Angeles Dodgers
+1180,Seattle Mariners,10/15,Houston Astros,LOSE,HOME,0,1,2022 10 15 Seattle Mariners VS. Houston Astros
+1181,Houston Astros,10/15,Seattle Mariners,WIN,AWAY,1,0,2022 10 15 Seattle Mariners VS. Houston Astros
+1182,Cleveland Guardians,10/16,New York Yankees,LOSE,HOME,2,4,2022 10 16 Cleveland Guardians VS. New York Yankees
+1183,New York Yankees,10/16,Cleveland Guardians,WIN,AWAY,4,2,2022 10 16 Cleveland Guardians VS. New York Yankees
+1184,New York Yankees,10/18,Cleveland Guardians,WIN,HOME,5,1,2022 10 18 New York Yankees VS. Cleveland Guardians
+1185,Cleveland Guardians,10/18,New York Yankees,LOSE,AWAY,1,5,2022 10 18 New York Yankees VS. Cleveland Guardians
+1186,San Diego Padres,10/18,Philadelphia Phillies,LOSE,HOME,0,2,2022 10 18 San Diego Padres VS. Philadelphia Phillies
+1187,Philadelphia Phillies,10/18,San Diego Padres,WIN,AWAY,2,0,2022 10 18 San Diego Padres VS. Philadelphia Phillies
+1188,Houston Astros,10/19,New York Yankees,WIN,HOME,4,2,2022 10 19 Houston Astros VS. New York Yankees
+1189,New York Yankees,10/19,Houston Astros,LOSE,AWAY,2,4,2022 10 19 Houston Astros VS. New York Yankees
+1190,San Diego Padres,10/19,Philadelphia Phillies,WIN,HOME,8,5,2022 10 19 San Diego Padres VS. Philadelphia Phillies
+1191,Philadelphia Phillies,10/19,San Diego Padres,LOSE,AWAY,5,8,2022 10 19 San Diego Padres VS. Philadelphia Phillies
+1192,Houston Astros,10/20,New York Yankees,WIN,HOME,3,2,2022 10 20 Houston Astros VS. New York Yankees
+1193,New York Yankees,10/20,Houston Astros,LOSE,AWAY,2,3,2022 10 20 Houston Astros VS. New York Yankees
+1194,Philadelphia Phillies,10/21,San Diego Padres,WIN,HOME,4,2,2022 10 21 Philadelphia Phillies VS. San Diego Padres
+1195,San Diego Padres,10/21,Philadelphia Phillies,LOSE,AWAY,2,4,2022 10 21 Philadelphia Phillies VS. San Diego Padres
+1196,New York Yankees,10/22,Houston Astros,LOSE,HOME,0,5,2022 10 22 New York Yankees VS. Houston Astros
+1197,Houston Astros,10/22,New York Yankees,WIN,AWAY,5,0,2022 10 22 New York Yankees VS. Houston Astros
+1198,Philadelphia Phillies,10/22,San Diego Padres,WIN,HOME,10,6,2022 10 22 Philadelphia Phillies VS. San Diego Padres
+1199,San Diego Padres,10/22,Philadelphia Phillies,LOSE,AWAY,6,10,2022 10 22 Philadelphia Phillies VS. San Diego Padres
+1200,New York Yankees,10/23,Houston Astros,LOSE,HOME,5,6,2022 10 23 New York Yankees VS. Houston Astros
+1201,Houston Astros,10/23,New York Yankees,WIN,AWAY,6,5,2022 10 23 New York Yankees VS. Houston Astros
+1202,Philadelphia Phillies,10/23,San Diego Padres,WIN,HOME,4,3,2022 10 23 Philadelphia Phillies VS. San Diego Padres
+1203,San Diego Padres,10/23,Philadelphia Phillies,LOSE,AWAY,3,4,2022 10 23 Philadelphia Phillies VS. San Diego Padres
+1204,Houston Astros,10/28,Philadelphia Phillies,LOSE,HOME,5,6,2022 10 28 Houston Astros VS. Philadelphia Phillies
+1205,Philadelphia Phillies,10/28,Houston Astros,WIN,AWAY,6,5,2022 10 28 Houston Astros VS. Philadelphia Phillies
+1206,Houston Astros,10/29,Philadelphia Phillies,WIN,HOME,5,2,2022 10 29 Houston Astros VS. Philadelphia Phillies
+1207,Philadelphia Phillies,10/29,Houston Astros,LOSE,AWAY,2,5,2022 10 29 Houston Astros VS. Philadelphia Phillies
+1208,Philadelphia Phillies,11/01,Houston Astros,WIN,HOME,7,0,2022 11 01 Philadelphia Phillies VS. Houston Astros
+1209,Houston Astros,11/01,Philadelphia Phillies,LOSE,AWAY,0,7,2022 11 01 Philadelphia Phillies VS. Houston Astros
+1210,Philadelphia Phillies,11/02,Houston Astros,LOSE,HOME,0,5,2022 11 02 Philadelphia Phillies VS. Houston Astros
+1211,Houston Astros,11/02,Philadelphia Phillies,WIN,AWAY,5,0,2022 11 02 Philadelphia Phillies VS. Houston Astros
+1212,Philadelphia Phillies,11/03,Houston Astros,LOSE,HOME,2,3,2022 11 03 Philadelphia Phillies VS. Houston Astros
+1213,Houston Astros,11/03,Philadelphia Phillies,WIN,AWAY,3,2,2022 11 03 Philadelphia Phillies VS. Houston Astros
+1214,Houston Astros,11/05,Philadelphia Phillies,WIN,HOME,4,1,2022 11 05 Houston Astros VS. Philadelphia Phillies
+1215,Philadelphia Phillies,11/05,Houston Astros,LOSE,AWAY,1,4,2022 11 05 Houston Astros VS. Philadelphia Phillies

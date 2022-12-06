@@ -1,0 +1,1217 @@
+Id,TeamId,MatchId,AgainstTeamId,Result,Location,ScoreDiff,ScoreSecured,ScoreGiven,GeneralInfo,TimeInfo
+0,0,11,11,1,0,3,5,2,2022 04 09 Detroit Tigers VS. Chicago White Sox,04/09
+1,0,40,20,1,1,2,6,4,2022 04 13 Chicago White Sox VS. Seattle Mariners,04/13
+2,0,97,15,0,0,-3,3,6,2022 04 21 Cleveland Guardians VS. Chicago White Sox,04/21
+3,0,111,10,0,0,-7,2,9,2022 04 23 Minnesota Twins VS. Chicago White Sox,04/23
+4,0,150,29,1,1,4,4,0,2022 04 30 Chicago White Sox VS. Los Angeles Angels,04/30
+5,0,192,15,0,1,-3,9,12,2022 05 09 Chicago White Sox VS. Cleveland Guardians,05/09
+6,0,210,19,0,1,-8,7,15,2022 05 12 Chicago White Sox VS. New York Yankees,05/12
+7,0,218,19,1,1,1,3,2,2022 05 14 Chicago White Sox VS. New York Yankees,05/14
+8,0,251,19,0,0,-2,5,7,2022 05 21 New York Yankees VS. Chicago White Sox,05/21
+9,0,255,19,1,0,5,5,0,2022 05 22 New York Yankees VS. Chicago White Sox,05/22
+10,0,284,26,0,1,-4,1,5,2022 05 28 Chicago White Sox VS. Chicago Cubs,05/28
+11,0,337,9,1,0,1,6,5,2022 06 05 Tampa Bay Rays VS. Chicago White Sox,06/05
+12,0,342,6,1,1,4,4,0,2022 06 07 Chicago White Sox VS. Los Angeles Dodgers,06/07
+13,0,354,6,0,1,-2,9,11,2022 06 09 Chicago White Sox VS. Los Angeles Dodgers,06/09
+14,0,387,11,1,0,4,5,1,2022 06 14 Detroit Tigers VS. Chicago White Sox,06/14
+15,0,395,11,1,0,13,13,0,2022 06 15 Detroit Tigers VS. Chicago White Sox,06/15
+16,0,423,5,0,0,-1,3,4,2022 06 19 Houston Astros VS. Chicago White Sox,06/19
+17,0,438,14,0,1,-4,5,9,2022 06 22 Chicago White Sox VS. Toronto Blue Jays,06/22
+18,0,444,28,0,1,-4,0,4,2022 06 23 Chicago White Sox VS. Baltimore Orioles,06/23
+19,0,475,29,1,0,7,11,4,2022 06 28 Los Angeles Angels VS. Chicago White Sox,06/28
+20,0,536,10,1,1,1,9,8,2022 07 06 Chicago White Sox VS. Minnesota Twins,07/06
+21,0,577,15,0,0,-3,1,4,2022 07 12 Cleveland Guardians VS. Chicago White Sox,07/12
+22,0,626,15,0,1,-3,4,7,2022 07 23 Chicago White Sox VS. Cleveland Guardians,07/23
+23,0,741,13,0,0,-5,3,8,2022 08 10 Kansas City Royals VS. Chicago White Sox,08/10
+24,0,772,5,1,1,2,4,2,2022 08 15 Chicago White Sox VS. Houston Astros,08/15
+25,0,835,28,1,0,2,5,3,2022 08 24 Baltimore Orioles VS. Chicago White Sox,08/24
+26,0,896,13,1,1,6,7,1,2022 09 01 Chicago White Sox VS. Kansas City Royals,09/01
+27,0,906,10,1,1,13,13,0,2022 09 03 Chicago White Sox VS. Minnesota Twins,09/03
+28,0,931,20,0,0,-3,0,3,2022 09 06 Seattle Mariners VS. Chicago White Sox,09/06
+29,0,939,20,1,0,3,9,6,2022 09 07 Seattle Mariners VS. Chicago White Sox,09/07
+30,0,961,7,1,0,8,10,2,2022 09 10 Oakland Athletics VS. Chicago White Sox,09/10
+31,0,995,15,1,0,6,8,2,2022 09 15 Cleveland Guardians VS. Chicago White Sox,09/15
+32,0,1028,15,0,1,-3,7,10,2022 09 20 Chicago White Sox VS. Cleveland Guardians,09/20
+33,0,1081,10,0,0,-4,0,4,2022 09 27 Minnesota Twins VS. Chicago White Sox,09/27
+34,0,1099,10,1,0,1,4,3,2022 09 29 Minnesota Twins VS. Chicago White Sox,09/29
+35,1,0,23,0,1,-3,3,6,2022 04 07 Atlanta Braves VS. Cincinnati Reds,04/07
+36,1,8,23,1,1,1,2,1,2022 04 09 Atlanta Braves VS. Cincinnati Reds,04/09
+37,1,38,12,0,1,-2,1,3,2022 04 13 Atlanta Braves VS. Washington Nationals,04/13
+38,1,65,21,1,0,3,5,2,2022 04 16 San Diego Padres VS. Atlanta Braves,04/16
+39,1,73,21,0,0,-1,1,2,2022 04 17 San Diego Padres VS. Atlanta Braves,04/17
+40,1,79,6,0,0,-3,4,7,2022 04 18 Los Angeles Dodgers VS. Atlanta Braves,04/18
+41,1,83,6,1,0,2,3,1,2022 04 19 Los Angeles Dodgers VS. Atlanta Braves,04/19
+42,1,91,6,0,0,-4,1,5,2022 04 20 Los Angeles Dodgers VS. Atlanta Braves,04/20
+43,1,142,26,1,1,4,5,1,2022 04 28 Atlanta Braves VS. Chicago Cubs,04/28
+44,1,159,4,1,0,3,5,2,2022 05 02 New York Mets VS. Atlanta Braves,05/02
+45,1,163,4,0,0,-3,0,3,2022 05 03 New York Mets VS. Atlanta Braves,05/03
+46,1,169,4,1,0,7,9,2,2022 05 04 New York Mets VS. Atlanta Braves,05/04
+47,1,196,17,0,1,-5,4,9,2022 05 10 Atlanta Braves VS. Boston Red Sox,05/10
+48,1,216,21,1,1,1,6,5,2022 05 14 Atlanta Braves VS. San Diego Padres,05/14
+49,1,239,2,0,0,-1,6,7,2022 05 18 Milwaukee Brewers VS. Atlanta Braves,05/18
+50,1,264,18,1,1,4,8,4,2022 05 25 Atlanta Braves VS. Philadelphia Phillies,05/25
+51,1,393,12,1,0,6,10,4,2022 06 14 Washington Nationals VS. Atlanta Braves,06/14
+52,1,430,22,0,1,-2,10,12,2022 06 21 Atlanta Braves VS. San Francisco Giants,06/21
+53,1,442,22,1,1,1,7,6,2022 06 23 Atlanta Braves VS. San Francisco Giants,06/23
+54,1,452,6,1,1,2,5,3,2022 06 25 Atlanta Braves VS. Los Angeles Dodgers,06/25
+55,1,464,6,0,1,-2,3,5,2022 06 26 Atlanta Braves VS. Los Angeles Dodgers,06/26
+56,1,483,18,1,0,3,4,1,2022 06 29 Philadelphia Phillies VS. Atlanta Braves,06/29
+57,1,493,18,0,0,-10,4,14,2022 06 30 Philadelphia Phillies VS. Atlanta Braves,06/30
+58,1,499,23,1,0,8,9,1,2022 07 01 Cincinnati Reds VS. Atlanta Braves,07/01
+59,1,518,8,1,1,3,6,3,2022 07 04 Atlanta Braves VS. St. Louis Cardinals,07/04
+60,1,534,8,1,1,3,3,0,2022 07 06 Atlanta Braves VS. St. Louis Cardinals,07/06
+61,1,542,8,0,1,-1,2,3,2022 07 07 Atlanta Braves VS. St. Louis Cardinals,07/07
+62,1,550,12,1,1,10,12,2,2022 07 08 Atlanta Braves VS. Washington Nationals,07/08
+63,1,568,12,1,1,1,4,3,2022 07 10 Atlanta Braves VS. Washington Nationals,07/10
+64,1,584,4,0,1,-4,3,7,2022 07 13 Atlanta Braves VS. New York Mets,07/13
+65,1,641,18,0,0,-2,4,6,2022 07 25 Philadelphia Phillies VS. Atlanta Braves,07/25
+66,1,661,18,0,0,-5,2,7,2022 07 27 Philadelphia Phillies VS. Atlanta Braves,07/27
+67,1,739,17,1,0,2,9,7,2022 08 09 Boston Red Sox VS. Atlanta Braves,08/09
+68,1,759,3,1,0,3,5,2,2022 08 13 Miami Marlins VS. Atlanta Braves,08/13
+69,1,804,5,1,1,1,5,4,2022 08 20 Atlanta Braves VS. Houston Astros,08/20
+70,1,816,5,0,1,-1,4,5,2022 08 21 Atlanta Braves VS. Houston Astros,08/21
+71,1,841,27,1,0,12,14,2,2022 08 24 Pittsburgh Pirates VS. Atlanta Braves,08/24
+72,1,857,8,1,0,7,11,4,2022 08 26 St. Louis Cardinals VS. Atlanta Braves,08/26
+73,1,865,8,0,0,-1,5,6,2022 08 27 St. Louis Cardinals VS. Atlanta Braves,08/27
+74,1,871,8,0,0,-3,3,6,2022 08 28 St. Louis Cardinals VS. Atlanta Braves,08/28
+75,1,892,16,1,1,3,3,0,2022 09 01 Atlanta Braves VS. Colorado Rockies,09/01
+76,1,975,22,0,0,-1,2,3,2022 09 12 San Francisco Giants VS. Atlanta Braves,09/12
+77,1,981,22,1,0,4,5,1,2022 09 13 San Francisco Giants VS. Atlanta Braves,09/13
+78,1,1006,18,1,1,1,4,3,2022 09 17 Atlanta Braves VS. Philadelphia Phillies,09/17
+79,1,1014,18,1,1,3,5,2,2022 09 18 Atlanta Braves VS. Philadelphia Phillies,09/18
+80,1,1020,12,1,1,3,5,2,2022 09 19 Atlanta Braves VS. Washington Nationals,09/19
+81,1,1038,12,0,1,-1,2,3,2022 09 21 Atlanta Braves VS. Washington Nationals,09/21
+82,1,1051,18,0,0,-1,0,1,2022 09 22 Philadelphia Phillies VS. Atlanta Braves,09/22
+83,1,1071,18,1,0,1,8,7,2022 09 25 Philadelphia Phillies VS. Atlanta Braves,09/25
+84,1,1077,12,1,0,8,8,0,2022 09 26 Washington Nationals VS. Atlanta Braves,09/26
+85,1,1089,12,0,0,-1,2,3,2022 09 28 Washington Nationals VS. Atlanta Braves,09/28
+86,1,1102,4,1,1,3,5,2,2022 09 30 Atlanta Braves VS. New York Mets,09/30
+87,1,1110,4,1,1,2,4,2,2022 10 01 Atlanta Braves VS. New York Mets,10/01
+88,1,1120,4,1,1,2,5,3,2022 10 02 Atlanta Braves VS. New York Mets,10/02
+89,1,1154,18,0,1,-1,6,7,2022 10 11 Atlanta Braves VS. Philadelphia Phillies,10/11
+90,1,1162,18,1,1,3,3,0,2022 10 12 Atlanta Braves VS. Philadelphia Phillies,10/12
+91,1,1171,18,0,0,-8,1,9,2022 10 14 Philadelphia Phillies VS. Atlanta Braves,10/14
+92,1,1177,18,0,0,-5,3,8,2022 10 15 Philadelphia Phillies VS. Atlanta Braves,10/15
+93,2,3,26,0,0,-1,4,5,2022 04 07 Chicago Cubs VS. Milwaukee Brewers,04/07
+94,2,60,8,0,1,-1,1,2,2022 04 16 Milwaukee Brewers VS. St. Louis Cardinals,04/16
+95,2,121,18,1,0,1,1,0,2022 04 24 Philadelphia Phillies VS. Milwaukee Brewers,04/24
+96,2,203,23,0,0,-3,11,14,2022 05 11 Cincinnati Reds VS. Milwaukee Brewers,05/11
+97,2,238,1,1,1,1,7,6,2022 05 18 Milwaukee Brewers VS. Atlanta Braves,05/18
+98,2,263,21,1,0,3,4,1,2022 05 24 San Diego Padres VS. Milwaukee Brewers,05/24
+99,2,297,26,1,0,1,7,6,2022 05 30 Chicago Cubs VS. Milwaukee Brewers,05/30
+100,2,326,21,0,1,-4,0,4,2022 06 04 Milwaukee Brewers VS. San Diego Padres,06/04
+101,2,362,18,0,1,-5,3,8,2022 06 09 Milwaukee Brewers VS. Philadelphia Phillies,06/09
+102,2,399,4,1,0,8,10,2,2022 06 15 New York Mets VS. Milwaukee Brewers,06/15
+103,2,426,8,1,1,2,2,0,2022 06 20 Milwaukee Brewers VS. St. Louis Cardinals,06/20
+104,2,587,10,0,0,-3,1,4,2022 07 13 Minnesota Twins VS. Milwaukee Brewers,07/13
+105,2,613,22,0,0,-1,1,2,2022 07 16 San Francisco Giants VS. Milwaukee Brewers,07/16
+106,2,656,10,1,1,6,10,4,2022 07 27 Milwaukee Brewers VS. Minnesota Twins,07/27
+107,2,669,17,1,0,5,9,4,2022 07 30 Boston Red Sox VS. Milwaukee Brewers,07/30
+108,2,681,17,0,0,-5,2,7,2022 07 31 Boston Red Sox VS. Milwaukee Brewers,07/31
+109,2,709,27,0,0,-1,4,5,2022 08 04 Pittsburgh Pirates VS. Milwaukee Brewers,08/04
+110,2,722,23,0,1,-2,5,7,2022 08 06 Milwaukee Brewers VS. Cincinnati Reds,08/06
+111,2,786,6,0,1,-1,1,2,2022 08 17 Milwaukee Brewers VS. Los Angeles Dodgers,08/17
+112,2,792,6,1,1,2,5,3,2022 08 18 Milwaukee Brewers VS. Los Angeles Dodgers,08/18
+113,2,799,26,0,0,-1,7,8,2022 08 19 Chicago Cubs VS. Milwaukee Brewers,08/19
+114,2,807,26,0,0,-1,5,6,2022 08 20 Chicago Cubs VS. Milwaukee Brewers,08/20
+115,2,884,27,1,1,5,6,1,2022 08 31 Milwaukee Brewers VS. Pittsburgh Pirates,08/31
+116,2,942,22,1,1,1,2,1,2022 09 08 Milwaukee Brewers VS. San Francisco Giants,09/08
+117,2,993,8,0,0,-3,1,4,2022 09 14 St. Louis Cardinals VS. Milwaukee Brewers,09/14
+118,2,1004,19,1,1,1,7,6,2022 09 16 Milwaukee Brewers VS. New York Yankees,09/16
+119,2,1012,19,1,1,3,4,1,2022 09 17 Milwaukee Brewers VS. New York Yankees,09/17
+120,2,1026,4,0,1,-5,2,7,2022 09 19 Milwaukee Brewers VS. New York Mets,09/19
+121,2,1065,23,0,0,-1,1,2,2022 09 25 Cincinnati Reds VS. Milwaukee Brewers,09/25
+122,2,1078,8,0,1,-4,2,6,2022 09 27 Milwaukee Brewers VS. St. Louis Cardinals,09/27
+123,2,1096,3,0,1,-2,2,4,2022 09 29 Milwaukee Brewers VS. Miami Marlins,09/29
+124,3,25,29,0,0,-4,2,6,2022 04 11 Los Angeles Angels VS. Miami Marlins,04/11
+125,3,100,8,1,1,5,5,0,2022 04 21 Miami Marlins VS. St. Louis Cardinals,04/21
+126,3,360,12,1,1,3,7,4,2022 06 09 Miami Marlins VS. Washington Nationals,06/09
+127,3,401,18,0,0,-2,1,3,2022 06 15 Philadelphia Phillies VS. Miami Marlins,06/15
+128,3,429,4,0,0,-6,0,6,2022 06 20 New York Mets VS. Miami Marlins,06/20
+129,3,446,16,1,1,1,3,2,2022 06 23 Miami Marlins VS. Colorado Rockies,06/23
+130,3,450,4,0,1,-2,3,5,2022 06 24 Miami Marlins VS. New York Mets,06/24
+131,3,525,12,1,0,1,3,2,2022 07 04 Washington Nationals VS. Miami Marlins,07/04
+132,3,573,4,1,0,2,2,0,2022 07 10 New York Mets VS. Miami Marlins,07/10
+133,3,594,27,1,1,1,3,2,2022 07 14 Miami Marlins VS. Pittsburgh Pirates,07/14
+134,3,663,23,1,0,1,7,6,2022 07 28 Cincinnati Reds VS. Miami Marlins,07/28
+135,3,717,26,0,0,-1,1,2,2022 08 05 Chicago Cubs VS. Miami Marlins,08/05
+136,3,721,26,0,0,-4,0,4,2022 08 06 Chicago Cubs VS. Miami Marlins,08/06
+137,3,751,18,1,0,3,3,0,2022 08 11 Philadelphia Phillies VS. Miami Marlins,08/11
+138,3,758,1,0,1,-3,2,5,2022 08 13 Miami Marlins VS. Atlanta Braves,08/13
+139,3,784,21,0,1,-7,3,10,2022 08 17 Miami Marlins VS. San Diego Padres,08/17
+140,3,801,6,0,0,-1,1,2,2022 08 19 Los Angeles Dodgers VS. Miami Marlins,08/19
+141,3,839,7,0,0,-1,2,3,2022 08 24 Oakland Athletics VS. Miami Marlins,08/24
+142,3,1097,2,1,0,2,4,2,2022 09 29 Milwaukee Brewers VS. Miami Marlins,09/29
+143,4,17,12,1,0,5,5,0,2022 04 09 Washington Nationals VS. New York Mets,04/09
+144,4,23,12,0,0,-2,2,4,2022 04 10 Washington Nationals VS. New York Mets,04/10
+145,4,27,18,0,0,-1,4,5,2022 04 11 Philadelphia Phillies VS. New York Mets,04/11
+146,4,31,18,1,0,2,2,0,2022 04 12 Philadelphia Phillies VS. New York Mets,04/12
+147,4,54,24,1,1,7,10,3,2022 04 15 New York Mets VS. Arizona Diamondbacks,04/15
+148,4,62,24,0,1,-1,2,3,2022 04 16 New York Mets VS. Arizona Diamondbacks,04/16
+149,4,84,22,1,1,1,5,4,2022 04 19 New York Mets VS. San Francisco Giants,04/19
+150,4,92,22,0,1,-3,2,5,2022 04 20 New York Mets VS. San Francisco Giants,04/20
+151,4,107,24,0,0,-3,2,5,2022 04 23 Arizona Diamondbacks VS. New York Mets,04/23
+152,4,127,8,1,0,3,5,2,2022 04 25 St. Louis Cardinals VS. New York Mets,04/25
+153,4,135,8,1,0,3,3,0,2022 04 26 St. Louis Cardinals VS. New York Mets,04/26
+154,4,139,8,0,0,-5,5,10,2022 04 27 St. Louis Cardinals VS. New York Mets,04/27
+155,4,152,18,0,1,-3,1,4,2022 04 30 New York Mets VS. Philadelphia Phillies,04/30
+156,4,154,18,1,1,4,10,6,2022 05 01 New York Mets VS. Philadelphia Phillies,05/01
+157,4,158,1,0,1,-3,2,5,2022 05 02 New York Mets VS. Atlanta Braves,05/02
+158,4,162,1,1,1,3,3,0,2022 05 03 New York Mets VS. Atlanta Braves,05/03
+159,4,168,1,0,1,-7,2,9,2022 05 04 New York Mets VS. Atlanta Braves,05/04
+160,4,175,18,1,0,1,8,7,2022 05 05 Philadelphia Phillies VS. New York Mets,05/05
+161,4,215,12,1,0,3,4,1,2022 05 12 Washington Nationals VS. New York Mets,05/12
+162,4,232,8,1,1,2,3,1,2022 05 17 New York Mets VS. St. Louis Cardinals,05/17
+163,4,240,8,1,1,7,11,4,2022 05 18 New York Mets VS. St. Louis Cardinals,05/18
+164,4,273,22,0,0,-6,3,9,2022 05 25 San Francisco Giants VS. New York Mets,05/25
+165,4,290,18,1,1,6,8,2,2022 05 28 New York Mets VS. Philadelphia Phillies,05/28
+166,4,292,18,1,1,1,5,4,2022 05 29 New York Mets VS. Philadelphia Phillies,05/29
+167,4,300,12,1,1,8,13,5,2022 05 30 New York Mets VS. Washington Nationals,05/30
+168,4,325,6,1,0,5,9,4,2022 06 04 Los Angeles Dodgers VS. New York Mets,06/04
+169,4,341,21,1,0,6,11,5,2022 06 06 San Diego Padres VS. New York Mets,06/06
+170,4,353,21,0,0,-11,2,13,2022 06 08 San Diego Padres VS. New York Mets,06/08
+171,4,369,29,0,0,-5,6,11,2022 06 11 Los Angeles Angels VS. New York Mets,06/11
+172,4,379,29,1,0,3,4,1,2022 06 12 Los Angeles Angels VS. New York Mets,06/12
+173,4,398,2,0,1,-8,2,10,2022 06 15 New York Mets VS. Milwaukee Brewers,06/15
+174,4,428,3,1,1,6,6,0,2022 06 20 New York Mets VS. Miami Marlins,06/20
+175,4,441,5,0,0,-2,3,5,2022 06 22 Houston Astros VS. New York Mets,06/22
+176,4,451,3,1,0,2,5,3,2022 06 24 Miami Marlins VS. New York Mets,06/24
+177,4,476,5,0,1,-8,1,9,2022 06 28 New York Mets VS. Houston Astros,06/28
+178,4,480,5,0,1,-2,0,2,2022 06 29 New York Mets VS. Houston Astros,06/29
+179,4,572,3,0,1,-2,0,2,2022 07 10 New York Mets VS. Miami Marlins,07/10
+180,4,585,1,1,0,4,7,3,2022 07 13 Atlanta Braves VS. New York Mets,07/13
+181,4,605,26,1,0,1,4,3,2022 07 16 Chicago Cubs VS. New York Mets,07/16
+182,4,634,21,1,1,3,8,5,2022 07 24 New York Mets VS. San Diego Padres,07/24
+183,4,648,19,1,1,3,6,3,2022 07 26 New York Mets VS. New York Yankees,07/26
+184,4,658,19,1,1,1,3,2,2022 07 27 New York Mets VS. New York Yankees,07/27
+185,4,695,12,0,0,-4,1,5,2022 08 02 Washington Nationals VS. New York Mets,08/02
+186,4,705,12,1,0,4,9,5,2022 08 03 Washington Nationals VS. New York Mets,08/03
+187,4,742,23,1,1,8,10,2,2022 08 10 New York Mets VS. Cincinnati Reds,08/10
+188,4,768,18,1,1,6,6,0,2022 08 14 New York Mets VS. Philadelphia Phillies,08/14
+189,4,815,18,0,0,-3,1,4,2022 08 20 Philadelphia Phillies VS. New York Mets,08/20
+190,4,823,19,0,0,-2,2,4,2022 08 22 New York Yankees VS. New York Mets,08/22
+191,4,833,19,0,0,-2,2,4,2022 08 23 New York Yankees VS. New York Mets,08/23
+192,4,868,16,0,1,-1,0,1,2022 08 28 New York Mets VS. Colorado Rockies,08/28
+193,4,880,6,0,1,-1,3,4,2022 08 30 New York Mets VS. Los Angeles Dodgers,08/30
+194,4,886,6,1,1,1,2,1,2022 08 31 New York Mets VS. Los Angeles Dodgers,08/31
+195,4,998,27,1,1,6,7,1,2022 09 15 New York Mets VS. Pittsburgh Pirates,09/15
+196,4,1016,27,1,1,4,7,3,2022 09 18 New York Mets VS. Pittsburgh Pirates,09/18
+197,4,1027,2,1,0,5,7,2,2022 09 19 Milwaukee Brewers VS. New York Mets,09/19
+198,4,1069,7,1,0,9,13,4,2022 09 25 Oakland Athletics VS. New York Mets,09/25
+199,4,1103,1,0,0,-3,2,5,2022 09 30 Atlanta Braves VS. New York Mets,09/30
+200,4,1111,1,0,0,-2,2,4,2022 10 01 Atlanta Braves VS. New York Mets,10/01
+201,4,1121,1,0,0,-2,3,5,2022 10 02 Atlanta Braves VS. New York Mets,10/02
+202,4,1138,21,0,1,-6,1,7,2022 10 07 New York Mets VS. San Diego Padres,10/07
+203,4,1146,21,1,1,4,7,3,2022 10 08 New York Mets VS. San Diego Padres,10/08
+204,4,1152,21,0,1,-6,0,6,2022 10 09 New York Mets VS. San Diego Padres,10/09
+205,5,37,24,0,0,-1,2,3,2022 04 13 Arizona Diamondbacks VS. Houston Astros,04/13
+206,5,75,20,0,0,-5,2,7,2022 04 17 Seattle Mariners VS. Houston Astros,04/17
+207,5,157,14,0,0,-1,2,3,2022 05 01 Toronto Blue Jays VS. Houston Astros,05/01
+208,5,182,11,1,1,1,3,2,2022 05 07 Houston Astros VS. Detroit Tigers,05/07
+209,5,188,11,1,1,5,5,0,2022 05 08 Houston Astros VS. Detroit Tigers,05/08
+210,5,213,10,1,0,5,5,0,2022 05 12 Minnesota Twins VS. Houston Astros,05/12
+211,5,227,17,0,0,-3,3,6,2022 05 16 Boston Red Sox VS. Houston Astros,05/16
+212,5,229,17,1,0,9,13,4,2022 05 17 Boston Red Sox VS. Houston Astros,05/17
+213,5,385,25,0,0,-2,3,5,2022 06 13 Texas Rangers VS. Houston Astros,06/13
+214,5,422,0,1,1,1,4,3,2022 06 19 Houston Astros VS. Chicago White Sox,06/19
+215,5,440,4,1,1,2,5,3,2022 06 22 Houston Astros VS. New York Mets,06/22
+216,5,449,19,0,0,-1,6,7,2022 06 23 New York Yankees VS. Houston Astros,06/23
+217,5,459,19,1,0,3,3,0,2022 06 25 New York Yankees VS. Houston Astros,06/25
+218,5,467,19,0,0,-3,3,6,2022 06 26 New York Yankees VS. Houston Astros,06/26
+219,5,477,4,1,0,8,9,1,2022 06 28 New York Mets VS. Houston Astros,06/28
+220,5,481,4,1,0,2,2,0,2022 06 29 New York Mets VS. Houston Astros,06/29
+221,5,488,19,1,1,1,2,1,2022 06 30 Houston Astros VS. New York Yankees,06/30
+222,5,522,13,1,1,1,7,6,2022 07 04 Houston Astros VS. Kansas City Royals,07/04
+223,5,548,13,1,1,3,5,2,2022 07 07 Houston Astros VS. Kansas City Royals,07/07
+224,5,579,29,1,0,1,6,5,2022 07 12 Los Angeles Angels VS. Houston Astros,07/12
+225,5,616,19,1,1,1,3,2,2022 07 21 Houston Astros VS. New York Yankees,07/21
+226,5,625,20,1,0,3,5,2,2022 07 22 Seattle Mariners VS. Houston Astros,07/22
+227,5,633,20,1,0,2,3,1,2022 07 23 Seattle Mariners VS. Houston Astros,07/23
+228,5,686,17,0,1,-1,2,3,2022 08 01 Houston Astros VS. Boston Red Sox,08/01
+229,5,748,25,1,1,4,7,3,2022 08 11 Houston Astros VS. Texas Rangers,08/11
+230,5,773,0,0,0,-2,2,4,2022 08 15 Chicago White Sox VS. Houston Astros,08/15
+231,5,805,1,0,0,-1,4,5,2022 08 20 Atlanta Braves VS. Houston Astros,08/20
+232,5,817,1,1,0,1,5,4,2022 08 21 Atlanta Braves VS. Houston Astros,08/21
+233,5,828,10,1,1,2,4,2,2022 08 23 Houston Astros VS. Minnesota Twins,08/23
+234,5,848,10,1,1,3,6,3,2022 08 25 Houston Astros VS. Minnesota Twins,08/25
+235,5,889,25,1,0,2,5,3,2022 08 31 Texas Rangers VS. Houston Astros,08/31
+236,5,920,25,1,1,1,1,0,2022 09 05 Houston Astros VS. Texas Rangers,09/05
+237,5,954,29,0,1,-5,1,6,2022 09 10 Houston Astros VS. Los Angeles Angels,09/10
+238,5,973,11,1,0,7,7,0,2022 09 12 Detroit Tigers VS. Houston Astros,09/12
+239,5,989,11,1,0,1,2,1,2022 09 14 Detroit Tigers VS. Houston Astros,09/14
+240,5,996,7,1,1,3,5,2,2022 09 15 Houston Astros VS. Oakland Athletics,09/15
+241,5,1002,7,1,1,5,5,0,2022 09 16 Houston Astros VS. Oakland Athletics,09/16
+242,5,1037,9,1,0,5,5,0,2022 09 20 Tampa Bay Rays VS. Houston Astros,09/20
+243,5,1055,28,0,0,-6,0,6,2022 09 23 Baltimore Orioles VS. Houston Astros,09/23
+244,5,1114,9,1,1,1,2,1,2022 10 01 Houston Astros VS. Tampa Bay Rays,10/01
+245,5,1132,18,1,1,10,10,0,2022 10 04 Houston Astros VS. Philadelphia Phillies,10/04
+246,5,1156,20,1,1,1,8,7,2022 10 11 Houston Astros VS. Seattle Mariners,10/11
+247,5,1166,20,1,1,2,4,2,2022 10 13 Houston Astros VS. Seattle Mariners,10/13
+248,5,1181,20,1,0,1,1,0,2022 10 15 Seattle Mariners VS. Houston Astros,10/15
+249,5,1188,19,1,1,2,4,2,2022 10 19 Houston Astros VS. New York Yankees,10/19
+250,5,1192,19,1,1,1,3,2,2022 10 20 Houston Astros VS. New York Yankees,10/20
+251,5,1197,19,1,0,5,5,0,2022 10 22 New York Yankees VS. Houston Astros,10/22
+252,5,1201,19,1,0,1,6,5,2022 10 23 New York Yankees VS. Houston Astros,10/23
+253,5,1204,18,0,1,-1,5,6,2022 10 28 Houston Astros VS. Philadelphia Phillies,10/28
+254,5,1206,18,1,1,3,5,2,2022 10 29 Houston Astros VS. Philadelphia Phillies,10/29
+255,5,1209,18,0,0,-7,0,7,2022 11 01 Philadelphia Phillies VS. Houston Astros,11/01
+256,5,1211,18,1,0,5,5,0,2022 11 02 Philadelphia Phillies VS. Houston Astros,11/02
+257,5,1213,18,1,0,1,3,2,2022 11 03 Philadelphia Phillies VS. Houston Astros,11/03
+258,5,1214,18,1,1,3,4,1,2022 11 05 Houston Astros VS. Philadelphia Phillies,11/05
+259,6,58,23,1,1,3,5,2,2022 04 16 Los Angeles Dodgers VS. Cincinnati Reds,04/16
+260,6,78,1,1,1,3,7,4,2022 04 18 Los Angeles Dodgers VS. Atlanta Braves,04/18
+261,6,82,1,0,1,-2,1,3,2022 04 19 Los Angeles Dodgers VS. Atlanta Braves,04/19
+262,6,90,1,1,1,4,5,1,2022 04 20 Los Angeles Dodgers VS. Atlanta Braves,04/20
+263,6,115,21,0,0,-1,2,3,2022 04 23 San Diego Padres VS. Los Angeles Dodgers,04/23
+264,6,123,21,1,0,8,10,2,2022 04 24 San Diego Padres VS. Los Angeles Dodgers,04/24
+265,6,131,24,0,0,-2,3,5,2022 04 26 Arizona Diamondbacks VS. Los Angeles Dodgers,04/26
+266,6,160,22,1,1,2,3,1,2022 05 03 Los Angeles Dodgers VS. San Francisco Giants,05/03
+267,6,179,26,1,0,4,6,2,2022 05 07 Chicago Cubs VS. Los Angeles Dodgers,05/07
+268,6,187,26,1,0,6,7,1,2022 05 08 Chicago Cubs VS. Los Angeles Dodgers,05/08
+269,6,220,18,0,1,-5,3,8,2022 05 14 Los Angeles Dodgers VS. Philadelphia Phillies,05/14
+270,6,230,24,1,1,1,7,6,2022 05 17 Los Angeles Dodgers VS. Arizona Diamondbacks,05/17
+271,6,236,24,1,1,2,5,3,2022 05 18 Los Angeles Dodgers VS. Arizona Diamondbacks,05/18
+272,6,257,18,0,0,-1,3,4,2022 05 22 Philadelphia Phillies VS. Los Angeles Dodgers,05/22
+273,6,259,12,1,0,9,10,1,2022 05 23 Washington Nationals VS. Los Angeles Dodgers,05/23
+274,6,281,24,1,0,1,3,2,2022 05 28 Arizona Diamondbacks VS. Los Angeles Dodgers,05/28
+275,6,298,27,0,1,-1,5,6,2022 05 30 Los Angeles Dodgers VS. Pittsburgh Pirates,05/30
+276,6,304,27,0,1,-2,3,5,2022 05 31 Los Angeles Dodgers VS. Pittsburgh Pirates,05/31
+277,6,324,4,0,1,-5,4,9,2022 06 04 Los Angeles Dodgers VS. New York Mets,06/04
+278,6,343,0,0,0,-4,0,4,2022 06 07 Chicago White Sox VS. Los Angeles Dodgers,06/07
+279,6,355,0,1,0,2,11,9,2022 06 09 Chicago White Sox VS. Los Angeles Dodgers,06/09
+280,6,375,22,0,0,-1,2,3,2022 06 11 San Francisco Giants VS. Los Angeles Dodgers,06/11
+281,6,388,29,1,1,2,2,0,2022 06 14 Los Angeles Dodgers VS. Los Angeles Angels,06/14
+282,6,396,29,1,1,3,4,1,2022 06 15 Los Angeles Dodgers VS. Los Angeles Angels,06/15
+283,6,416,15,1,1,6,7,1,2022 06 18 Los Angeles Dodgers VS. Cleveland Guardians,06/18
+284,6,453,1,0,0,-2,3,5,2022 06 25 Atlanta Braves VS. Los Angeles Dodgers,06/25
+285,6,465,1,1,0,2,5,3,2022 06 26 Atlanta Braves VS. Los Angeles Dodgers,06/26
+286,6,490,21,1,1,2,3,1,2022 06 30 Los Angeles Dodgers VS. San Diego Padres,06/30
+287,6,506,21,1,1,5,7,2,2022 07 02 Los Angeles Dodgers VS. San Diego Padres,07/02
+288,6,528,16,1,1,3,5,2,2022 07 05 Los Angeles Dodgers VS. Colorado Rockies,07/05
+289,6,540,16,1,1,1,2,1,2022 07 06 Los Angeles Dodgers VS. Colorado Rockies,07/06
+290,6,556,26,1,1,1,4,3,2022 07 08 Los Angeles Dodgers VS. Chicago Cubs,07/08
+291,6,562,26,1,1,2,4,2,2022 07 09 Los Angeles Dodgers VS. Chicago Cubs,07/09
+292,6,583,8,0,0,-1,6,7,2022 07 12 St. Louis Cardinals VS. Los Angeles Dodgers,07/12
+293,6,597,8,1,0,4,4,0,2022 07 14 St. Louis Cardinals VS. Los Angeles Dodgers,07/14
+294,6,609,29,1,0,6,7,1,2022 07 16 Los Angeles Angels VS. Los Angeles Dodgers,07/16
+295,6,618,22,1,1,3,9,6,2022 07 21 Los Angeles Dodgers VS. San Francisco Giants,07/21
+296,6,622,22,1,1,4,5,1,2022 07 22 Los Angeles Dodgers VS. San Francisco Giants,07/22
+297,6,628,22,1,1,2,4,2,2022 07 23 Los Angeles Dodgers VS. San Francisco Giants,07/23
+298,6,638,12,0,1,-3,1,4,2022 07 25 Los Angeles Dodgers VS. Washington Nationals,07/25
+299,6,646,12,0,1,-5,3,8,2022 07 26 Los Angeles Dodgers VS. Washington Nationals,07/26
+300,6,691,22,1,0,4,9,5,2022 08 02 San Francisco Giants VS. Los Angeles Dodgers,08/02
+301,6,703,22,1,0,3,3,0,2022 08 03 San Francisco Giants VS. Los Angeles Dodgers,08/03
+302,6,713,22,1,0,2,5,3,2022 08 04 San Francisco Giants VS. Los Angeles Dodgers,08/04
+303,6,718,21,1,1,7,8,1,2022 08 05 Los Angeles Dodgers VS. San Diego Padres,08/05
+304,6,730,21,1,1,4,4,0,2022 08 07 Los Angeles Dodgers VS. San Diego Padres,08/07
+305,6,787,2,1,0,1,2,1,2022 08 17 Milwaukee Brewers VS. Los Angeles Dodgers,08/17
+306,6,793,2,0,0,-2,3,5,2022 08 18 Milwaukee Brewers VS. Los Angeles Dodgers,08/18
+307,6,800,3,1,1,1,2,1,2022 08 19 Los Angeles Dodgers VS. Miami Marlins,08/19
+308,6,881,4,1,0,1,4,3,2022 08 30 New York Mets VS. Los Angeles Dodgers,08/30
+309,6,887,4,0,0,-1,1,2,2022 08 31 New York Mets VS. Los Angeles Dodgers,08/31
+310,6,914,21,1,1,5,9,4,2022 09 04 Los Angeles Dodgers VS. San Diego Padres,09/04
+311,6,928,22,1,1,3,6,3,2022 09 06 Los Angeles Dodgers VS. San Francisco Giants,09/06
+312,6,932,22,1,1,4,7,3,2022 09 07 Los Angeles Dodgers VS. San Francisco Giants,09/07
+313,6,969,24,1,0,6,6,0,2022 09 12 Arizona Diamondbacks VS. Los Angeles Dodgers,09/12
+314,6,1019,22,1,0,1,4,3,2022 09 18 San Francisco Giants VS. Los Angeles Dodgers,09/18
+315,6,1046,24,1,1,1,3,2,2022 09 22 Los Angeles Dodgers VS. Arizona Diamondbacks,09/22
+316,6,1101,21,1,0,3,5,2,2022 09 29 San Diego Padres VS. Los Angeles Dodgers,09/29
+317,6,1128,16,0,1,-1,1,2,2022 10 03 Los Angeles Dodgers VS. Colorado Rockies,10/03
+318,6,1158,21,1,1,2,5,3,2022 10 11 Los Angeles Dodgers VS. San Diego Padres,10/11
+319,6,1164,21,0,1,-2,3,5,2022 10 12 Los Angeles Dodgers VS. San Diego Padres,10/12
+320,6,1173,21,0,0,-1,1,2,2022 10 14 San Diego Padres VS. Los Angeles Dodgers,10/14
+321,6,1179,21,0,0,-2,3,5,2022 10 15 San Diego Padres VS. Los Angeles Dodgers,10/15
+322,7,7,18,0,0,-4,5,9,2022 04 08 Philadelphia Phillies VS. Oakland Athletics,04/08
+323,7,35,9,0,0,-1,8,9,2022 04 12 Tampa Bay Rays VS. Oakland Athletics,04/12
+324,7,133,22,0,0,-6,2,8,2022 04 26 San Francisco Giants VS. Oakland Athletics,04/26
+325,7,198,11,0,1,-6,0,6,2022 05 10 Oakland Athletics VS. Detroit Tigers,05/10
+326,7,249,29,0,0,-2,3,5,2022 05 21 Los Angeles Angels VS. Oakland Athletics,05/21
+327,7,357,15,0,0,-4,4,8,2022 06 09 Cleveland Guardians VS. Oakland Athletics,06/09
+328,7,367,15,1,0,5,10,5,2022 06 11 Cleveland Guardians VS. Oakland Athletics,06/11
+329,7,432,20,0,1,-6,2,8,2022 06 21 Oakland Athletics VS. Seattle Mariners,06/21
+330,7,469,19,0,0,-4,5,9,2022 06 27 New York Yankees VS. Oakland Athletics,06/27
+331,7,509,20,0,0,-1,1,2,2022 07 02 Seattle Mariners VS. Oakland Athletics,07/02
+332,7,530,14,1,1,2,5,3,2022 07 05 Oakland Athletics VS. Toronto Blue Jays,07/05
+333,7,620,11,1,1,5,5,0,2022 07 21 Oakland Athletics VS. Detroit Tigers,07/21
+334,7,630,25,1,1,2,3,1,2022 07 23 Oakland Athletics VS. Texas Rangers,07/23
+335,7,812,20,1,1,1,4,3,2022 08 20 Oakland Athletics VS. Seattle Mariners,08/20
+336,7,838,3,1,1,1,3,2,2022 08 24 Oakland Athletics VS. Miami Marlins,08/24
+337,7,899,12,0,0,-2,5,7,2022 09 01 Washington Nationals VS. Oakland Athletics,09/01
+338,7,960,0,0,1,-8,2,10,2022 09 10 Oakland Athletics VS. Chicago White Sox,09/10
+339,7,997,5,0,0,-3,2,5,2022 09 15 Houston Astros VS. Oakland Athletics,09/15
+340,7,1003,5,0,0,-5,0,5,2022 09 16 Houston Astros VS. Oakland Athletics,09/16
+341,7,1032,20,1,1,3,4,1,2022 09 20 Oakland Athletics VS. Seattle Mariners,09/20
+342,7,1040,20,1,1,1,2,1,2022 09 21 Oakland Athletics VS. Seattle Mariners,09/21
+343,7,1068,4,0,1,-9,4,13,2022 09 25 Oakland Athletics VS. New York Mets,09/25
+344,7,1119,20,0,0,-4,1,5,2022 10 01 Seattle Mariners VS. Oakland Athletics,10/01
+345,8,61,2,1,0,1,2,1,2022 04 16 Milwaukee Brewers VS. St. Louis Cardinals,04/16
+346,8,101,3,0,0,-5,0,5,2022 04 21 Miami Marlins VS. St. Louis Cardinals,04/21
+347,8,126,4,0,1,-3,2,5,2022 04 25 St. Louis Cardinals VS. New York Mets,04/25
+348,8,134,4,0,1,-3,0,3,2022 04 26 St. Louis Cardinals VS. New York Mets,04/26
+349,8,138,4,1,1,5,10,5,2022 04 27 St. Louis Cardinals VS. New York Mets,04/27
+350,8,146,24,1,1,5,8,3,2022 04 28 St. Louis Cardinals VS. Arizona Diamondbacks,04/28
+351,8,177,22,1,0,6,7,1,2022 05 05 San Francisco Giants VS. St. Louis Cardinals,05/05
+352,8,185,22,0,0,-6,7,13,2022 05 07 San Francisco Giants VS. St. Louis Cardinals,05/07
+353,8,222,22,1,1,9,15,6,2022 05 15 St. Louis Cardinals VS. San Francisco Giants,05/15
+354,8,233,4,0,0,-2,1,3,2022 05 17 New York Mets VS. St. Louis Cardinals,05/17
+355,8,241,4,0,0,-7,4,11,2022 05 18 New York Mets VS. St. Louis Cardinals,05/18
+356,8,310,21,1,1,3,5,2,2022 06 01 St. Louis Cardinals VS. San Diego Padres,06/01
+357,8,321,26,1,0,9,14,5,2022 06 03 Chicago Cubs VS. St. Louis Cardinals,06/03
+358,8,323,26,0,0,-5,1,6,2022 06 04 Chicago Cubs VS. St. Louis Cardinals,06/04
+359,8,333,26,1,0,2,5,3,2022 06 05 Chicago Cubs VS. St. Louis Cardinals,06/05
+360,8,413,17,1,0,9,11,2,2022 06 18 Boston Red Sox VS. St. Louis Cardinals,06/18
+361,8,421,17,0,0,-2,4,6,2022 06 19 Boston Red Sox VS. St. Louis Cardinals,06/19
+362,8,427,2,0,0,-2,0,2,2022 06 20 Milwaukee Brewers VS. St. Louis Cardinals,06/20
+363,8,501,18,0,0,-2,3,5,2022 07 01 Philadelphia Phillies VS. St. Louis Cardinals,07/01
+364,8,515,18,0,0,-4,0,4,2022 07 03 Philadelphia Phillies VS. St. Louis Cardinals,07/03
+365,8,519,1,0,0,-3,3,6,2022 07 04 Atlanta Braves VS. St. Louis Cardinals,07/04
+366,8,535,1,0,0,-3,0,3,2022 07 06 Atlanta Braves VS. St. Louis Cardinals,07/06
+367,8,543,1,1,0,1,3,2,2022 07 07 Atlanta Braves VS. St. Louis Cardinals,07/07
+368,8,582,6,1,1,1,7,6,2022 07 12 St. Louis Cardinals VS. Los Angeles Dodgers,07/12
+369,8,596,6,0,1,-4,0,4,2022 07 14 St. Louis Cardinals VS. Los Angeles Dodgers,07/14
+370,8,679,12,0,0,-1,6,7,2022 07 30 Washington Nationals VS. St. Louis Cardinals,07/30
+371,8,726,19,1,1,1,1,0,2022 08 06 St. Louis Cardinals VS. New York Yankees,08/06
+372,8,827,26,0,0,-2,0,2,2022 08 23 Chicago Cubs VS. St. Louis Cardinals,08/23
+373,8,847,26,1,0,5,8,3,2022 08 25 Chicago Cubs VS. St. Louis Cardinals,08/25
+374,8,856,1,0,1,-7,4,11,2022 08 26 St. Louis Cardinals VS. Atlanta Braves,08/26
+375,8,864,1,1,1,1,6,5,2022 08 27 St. Louis Cardinals VS. Atlanta Braves,08/27
+376,8,870,1,1,1,3,6,3,2022 08 28 St. Louis Cardinals VS. Atlanta Braves,08/28
+377,8,924,12,0,1,-6,0,6,2022 09 05 St. Louis Cardinals VS. Washington Nationals,09/05
+378,8,946,12,0,1,-5,6,11,2022 09 08 St. Louis Cardinals VS. Washington Nationals,09/08
+379,8,967,27,1,0,1,4,3,2022 09 11 Pittsburgh Pirates VS. St. Louis Cardinals,09/11
+380,8,992,2,1,1,3,4,1,2022 09 14 St. Louis Cardinals VS. Milwaukee Brewers,09/14
+381,8,1035,21,0,0,-5,0,5,2022 09 20 San Diego Padres VS. St. Louis Cardinals,09/20
+382,8,1043,21,0,0,-1,0,1,2022 09 21 San Diego Padres VS. St. Louis Cardinals,09/21
+383,8,1079,2,1,0,4,6,2,2022 09 27 Milwaukee Brewers VS. St. Louis Cardinals,09/27
+384,8,1140,18,0,1,-3,3,6,2022 10 07 St. Louis Cardinals VS. Philadelphia Phillies,10/07
+385,8,1148,18,0,1,-2,0,2,2022 10 08 St. Louis Cardinals VS. Philadelphia Phillies,10/08
+386,9,14,28,1,1,2,5,3,2022 04 09 Tampa Bay Rays VS. Baltimore Orioles,04/09
+387,9,34,7,1,1,1,9,8,2022 04 12 Tampa Bay Rays VS. Oakland Athletics,04/12
+388,9,124,17,1,1,3,5,2,2022 04 24 Tampa Bay Rays VS. Boston Red Sox,04/24
+389,9,148,20,1,1,1,2,1,2022 04 28 Tampa Bay Rays VS. Seattle Mariners,04/28
+390,9,205,29,1,0,2,4,2,2022 05 11 Los Angeles Angels VS. Tampa Bay Rays,05/11
+391,9,224,14,1,1,3,3,0,2022 05 15 Tampa Bay Rays VS. Toronto Blue Jays,05/15
+392,9,278,19,0,1,-5,2,7,2022 05 26 Tampa Bay Rays VS. New York Yankees,05/26
+393,9,294,19,1,1,2,4,2,2022 05 29 Tampa Bay Rays VS. New York Yankees,05/29
+394,9,319,25,1,0,2,3,1,2022 06 02 Texas Rangers VS. Tampa Bay Rays,06/02
+395,9,336,0,0,1,-1,5,6,2022 06 05 Tampa Bay Rays VS. Chicago White Sox,06/05
+396,9,391,19,0,0,-2,0,2,2022 06 14 New York Yankees VS. Tampa Bay Rays,06/14
+397,9,407,19,0,0,-1,1,2,2022 06 16 New York Yankees VS. Tampa Bay Rays,06/16
+398,9,460,27,1,1,1,6,5,2022 06 25 Tampa Bay Rays VS. Pittsburgh Pirates,06/25
+399,9,495,14,0,0,-3,1,4,2022 06 30 Toronto Blue Jays VS. Tampa Bay Rays,06/30
+400,9,503,14,0,0,-7,2,9,2022 07 01 Toronto Blue Jays VS. Tampa Bay Rays,07/01
+401,9,511,14,1,0,4,6,2,2022 07 02 Toronto Blue Jays VS. Tampa Bay Rays,07/02
+402,9,517,14,1,0,4,7,3,2022 07 03 Toronto Blue Jays VS. Tampa Bay Rays,07/03
+403,9,527,17,1,0,4,8,4,2022 07 05 Boston Red Sox VS. Tampa Bay Rays,07/05
+404,9,561,23,0,0,-1,4,5,2022 07 09 Cincinnati Reds VS. Tampa Bay Rays,07/09
+405,9,598,17,1,1,1,5,4,2022 07 14 Tampa Bay Rays VS. Boston Red Sox,07/14
+406,9,676,15,1,1,2,6,4,2022 07 30 Tampa Bay Rays VS. Cleveland Guardians,07/30
+407,9,692,14,0,1,-2,1,3,2022 08 02 Tampa Bay Rays VS. Toronto Blue Jays,08/02
+408,9,707,11,1,0,4,6,2,2022 08 04 Detroit Tigers VS. Tampa Bay Rays,08/04
+409,9,729,11,1,0,7,7,0,2022 08 07 Detroit Tigers VS. Tampa Bay Rays,08/07
+410,9,760,28,1,1,6,8,2,2022 08 13 Tampa Bay Rays VS. Baltimore Orioles,08/13
+411,9,779,19,1,0,2,3,1,2022 08 16 New York Yankees VS. Tampa Bay Rays,08/16
+412,9,824,29,1,1,1,2,1,2022 08 22 Tampa Bay Rays VS. Los Angeles Angels,08/22
+413,9,852,29,1,1,5,8,3,2022 08 25 Tampa Bay Rays VS. Los Angeles Angels,08/25
+414,9,859,17,0,0,-4,1,5,2022 08 27 Boston Red Sox VS. Tampa Bay Rays,08/27
+415,9,902,19,1,1,9,9,0,2022 09 02 Tampa Bay Rays VS. New York Yankees,09/02
+416,9,916,19,0,1,-1,1,2,2022 09 04 Tampa Bay Rays VS. New York Yankees,09/04
+417,9,926,17,1,1,1,4,3,2022 09 05 Tampa Bay Rays VS. Boston Red Sox,09/05
+418,9,959,19,0,0,-7,3,10,2022 09 10 New York Yankees VS. Tampa Bay Rays,09/10
+419,9,965,19,0,0,-6,4,10,2022 09 11 New York Yankees VS. Tampa Bay Rays,09/11
+420,9,985,14,1,0,2,4,2,2022 09 13 Toronto Blue Jays VS. Tampa Bay Rays,09/13
+421,9,1036,5,0,1,-5,0,5,2022 09 20 Tampa Bay Rays VS. Houston Astros,09/20
+422,9,1056,14,1,1,4,10,6,2022 09 23 Tampa Bay Rays VS. Toronto Blue Jays,09/23
+423,9,1072,14,0,1,-6,1,7,2022 09 25 Tampa Bay Rays VS. Toronto Blue Jays,09/25
+424,9,1093,15,0,0,-1,1,2,2022 09 29 Cleveland Guardians VS. Tampa Bay Rays,09/29
+425,9,1115,5,0,0,-1,1,2,2022 10 01 Houston Astros VS. Tampa Bay Rays,10/01
+426,9,1127,17,0,0,-1,3,4,2022 10 03 Boston Red Sox VS. Tampa Bay Rays,10/03
+427,9,1137,15,0,0,-1,1,2,2022 10 07 Cleveland Guardians VS. Tampa Bay Rays,10/07
+428,9,1145,15,0,0,-1,0,1,2022 10 08 Cleveland Guardians VS. Tampa Bay Rays,10/08
+429,10,71,17,0,0,-7,1,8,2022 04 17 Boston Red Sox VS. Minnesota Twins,04/17
+430,10,77,17,1,0,5,8,3,2022 04 18 Boston Red Sox VS. Minnesota Twins,04/18
+431,10,110,0,1,1,7,9,2,2022 04 23 Minnesota Twins VS. Chicago White Sox,04/23
+432,10,212,5,0,1,-5,0,5,2022 05 12 Minnesota Twins VS. Houston Astros,05/12
+433,10,266,11,0,1,-2,2,4,2022 05 25 Minnesota Twins VS. Detroit Tigers,05/25
+434,10,315,11,0,0,-1,2,3,2022 06 02 Detroit Tigers VS. Minnesota Twins,06/02
+435,10,348,19,1,1,7,8,1,2022 06 08 Minnesota Twins VS. New York Yankees,06/08
+436,10,364,19,0,1,-3,7,10,2022 06 09 Minnesota Twins VS. New York Yankees,06/09
+437,10,403,20,1,0,5,5,0,2022 06 15 Seattle Mariners VS. Minnesota Twins,06/15
+438,10,411,24,1,0,10,11,1,2022 06 18 Arizona Diamondbacks VS. Minnesota Twins,06/18
+439,10,456,16,1,1,6,6,0,2022 06 25 Minnesota Twins VS. Colorado Rockies,06/25
+440,10,487,15,0,0,-2,3,5,2022 06 30 Cleveland Guardians VS. Minnesota Twins,06/30
+441,10,537,0,0,0,-1,8,9,2022 07 06 Chicago White Sox VS. Minnesota Twins,07/06
+442,10,586,2,1,1,3,4,1,2022 07 13 Minnesota Twins VS. Milwaukee Brewers,07/13
+443,10,657,2,0,0,-6,4,10,2022 07 27 Milwaukee Brewers VS. Minnesota Twins,07/27
+444,10,667,21,0,0,-9,1,10,2022 07 29 San Diego Padres VS. Minnesota Twins,07/29
+445,10,675,21,1,0,3,7,4,2022 07 30 San Diego Padres VS. Minnesota Twins,07/30
+446,10,696,11,1,1,3,4,1,2022 08 03 Minnesota Twins VS. Detroit Tigers,08/03
+447,10,788,13,1,1,4,4,0,2022 08 17 Minnesota Twins VS. Kansas City Royals,08/17
+448,10,829,5,0,0,-2,2,4,2022 08 23 Houston Astros VS. Minnesota Twins,08/23
+449,10,849,5,0,0,-3,3,6,2022 08 25 Houston Astros VS. Minnesota Twins,08/25
+450,10,854,22,1,1,9,9,0,2022 08 26 Minnesota Twins VS. San Francisco Giants,08/26
+451,10,860,22,1,1,1,3,2,2022 08 27 Minnesota Twins VS. San Francisco Giants,08/27
+452,10,907,0,0,0,-13,0,13,2022 09 03 Chicago White Sox VS. Minnesota Twins,09/03
+453,10,923,19,0,0,-3,2,5,2022 09 05 New York Yankees VS. Minnesota Twins,09/05
+454,10,935,19,0,0,-6,1,7,2022 09 07 New York Yankees VS. Minnesota Twins,09/07
+455,10,945,19,1,0,1,4,3,2022 09 08 New York Yankees VS. Minnesota Twins,09/08
+456,10,956,15,0,1,-2,4,6,2022 09 10 Minnesota Twins VS. Cleveland Guardians,09/10
+457,10,1011,15,0,0,-4,1,5,2022 09 17 Cleveland Guardians VS. Minnesota Twins,09/17
+458,10,1023,15,0,0,-7,4,11,2022 09 19 Cleveland Guardians VS. Minnesota Twins,09/19
+459,10,1031,13,0,0,-1,4,5,2022 09 20 Kansas City Royals VS. Minnesota Twins,09/20
+460,10,1045,13,0,0,-3,1,4,2022 09 22 Kansas City Royals VS. Minnesota Twins,09/22
+461,10,1058,29,1,1,4,8,4,2022 09 24 Minnesota Twins VS. Los Angeles Angels,09/24
+462,10,1080,0,1,1,4,4,0,2022 09 27 Minnesota Twins VS. Chicago White Sox,09/27
+463,10,1098,0,0,1,-1,3,4,2022 09 29 Minnesota Twins VS. Chicago White Sox,09/29
+464,11,10,0,0,1,-3,2,5,2022 04 09 Detroit Tigers VS. Chicago White Sox,04/09
+465,11,98,19,1,1,3,3,0,2022 04 21 Detroit Tigers VS. New York Yankees,04/21
+466,11,108,16,1,1,13,13,0,2022 04 23 Detroit Tigers VS. Colorado Rockies,04/23
+467,11,183,5,0,0,-1,2,3,2022 05 07 Houston Astros VS. Detroit Tigers,05/07
+468,11,189,5,0,0,-5,0,5,2022 05 08 Houston Astros VS. Detroit Tigers,05/08
+469,11,199,7,1,0,6,6,0,2022 05 10 Oakland Athletics VS. Detroit Tigers,05/10
+470,11,267,10,1,0,2,4,2,2022 05 25 Minnesota Twins VS. Detroit Tigers,05/25
+471,11,286,15,0,1,-7,1,8,2022 05 28 Detroit Tigers VS. Cleveland Guardians,05/28
+472,11,314,10,1,1,1,3,2,2022 06 02 Detroit Tigers VS. Minnesota Twins,06/02
+473,11,329,19,0,0,-3,0,3,2022 06 04 New York Yankees VS. Detroit Tigers,06/04
+474,11,351,27,1,0,2,3,1,2022 06 08 Pittsburgh Pirates VS. Detroit Tigers,06/08
+475,11,376,14,0,1,-6,0,6,2022 06 12 Detroit Tigers VS. Toronto Blue Jays,06/12
+476,11,386,0,0,1,-4,1,5,2022 06 14 Detroit Tigers VS. Chicago White Sox,06/14
+477,11,394,0,0,1,-13,0,13,2022 06 15 Detroit Tigers VS. Chicago White Sox,06/15
+478,11,404,25,0,1,-2,1,3,2022 06 16 Detroit Tigers VS. Texas Rangers,06/16
+479,11,414,25,1,1,7,14,7,2022 06 18 Detroit Tigers VS. Texas Rangers,06/18
+480,11,437,17,0,0,-4,2,6,2022 06 22 Boston Red Sox VS. Detroit Tigers,06/22
+481,11,479,22,0,0,-1,3,4,2022 06 28 San Francisco Giants VS. Detroit Tigers,06/28
+482,11,520,15,1,1,3,4,1,2022 07 04 Detroit Tigers VS. Cleveland Guardians,07/04
+483,11,538,15,1,1,6,8,2,2022 07 06 Detroit Tigers VS. Cleveland Guardians,07/06
+484,11,575,13,0,0,-2,1,3,2022 07 11 Kansas City Royals VS. Detroit Tigers,07/11
+485,11,607,15,0,0,-10,0,10,2022 07 16 Cleveland Guardians VS. Detroit Tigers,07/16
+486,11,621,7,0,0,-5,0,5,2022 07 21 Oakland Athletics VS. Detroit Tigers,07/21
+487,11,636,21,1,1,8,12,4,2022 07 25 Detroit Tigers VS. San Diego Padres,07/25
+488,11,654,21,1,1,1,4,3,2022 07 27 Detroit Tigers VS. San Diego Padres,07/27
+489,11,697,10,0,0,-3,1,4,2022 08 03 Minnesota Twins VS. Detroit Tigers,08/03
+490,11,706,9,0,1,-4,2,6,2022 08 04 Detroit Tigers VS. Tampa Bay Rays,08/04
+491,11,728,9,0,1,-7,0,7,2022 08 07 Detroit Tigers VS. Tampa Bay Rays,08/07
+492,11,746,15,0,1,-1,3,4,2022 08 11 Detroit Tigers VS. Cleveland Guardians,08/11
+493,11,775,15,0,0,-3,1,4,2022 08 15 Cleveland Guardians VS. Detroit Tigers,08/15
+494,11,808,29,1,1,1,4,3,2022 08 20 Detroit Tigers VS. Los Angeles Angels,08/20
+495,11,836,22,1,1,5,6,1,2022 08 24 Detroit Tigers VS. San Francisco Giants,08/24
+496,11,951,13,1,0,8,10,2,2022 09 09 Kansas City Royals VS. Detroit Tigers,09/09
+497,11,972,5,0,1,-7,0,7,2022 09 12 Detroit Tigers VS. Houston Astros,09/12
+498,11,988,5,0,1,-1,1,2,2022 09 14 Detroit Tigers VS. Houston Astros,09/14
+499,11,1094,13,1,1,7,10,3,2022 09 29 Detroit Tigers VS. Kansas City Royals,09/29
+500,12,16,4,0,1,-5,0,5,2022 04 09 Washington Nationals VS. New York Mets,04/09
+501,12,22,4,1,1,2,4,2,2022 04 10 Washington Nationals VS. New York Mets,04/10
+502,12,39,1,1,0,2,3,1,2022 04 13 Atlanta Braves VS. Washington Nationals,04/13
+503,12,116,22,0,1,-3,2,5,2022 04 23 Washington Nationals VS. San Francisco Giants,04/23
+504,12,173,16,0,0,-2,7,9,2022 05 05 Colorado Rockies VS. Washington Nationals,05/05
+505,12,214,4,0,1,-3,1,4,2022 05 12 Washington Nationals VS. New York Mets,05/12
+506,12,258,6,0,1,-9,1,10,2022 05 23 Washington Nationals VS. Los Angeles Dodgers,05/23
+507,12,301,4,0,0,-8,5,13,2022 05 30 New York Mets VS. Washington Nationals,05/30
+508,12,361,3,0,0,-3,4,7,2022 06 09 Miami Marlins VS. Washington Nationals,06/09
+509,12,392,1,0,1,-6,4,10,2022 06 14 Washington Nationals VS. Atlanta Braves,06/14
+510,12,463,25,0,0,-1,2,3,2022 06 25 Texas Rangers VS. Washington Nationals,06/25
+511,12,524,3,0,1,-1,2,3,2022 07 04 Washington Nationals VS. Miami Marlins,07/04
+512,12,551,1,0,0,-10,2,12,2022 07 08 Atlanta Braves VS. Washington Nationals,07/08
+513,12,569,1,0,0,-1,3,4,2022 07 10 Atlanta Braves VS. Washington Nationals,07/10
+514,12,590,20,0,1,-2,4,6,2022 07 13 Washington Nationals VS. Seattle Mariners,07/13
+515,12,639,6,1,0,3,4,1,2022 07 25 Los Angeles Dodgers VS. Washington Nationals,07/25
+516,12,647,6,1,0,5,8,3,2022 07 26 Los Angeles Dodgers VS. Washington Nationals,07/26
+517,12,678,8,1,1,1,7,6,2022 07 30 Washington Nationals VS. St. Louis Cardinals,07/30
+518,12,694,4,1,1,4,5,1,2022 08 02 Washington Nationals VS. New York Mets,08/02
+519,12,704,4,0,1,-4,5,9,2022 08 03 Washington Nationals VS. New York Mets,08/03
+520,12,733,18,0,0,-12,1,13,2022 08 07 Philadelphia Phillies VS. Washington Nationals,08/07
+521,12,790,26,0,1,-1,2,3,2022 08 17 Washington Nationals VS. Chicago Cubs,08/17
+522,12,803,21,1,0,3,6,3,2022 08 19 San Diego Padres VS. Washington Nationals,08/19
+523,12,898,7,1,1,2,7,5,2022 09 01 Washington Nationals VS. Oakland Athletics,09/01
+524,12,925,8,1,0,6,6,0,2022 09 05 St. Louis Cardinals VS. Washington Nationals,09/05
+525,12,947,8,1,0,5,11,6,2022 09 08 St. Louis Cardinals VS. Washington Nationals,09/08
+526,12,1021,1,0,0,-3,2,5,2022 09 19 Atlanta Braves VS. Washington Nationals,09/19
+527,12,1039,1,1,0,1,3,2,2022 09 21 Atlanta Braves VS. Washington Nationals,09/21
+528,12,1076,1,0,1,-8,0,8,2022 09 26 Washington Nationals VS. Atlanta Braves,09/26
+529,12,1088,1,1,1,1,3,2,2022 09 28 Washington Nationals VS. Atlanta Braves,09/28
+530,13,191,28,0,0,-5,1,6,2022 05 09 Baltimore Orioles VS. Kansas City Royals,05/09
+531,13,309,15,0,0,-4,0,4,2022 06 01 Cleveland Guardians VS. Kansas City Royals,06/01
+532,13,344,14,1,1,4,8,4,2022 06 08 Kansas City Royals VS. Toronto Blue Jays,06/08
+533,13,523,5,0,0,-1,6,7,2022 07 04 Houston Astros VS. Kansas City Royals,07/04
+534,13,549,5,0,0,-3,2,5,2022 07 07 Houston Astros VS. Kansas City Royals,07/07
+535,13,574,11,1,1,2,3,1,2022 07 11 Kansas City Royals VS. Detroit Tigers,07/11
+536,13,603,14,0,0,-7,1,8,2022 07 15 Toronto Blue Jays VS. Kansas City Royals,07/15
+537,13,683,19,1,0,2,8,6,2022 07 31 New York Yankees VS. Kansas City Royals,07/31
+538,13,740,0,1,1,5,8,3,2022 08 10 Kansas City Royals VS. Chicago White Sox,08/10
+539,13,789,10,0,0,-4,0,4,2022 08 17 Minnesota Twins VS. Kansas City Royals,08/17
+540,13,830,24,0,1,-4,3,7,2022 08 23 Kansas City Royals VS. Arizona Diamondbacks,08/23
+541,13,897,0,0,0,-6,1,7,2022 09 01 Chicago White Sox VS. Kansas City Royals,09/01
+542,13,950,11,0,1,-8,2,10,2022 09 09 Kansas City Royals VS. Detroit Tigers,09/09
+543,13,1030,10,1,1,1,5,4,2022 09 20 Kansas City Royals VS. Minnesota Twins,09/20
+544,13,1044,10,1,1,3,4,1,2022 09 22 Kansas City Royals VS. Minnesota Twins,09/22
+545,13,1095,11,0,0,-7,3,10,2022 09 29 Detroit Tigers VS. Kansas City Royals,09/29
+546,14,20,25,0,1,-6,6,12,2022 04 10 Toronto Blue Jays VS. Texas Rangers,04/10
+547,14,45,19,1,0,2,6,4,2022 04 13 New York Yankees VS. Toronto Blue Jays,04/13
+548,14,51,19,0,0,-3,0,3,2022 04 14 New York Yankees VS. Toronto Blue Jays,04/14
+549,14,81,17,0,0,-1,1,2,2022 04 19 Boston Red Sox VS. Toronto Blue Jays,04/19
+550,14,87,17,1,0,5,6,1,2022 04 20 Boston Red Sox VS. Toronto Blue Jays,04/20
+551,14,128,17,1,1,4,6,2,2022 04 25 Toronto Blue Jays VS. Boston Red Sox,04/25
+552,14,140,17,0,1,-6,1,7,2022 04 27 Toronto Blue Jays VS. Boston Red Sox,04/27
+553,14,156,5,1,1,1,3,2,2022 05 01 Toronto Blue Jays VS. Houston Astros,05/01
+554,14,164,19,0,1,-8,1,9,2022 05 03 Toronto Blue Jays VS. New York Yankees,05/03
+555,14,207,19,0,0,-2,3,5,2022 05 11 New York Yankees VS. Toronto Blue Jays,05/11
+556,14,225,9,0,0,-3,0,3,2022 05 15 Tampa Bay Rays VS. Toronto Blue Jays,05/15
+557,14,277,29,1,0,3,6,3,2022 05 26 Los Angeles Angels VS. Toronto Blue Jays,05/26
+558,14,289,29,1,0,1,6,5,2022 05 28 Los Angeles Angels VS. Toronto Blue Jays,05/28
+559,14,345,13,0,0,-4,4,8,2022 06 08 Kansas City Royals VS. Toronto Blue Jays,06/08
+560,14,377,11,1,0,6,6,0,2022 06 12 Detroit Tigers VS. Toronto Blue Jays,06/12
+561,14,424,19,1,1,1,10,9,2022 06 19 Toronto Blue Jays VS. New York Yankees,06/19
+562,14,439,0,1,0,4,9,5,2022 06 22 Chicago White Sox VS. Toronto Blue Jays,06/22
+563,14,472,17,1,1,5,7,2,2022 06 27 Toronto Blue Jays VS. Boston Red Sox,06/27
+564,14,484,17,0,1,-1,5,6,2022 06 29 Toronto Blue Jays VS. Boston Red Sox,06/29
+565,14,494,9,1,1,3,4,1,2022 06 30 Toronto Blue Jays VS. Tampa Bay Rays,06/30
+566,14,502,9,1,1,7,9,2,2022 07 01 Toronto Blue Jays VS. Tampa Bay Rays,07/01
+567,14,510,9,0,1,-4,2,6,2022 07 02 Toronto Blue Jays VS. Tampa Bay Rays,07/02
+568,14,516,9,0,1,-4,3,7,2022 07 03 Toronto Blue Jays VS. Tampa Bay Rays,07/03
+569,14,531,7,0,0,-2,3,5,2022 07 05 Oakland Athletics VS. Toronto Blue Jays,07/05
+570,14,567,20,0,0,-1,1,2,2022 07 09 Seattle Mariners VS. Toronto Blue Jays,07/09
+571,14,588,18,1,1,6,8,2,2022 07 13 Toronto Blue Jays VS. Philadelphia Phillies,07/13
+572,14,602,13,1,1,7,8,1,2022 07 15 Toronto Blue Jays VS. Kansas City Royals,07/15
+573,14,693,9,1,0,2,3,1,2022 08 02 Tampa Bay Rays VS. Toronto Blue Jays,08/02
+574,14,754,15,0,1,-8,0,8,2022 08 12 Toronto Blue Jays VS. Cleveland Guardians,08/12
+575,14,764,15,1,1,1,2,1,2022 08 13 Toronto Blue Jays VS. Cleveland Guardians,08/13
+576,14,770,15,0,1,-5,2,7,2022 08 14 Toronto Blue Jays VS. Cleveland Guardians,08/14
+577,14,795,19,1,0,7,9,2,2022 08 18 New York Yankees VS. Toronto Blue Jays,08/18
+578,14,811,19,1,0,3,5,2,2022 08 20 New York Yankees VS. Toronto Blue Jays,08/20
+579,14,821,19,0,0,-2,2,4,2022 08 21 New York Yankees VS. Toronto Blue Jays,08/21
+580,14,845,17,1,0,1,6,5,2022 08 25 Boston Red Sox VS. Toronto Blue Jays,08/25
+581,14,866,29,0,1,-2,0,2,2022 08 27 Toronto Blue Jays VS. Los Angeles Angels,08/27
+582,14,872,29,0,1,-5,3,8,2022 08 28 Toronto Blue Jays VS. Los Angeles Angels,08/28
+583,14,890,26,0,1,-2,5,7,2022 08 31 Toronto Blue Jays VS. Chicago Cubs,08/31
+584,14,919,28,1,0,4,7,3,2022 09 05 Baltimore Orioles VS. Toronto Blue Jays,09/05
+585,14,953,25,1,0,1,4,3,2022 09 09 Texas Rangers VS. Toronto Blue Jays,09/09
+586,14,984,9,0,1,-2,2,4,2022 09 13 Toronto Blue Jays VS. Tampa Bay Rays,09/13
+587,14,1057,9,0,0,-4,6,10,2022 09 23 Tampa Bay Rays VS. Toronto Blue Jays,09/23
+588,14,1073,9,1,0,6,7,1,2022 09 25 Tampa Bay Rays VS. Toronto Blue Jays,09/25
+589,14,1074,19,1,1,1,3,2,2022 09 26 Toronto Blue Jays VS. New York Yankees,09/26
+590,14,1082,19,0,1,-3,2,5,2022 09 27 Toronto Blue Jays VS. New York Yankees,09/27
+591,14,1086,19,0,1,-5,3,8,2022 09 28 Toronto Blue Jays VS. New York Yankees,09/28
+592,14,1108,17,1,1,9,9,0,2022 09 30 Toronto Blue Jays VS. Boston Red Sox,09/30
+593,14,1124,17,1,1,3,6,3,2022 10 02 Toronto Blue Jays VS. Boston Red Sox,10/02
+594,14,1142,20,0,1,-4,0,4,2022 10 07 Toronto Blue Jays VS. Seattle Mariners,10/07
+595,14,1150,20,0,1,-1,9,10,2022 10 08 Toronto Blue Jays VS. Seattle Mariners,10/08
+596,15,43,23,1,0,4,7,3,2022 04 13 Cincinnati Reds VS. Cleveland Guardians,04/13
+597,15,96,0,1,1,3,6,3,2022 04 21 Cleveland Guardians VS. Chicago White Sox,04/21
+598,15,113,19,0,0,-1,4,5,2022 04 23 New York Yankees VS. Cleveland Guardians,04/23
+599,15,119,19,0,0,-8,2,10,2022 04 24 New York Yankees VS. Cleveland Guardians,04/24
+600,15,193,0,1,0,3,12,9,2022 05 09 Chicago White Sox VS. Cleveland Guardians,05/09
+601,15,287,11,1,0,7,8,1,2022 05 28 Detroit Tigers VS. Cleveland Guardians,05/28
+602,15,308,13,1,1,4,4,0,2022 06 01 Cleveland Guardians VS. Kansas City Royals,06/01
+603,15,356,7,1,1,4,8,4,2022 06 09 Cleveland Guardians VS. Oakland Athletics,06/09
+604,15,366,7,0,1,-5,5,10,2022 06 11 Cleveland Guardians VS. Oakland Athletics,06/11
+605,15,417,6,0,0,-6,1,7,2022 06 18 Los Angeles Dodgers VS. Cleveland Guardians,06/18
+606,15,486,10,1,1,2,5,3,2022 06 30 Cleveland Guardians VS. Minnesota Twins,06/30
+607,15,512,19,1,1,2,2,0,2022 07 03 Cleveland Guardians VS. New York Yankees,07/03
+608,15,521,11,0,0,-3,1,4,2022 07 04 Detroit Tigers VS. Cleveland Guardians,07/04
+609,15,539,11,0,0,-6,2,8,2022 07 06 Detroit Tigers VS. Cleveland Guardians,07/06
+610,15,576,0,1,1,3,4,1,2022 07 12 Cleveland Guardians VS. Chicago White Sox,07/12
+611,15,606,11,1,1,10,10,0,2022 07 16 Cleveland Guardians VS. Detroit Tigers,07/16
+612,15,627,0,1,0,3,7,4,2022 07 23 Chicago White Sox VS. Cleveland Guardians,07/23
+613,15,677,9,0,0,-2,4,6,2022 07 30 Tampa Bay Rays VS. Cleveland Guardians,07/30
+614,15,747,11,1,0,1,4,3,2022 08 11 Detroit Tigers VS. Cleveland Guardians,08/11
+615,15,755,14,1,0,8,8,0,2022 08 12 Toronto Blue Jays VS. Cleveland Guardians,08/12
+616,15,765,14,0,0,-1,1,2,2022 08 13 Toronto Blue Jays VS. Cleveland Guardians,08/13
+617,15,771,14,1,0,5,7,2,2022 08 14 Toronto Blue Jays VS. Cleveland Guardians,08/14
+618,15,774,11,1,1,3,4,1,2022 08 15 Cleveland Guardians VS. Detroit Tigers,08/15
+619,15,843,21,1,0,7,7,0,2022 08 24 San Diego Padres VS. Cleveland Guardians,08/24
+620,15,851,20,0,0,-2,1,3,2022 08 25 Seattle Mariners VS. Cleveland Guardians,08/25
+621,15,863,20,1,0,1,4,3,2022 08 27 Seattle Mariners VS. Cleveland Guardians,08/27
+622,15,908,20,0,1,-4,0,4,2022 09 03 Cleveland Guardians VS. Seattle Mariners,09/03
+623,15,957,10,1,0,2,6,4,2022 09 10 Minnesota Twins VS. Cleveland Guardians,09/10
+624,15,970,29,1,1,1,5,4,2022 09 12 Cleveland Guardians VS. Los Angeles Angels,09/12
+625,15,986,29,1,1,2,5,3,2022 09 14 Cleveland Guardians VS. Los Angeles Angels,09/14
+626,15,994,0,0,1,-6,2,8,2022 09 15 Cleveland Guardians VS. Chicago White Sox,09/15
+627,15,1010,10,1,1,4,5,1,2022 09 17 Cleveland Guardians VS. Minnesota Twins,09/17
+628,15,1022,10,1,1,7,11,4,2022 09 19 Cleveland Guardians VS. Minnesota Twins,09/19
+629,15,1029,0,1,0,3,10,7,2022 09 20 Chicago White Sox VS. Cleveland Guardians,09/20
+630,15,1063,25,1,0,2,4,2,2022 09 24 Texas Rangers VS. Cleveland Guardians,09/24
+631,15,1092,9,1,1,1,2,1,2022 09 29 Cleveland Guardians VS. Tampa Bay Rays,09/29
+632,15,1136,9,1,1,1,2,1,2022 10 07 Cleveland Guardians VS. Tampa Bay Rays,10/07
+633,15,1144,9,1,1,1,1,0,2022 10 08 Cleveland Guardians VS. Tampa Bay Rays,10/08
+634,15,1161,19,0,0,-3,1,4,2022 10 11 New York Yankees VS. Cleveland Guardians,10/11
+635,15,1169,19,1,0,2,4,2,2022 10 14 New York Yankees VS. Cleveland Guardians,10/14
+636,15,1174,19,1,1,1,6,5,2022 10 15 Cleveland Guardians VS. New York Yankees,10/15
+637,15,1182,19,0,1,-2,2,4,2022 10 16 Cleveland Guardians VS. New York Yankees,10/16
+638,15,1185,19,0,0,-4,1,5,2022 10 18 New York Yankees VS. Cleveland Guardians,10/18
+639,16,56,26,1,1,3,9,6,2022 04 16 Colorado Rockies VS. Chicago Cubs,04/16
+640,16,88,18,0,1,-3,6,9,2022 04 20 Colorado Rockies VS. Philadelphia Phillies,04/20
+641,16,109,11,0,0,-13,0,13,2022 04 23 Detroit Tigers VS. Colorado Rockies,04/23
+642,16,145,18,0,0,-6,1,7,2022 04 28 Philadelphia Phillies VS. Colorado Rockies,04/28
+643,16,172,12,1,1,2,9,7,2022 05 05 Colorado Rockies VS. Washington Nationals,05/05
+644,16,271,27,0,0,-5,5,10,2022 05 25 Pittsburgh Pirates VS. Colorado Rockies,05/25
+645,16,373,21,1,0,4,6,2,2022 06 11 San Diego Padres VS. Colorado Rockies,06/11
+646,16,447,3,0,0,-1,2,3,2022 06 23 Miami Marlins VS. Colorado Rockies,06/23
+647,16,457,10,0,0,-6,0,6,2022 06 25 Minnesota Twins VS. Colorado Rockies,06/25
+648,16,529,6,0,0,-3,2,5,2022 07 05 Los Angeles Dodgers VS. Colorado Rockies,07/05
+649,16,541,6,0,0,-1,1,2,2022 07 06 Los Angeles Dodgers VS. Colorado Rockies,07/06
+650,16,592,21,1,1,3,8,5,2022 07 14 Colorado Rockies VS. San Diego Padres,07/14
+651,16,701,21,0,0,-8,1,9,2022 08 03 San Diego Padres VS. Colorado Rockies,08/03
+652,16,711,21,1,0,4,7,3,2022 08 04 San Diego Padres VS. Colorado Rockies,08/04
+653,16,715,24,0,0,-1,5,6,2022 08 05 Arizona Diamondbacks VS. Colorado Rockies,08/05
+654,16,869,4,1,0,1,1,0,2022 08 28 New York Mets VS. Colorado Rockies,08/28
+655,16,893,1,0,0,-3,0,3,2022 09 01 Atlanta Braves VS. Colorado Rockies,09/01
+656,16,1001,26,0,0,-1,1,2,2022 09 16 Chicago Cubs VS. Colorado Rockies,09/16
+657,16,1009,26,1,0,2,3,1,2022 09 17 Chicago Cubs VS. Colorado Rockies,09/17
+658,16,1129,6,1,0,1,2,1,2022 10 03 Los Angeles Dodgers VS. Colorado Rockies,10/03
+659,17,5,19,0,0,-1,5,6,2022 04 08 New York Yankees VS. Boston Red Sox,04/08
+660,17,13,19,0,0,-2,2,4,2022 04 09 New York Yankees VS. Boston Red Sox,04/09
+661,17,19,19,1,0,1,4,3,2022 04 10 New York Yankees VS. Boston Red Sox,04/10
+662,17,70,10,1,1,7,8,1,2022 04 17 Boston Red Sox VS. Minnesota Twins,04/17
+663,17,76,10,0,1,-5,3,8,2022 04 18 Boston Red Sox VS. Minnesota Twins,04/18
+664,17,80,14,1,1,1,2,1,2022 04 19 Boston Red Sox VS. Toronto Blue Jays,04/19
+665,17,86,14,0,1,-5,1,6,2022 04 20 Boston Red Sox VS. Toronto Blue Jays,04/20
+666,17,125,9,0,0,-3,2,5,2022 04 24 Tampa Bay Rays VS. Boston Red Sox,04/24
+667,17,129,14,0,0,-4,2,6,2022 04 25 Toronto Blue Jays VS. Boston Red Sox,04/25
+668,17,141,14,1,0,6,7,1,2022 04 27 Toronto Blue Jays VS. Boston Red Sox,04/27
+669,17,166,29,0,1,-5,5,10,2022 05 04 Boston Red Sox VS. Los Angeles Angels,05/04
+670,17,170,29,0,1,-8,0,8,2022 05 05 Boston Red Sox VS. Los Angeles Angels,05/05
+671,17,197,1,1,0,5,9,4,2022 05 10 Atlanta Braves VS. Boston Red Sox,05/10
+672,17,226,5,1,1,3,6,3,2022 05 16 Boston Red Sox VS. Houston Astros,05/16
+673,17,228,5,0,1,-9,4,13,2022 05 17 Boston Red Sox VS. Houston Astros,05/17
+674,17,242,20,1,1,6,12,6,2022 05 19 Boston Red Sox VS. Seattle Mariners,05/19
+675,17,282,28,1,1,2,5,3,2022 05 28 Boston Red Sox VS. Baltimore Orioles,05/28
+676,17,339,29,1,0,1,1,0,2022 06 06 Los Angeles Angels VS. Boston Red Sox,06/06
+677,17,347,29,1,0,1,1,0,2022 06 08 Los Angeles Angels VS. Boston Red Sox,06/08
+678,17,359,29,0,0,-3,2,5,2022 06 09 Los Angeles Angels VS. Boston Red Sox,06/09
+679,17,412,8,0,1,-9,2,11,2022 06 18 Boston Red Sox VS. St. Louis Cardinals,06/18
+680,17,420,8,1,1,2,6,4,2022 06 19 Boston Red Sox VS. St. Louis Cardinals,06/19
+681,17,436,11,1,1,4,6,2,2022 06 22 Boston Red Sox VS. Detroit Tigers,06/22
+682,17,473,14,0,0,-5,2,7,2022 06 27 Toronto Blue Jays VS. Boston Red Sox,06/27
+683,17,485,14,1,0,1,6,5,2022 06 29 Toronto Blue Jays VS. Boston Red Sox,06/29
+684,17,497,26,0,0,-1,5,6,2022 07 01 Chicago Cubs VS. Boston Red Sox,07/01
+685,17,505,26,0,0,-2,1,3,2022 07 02 Chicago Cubs VS. Boston Red Sox,07/02
+686,17,526,9,0,1,-4,4,8,2022 07 05 Boston Red Sox VS. Tampa Bay Rays,07/05
+687,17,544,19,0,1,-1,5,6,2022 07 07 Boston Red Sox VS. New York Yankees,07/07
+688,17,554,19,0,1,-7,5,12,2022 07 08 Boston Red Sox VS. New York Yankees,07/08
+689,17,558,19,1,1,1,6,5,2022 07 09 Boston Red Sox VS. New York Yankees,07/09
+690,17,570,19,1,1,5,11,6,2022 07 10 Boston Red Sox VS. New York Yankees,07/10
+691,17,599,9,0,0,-1,4,5,2022 07 14 Tampa Bay Rays VS. Boston Red Sox,07/14
+692,17,601,19,1,0,1,5,4,2022 07 15 New York Yankees VS. Boston Red Sox,07/15
+693,17,611,19,0,0,-13,1,14,2022 07 16 New York Yankees VS. Boston Red Sox,07/16
+694,17,615,19,0,0,-11,2,13,2022 07 17 New York Yankees VS. Boston Red Sox,07/17
+695,17,668,2,0,1,-5,4,9,2022 07 30 Boston Red Sox VS. Milwaukee Brewers,07/30
+696,17,680,2,1,1,5,7,2,2022 07 31 Boston Red Sox VS. Milwaukee Brewers,07/31
+697,17,687,5,1,0,1,3,2,2022 08 01 Houston Astros VS. Boston Red Sox,08/01
+698,17,738,1,0,1,-2,7,9,2022 08 09 Boston Red Sox VS. Atlanta Braves,08/09
+699,17,752,19,1,1,1,3,2,2022 08 12 Boston Red Sox VS. New York Yankees,08/12
+700,17,756,19,0,1,-1,2,3,2022 08 13 Boston Red Sox VS. New York Yankees,08/13
+701,17,766,19,1,1,3,3,0,2022 08 14 Boston Red Sox VS. New York Yankees,08/14
+702,17,797,27,0,0,-6,2,8,2022 08 18 Pittsburgh Pirates VS. Boston Red Sox,08/18
+703,17,819,28,0,0,-2,3,5,2022 08 21 Baltimore Orioles VS. Boston Red Sox,08/21
+704,17,844,14,0,1,-1,5,6,2022 08 25 Boston Red Sox VS. Toronto Blue Jays,08/25
+705,17,858,9,1,1,4,5,1,2022 08 27 Boston Red Sox VS. Tampa Bay Rays,08/27
+706,17,894,25,1,1,1,9,8,2022 09 01 Boston Red Sox VS. Texas Rangers,09/01
+707,17,900,25,1,1,8,9,1,2022 09 02 Boston Red Sox VS. Texas Rangers,09/02
+708,17,904,25,1,1,2,5,3,2022 09 03 Boston Red Sox VS. Texas Rangers,09/03
+709,17,912,25,1,1,3,5,2,2022 09 04 Boston Red Sox VS. Texas Rangers,09/04
+710,17,927,9,0,0,-1,3,4,2022 09 05 Tampa Bay Rays VS. Boston Red Sox,09/05
+711,17,976,19,0,1,-1,6,7,2022 09 13 Boston Red Sox VS. New York Yankees,09/13
+712,17,1049,19,0,0,-1,4,5,2022 09 22 New York Yankees VS. Boston Red Sox,09/22
+713,17,1061,19,0,0,-2,5,7,2022 09 24 New York Yankees VS. Boston Red Sox,09/24
+714,17,1067,19,0,0,-2,0,2,2022 09 25 New York Yankees VS. Boston Red Sox,09/25
+715,17,1109,14,0,0,-9,0,9,2022 09 30 Toronto Blue Jays VS. Boston Red Sox,09/30
+716,17,1125,14,0,0,-3,3,6,2022 10 02 Toronto Blue Jays VS. Boston Red Sox,10/02
+717,17,1126,9,1,1,1,4,3,2022 10 03 Boston Red Sox VS. Tampa Bay Rays,10/03
+718,18,6,7,1,1,4,9,5,2022 04 08 Philadelphia Phillies VS. Oakland Athletics,04/08
+719,18,26,4,1,1,1,5,4,2022 04 11 Philadelphia Phillies VS. New York Mets,04/11
+720,18,30,4,0,1,-2,0,2,2022 04 12 Philadelphia Phillies VS. New York Mets,04/12
+721,18,89,16,1,0,3,9,6,2022 04 20 Colorado Rockies VS. Philadelphia Phillies,04/20
+722,18,120,2,0,1,-1,0,1,2022 04 24 Philadelphia Phillies VS. Milwaukee Brewers,04/24
+723,18,144,16,1,1,6,7,1,2022 04 28 Philadelphia Phillies VS. Colorado Rockies,04/28
+724,18,153,4,1,0,3,4,1,2022 04 30 New York Mets VS. Philadelphia Phillies,04/30
+725,18,155,4,0,0,-4,6,10,2022 05 01 New York Mets VS. Philadelphia Phillies,05/01
+726,18,174,4,0,1,-1,7,8,2022 05 05 Philadelphia Phillies VS. New York Mets,05/05
+727,18,209,20,1,0,2,4,2,2022 05 11 Seattle Mariners VS. Philadelphia Phillies,05/11
+728,18,221,6,1,0,5,8,3,2022 05 14 Los Angeles Dodgers VS. Philadelphia Phillies,05/14
+729,18,244,21,0,1,-2,0,2,2022 05 19 Philadelphia Phillies VS. San Diego Padres,05/19
+730,18,256,6,1,1,1,4,3,2022 05 22 Philadelphia Phillies VS. Los Angeles Dodgers,05/22
+731,18,265,1,0,0,-4,4,8,2022 05 25 Atlanta Braves VS. Philadelphia Phillies,05/25
+732,18,291,4,0,0,-6,2,8,2022 05 28 New York Mets VS. Philadelphia Phillies,05/28
+733,18,293,4,0,0,-1,4,5,2022 05 29 New York Mets VS. Philadelphia Phillies,05/29
+734,18,302,22,0,1,-1,4,5,2022 05 30 Philadelphia Phillies VS. San Francisco Giants,05/30
+735,18,330,29,1,1,5,7,2,2022 06 04 Philadelphia Phillies VS. Los Angeles Angels,06/04
+736,18,334,29,1,1,2,9,7,2022 06 05 Philadelphia Phillies VS. Los Angeles Angels,06/05
+737,18,363,2,1,0,5,8,3,2022 06 09 Milwaukee Brewers VS. Philadelphia Phillies,06/09
+738,18,400,3,1,1,2,3,1,2022 06 15 Philadelphia Phillies VS. Miami Marlins,06/15
+739,18,482,1,0,1,-3,1,4,2022 06 29 Philadelphia Phillies VS. Atlanta Braves,06/29
+740,18,492,1,1,1,10,14,4,2022 06 30 Philadelphia Phillies VS. Atlanta Braves,06/30
+741,18,500,8,1,1,2,5,3,2022 07 01 Philadelphia Phillies VS. St. Louis Cardinals,07/01
+742,18,514,8,1,1,4,4,0,2022 07 03 Philadelphia Phillies VS. St. Louis Cardinals,07/03
+743,18,589,14,0,0,-6,2,8,2022 07 13 Toronto Blue Jays VS. Philadelphia Phillies,07/13
+744,18,640,1,1,1,2,6,4,2022 07 25 Philadelphia Phillies VS. Atlanta Braves,07/25
+745,18,660,1,1,1,5,7,2,2022 07 27 Philadelphia Phillies VS. Atlanta Braves,07/27
+746,18,673,27,1,0,1,2,1,2022 07 30 Pittsburgh Pirates VS. Philadelphia Phillies,07/30
+747,18,732,12,1,1,12,13,1,2022 08 07 Philadelphia Phillies VS. Washington Nationals,08/07
+748,18,750,3,0,1,-3,0,3,2022 08 11 Philadelphia Phillies VS. Miami Marlins,08/11
+749,18,769,4,0,0,-6,0,6,2022 08 14 New York Mets VS. Philadelphia Phillies,08/14
+750,18,814,4,1,1,3,4,1,2022 08 20 Philadelphia Phillies VS. New York Mets,08/20
+751,18,875,24,0,0,-6,7,13,2022 08 29 Arizona Diamondbacks VS. Philadelphia Phillies,08/29
+752,18,911,22,0,0,-1,4,5,2022 09 03 San Francisco Giants VS. Philadelphia Phillies,09/03
+753,18,1007,1,0,0,-1,3,4,2022 09 17 Atlanta Braves VS. Philadelphia Phillies,09/17
+754,18,1015,1,0,0,-3,2,5,2022 09 18 Atlanta Braves VS. Philadelphia Phillies,09/18
+755,18,1050,1,1,1,1,1,0,2022 09 22 Philadelphia Phillies VS. Atlanta Braves,09/22
+756,18,1070,1,0,1,-1,7,8,2022 09 25 Philadelphia Phillies VS. Atlanta Braves,09/25
+757,18,1091,26,0,0,-2,0,2,2022 09 29 Chicago Cubs VS. Philadelphia Phillies,09/29
+758,18,1133,5,0,0,-10,0,10,2022 10 04 Houston Astros VS. Philadelphia Phillies,10/04
+759,18,1141,8,1,0,3,6,3,2022 10 07 St. Louis Cardinals VS. Philadelphia Phillies,10/07
+760,18,1149,8,1,0,2,2,0,2022 10 08 St. Louis Cardinals VS. Philadelphia Phillies,10/08
+761,18,1155,1,1,0,1,7,6,2022 10 11 Atlanta Braves VS. Philadelphia Phillies,10/11
+762,18,1163,1,0,0,-3,0,3,2022 10 12 Atlanta Braves VS. Philadelphia Phillies,10/12
+763,18,1170,1,1,1,8,9,1,2022 10 14 Philadelphia Phillies VS. Atlanta Braves,10/14
+764,18,1176,1,1,1,5,8,3,2022 10 15 Philadelphia Phillies VS. Atlanta Braves,10/15
+765,18,1187,21,1,0,2,2,0,2022 10 18 San Diego Padres VS. Philadelphia Phillies,10/18
+766,18,1191,21,0,0,-3,5,8,2022 10 19 San Diego Padres VS. Philadelphia Phillies,10/19
+767,18,1194,21,1,1,2,4,2,2022 10 21 Philadelphia Phillies VS. San Diego Padres,10/21
+768,18,1198,21,1,1,4,10,6,2022 10 22 Philadelphia Phillies VS. San Diego Padres,10/22
+769,18,1202,21,1,1,1,4,3,2022 10 23 Philadelphia Phillies VS. San Diego Padres,10/23
+770,18,1205,5,1,0,1,6,5,2022 10 28 Houston Astros VS. Philadelphia Phillies,10/28
+771,18,1207,5,0,0,-3,2,5,2022 10 29 Houston Astros VS. Philadelphia Phillies,10/29
+772,18,1208,5,1,1,7,7,0,2022 11 01 Philadelphia Phillies VS. Houston Astros,11/01
+773,18,1210,5,0,1,-5,0,5,2022 11 02 Philadelphia Phillies VS. Houston Astros,11/02
+774,18,1212,5,0,1,-1,2,3,2022 11 03 Philadelphia Phillies VS. Houston Astros,11/03
+775,18,1215,5,0,0,-3,1,4,2022 11 05 Houston Astros VS. Philadelphia Phillies,11/05
+776,19,4,17,1,1,1,6,5,2022 04 08 New York Yankees VS. Boston Red Sox,04/08
+777,19,12,17,1,1,2,4,2,2022 04 09 New York Yankees VS. Boston Red Sox,04/09
+778,19,18,17,0,1,-1,3,4,2022 04 10 New York Yankees VS. Boston Red Sox,04/10
+779,19,44,14,0,1,-2,4,6,2022 04 13 New York Yankees VS. Toronto Blue Jays,04/13
+780,19,50,14,1,1,3,3,0,2022 04 14 New York Yankees VS. Toronto Blue Jays,04/14
+781,19,69,28,0,0,-5,0,5,2022 04 17 Baltimore Orioles VS. New York Yankees,04/17
+782,19,99,11,0,0,-3,0,3,2022 04 21 Detroit Tigers VS. New York Yankees,04/21
+783,19,112,15,1,1,1,5,4,2022 04 23 New York Yankees VS. Cleveland Guardians,04/23
+784,19,118,15,1,1,8,10,2,2022 04 24 New York Yankees VS. Cleveland Guardians,04/24
+785,19,136,28,1,1,3,5,2,2022 04 27 New York Yankees VS. Baltimore Orioles,04/27
+786,19,165,14,1,0,8,9,1,2022 05 03 Toronto Blue Jays VS. New York Yankees,05/03
+787,19,194,25,1,1,1,1,0,2022 05 09 New York Yankees VS. Texas Rangers,05/09
+788,19,206,14,1,1,2,5,3,2022 05 11 New York Yankees VS. Toronto Blue Jays,05/11
+789,19,211,0,1,0,8,15,7,2022 05 12 Chicago White Sox VS. New York Yankees,05/12
+790,19,219,0,0,0,-1,2,3,2022 05 14 Chicago White Sox VS. New York Yankees,05/14
+791,19,250,0,1,1,2,7,5,2022 05 21 New York Yankees VS. Chicago White Sox,05/21
+792,19,254,0,0,1,-5,0,5,2022 05 22 New York Yankees VS. Chicago White Sox,05/22
+793,19,268,28,1,1,2,2,0,2022 05 25 New York Yankees VS. Baltimore Orioles,05/25
+794,19,279,9,1,0,5,7,2,2022 05 26 Tampa Bay Rays VS. New York Yankees,05/26
+795,19,295,9,0,0,-2,2,4,2022 05 29 Tampa Bay Rays VS. New York Yankees,05/29
+796,19,306,29,1,1,8,9,1,2022 05 31 New York Yankees VS. Los Angeles Angels,05/31
+797,19,316,29,1,1,5,6,1,2022 06 02 New York Yankees VS. Los Angeles Angels,06/02
+798,19,328,11,1,1,3,3,0,2022 06 04 New York Yankees VS. Detroit Tigers,06/04
+799,19,349,10,0,0,-7,1,8,2022 06 08 Minnesota Twins VS. New York Yankees,06/08
+800,19,365,10,1,0,3,10,7,2022 06 09 Minnesota Twins VS. New York Yankees,06/09
+801,19,370,26,1,1,8,8,0,2022 06 11 New York Yankees VS. Chicago Cubs,06/11
+802,19,380,26,1,1,14,18,4,2022 06 12 New York Yankees VS. Chicago Cubs,06/12
+803,19,390,9,1,1,2,2,0,2022 06 14 New York Yankees VS. Tampa Bay Rays,06/14
+804,19,406,9,1,1,1,2,1,2022 06 16 New York Yankees VS. Tampa Bay Rays,06/16
+805,19,425,14,0,0,-1,9,10,2022 06 19 Toronto Blue Jays VS. New York Yankees,06/19
+806,19,448,5,1,1,1,7,6,2022 06 23 New York Yankees VS. Houston Astros,06/23
+807,19,458,5,0,1,-3,0,3,2022 06 25 New York Yankees VS. Houston Astros,06/25
+808,19,466,5,1,1,3,6,3,2022 06 26 New York Yankees VS. Houston Astros,06/26
+809,19,468,7,1,1,4,9,5,2022 06 27 New York Yankees VS. Oakland Athletics,06/27
+810,19,489,5,0,0,-1,1,2,2022 06 30 Houston Astros VS. New York Yankees,06/30
+811,19,513,15,0,0,-2,0,2,2022 07 03 Cleveland Guardians VS. New York Yankees,07/03
+812,19,545,17,1,0,1,6,5,2022 07 07 Boston Red Sox VS. New York Yankees,07/07
+813,19,555,17,1,0,7,12,5,2022 07 08 Boston Red Sox VS. New York Yankees,07/08
+814,19,559,17,0,0,-1,5,6,2022 07 09 Boston Red Sox VS. New York Yankees,07/09
+815,19,571,17,0,0,-5,6,11,2022 07 10 Boston Red Sox VS. New York Yankees,07/10
+816,19,600,17,0,1,-1,4,5,2022 07 15 New York Yankees VS. Boston Red Sox,07/15
+817,19,610,17,1,1,13,14,1,2022 07 16 New York Yankees VS. Boston Red Sox,07/16
+818,19,614,17,1,1,11,13,2,2022 07 17 New York Yankees VS. Boston Red Sox,07/17
+819,19,617,5,0,0,-1,2,3,2022 07 21 Houston Astros VS. New York Yankees,07/21
+820,19,649,4,0,0,-3,3,6,2022 07 26 New York Mets VS. New York Yankees,07/26
+821,19,659,4,0,0,-1,2,3,2022 07 27 New York Mets VS. New York Yankees,07/27
+822,19,682,13,0,1,-2,6,8,2022 07 31 New York Yankees VS. Kansas City Royals,07/31
+823,19,688,20,0,1,-2,6,8,2022 08 02 New York Yankees VS. Seattle Mariners,08/02
+824,19,698,20,0,1,-4,3,7,2022 08 03 New York Yankees VS. Seattle Mariners,08/03
+825,19,727,8,0,0,-1,0,1,2022 08 06 St. Louis Cardinals VS. New York Yankees,08/06
+826,19,737,20,1,0,5,9,4,2022 08 08 Seattle Mariners VS. New York Yankees,08/08
+827,19,753,17,0,0,-1,2,3,2022 08 12 Boston Red Sox VS. New York Yankees,08/12
+828,19,757,17,1,0,1,3,2,2022 08 13 Boston Red Sox VS. New York Yankees,08/13
+829,19,767,17,0,0,-3,0,3,2022 08 14 Boston Red Sox VS. New York Yankees,08/14
+830,19,778,9,0,1,-2,1,3,2022 08 16 New York Yankees VS. Tampa Bay Rays,08/16
+831,19,794,14,0,1,-7,2,9,2022 08 18 New York Yankees VS. Toronto Blue Jays,08/18
+832,19,810,14,0,1,-3,2,5,2022 08 20 New York Yankees VS. Toronto Blue Jays,08/20
+833,19,820,14,1,1,2,4,2,2022 08 21 New York Yankees VS. Toronto Blue Jays,08/21
+834,19,822,4,1,1,2,4,2,2022 08 22 New York Yankees VS. New York Mets,08/22
+835,19,832,4,1,1,2,4,2,2022 08 23 New York Yankees VS. New York Mets,08/23
+836,19,877,29,0,0,-1,3,4,2022 08 29 Los Angeles Angels VS. New York Yankees,08/29
+837,19,879,29,1,0,3,7,4,2022 08 30 Los Angeles Angels VS. New York Yankees,08/30
+838,19,903,9,0,0,-9,0,9,2022 09 02 Tampa Bay Rays VS. New York Yankees,09/02
+839,19,917,9,1,0,1,2,1,2022 09 04 Tampa Bay Rays VS. New York Yankees,09/04
+840,19,922,10,1,1,3,5,2,2022 09 05 New York Yankees VS. Minnesota Twins,09/05
+841,19,934,10,1,1,6,7,1,2022 09 07 New York Yankees VS. Minnesota Twins,09/07
+842,19,944,10,0,1,-1,3,4,2022 09 08 New York Yankees VS. Minnesota Twins,09/08
+843,19,958,9,1,1,7,10,3,2022 09 10 New York Yankees VS. Tampa Bay Rays,09/10
+844,19,964,9,1,1,6,10,4,2022 09 11 New York Yankees VS. Tampa Bay Rays,09/11
+845,19,977,17,1,0,1,7,6,2022 09 13 Boston Red Sox VS. New York Yankees,09/13
+846,19,1005,2,0,0,-1,6,7,2022 09 16 Milwaukee Brewers VS. New York Yankees,09/16
+847,19,1013,2,0,0,-3,1,4,2022 09 17 Milwaukee Brewers VS. New York Yankees,09/17
+848,19,1048,17,1,1,1,5,4,2022 09 22 New York Yankees VS. Boston Red Sox,09/22
+849,19,1060,17,1,1,2,7,5,2022 09 24 New York Yankees VS. Boston Red Sox,09/24
+850,19,1066,17,1,1,2,2,0,2022 09 25 New York Yankees VS. Boston Red Sox,09/25
+851,19,1075,14,0,0,-1,2,3,2022 09 26 Toronto Blue Jays VS. New York Yankees,09/26
+852,19,1083,14,1,0,3,5,2,2022 09 27 Toronto Blue Jays VS. New York Yankees,09/27
+853,19,1087,14,1,0,5,8,3,2022 09 28 Toronto Blue Jays VS. New York Yankees,09/28
+854,19,1106,28,0,1,-1,1,2,2022 09 30 New York Yankees VS. Baltimore Orioles,09/30
+855,19,1116,28,1,1,8,8,0,2022 10 01 New York Yankees VS. Baltimore Orioles,10/01
+856,19,1122,28,0,1,-2,1,3,2022 10 02 New York Yankees VS. Baltimore Orioles,10/02
+857,19,1131,25,1,0,2,3,1,2022 10 03 Texas Rangers VS. New York Yankees,10/03
+858,19,1135,25,1,0,1,5,4,2022 10 04 Texas Rangers VS. New York Yankees,10/04
+859,19,1160,15,1,1,3,4,1,2022 10 11 New York Yankees VS. Cleveland Guardians,10/11
+860,19,1168,15,0,1,-2,2,4,2022 10 14 New York Yankees VS. Cleveland Guardians,10/14
+861,19,1175,15,0,0,-1,5,6,2022 10 15 Cleveland Guardians VS. New York Yankees,10/15
+862,19,1183,15,1,0,2,4,2,2022 10 16 Cleveland Guardians VS. New York Yankees,10/16
+863,19,1184,15,1,1,4,5,1,2022 10 18 New York Yankees VS. Cleveland Guardians,10/18
+864,19,1189,5,0,0,-2,2,4,2022 10 19 Houston Astros VS. New York Yankees,10/19
+865,19,1193,5,0,0,-1,2,3,2022 10 20 Houston Astros VS. New York Yankees,10/20
+866,19,1196,5,0,1,-5,0,5,2022 10 22 New York Yankees VS. Houston Astros,10/22
+867,19,1200,5,0,1,-1,5,6,2022 10 23 New York Yankees VS. Houston Astros,10/23
+868,20,41,0,0,0,-2,4,6,2022 04 13 Chicago White Sox VS. Seattle Mariners,04/13
+869,20,74,5,1,1,5,7,2,2022 04 17 Seattle Mariners VS. Houston Astros,04/17
+870,20,102,25,0,1,-2,6,8,2022 04 21 Seattle Mariners VS. Texas Rangers,04/21
+871,20,149,9,0,0,-1,1,2,2022 04 28 Tampa Bay Rays VS. Seattle Mariners,04/28
+872,20,208,18,0,1,-2,2,4,2022 05 11 Seattle Mariners VS. Philadelphia Phillies,05/11
+873,20,243,17,0,0,-6,6,12,2022 05 19 Boston Red Sox VS. Seattle Mariners,05/19
+874,20,313,28,1,0,1,7,6,2022 06 02 Baltimore Orioles VS. Seattle Mariners,06/02
+875,20,402,10,0,1,-5,0,5,2022 06 15 Seattle Mariners VS. Minnesota Twins,06/15
+876,20,408,29,0,1,-3,1,4,2022 06 16 Seattle Mariners VS. Los Angeles Angels,06/16
+877,20,418,29,0,1,-2,2,4,2022 06 18 Seattle Mariners VS. Los Angeles Angels,06/18
+878,20,433,7,1,0,6,8,2,2022 06 21 Oakland Athletics VS. Seattle Mariners,06/21
+879,20,455,29,1,0,2,5,3,2022 06 25 Los Angeles Angels VS. Seattle Mariners,06/25
+880,20,470,28,0,1,-7,2,9,2022 06 27 Seattle Mariners VS. Baltimore Orioles,06/27
+881,20,508,7,1,1,1,2,1,2022 07 02 Seattle Mariners VS. Oakland Athletics,07/02
+882,20,533,21,1,0,4,6,2,2022 07 05 San Diego Padres VS. Seattle Mariners,07/05
+883,20,566,14,1,1,1,2,1,2022 07 09 Seattle Mariners VS. Toronto Blue Jays,07/09
+884,20,591,12,1,0,2,6,4,2022 07 13 Washington Nationals VS. Seattle Mariners,07/13
+885,20,624,5,0,1,-3,2,5,2022 07 22 Seattle Mariners VS. Houston Astros,07/22
+886,20,632,5,0,1,-2,1,3,2022 07 23 Seattle Mariners VS. Houston Astros,07/23
+887,20,642,25,1,1,1,4,3,2022 07 25 Seattle Mariners VS. Texas Rangers,07/25
+888,20,650,25,1,1,1,5,4,2022 07 26 Seattle Mariners VS. Texas Rangers,07/26
+889,20,689,19,1,0,2,8,6,2022 08 02 New York Yankees VS. Seattle Mariners,08/02
+890,20,699,19,1,0,4,7,3,2022 08 03 New York Yankees VS. Seattle Mariners,08/03
+891,20,724,29,1,1,1,2,1,2022 08 06 Seattle Mariners VS. Los Angeles Angels,08/06
+892,20,736,19,0,1,-5,4,9,2022 08 08 Seattle Mariners VS. New York Yankees,08/08
+893,20,763,25,0,0,-3,4,7,2022 08 13 Texas Rangers VS. Seattle Mariners,08/13
+894,20,777,29,1,0,6,8,2,2022 08 16 Los Angeles Angels VS. Seattle Mariners,08/16
+895,20,783,29,1,0,4,11,7,2022 08 17 Los Angeles Angels VS. Seattle Mariners,08/17
+896,20,813,7,0,0,-1,3,4,2022 08 20 Oakland Athletics VS. Seattle Mariners,08/20
+897,20,850,15,1,1,2,3,1,2022 08 25 Seattle Mariners VS. Cleveland Guardians,08/25
+898,20,862,15,0,1,-1,3,4,2022 08 27 Seattle Mariners VS. Cleveland Guardians,08/27
+899,20,909,15,1,0,4,4,0,2022 09 03 Cleveland Guardians VS. Seattle Mariners,09/03
+900,20,930,0,1,1,3,3,0,2022 09 06 Seattle Mariners VS. Chicago White Sox,09/06
+901,20,938,0,0,1,-3,6,9,2022 09 07 Seattle Mariners VS. Chicago White Sox,09/07
+902,20,982,21,0,1,-2,0,2,2022 09 13 Seattle Mariners VS. San Diego Padres,09/13
+903,20,990,21,1,1,5,6,1,2022 09 14 Seattle Mariners VS. San Diego Padres,09/14
+904,20,1025,29,1,0,8,9,1,2022 09 19 Los Angeles Angels VS. Seattle Mariners,09/19
+905,20,1033,7,0,0,-3,1,4,2022 09 20 Oakland Athletics VS. Seattle Mariners,09/20
+906,20,1041,7,0,0,-1,1,2,2022 09 21 Oakland Athletics VS. Seattle Mariners,09/21
+907,20,1118,7,1,1,4,5,1,2022 10 01 Seattle Mariners VS. Oakland Athletics,10/01
+908,20,1143,14,1,0,4,4,0,2022 10 07 Toronto Blue Jays VS. Seattle Mariners,10/07
+909,20,1151,14,1,0,1,10,9,2022 10 08 Toronto Blue Jays VS. Seattle Mariners,10/08
+910,20,1157,5,0,0,-1,7,8,2022 10 11 Houston Astros VS. Seattle Mariners,10/11
+911,20,1167,5,0,0,-2,2,4,2022 10 13 Houston Astros VS. Seattle Mariners,10/13
+912,20,1180,5,0,1,-1,0,1,2022 10 15 Seattle Mariners VS. Houston Astros,10/15
+913,21,29,22,1,0,2,4,2,2022 04 11 San Francisco Giants VS. San Diego Padres,04/11
+914,21,33,22,0,0,-11,2,13,2022 04 12 San Francisco Giants VS. San Diego Padres,04/12
+915,21,49,22,0,0,-1,1,2,2022 04 13 San Francisco Giants VS. San Diego Padres,04/13
+916,21,64,1,0,1,-3,2,5,2022 04 16 San Diego Padres VS. Atlanta Braves,04/16
+917,21,72,1,1,1,1,2,1,2022 04 17 San Diego Padres VS. Atlanta Braves,04/17
+918,21,114,6,1,1,1,3,2,2022 04 23 San Diego Padres VS. Los Angeles Dodgers,04/23
+919,21,122,6,0,1,-8,2,10,2022 04 24 San Diego Padres VS. Los Angeles Dodgers,04/24
+920,21,200,26,1,1,1,5,4,2022 05 10 San Diego Padres VS. Chicago Cubs,05/10
+921,21,217,1,0,0,-1,5,6,2022 05 14 Atlanta Braves VS. San Diego Padres,05/14
+922,21,245,18,1,0,2,2,0,2022 05 19 Philadelphia Phillies VS. San Diego Padres,05/19
+923,21,253,22,1,0,1,2,1,2022 05 21 San Francisco Giants VS. San Diego Padres,05/21
+924,21,262,2,0,1,-3,1,4,2022 05 24 San Diego Padres VS. Milwaukee Brewers,05/24
+925,21,311,8,0,0,-3,2,5,2022 06 01 St. Louis Cardinals VS. San Diego Padres,06/01
+926,21,327,2,1,0,4,4,0,2022 06 04 Milwaukee Brewers VS. San Diego Padres,06/04
+927,21,340,4,0,1,-6,5,11,2022 06 06 San Diego Padres VS. New York Mets,06/06
+928,21,352,4,1,1,11,13,2,2022 06 08 San Diego Padres VS. New York Mets,06/08
+929,21,372,16,0,1,-4,2,6,2022 06 11 San Diego Padres VS. Colorado Rockies,06/11
+930,21,383,26,1,0,3,4,1,2022 06 13 Chicago Cubs VS. San Diego Padres,06/13
+931,21,434,24,1,1,1,3,2,2022 06 21 San Diego Padres VS. Arizona Diamondbacks,06/21
+932,21,491,6,0,0,-2,1,3,2022 06 30 Los Angeles Dodgers VS. San Diego Padres,06/30
+933,21,507,6,0,0,-5,2,7,2022 07 02 Los Angeles Dodgers VS. San Diego Padres,07/02
+934,21,532,20,0,1,-4,2,6,2022 07 05 San Diego Padres VS. Seattle Mariners,07/05
+935,21,564,22,0,1,-2,1,3,2022 07 09 San Diego Padres VS. San Francisco Giants,07/09
+936,21,593,16,0,0,-3,5,8,2022 07 14 Colorado Rockies VS. San Diego Padres,07/14
+937,21,635,4,0,0,-3,5,8,2022 07 24 New York Mets VS. San Diego Padres,07/24
+938,21,637,11,0,0,-8,4,12,2022 07 25 Detroit Tigers VS. San Diego Padres,07/25
+939,21,655,11,0,0,-1,3,4,2022 07 27 Detroit Tigers VS. San Diego Padres,07/27
+940,21,666,10,1,1,9,10,1,2022 07 29 San Diego Padres VS. Minnesota Twins,07/29
+941,21,674,10,0,1,-3,4,7,2022 07 30 San Diego Padres VS. Minnesota Twins,07/30
+942,21,700,16,1,1,8,9,1,2022 08 03 San Diego Padres VS. Colorado Rockies,08/03
+943,21,710,16,0,1,-4,3,7,2022 08 04 San Diego Padres VS. Colorado Rockies,08/04
+944,21,719,6,0,0,-7,1,8,2022 08 05 Los Angeles Dodgers VS. San Diego Padres,08/05
+945,21,731,6,0,0,-4,0,4,2022 08 07 Los Angeles Dodgers VS. San Diego Padres,08/07
+946,21,734,22,0,1,-1,0,1,2022 08 08 San Diego Padres VS. San Francisco Giants,08/08
+947,21,785,3,1,0,7,10,3,2022 08 17 Miami Marlins VS. San Diego Padres,08/17
+948,21,802,12,0,1,-3,3,6,2022 08 19 San Diego Padres VS. Washington Nationals,08/19
+949,21,842,15,0,1,-7,0,7,2022 08 24 San Diego Padres VS. Cleveland Guardians,08/24
+950,21,883,22,1,0,1,4,3,2022 08 30 San Francisco Giants VS. San Diego Padres,08/30
+951,21,915,6,0,0,-5,4,9,2022 09 04 Los Angeles Dodgers VS. San Diego Padres,09/04
+952,21,936,24,1,1,3,6,3,2022 09 07 San Diego Padres VS. Arizona Diamondbacks,09/07
+953,21,983,20,1,0,2,2,0,2022 09 13 Seattle Mariners VS. San Diego Padres,09/13
+954,21,991,20,0,0,-5,1,6,2022 09 14 Seattle Mariners VS. San Diego Padres,09/14
+955,21,1034,8,1,1,5,5,0,2022 09 20 San Diego Padres VS. St. Louis Cardinals,09/20
+956,21,1042,8,1,1,1,1,0,2022 09 21 San Diego Padres VS. St. Louis Cardinals,09/21
+957,21,1100,6,0,1,-3,2,5,2022 09 29 San Diego Padres VS. Los Angeles Dodgers,09/29
+958,21,1139,4,1,0,6,7,1,2022 10 07 New York Mets VS. San Diego Padres,10/07
+959,21,1147,4,0,0,-4,3,7,2022 10 08 New York Mets VS. San Diego Padres,10/08
+960,21,1153,4,1,0,6,6,0,2022 10 09 New York Mets VS. San Diego Padres,10/09
+961,21,1159,6,0,0,-2,3,5,2022 10 11 Los Angeles Dodgers VS. San Diego Padres,10/11
+962,21,1165,6,1,0,2,5,3,2022 10 12 Los Angeles Dodgers VS. San Diego Padres,10/12
+963,21,1172,6,1,1,1,2,1,2022 10 14 San Diego Padres VS. Los Angeles Dodgers,10/14
+964,21,1178,6,1,1,2,5,3,2022 10 15 San Diego Padres VS. Los Angeles Dodgers,10/15
+965,21,1186,18,0,1,-2,0,2,2022 10 18 San Diego Padres VS. Philadelphia Phillies,10/18
+966,21,1190,18,1,1,3,8,5,2022 10 19 San Diego Padres VS. Philadelphia Phillies,10/19
+967,21,1195,18,0,0,-2,2,4,2022 10 21 Philadelphia Phillies VS. San Diego Padres,10/21
+968,21,1199,18,0,0,-4,6,10,2022 10 22 Philadelphia Phillies VS. San Diego Padres,10/22
+969,21,1203,18,0,0,-1,3,4,2022 10 23 Philadelphia Phillies VS. San Diego Padres,10/23
+970,22,28,21,0,1,-2,2,4,2022 04 11 San Francisco Giants VS. San Diego Padres,04/11
+971,22,32,21,1,1,11,13,2,2022 04 12 San Francisco Giants VS. San Diego Padres,04/12
+972,22,48,21,1,1,1,2,1,2022 04 13 San Francisco Giants VS. San Diego Padres,04/13
+973,22,85,4,0,0,-1,4,5,2022 04 19 New York Mets VS. San Francisco Giants,04/19
+974,22,93,4,1,0,3,5,2,2022 04 20 New York Mets VS. San Francisco Giants,04/20
+975,22,117,12,1,0,3,5,2,2022 04 23 Washington Nationals VS. San Francisco Giants,04/23
+976,22,132,7,1,1,6,8,2,2022 04 26 San Francisco Giants VS. Oakland Athletics,04/26
+977,22,161,6,0,0,-2,1,3,2022 05 03 Los Angeles Dodgers VS. San Francisco Giants,05/03
+978,22,176,8,0,1,-6,1,7,2022 05 05 San Francisco Giants VS. St. Louis Cardinals,05/05
+979,22,184,8,1,1,6,13,7,2022 05 07 San Francisco Giants VS. St. Louis Cardinals,05/07
+980,22,223,8,0,0,-9,6,15,2022 05 15 St. Louis Cardinals VS. San Francisco Giants,05/15
+981,22,252,21,0,1,-1,1,2,2022 05 21 San Francisco Giants VS. San Diego Padres,05/21
+982,22,272,4,1,1,6,9,3,2022 05 25 San Francisco Giants VS. New York Mets,05/25
+983,22,303,18,1,0,1,5,4,2022 05 30 Philadelphia Phillies VS. San Francisco Giants,05/30
+984,22,374,6,1,1,1,3,2,2022 06 11 San Francisco Giants VS. Los Angeles Dodgers,06/11
+985,22,431,1,1,0,2,12,10,2022 06 21 Atlanta Braves VS. San Francisco Giants,06/21
+986,22,443,1,0,0,-1,6,7,2022 06 23 Atlanta Braves VS. San Francisco Giants,06/23
+987,22,478,11,1,1,1,4,3,2022 06 28 San Francisco Giants VS. Detroit Tigers,06/28
+988,22,565,21,1,0,2,3,1,2022 07 09 San Diego Padres VS. San Francisco Giants,07/09
+989,22,580,24,1,1,13,13,0,2022 07 12 San Francisco Giants VS. Arizona Diamondbacks,07/12
+990,22,612,2,1,1,1,2,1,2022 07 16 San Francisco Giants VS. Milwaukee Brewers,07/16
+991,22,619,6,0,0,-3,6,9,2022 07 21 Los Angeles Dodgers VS. San Francisco Giants,07/21
+992,22,623,6,0,0,-4,1,5,2022 07 22 Los Angeles Dodgers VS. San Francisco Giants,07/22
+993,22,629,6,0,0,-2,2,4,2022 07 23 Los Angeles Dodgers VS. San Francisco Giants,07/23
+994,22,653,24,0,0,-2,3,5,2022 07 27 Arizona Diamondbacks VS. San Francisco Giants,07/27
+995,22,684,26,1,1,4,4,0,2022 07 31 San Francisco Giants VS. Chicago Cubs,07/31
+996,22,690,6,0,1,-4,5,9,2022 08 02 San Francisco Giants VS. Los Angeles Dodgers,08/02
+997,22,702,6,0,1,-3,0,3,2022 08 03 San Francisco Giants VS. Los Angeles Dodgers,08/03
+998,22,712,6,0,1,-2,3,5,2022 08 04 San Francisco Giants VS. Los Angeles Dodgers,08/04
+999,22,735,21,1,0,1,1,0,2022 08 08 San Diego Padres VS. San Francisco Giants,08/08
+1000,22,780,24,1,1,1,2,1,2022 08 16 San Francisco Giants VS. Arizona Diamondbacks,08/16
+1001,22,837,11,0,0,-5,1,6,2022 08 24 Detroit Tigers VS. San Francisco Giants,08/24
+1002,22,855,10,0,0,-9,0,9,2022 08 26 Minnesota Twins VS. San Francisco Giants,08/26
+1003,22,861,10,0,0,-1,2,3,2022 08 27 Minnesota Twins VS. San Francisco Giants,08/27
+1004,22,882,21,0,1,-1,3,4,2022 08 30 San Francisco Giants VS. San Diego Padres,08/30
+1005,22,910,18,1,1,1,5,4,2022 09 03 San Francisco Giants VS. Philadelphia Phillies,09/03
+1006,22,929,6,0,0,-3,3,6,2022 09 06 Los Angeles Dodgers VS. San Francisco Giants,09/06
+1007,22,933,6,0,0,-4,3,7,2022 09 07 Los Angeles Dodgers VS. San Francisco Giants,09/07
+1008,22,943,2,0,0,-1,1,2,2022 09 08 Milwaukee Brewers VS. San Francisco Giants,09/08
+1009,22,949,26,0,0,-2,2,4,2022 09 09 Chicago Cubs VS. San Francisco Giants,09/09
+1010,22,963,26,1,0,2,4,2,2022 09 11 Chicago Cubs VS. San Francisco Giants,09/11
+1011,22,974,1,1,1,1,3,2,2022 09 12 San Francisco Giants VS. Atlanta Braves,09/12
+1012,22,980,1,0,1,-4,1,5,2022 09 13 San Francisco Giants VS. Atlanta Braves,09/13
+1013,22,1018,6,0,1,-1,3,4,2022 09 18 San Francisco Giants VS. Los Angeles Dodgers,09/18
+1014,23,1,1,1,0,3,6,3,2022 04 07 Atlanta Braves VS. Cincinnati Reds,04/07
+1015,23,9,1,0,0,-1,1,2,2022 04 09 Atlanta Braves VS. Cincinnati Reds,04/09
+1016,23,42,15,0,1,-4,3,7,2022 04 13 Cincinnati Reds VS. Cleveland Guardians,04/13
+1017,23,59,6,0,0,-3,2,5,2022 04 16 Los Angeles Dodgers VS. Cincinnati Reds,04/16
+1018,23,180,27,1,1,7,9,2,2022 05 07 Cincinnati Reds VS. Pittsburgh Pirates,05/07
+1019,23,202,2,1,1,3,14,11,2022 05 11 Cincinnati Reds VS. Milwaukee Brewers,05/11
+1020,23,260,26,0,1,-7,4,11,2022 05 24 Cincinnati Reds VS. Chicago Cubs,05/24
+1021,23,274,26,1,1,15,20,5,2022 05 26 Cincinnati Reds VS. Chicago Cubs,05/26
+1022,23,498,1,0,1,-8,1,9,2022 07 01 Cincinnati Reds VS. Atlanta Braves,07/01
+1023,23,546,27,0,1,-2,2,4,2022 07 07 Cincinnati Reds VS. Pittsburgh Pirates,07/07
+1024,23,560,9,1,1,1,5,4,2022 07 09 Cincinnati Reds VS. Tampa Bay Rays,07/09
+1025,23,662,3,0,1,-1,6,7,2022 07 28 Cincinnati Reds VS. Miami Marlins,07/28
+1026,23,723,2,1,0,2,7,5,2022 08 06 Milwaukee Brewers VS. Cincinnati Reds,08/06
+1027,23,743,4,0,0,-8,2,10,2022 08 10 New York Mets VS. Cincinnati Reds,08/10
+1028,23,744,26,0,1,-2,2,4,2022 08 11 Cincinnati Reds VS. Chicago Cubs,08/11
+1029,23,941,26,1,0,1,4,3,2022 09 08 Chicago Cubs VS. Cincinnati Reds,09/08
+1030,23,978,27,0,1,-5,1,6,2022 09 13 Cincinnati Reds VS. Pittsburgh Pirates,09/13
+1031,23,1064,2,1,1,1,2,1,2022 09 25 Cincinnati Reds VS. Milwaukee Brewers,09/25
+1032,23,1085,27,0,0,-1,3,4,2022 09 28 Pittsburgh Pirates VS. Cincinnati Reds,09/28
+1033,23,1105,26,0,0,-5,1,6,2022 09 30 Chicago Cubs VS. Cincinnati Reds,09/30
+1034,23,1113,26,0,0,-1,1,2,2022 10 01 Chicago Cubs VS. Cincinnati Reds,10/01
+1035,24,36,5,1,1,1,3,2,2022 04 13 Arizona Diamondbacks VS. Houston Astros,04/13
+1036,24,55,4,0,0,-7,3,10,2022 04 15 New York Mets VS. Arizona Diamondbacks,04/15
+1037,24,63,4,1,0,1,3,2,2022 04 16 New York Mets VS. Arizona Diamondbacks,04/16
+1038,24,106,4,1,1,3,5,2,2022 04 23 Arizona Diamondbacks VS. New York Mets,04/23
+1039,24,130,6,1,1,2,5,3,2022 04 26 Arizona Diamondbacks VS. Los Angeles Dodgers,04/26
+1040,24,147,8,0,0,-5,3,8,2022 04 28 St. Louis Cardinals VS. Arizona Diamondbacks,04/28
+1041,24,231,6,0,0,-1,6,7,2022 05 17 Los Angeles Dodgers VS. Arizona Diamondbacks,05/17
+1042,24,237,6,0,0,-2,3,5,2022 05 18 Los Angeles Dodgers VS. Arizona Diamondbacks,05/18
+1043,24,247,26,1,0,4,10,6,2022 05 20 Chicago Cubs VS. Arizona Diamondbacks,05/20
+1044,24,280,6,0,1,-1,2,3,2022 05 28 Arizona Diamondbacks VS. Los Angeles Dodgers,05/28
+1045,24,410,10,0,1,-10,1,11,2022 06 18 Arizona Diamondbacks VS. Minnesota Twins,06/18
+1046,24,435,21,0,0,-1,2,3,2022 06 21 San Diego Padres VS. Arizona Diamondbacks,06/21
+1047,24,581,22,0,0,-13,0,13,2022 07 12 San Francisco Giants VS. Arizona Diamondbacks,07/12
+1048,24,652,22,1,1,2,5,3,2022 07 27 Arizona Diamondbacks VS. San Francisco Giants,07/27
+1049,24,714,16,1,1,1,6,5,2022 08 05 Arizona Diamondbacks VS. Colorado Rockies,08/05
+1050,24,781,22,0,0,-1,1,2,2022 08 16 San Francisco Giants VS. Arizona Diamondbacks,08/16
+1051,24,831,13,1,0,4,7,3,2022 08 23 Kansas City Royals VS. Arizona Diamondbacks,08/23
+1052,24,874,18,1,1,6,13,7,2022 08 29 Arizona Diamondbacks VS. Philadelphia Phillies,08/29
+1053,24,937,21,0,0,-3,3,6,2022 09 07 San Diego Padres VS. Arizona Diamondbacks,09/07
+1054,24,968,6,0,1,-6,0,6,2022 09 12 Arizona Diamondbacks VS. Los Angeles Dodgers,09/12
+1055,24,1047,6,0,0,-1,2,3,2022 09 22 Los Angeles Dodgers VS. Arizona Diamondbacks,09/22
+1056,25,21,14,1,0,6,12,6,2022 04 10 Toronto Blue Jays VS. Texas Rangers,04/10
+1057,25,52,29,1,1,5,10,5,2022 04 14 Texas Rangers VS. Los Angeles Angels,04/14
+1058,25,66,29,0,1,-5,2,7,2022 04 16 Texas Rangers VS. Los Angeles Angels,04/16
+1059,25,103,20,1,0,2,8,6,2022 04 21 Seattle Mariners VS. Texas Rangers,04/21
+1060,25,195,19,0,0,-1,0,1,2022 05 09 New York Yankees VS. Texas Rangers,05/09
+1061,25,318,9,0,1,-2,1,3,2022 06 02 Texas Rangers VS. Tampa Bay Rays,06/02
+1062,25,384,5,1,1,2,5,3,2022 06 13 Texas Rangers VS. Houston Astros,06/13
+1063,25,405,11,1,0,2,3,1,2022 06 16 Detroit Tigers VS. Texas Rangers,06/16
+1064,25,415,11,0,0,-7,7,14,2022 06 18 Detroit Tigers VS. Texas Rangers,06/18
+1065,25,462,12,1,1,1,3,2,2022 06 25 Texas Rangers VS. Washington Nationals,06/25
+1066,25,631,7,0,0,-2,1,3,2022 07 23 Oakland Athletics VS. Texas Rangers,07/23
+1067,25,643,20,0,0,-1,3,4,2022 07 25 Seattle Mariners VS. Texas Rangers,07/25
+1068,25,651,20,0,0,-1,4,5,2022 07 26 Seattle Mariners VS. Texas Rangers,07/26
+1069,25,665,29,1,0,5,7,2,2022 07 29 Los Angeles Angels VS. Texas Rangers,07/29
+1070,25,671,29,0,0,-2,7,9,2022 07 30 Los Angeles Angels VS. Texas Rangers,07/30
+1071,25,749,5,0,0,-4,3,7,2022 08 11 Houston Astros VS. Texas Rangers,08/11
+1072,25,762,20,1,1,3,7,4,2022 08 13 Texas Rangers VS. Seattle Mariners,08/13
+1073,25,888,5,0,1,-2,3,5,2022 08 31 Texas Rangers VS. Houston Astros,08/31
+1074,25,895,17,0,0,-1,8,9,2022 09 01 Boston Red Sox VS. Texas Rangers,09/01
+1075,25,901,17,0,0,-8,1,9,2022 09 02 Boston Red Sox VS. Texas Rangers,09/02
+1076,25,905,17,0,0,-2,3,5,2022 09 03 Boston Red Sox VS. Texas Rangers,09/03
+1077,25,913,17,0,0,-3,2,5,2022 09 04 Boston Red Sox VS. Texas Rangers,09/04
+1078,25,921,5,0,0,-1,0,1,2022 09 05 Houston Astros VS. Texas Rangers,09/05
+1079,25,952,14,0,1,-1,3,4,2022 09 09 Texas Rangers VS. Toronto Blue Jays,09/09
+1080,25,1052,29,1,1,2,5,3,2022 09 22 Texas Rangers VS. Los Angeles Angels,09/22
+1081,25,1062,15,0,1,-2,2,4,2022 09 24 Texas Rangers VS. Cleveland Guardians,09/24
+1082,25,1130,19,0,1,-2,1,3,2022 10 03 Texas Rangers VS. New York Yankees,10/03
+1083,25,1134,19,0,1,-1,4,5,2022 10 04 Texas Rangers VS. New York Yankees,10/04
+1084,26,2,2,1,1,1,5,4,2022 04 07 Chicago Cubs VS. Milwaukee Brewers,04/07
+1085,26,47,27,0,0,-4,2,6,2022 04 13 Pittsburgh Pirates VS. Chicago Cubs,04/13
+1086,26,57,16,0,0,-3,6,9,2022 04 16 Colorado Rockies VS. Chicago Cubs,04/16
+1087,26,94,27,0,1,-1,3,4,2022 04 21 Chicago Cubs VS. Pittsburgh Pirates,04/21
+1088,26,104,27,0,1,-2,2,4,2022 04 22 Chicago Cubs VS. Pittsburgh Pirates,04/22
+1089,26,143,1,0,0,-4,1,5,2022 04 28 Atlanta Braves VS. Chicago Cubs,04/28
+1090,26,178,6,0,1,-4,2,6,2022 05 07 Chicago Cubs VS. Los Angeles Dodgers,05/07
+1091,26,186,6,0,1,-6,1,7,2022 05 08 Chicago Cubs VS. Los Angeles Dodgers,05/08
+1092,26,201,21,0,0,-1,4,5,2022 05 10 San Diego Padres VS. Chicago Cubs,05/10
+1093,26,234,27,0,1,-1,2,3,2022 05 18 Chicago Cubs VS. Pittsburgh Pirates,05/18
+1094,26,246,24,0,1,-4,6,10,2022 05 20 Chicago Cubs VS. Arizona Diamondbacks,05/20
+1095,26,261,23,1,0,7,11,4,2022 05 24 Cincinnati Reds VS. Chicago Cubs,05/24
+1096,26,275,23,0,0,-15,5,20,2022 05 26 Cincinnati Reds VS. Chicago Cubs,05/26
+1097,26,285,0,1,0,4,5,1,2022 05 28 Chicago White Sox VS. Chicago Cubs,05/28
+1098,26,296,2,0,1,-1,6,7,2022 05 30 Chicago Cubs VS. Milwaukee Brewers,05/30
+1099,26,320,8,0,1,-9,5,14,2022 06 03 Chicago Cubs VS. St. Louis Cardinals,06/03
+1100,26,322,8,1,1,5,6,1,2022 06 04 Chicago Cubs VS. St. Louis Cardinals,06/04
+1101,26,332,8,0,1,-2,3,5,2022 06 05 Chicago Cubs VS. St. Louis Cardinals,06/05
+1102,26,371,19,0,0,-8,0,8,2022 06 11 New York Yankees VS. Chicago Cubs,06/11
+1103,26,381,19,0,0,-14,4,18,2022 06 12 New York Yankees VS. Chicago Cubs,06/12
+1104,26,382,21,0,1,-3,1,4,2022 06 13 Chicago Cubs VS. San Diego Padres,06/13
+1105,26,496,17,1,1,1,6,5,2022 07 01 Chicago Cubs VS. Boston Red Sox,07/01
+1106,26,504,17,1,1,2,3,1,2022 07 02 Chicago Cubs VS. Boston Red Sox,07/02
+1107,26,557,6,0,0,-1,3,4,2022 07 08 Los Angeles Dodgers VS. Chicago Cubs,07/08
+1108,26,563,6,0,0,-2,2,4,2022 07 09 Los Angeles Dodgers VS. Chicago Cubs,07/09
+1109,26,604,4,0,1,-1,3,4,2022 07 16 Chicago Cubs VS. New York Mets,07/16
+1110,26,644,27,1,1,2,4,2,2022 07 26 Chicago Cubs VS. Pittsburgh Pirates,07/26
+1111,26,685,22,0,0,-4,0,4,2022 07 31 San Francisco Giants VS. Chicago Cubs,07/31
+1112,26,716,3,1,1,1,2,1,2022 08 05 Chicago Cubs VS. Miami Marlins,08/05
+1113,26,720,3,1,1,4,4,0,2022 08 06 Chicago Cubs VS. Miami Marlins,08/06
+1114,26,745,23,1,0,2,4,2,2022 08 11 Cincinnati Reds VS. Chicago Cubs,08/11
+1115,26,791,12,1,0,1,3,2,2022 08 17 Washington Nationals VS. Chicago Cubs,08/17
+1116,26,798,2,1,1,1,8,7,2022 08 19 Chicago Cubs VS. Milwaukee Brewers,08/19
+1117,26,806,2,1,1,1,6,5,2022 08 20 Chicago Cubs VS. Milwaukee Brewers,08/20
+1118,26,826,8,1,1,2,2,0,2022 08 23 Chicago Cubs VS. St. Louis Cardinals,08/23
+1119,26,846,8,0,1,-5,3,8,2022 08 25 Chicago Cubs VS. St. Louis Cardinals,08/25
+1120,26,891,14,1,0,2,7,5,2022 08 31 Toronto Blue Jays VS. Chicago Cubs,08/31
+1121,26,940,23,0,1,-1,3,4,2022 09 08 Chicago Cubs VS. Cincinnati Reds,09/08
+1122,26,948,22,1,1,2,4,2,2022 09 09 Chicago Cubs VS. San Francisco Giants,09/09
+1123,26,962,22,0,1,-2,2,4,2022 09 11 Chicago Cubs VS. San Francisco Giants,09/11
+1124,26,1000,16,1,1,1,2,1,2022 09 16 Chicago Cubs VS. Colorado Rockies,09/16
+1125,26,1008,16,0,1,-2,1,3,2022 09 17 Chicago Cubs VS. Colorado Rockies,09/17
+1126,26,1090,18,1,1,2,2,0,2022 09 29 Chicago Cubs VS. Philadelphia Phillies,09/29
+1127,26,1104,23,1,1,5,6,1,2022 09 30 Chicago Cubs VS. Cincinnati Reds,09/30
+1128,26,1112,23,1,1,1,2,1,2022 10 01 Chicago Cubs VS. Cincinnati Reds,10/01
+1129,27,46,26,1,1,4,6,2,2022 04 13 Pittsburgh Pirates VS. Chicago Cubs,04/13
+1130,27,95,26,1,0,1,4,3,2022 04 21 Chicago Cubs VS. Pittsburgh Pirates,04/21
+1131,27,105,26,1,0,2,4,2,2022 04 22 Chicago Cubs VS. Pittsburgh Pirates,04/22
+1132,27,181,23,0,0,-7,2,9,2022 05 07 Cincinnati Reds VS. Pittsburgh Pirates,05/07
+1133,27,235,26,1,0,1,3,2,2022 05 18 Chicago Cubs VS. Pittsburgh Pirates,05/18
+1134,27,270,16,1,1,5,10,5,2022 05 25 Pittsburgh Pirates VS. Colorado Rockies,05/25
+1135,27,299,6,1,0,1,6,5,2022 05 30 Los Angeles Dodgers VS. Pittsburgh Pirates,05/30
+1136,27,305,6,1,0,2,5,3,2022 05 31 Los Angeles Dodgers VS. Pittsburgh Pirates,05/31
+1137,27,350,11,0,1,-2,1,3,2022 06 08 Pittsburgh Pirates VS. Detroit Tigers,06/08
+1138,27,461,9,0,0,-1,5,6,2022 06 25 Tampa Bay Rays VS. Pittsburgh Pirates,06/25
+1139,27,547,23,1,0,2,4,2,2022 07 07 Cincinnati Reds VS. Pittsburgh Pirates,07/07
+1140,27,595,3,0,0,-1,2,3,2022 07 14 Miami Marlins VS. Pittsburgh Pirates,07/14
+1141,27,645,26,0,0,-2,2,4,2022 07 26 Chicago Cubs VS. Pittsburgh Pirates,07/26
+1142,27,672,18,0,1,-1,1,2,2022 07 30 Pittsburgh Pirates VS. Philadelphia Phillies,07/30
+1143,27,708,2,1,1,1,5,4,2022 08 04 Pittsburgh Pirates VS. Milwaukee Brewers,08/04
+1144,27,796,17,1,1,6,8,2,2022 08 18 Pittsburgh Pirates VS. Boston Red Sox,08/18
+1145,27,840,1,0,1,-12,2,14,2022 08 24 Pittsburgh Pirates VS. Atlanta Braves,08/24
+1146,27,885,2,0,0,-5,1,6,2022 08 31 Milwaukee Brewers VS. Pittsburgh Pirates,08/31
+1147,27,966,8,0,1,-1,3,4,2022 09 11 Pittsburgh Pirates VS. St. Louis Cardinals,09/11
+1148,27,979,23,1,0,5,6,1,2022 09 13 Cincinnati Reds VS. Pittsburgh Pirates,09/13
+1149,27,999,4,0,0,-6,1,7,2022 09 15 New York Mets VS. Pittsburgh Pirates,09/15
+1150,27,1017,4,0,0,-4,3,7,2022 09 18 New York Mets VS. Pittsburgh Pirates,09/18
+1151,27,1084,23,1,1,1,4,3,2022 09 28 Pittsburgh Pirates VS. Cincinnati Reds,09/28
+1152,28,15,9,0,0,-2,3,5,2022 04 09 Tampa Bay Rays VS. Baltimore Orioles,04/09
+1153,28,68,19,1,1,5,5,0,2022 04 17 Baltimore Orioles VS. New York Yankees,04/17
+1154,28,137,19,0,0,-3,2,5,2022 04 27 New York Yankees VS. Baltimore Orioles,04/27
+1155,28,190,13,1,1,5,6,1,2022 05 09 Baltimore Orioles VS. Kansas City Royals,05/09
+1156,28,269,19,0,0,-2,0,2,2022 05 25 New York Yankees VS. Baltimore Orioles,05/25
+1157,28,283,17,0,0,-2,3,5,2022 05 28 Boston Red Sox VS. Baltimore Orioles,05/28
+1158,28,312,20,0,1,-1,6,7,2022 06 02 Baltimore Orioles VS. Seattle Mariners,06/02
+1159,28,445,0,1,0,4,4,0,2022 06 23 Chicago White Sox VS. Baltimore Orioles,06/23
+1160,28,471,20,1,0,7,9,2,2022 06 27 Seattle Mariners VS. Baltimore Orioles,06/27
+1161,28,552,29,1,1,1,5,4,2022 07 08 Baltimore Orioles VS. Los Angeles Angels,07/08
+1162,28,761,9,0,0,-6,2,8,2022 08 13 Tampa Bay Rays VS. Baltimore Orioles,08/13
+1163,28,818,17,1,1,2,5,3,2022 08 21 Baltimore Orioles VS. Boston Red Sox,08/21
+1164,28,834,0,0,1,-2,3,5,2022 08 24 Baltimore Orioles VS. Chicago White Sox,08/24
+1165,28,918,14,0,1,-4,3,7,2022 09 05 Baltimore Orioles VS. Toronto Blue Jays,09/05
+1166,28,1054,5,1,1,6,6,0,2022 09 23 Baltimore Orioles VS. Houston Astros,09/23
+1167,28,1107,19,1,0,1,2,1,2022 09 30 New York Yankees VS. Baltimore Orioles,09/30
+1168,28,1117,19,0,0,-8,0,8,2022 10 01 New York Yankees VS. Baltimore Orioles,10/01
+1169,28,1123,19,1,0,2,3,1,2022 10 02 New York Yankees VS. Baltimore Orioles,10/02
+1170,29,24,3,1,1,4,6,2,2022 04 11 Los Angeles Angels VS. Miami Marlins,04/11
+1171,29,53,25,0,0,-5,5,10,2022 04 14 Texas Rangers VS. Los Angeles Angels,04/14
+1172,29,67,25,1,0,5,7,2,2022 04 16 Texas Rangers VS. Los Angeles Angels,04/16
+1173,29,151,0,0,0,-4,0,4,2022 04 30 Chicago White Sox VS. Los Angeles Angels,04/30
+1174,29,167,17,1,0,5,10,5,2022 05 04 Boston Red Sox VS. Los Angeles Angels,05/04
+1175,29,171,17,1,0,8,8,0,2022 05 05 Boston Red Sox VS. Los Angeles Angels,05/05
+1176,29,204,9,0,1,-2,2,4,2022 05 11 Los Angeles Angels VS. Tampa Bay Rays,05/11
+1177,29,248,7,1,1,2,5,3,2022 05 21 Los Angeles Angels VS. Oakland Athletics,05/21
+1178,29,276,14,0,1,-3,3,6,2022 05 26 Los Angeles Angels VS. Toronto Blue Jays,05/26
+1179,29,288,14,0,1,-1,5,6,2022 05 28 Los Angeles Angels VS. Toronto Blue Jays,05/28
+1180,29,307,19,0,0,-8,1,9,2022 05 31 New York Yankees VS. Los Angeles Angels,05/31
+1181,29,317,19,0,0,-5,1,6,2022 06 02 New York Yankees VS. Los Angeles Angels,06/02
+1182,29,331,18,0,0,-5,2,7,2022 06 04 Philadelphia Phillies VS. Los Angeles Angels,06/04
+1183,29,335,18,0,0,-2,7,9,2022 06 05 Philadelphia Phillies VS. Los Angeles Angels,06/05
+1184,29,338,17,0,1,-1,0,1,2022 06 06 Los Angeles Angels VS. Boston Red Sox,06/06
+1185,29,346,17,0,1,-1,0,1,2022 06 08 Los Angeles Angels VS. Boston Red Sox,06/08
+1186,29,358,17,1,1,3,5,2,2022 06 09 Los Angeles Angels VS. Boston Red Sox,06/09
+1187,29,368,4,1,1,5,11,6,2022 06 11 Los Angeles Angels VS. New York Mets,06/11
+1188,29,378,4,0,1,-3,1,4,2022 06 12 Los Angeles Angels VS. New York Mets,06/12
+1189,29,389,6,0,0,-2,0,2,2022 06 14 Los Angeles Dodgers VS. Los Angeles Angels,06/14
+1190,29,397,6,0,0,-3,1,4,2022 06 15 Los Angeles Dodgers VS. Los Angeles Angels,06/15
+1191,29,409,20,1,0,3,4,1,2022 06 16 Seattle Mariners VS. Los Angeles Angels,06/16
+1192,29,419,20,1,0,2,4,2,2022 06 18 Seattle Mariners VS. Los Angeles Angels,06/18
+1193,29,454,20,0,1,-2,3,5,2022 06 25 Los Angeles Angels VS. Seattle Mariners,06/25
+1194,29,474,0,0,1,-7,4,11,2022 06 28 Los Angeles Angels VS. Chicago White Sox,06/28
+1195,29,553,28,0,0,-1,4,5,2022 07 08 Baltimore Orioles VS. Los Angeles Angels,07/08
+1196,29,578,5,0,1,-1,5,6,2022 07 12 Los Angeles Angels VS. Houston Astros,07/12
+1197,29,608,6,0,1,-6,1,7,2022 07 16 Los Angeles Angels VS. Los Angeles Dodgers,07/16
+1198,29,664,25,0,1,-5,2,7,2022 07 29 Los Angeles Angels VS. Texas Rangers,07/29
+1199,29,670,25,1,1,2,9,7,2022 07 30 Los Angeles Angels VS. Texas Rangers,07/30
+1200,29,725,20,0,0,-1,1,2,2022 08 06 Seattle Mariners VS. Los Angeles Angels,08/06
+1201,29,776,20,0,1,-6,2,8,2022 08 16 Los Angeles Angels VS. Seattle Mariners,08/16
+1202,29,782,20,0,1,-4,7,11,2022 08 17 Los Angeles Angels VS. Seattle Mariners,08/17
+1203,29,809,11,0,0,-1,3,4,2022 08 20 Detroit Tigers VS. Los Angeles Angels,08/20
+1204,29,825,9,0,0,-1,1,2,2022 08 22 Tampa Bay Rays VS. Los Angeles Angels,08/22
+1205,29,853,9,0,0,-5,3,8,2022 08 25 Tampa Bay Rays VS. Los Angeles Angels,08/25
+1206,29,867,14,1,0,2,2,0,2022 08 27 Toronto Blue Jays VS. Los Angeles Angels,08/27
+1207,29,873,14,1,0,5,8,3,2022 08 28 Toronto Blue Jays VS. Los Angeles Angels,08/28
+1208,29,876,19,1,1,1,4,3,2022 08 29 Los Angeles Angels VS. New York Yankees,08/29
+1209,29,878,19,0,1,-3,4,7,2022 08 30 Los Angeles Angels VS. New York Yankees,08/30
+1210,29,955,5,1,0,5,6,1,2022 09 10 Houston Astros VS. Los Angeles Angels,09/10
+1211,29,971,15,0,0,-1,4,5,2022 09 12 Cleveland Guardians VS. Los Angeles Angels,09/12
+1212,29,987,15,0,0,-2,3,5,2022 09 14 Cleveland Guardians VS. Los Angeles Angels,09/14
+1213,29,1024,20,0,1,-8,1,9,2022 09 19 Los Angeles Angels VS. Seattle Mariners,09/19
+1214,29,1053,25,0,0,-2,3,5,2022 09 22 Texas Rangers VS. Los Angeles Angels,09/22
+1215,29,1059,10,0,0,-4,4,8,2022 09 24 Minnesota Twins VS. Los Angeles Angels,09/24

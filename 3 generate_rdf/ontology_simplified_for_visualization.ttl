@@ -1,0 +1,138 @@
+@prefix bkgcs: <http://dsci558.org/class/> .
+@prefix bkgct: <http://dsci558.org/cluster/> .
+@prefix bkgmc: <http://dsci558.org/match/> .
+@prefix bkgot: <http://dsci558.org/ontology/> .
+@prefix bkgpy: <http://dsci558.org/player/> .
+@prefix bkgtm: <http://dsci558.org/team/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+bkgcs:Cluster a rdfs:Class .
+
+bkgcs:Match a rdfs:Class .
+
+bkgmc:match a bkgcs:Match,
+        rdfs:Class ;
+    bkgot:ends_with xsd:string ;
+    bkgot:has_player_played bkgpy:player ;
+    bkgot:has_score_given xsd:integer ;
+    bkgot:has_score_secured xsd:integer ;
+    bkgot:inference-ends_with xsd:string ;
+    bkgot:plays_against bkgtm:team ;
+    bkgot:plays_at xsd:string ;
+    bkgot:plays_by bkgtm:team ;
+    bkgot:plays_on xsd:date .
+
+bkgpy:player a rdfs:Class,
+        foaf:Person ;
+    bkgot:belong_to_team bkgtm:team ;
+    bkgot:has_match bkgct:player_match ;
+    bkgot:has_status bkgct:player_overall,
+        bkgct:player_split ;
+    bkgot:has_type bkgct:Batter,
+        bkgct:Pitcher ;
+    bkgot:pos_bat xsd:string ;
+    bkgot:pos_throw xsd:string ;
+    bkgot:position xsd:string ;
+    bkgot:uri xsd:anyURI ;
+    bkgot:url xsd:anyURI ;
+    ns1:name xsd:string .
+
+bkgtm:team a rdfs:Class,
+        foaf:Group ;
+    bkgot:has_match bkgct:team_match ;
+    bkgot:has_player bkgct:team_player ;
+    ns1:name xsd:string .
+
+bkgct:Batter_match bkgot:has_AB xsd:float ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_RBI xsd:integer ;
+    bkgot:inference-has_RBI xsd:integer ;
+    rdfs:subClassOf bkgct:player_match .
+
+bkgct:Batter_monthly bkgot:has_2B xsd:integer ;
+    bkgot:has_3B xsd:integer ;
+    bkgot:has_AB xsd:integer ;
+    bkgot:has_AVG xsd:float ;
+    bkgot:has_BB xsd:integer ;
+    bkgot:has_CS xsd:integer ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_HBP xsd:float ;
+    bkgot:has_HR xsd:integer ;
+    bkgot:has_OBP xsd:float ;
+    bkgot:has_OPS xsd:float ;
+    bkgot:has_PA xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_RBI xsd:integer ;
+    bkgot:has_SB xsd:integer ;
+    bkgot:has_SLG xsd:float ;
+    bkgot:has_SO xsd:integer ;
+    rdfs:subClassOf bkgct:player_monthly .
+
+bkgct:Batter_overall bkgot:has_AB xsd:integer ;
+    bkgot:has_AVG xsd:float ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_HR xsd:integer ;
+    bkgot:has_OBP xsd:float ;
+    bkgot:has_OPS xsd:float ;
+    bkgot:has_PA xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_RBI xsd:integer ;
+    bkgot:has_SB xsd:integer ;
+    bkgot:has_SLG xsd:float ;
+    rdfs:subClassOf bkgct:player_overall .
+
+bkgct:Pitcher_match bkgot:has_ER xsd:integer ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_IP xsd:float ;
+    bkgot:has_R xsd:integer ;
+    bkgot:inference-has_ER xsd:integer ;
+    rdfs:subClassOf bkgct:player_match .
+
+bkgct:Pitcher_monthly bkgot:has_BB xsd:integer ;
+    bkgot:has_BF xsd:integer ;
+    bkgot:has_ER xsd:integer ;
+    bkgot:has_ERA xsd:float ;
+    bkgot:has_G xsd:integer ;
+    bkgot:has_GS xsd:integer ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_IP xsd:float ;
+    bkgot:has_L xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_SO xsd:integer ;
+    bkgot:has_SV xsd:integer ;
+    bkgot:has_W xsd:integer ;
+    bkgot:has_WHIP xsd:float ;
+    rdfs:subClassOf bkgct:player_monthly .
+
+bkgct:Pitcher_overall bkgot:has_ERA xsd:float ;
+    bkgot:has_G xsd:integer ;
+    bkgot:has_GS xsd:integer ;
+    bkgot:has_IP xsd:float ;
+    bkgot:has_L xsd:integer ;
+    bkgot:has_SO xsd:integer ;
+    bkgot:has_SV xsd:integer ;
+    bkgot:has_W xsd:integer ;
+    bkgot:has_WHIP xsd:float ;
+    rdfs:subClassOf bkgct:player_overall .
+
+bkgct:player_split a bkgcs:Cluster ;
+    bkgot:has_status bkgct:player_monthly .
+
+bkgct:team_match a bkgcs:Cluster ;
+    bkgot:for_match bkgmc:match .
+
+bkgct:team_player a bkgcs:Cluster ;
+    bkgot:for_player bkgpy:player .
+
+bkgct:player_match a bkgcs:Cluster ;
+    bkgot:for_match bkgmc:match ;
+    bkgot:has_status_for_match bkgmc:match .
+
+bkgct:player_monthly a bkgcs:Cluster .
+
+bkgct:player_overall a bkgcs:Cluster .
+

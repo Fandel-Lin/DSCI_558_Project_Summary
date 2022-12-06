@@ -1,0 +1,650 @@
+@prefix bkgcs: <http://dsci558.org/class/> .
+@prefix bkgct: <http://dsci558.org/cluster/> .
+@prefix bkgmc: <http://dsci558.org/match/> .
+@prefix bkgot: <http://dsci558.org/ontology/> .
+@prefix bkgpy: <http://dsci558.org/player/> .
+@prefix bkgtm: <http://dsci558.org/team/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+bkgcs:Cluster a rdfs:Class .
+
+bkgcs:Match a rdfs:Class .
+
+bkgmc:match a bkgcs:Match,
+        rdfs:Class ;
+    bkgot:ends_with xsd:string ;
+    bkgot:has_player_played bkgpy:player ;
+    bkgot:has_score_given xsd:integer ;
+    bkgot:has_score_secured xsd:integer ;
+    bkgot:inference-ends_with xsd:string ;
+    bkgot:plays_against bkgtm:team ;
+    bkgot:plays_at xsd:string ;
+    bkgot:plays_by bkgtm:team ;
+    bkgot:plays_on xsd:date .
+
+bkgpy:player a rdfs:Class,
+        foaf:Person ;
+    bkgot:belong_to_team bkgtm:team ;
+    bkgot:has_match bkgct:player_match ;
+    bkgot:has_status bkgct:player_overall,
+        bkgct:player_split ;
+    bkgot:has_type bkgct:Batter,
+        bkgct:Pitcher ;
+    bkgot:pos_bat xsd:string ;
+    bkgot:pos_throw xsd:string ;
+    bkgot:position xsd:string ;
+    bkgot:uri xsd:anyURI ;
+    bkgot:url xsd:anyURI ;
+    ns1:name xsd:string .
+
+bkgtm:team a rdfs:Class,
+        foaf:Group ;
+    bkgot:has_match bkgct:team_match ;
+    bkgot:has_player bkgct:team_player ;
+    ns1:name xsd:string .
+
+bkgot:belong_to_team a rdf:Property ;
+    rdfs:label "Belong to Team"^^xsd:string ;
+    rdfs:domain bkgpy:player ;
+    rdfs:range bkgtm:team .
+
+bkgot:ends_with a rdf:Property ;
+    rdfs:label "Ends with"^^xsd:string ;
+    rdfs:domain bkgmc:match ;
+    rdfs:range xsd:string .
+
+bkgot:for_match a rdf:Property ;
+    rdfs:label "For Match"^^xsd:string ;
+    rdfs:domain bkgct:player_match,
+        bkgct:team_match ;
+    rdfs:range bkgmc:match .
+
+bkgot:for_player a rdf:Property ;
+    rdfs:label "For Player"^^xsd:string ;
+    rdfs:domain bkgct:team_player ;
+    rdfs:range bkgpy:player .
+
+bkgot:has_2B a rdf:Property ;
+    rdfs:label "Has 2B"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_monthly,
+        bkgct:Batter_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_3B a rdf:Property ;
+    rdfs:label "Has 3B"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_monthly,
+        bkgct:Batter_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_AB a rdf:Property ;
+    rdfs:label "Has AB"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_match,
+        bkgct:Batter_monthly,
+        bkgct:Batter_overall,
+        bkgct:Batter_platoon ;
+    rdfs:range xsd:float,
+        xsd:integer .
+
+bkgot:has_AVG a rdf:Property ;
+    rdfs:label "Has AVG"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_monthly,
+        bkgct:Batter_overall,
+        bkgct:Batter_platoon ;
+    rdfs:range xsd:float .
+
+bkgot:has_BB a rdf:Property ;
+    rdfs:label "Has BB"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_monthly,
+        bkgct:Batter_platoon,
+        bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_BF a rdf:Property ;
+    rdfs:label "Has BF"^^xsd:string ;
+    rdfs:domain bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_CS a rdf:Property ;
+    rdfs:label "Has CS"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_monthly,
+        bkgct:Batter_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_ER a rdf:Property ;
+    rdfs:label "Has ER"^^xsd:string ;
+    rdfs:domain bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_match,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_ERA a rdf:Property ;
+    rdfs:label "Has ERA"^^xsd:string ;
+    rdfs:domain bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_overall,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:float .
+
+bkgot:has_G a rdf:Property ;
+    rdfs:label "Has G"^^xsd:string ;
+    rdfs:domain bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_overall,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_GS a rdf:Property ;
+    rdfs:label "Has GS"^^xsd:string ;
+    rdfs:domain bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_overall,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_H a rdf:Property ;
+    rdfs:label "Has H"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_match,
+        bkgct:Batter_monthly,
+        bkgct:Batter_overall,
+        bkgct:Batter_platoon,
+        bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_match,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_HBP a rdf:Property ;
+    rdfs:label "Has HBP"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_monthly,
+        bkgct:Batter_platoon ;
+    rdfs:range xsd:float .
+
+bkgot:has_HR a rdf:Property ;
+    rdfs:label "Has HR"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_monthly,
+        bkgct:Batter_overall,
+        bkgct:Batter_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_IP a rdf:Property ;
+    rdfs:label "Has IP"^^xsd:string ;
+    rdfs:domain bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_match,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_overall,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:float .
+
+bkgot:has_L a rdf:Property ;
+    rdfs:label "Has L"^^xsd:string ;
+    rdfs:domain bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_overall,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_OBP a rdf:Property ;
+    rdfs:label "Has OBP"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_monthly,
+        bkgct:Batter_overall,
+        bkgct:Batter_platoon ;
+    rdfs:range xsd:float .
+
+bkgot:has_OPS a rdf:Property ;
+    rdfs:label "Has OPS"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_monthly,
+        bkgct:Batter_overall,
+        bkgct:Batter_platoon ;
+    rdfs:range xsd:float .
+
+bkgot:has_PA a rdf:Property ;
+    rdfs:label "Has PA"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_monthly,
+        bkgct:Batter_overall,
+        bkgct:Batter_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_R a rdf:Property ;
+    rdfs:label "Has R"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_match,
+        bkgct:Batter_monthly,
+        bkgct:Batter_overall,
+        bkgct:Batter_platoon,
+        bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_match,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_RBI a rdf:Property ;
+    rdfs:label "Has RBI"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_match,
+        bkgct:Batter_monthly,
+        bkgct:Batter_overall,
+        bkgct:Batter_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_SB a rdf:Property ;
+    rdfs:label "Has SB"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_monthly,
+        bkgct:Batter_overall,
+        bkgct:Batter_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_SLG a rdf:Property ;
+    rdfs:label "Has SLG"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_monthly,
+        bkgct:Batter_overall,
+        bkgct:Batter_platoon ;
+    rdfs:range xsd:float .
+
+bkgot:has_SO a rdf:Property ;
+    rdfs:label "Has SO"^^xsd:string ;
+    rdfs:domain bkgct:Batter_game_type,
+        bkgct:Batter_inning,
+        bkgct:Batter_monthly,
+        bkgct:Batter_platoon,
+        bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_overall,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_SV a rdf:Property ;
+    rdfs:label "Has SV"^^xsd:string ;
+    rdfs:domain bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_overall,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_W a rdf:Property ;
+    rdfs:label "Has W"^^xsd:string ;
+    rdfs:domain bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_overall,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:integer .
+
+bkgot:has_WHIP a rdf:Property ;
+    rdfs:label "Has WHIP"^^xsd:string ;
+    rdfs:domain bkgct:Pitcher_game_type,
+        bkgct:Pitcher_inning,
+        bkgct:Pitcher_monthly,
+        bkgct:Pitcher_overall,
+        bkgct:Pitcher_platoon ;
+    rdfs:range xsd:float .
+
+bkgot:has_match a rdf:Property ;
+    rdfs:label "Has Match"^^xsd:string ;
+    rdfs:domain bkgpy:player,
+        bkgtm:team ;
+    rdfs:range bkgct:player_match,
+        bkgct:team_match .
+
+bkgot:has_player a rdf:Property ;
+    rdfs:label "Has Player"^^xsd:string ;
+    rdfs:domain bkgtm:team ;
+    rdfs:range bkgct:team_player .
+
+bkgot:has_player_played a rdf:Property ;
+    rdfs:label "Has Player Played"^^xsd:string ;
+    rdfs:domain bkgmc:match ;
+    rdfs:range bkgpy:player .
+
+bkgot:has_score_given a rdf:Property ;
+    rdfs:label "Has Score Given"^^xsd:string ;
+    rdfs:domain bkgmc:match ;
+    rdfs:range xsd:integer .
+
+bkgot:has_score_secured a rdf:Property ;
+    rdfs:label "Has Score Secured"^^xsd:string ;
+    rdfs:domain bkgmc:match ;
+    rdfs:range xsd:integer .
+
+bkgot:has_status a rdf:Property ;
+    rdfs:label "Has Status"^^xsd:string ;
+    rdfs:domain bkgct:player_split,
+        bkgpy:player ;
+    rdfs:range bkgct:player_game_type,
+        bkgct:player_inning,
+        bkgct:player_monthly,
+        bkgct:player_overall,
+        bkgct:player_platoon,
+        bkgct:player_split .
+
+bkgot:has_status_for_match a rdf:Property ;
+    rdfs:label "Has Status for Match"^^xsd:string ;
+    rdfs:domain bkgct:player_match ;
+    rdfs:range bkgmc:match .
+
+bkgot:has_type a rdf:Property ;
+    rdfs:label "Has Type"^^xsd:string ;
+    rdfs:domain bkgpy:player ;
+    rdfs:range bkgct:Batter,
+        bkgct:Pitcher .
+
+bkgot:inference-ends_with a rdf:Property ;
+    rdfs:label "Inference- Ends with"^^xsd:string ;
+    rdfs:domain bkgmc:match ;
+    rdfs:range xsd:string .
+
+bkgot:inference-has_ER a rdf:Property ;
+    rdfs:label "Inference- Has ER"^^xsd:string ;
+    rdfs:domain bkgct:Pitcher_match ;
+    rdfs:range xsd:integer .
+
+bkgot:inference-has_RBI a rdf:Property ;
+    rdfs:label "Inference- Has RBI"^^xsd:string ;
+    rdfs:domain bkgct:Batter_match ;
+    rdfs:range xsd:integer .
+
+bkgot:plays_against a rdf:Property ;
+    rdfs:label "Plays against"^^xsd:string ;
+    rdfs:domain bkgmc:match ;
+    rdfs:range bkgtm:team .
+
+bkgot:plays_at a rdf:Property ;
+    rdfs:label "Plays at"^^xsd:string ;
+    rdfs:domain bkgmc:match ;
+    rdfs:range xsd:string .
+
+bkgot:plays_by a rdf:Property ;
+    rdfs:label "Plays by"^^xsd:string ;
+    rdfs:domain bkgmc:match ;
+    rdfs:range bkgtm:team .
+
+bkgot:plays_on a rdf:Property ;
+    rdfs:label "Plays on"^^xsd:string ;
+    rdfs:domain bkgmc:match ;
+    rdfs:range xsd:date .
+
+bkgot:pos_bat a rdf:Property ;
+    rdfs:label "Bat with"^^xsd:string ;
+    rdfs:domain bkgpy:player ;
+    rdfs:range xsd:string .
+
+bkgot:pos_throw a rdf:Property ;
+    rdfs:label "Throw with"^^xsd:string ;
+    rdfs:domain bkgpy:player ;
+    rdfs:range xsd:string .
+
+bkgot:position a rdf:Property ;
+    rdfs:label "Plays Position"^^xsd:string ;
+    rdfs:domain bkgpy:player ;
+    rdfs:range xsd:string .
+
+bkgot:uri a rdf:Property ;
+    rdfs:label "URI"^^xsd:string ;
+    rdfs:domain bkgpy:player ;
+    rdfs:range xsd:anyURI .
+
+bkgot:url a rdf:Property ;
+    rdfs:label "URL"^^xsd:string ;
+    rdfs:domain bkgpy:player ;
+    rdfs:range xsd:anyURI .
+
+ns1:name a rdf:Property ;
+    rdfs:label "Name"^^xsd:string ;
+    rdfs:domain bkgpy:player,
+        bkgtm:team ;
+    rdfs:range xsd:string .
+
+bkgct:player_split a bkgcs:Cluster ;
+    bkgot:has_status bkgct:player_game_type,
+        bkgct:player_inning,
+        bkgct:player_monthly,
+        bkgct:player_platoon .
+
+bkgct:team_match a bkgcs:Cluster ;
+    bkgot:for_match bkgmc:match .
+
+bkgct:team_player a bkgcs:Cluster ;
+    bkgot:for_player bkgpy:player .
+
+bkgct:player_game_type a bkgcs:Cluster .
+
+bkgct:player_inning a bkgcs:Cluster .
+
+bkgct:player_monthly a bkgcs:Cluster .
+
+bkgct:player_overall a bkgcs:Cluster .
+
+bkgct:player_platoon a bkgcs:Cluster .
+
+bkgct:Batter_match bkgot:has_AB xsd:float ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_RBI xsd:integer ;
+    bkgot:inference-has_RBI xsd:integer ;
+    rdfs:subClassOf bkgct:player_match .
+
+bkgct:Pitcher_match bkgot:has_ER xsd:integer ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_IP xsd:float ;
+    bkgot:has_R xsd:integer ;
+    bkgot:inference-has_ER xsd:integer ;
+    rdfs:subClassOf bkgct:player_match .
+
+bkgct:player_match a bkgcs:Cluster ;
+    bkgot:for_match bkgmc:match ;
+    bkgot:has_status_for_match bkgmc:match .
+
+bkgct:Pitcher_overall bkgot:has_ERA xsd:float ;
+    bkgot:has_G xsd:integer ;
+    bkgot:has_GS xsd:integer ;
+    bkgot:has_IP xsd:float ;
+    bkgot:has_L xsd:integer ;
+    bkgot:has_SO xsd:integer ;
+    bkgot:has_SV xsd:integer ;
+    bkgot:has_W xsd:integer ;
+    bkgot:has_WHIP xsd:float ;
+    rdfs:subClassOf bkgct:player_overall .
+
+bkgct:Batter_overall bkgot:has_AB xsd:integer ;
+    bkgot:has_AVG xsd:float ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_HR xsd:integer ;
+    bkgot:has_OBP xsd:float ;
+    bkgot:has_OPS xsd:float ;
+    bkgot:has_PA xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_RBI xsd:integer ;
+    bkgot:has_SB xsd:integer ;
+    bkgot:has_SLG xsd:float ;
+    rdfs:subClassOf bkgct:player_overall .
+
+bkgct:Pitcher_game_type bkgot:has_BB xsd:integer ;
+    bkgot:has_BF xsd:integer ;
+    bkgot:has_ER xsd:integer ;
+    bkgot:has_ERA xsd:float ;
+    bkgot:has_G xsd:integer ;
+    bkgot:has_GS xsd:integer ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_IP xsd:float ;
+    bkgot:has_L xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_SO xsd:integer ;
+    bkgot:has_SV xsd:integer ;
+    bkgot:has_W xsd:integer ;
+    bkgot:has_WHIP xsd:float ;
+    rdfs:subClassOf bkgct:player_game_type .
+
+bkgct:Pitcher_inning bkgot:has_BB xsd:integer ;
+    bkgot:has_BF xsd:integer ;
+    bkgot:has_ER xsd:integer ;
+    bkgot:has_ERA xsd:float ;
+    bkgot:has_G xsd:integer ;
+    bkgot:has_GS xsd:integer ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_IP xsd:float ;
+    bkgot:has_L xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_SO xsd:integer ;
+    bkgot:has_SV xsd:integer ;
+    bkgot:has_W xsd:integer ;
+    bkgot:has_WHIP xsd:float ;
+    rdfs:subClassOf bkgct:player_inning .
+
+bkgct:Pitcher_monthly bkgot:has_BB xsd:integer ;
+    bkgot:has_BF xsd:integer ;
+    bkgot:has_ER xsd:integer ;
+    bkgot:has_ERA xsd:float ;
+    bkgot:has_G xsd:integer ;
+    bkgot:has_GS xsd:integer ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_IP xsd:float ;
+    bkgot:has_L xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_SO xsd:integer ;
+    bkgot:has_SV xsd:integer ;
+    bkgot:has_W xsd:integer ;
+    bkgot:has_WHIP xsd:float ;
+    rdfs:subClassOf bkgct:player_monthly .
+
+bkgct:Pitcher_platoon bkgot:has_BB xsd:integer ;
+    bkgot:has_BF xsd:integer ;
+    bkgot:has_ER xsd:integer ;
+    bkgot:has_ERA xsd:float ;
+    bkgot:has_G xsd:integer ;
+    bkgot:has_GS xsd:integer ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_IP xsd:float ;
+    bkgot:has_L xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_SO xsd:integer ;
+    bkgot:has_SV xsd:integer ;
+    bkgot:has_W xsd:integer ;
+    bkgot:has_WHIP xsd:float ;
+    rdfs:subClassOf bkgct:player_platoon .
+
+bkgct:Batter_game_type bkgot:has_2B xsd:integer ;
+    bkgot:has_3B xsd:integer ;
+    bkgot:has_AB xsd:integer ;
+    bkgot:has_AVG xsd:float ;
+    bkgot:has_BB xsd:integer ;
+    bkgot:has_CS xsd:integer ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_HBP xsd:float ;
+    bkgot:has_HR xsd:integer ;
+    bkgot:has_OBP xsd:float ;
+    bkgot:has_OPS xsd:float ;
+    bkgot:has_PA xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_RBI xsd:integer ;
+    bkgot:has_SB xsd:integer ;
+    bkgot:has_SLG xsd:float ;
+    bkgot:has_SO xsd:integer ;
+    rdfs:subClassOf bkgct:player_game_type .
+
+bkgct:Batter_inning bkgot:has_2B xsd:integer ;
+    bkgot:has_3B xsd:integer ;
+    bkgot:has_AB xsd:integer ;
+    bkgot:has_AVG xsd:float ;
+    bkgot:has_BB xsd:integer ;
+    bkgot:has_CS xsd:integer ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_HBP xsd:float ;
+    bkgot:has_HR xsd:integer ;
+    bkgot:has_OBP xsd:float ;
+    bkgot:has_OPS xsd:float ;
+    bkgot:has_PA xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_RBI xsd:integer ;
+    bkgot:has_SB xsd:integer ;
+    bkgot:has_SLG xsd:float ;
+    bkgot:has_SO xsd:integer ;
+    rdfs:subClassOf bkgct:player_inning .
+
+bkgct:Batter_monthly bkgot:has_2B xsd:integer ;
+    bkgot:has_3B xsd:integer ;
+    bkgot:has_AB xsd:integer ;
+    bkgot:has_AVG xsd:float ;
+    bkgot:has_BB xsd:integer ;
+    bkgot:has_CS xsd:integer ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_HBP xsd:float ;
+    bkgot:has_HR xsd:integer ;
+    bkgot:has_OBP xsd:float ;
+    bkgot:has_OPS xsd:float ;
+    bkgot:has_PA xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_RBI xsd:integer ;
+    bkgot:has_SB xsd:integer ;
+    bkgot:has_SLG xsd:float ;
+    bkgot:has_SO xsd:integer ;
+    rdfs:subClassOf bkgct:player_monthly .
+
+bkgct:Batter_platoon bkgot:has_2B xsd:integer ;
+    bkgot:has_3B xsd:integer ;
+    bkgot:has_AB xsd:integer ;
+    bkgot:has_AVG xsd:float ;
+    bkgot:has_BB xsd:integer ;
+    bkgot:has_CS xsd:integer ;
+    bkgot:has_H xsd:integer ;
+    bkgot:has_HBP xsd:float ;
+    bkgot:has_HR xsd:integer ;
+    bkgot:has_OBP xsd:float ;
+    bkgot:has_OPS xsd:float ;
+    bkgot:has_PA xsd:integer ;
+    bkgot:has_R xsd:integer ;
+    bkgot:has_RBI xsd:integer ;
+    bkgot:has_SB xsd:integer ;
+    bkgot:has_SLG xsd:float ;
+    bkgot:has_SO xsd:integer ;
+    rdfs:subClassOf bkgct:player_platoon .
+

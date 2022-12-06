@@ -1,0 +1,15 @@
+# Team ever plays against another team?
+query = """
+SELECT DISTINCT ?team1_name ?team2_name
+WHERE {
+    ?match <http://dsci558.org/ontology/plays_by> ?team1.
+    ?match <http://dsci558.org/ontology/plays_against> ?team2.
+    ?team1 <http://schema.org/name> ?team1_name.
+    ?team2 <http://schema.org/name> ?team2_name.
+}
+"""
+
+# Can use either text or table to visualize
+qres = gg.query(query)
+for row in qres:
+    print(row.team1_name, '-(plays against)->', row.team2_name)

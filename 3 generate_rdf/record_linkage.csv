@@ -1,0 +1,175 @@
+savant_id,schedule_id,savant_uri,schedule_url,savant_name,schedule_name,savant_team,schedule_team,official_name,full_name
+0,547989,Abreu_Jose,https://www.mlb.com/player/547989,Jose Abreu,Abreu J,Chicago White Sox,Chicago White Sox,Jose Abreu,Jose Dariel Abreu
+1,660670,Acuna_Jr_Ronald,https://www.mlb.com/player/660670,Ronald Acuna Jr,Acuna Jr.,Atlanta Braves,Atlanta Braves,Ronald Acuna Jr.,Ronald Jose Acuna Jr.
+2,642715,Adames_Willy,https://www.mlb.com/player/642715,Willy Adames,Adames,Milwaukee Brewers,Milwaukee Brewers,Willy Adames,Willy Rafael Adames
+3,542583,Aguilar_Jesus,https://www.mlb.com/player/542583,Jesus Aguilar,Aguilar,Miami Marlins,Baltimore Orioles,Jesus Aguilar,Jesus Alexander Aguilar
+4,645261,Alcantara_Sandy,https://www.mlb.com/player/645261,Sandy Alcantara,Alcantara S,Miami Marlins,Miami Marlins,Sandy Alcantara,Sandy Alcantara
+5,624413,Alonso_Pete,https://www.mlb.com/player/624413,Pete Alonso,Alonso,New York Mets,New York Mets,Pete Alonso,Peter Morgan Alonso
+6,514888,Altuve_Jose,https://www.mlb.com/player/514888,Jose Altuve,Altuve,Houston Astros,Houston Astros,Jose Altuve,Jose Carlos Altuve
+7,670541,Alvarez_Yordan,https://www.mlb.com/player/670541,Yordan Alvarez,Alvarez Y,Houston Astros,Houston Astros,Yordan Alvarez,Yordan Ruben Alvarez
+8,542881,Anderson_Tyler,https://www.mlb.com/player/542881,Tyler Anderson,Anderson,Los Angeles Dodgers,Los Angeles Dodgers,Tyler Anderson,Tyler John Anderson
+9,462101,Andrus_Elvis,https://www.mlb.com/player/462101,Elvis Andrus,Andrus,Oakland Athletics,Chicago White Sox,Elvis Andrus,Elvis Augusto Andrus
+10,571448,Arenado_Nolan,https://www.mlb.com/player/571448,Nolan Arenado,Arenado,St. Louis Cardinals,St. Louis Cardinals,Nolan Arenado,Nolan James Arenado
+11,668227,Arozarena_Randy,https://www.mlb.com/player/668227,Randy Arozarena,Arozarena,Tampa Bay Rays,Tampa Bay Rays,Randy Arozarena,Randy Arozarena
+12,650333,Arraez_Luis,https://www.mlb.com/player/650333,Luis Arraez,Arraez,Minnesota Twins,Minnesota Twins,Luis Arraez,Luis Sangel Arraez
+13,595879,Baez_Javier,https://www.mlb.com/player/595879,Javier Baez,Baez J,Detroit Tigers,Detroit Tigers,Javier Baez,Ednel Javier Baez
+14,605135,Bassitt_Chris,https://www.mlb.com/player/605135,Chris Bassitt,Bassitt,New York Mets,New York Mets,Chris Bassitt,Christopher M. Bassitt
+15,641355,Bellinger_Cody,https://www.mlb.com/player/641355,Cody Bellinger,Bellinger,Los Angeles Dodgers,Los Angeles Dodgers,Cody Bellinger,Cody James Bellinger
+16,605137,Bell_Josh,https://www.mlb.com/player/605137,Josh Bell,Bell,Washington Nationals,San Diego Padres,Josh Bell,Joshua Evan Bell
+17,643217,Benintendi_Andrew,https://www.mlb.com/player/643217,Andrew Benintendi,Benintendi,Kansas City Royals,New York Yankees,Andrew Benintendi,Andrew Sebastian Benintendi
+18,621244,Berrios_Jose,https://www.mlb.com/player/621244,Jose Berrios,Berrios,Toronto Blue Jays,Toronto Blue Jays,Jose Berrios,Jose Orlando Berrios
+19,605141,Betts_Mookie,https://www.mlb.com/player/605141,Mookie Betts,Betts,Los Angeles Dodgers,Los Angeles Dodgers,Mookie Betts,Markus Lynn Betts
+20,666182,Bichette_Bo,https://www.mlb.com/player/666182,Bo Bichette,Bichette,Toronto Blue Jays,Toronto Blue Jays,Bo Bichette,Bo Joseph Bichette
+21,669456,Bieber_Shane,https://www.mlb.com/player/669456,Shane Bieber,Bieber,Cleveland Guardians,Cleveland Guardians,Shane Bieber,Shane Robert Bieber
+22,453568,Blackmon_Charlie,https://www.mlb.com/player/453568,Charlie Blackmon,Blackmon,Colorado Rockies,Colorado Rockies,Charlie Blackmon,Charles Cobb Blackmon
+23,593428,Bogaerts_Xander,https://www.mlb.com/player/593428,Xander Bogaerts,Bogaerts,Boston Red Sox,Boston Red Sox,Xander Bogaerts,Xander Jan Bogaerts
+24,664761,Bohm_Alec,https://www.mlb.com/player/664761,Alec Bohm,Bohm,Philadelphia Phillies,Philadelphia Phillies,Alec Bohm,Alec Daniel Bohm
+25,608324,Bregman_Alex,https://www.mlb.com/player/608324,Alex Bregman,Bregman,Houston Astros,Houston Astros,Alex Bregman,Alexander David Bregman
+26,664913,Brown_Seth,https://www.mlb.com/player/664913,Seth Brown,Brown S,Oakland Athletics,Oakland Athletics,Seth Brown,Seth William Brown
+27,669203,Burnes_Corbin,https://www.mlb.com/player/669203,Corbin Burnes,Burnes,Milwaukee Brewers,Milwaukee Brewers,Corbin Burnes,Corbin Brian Burnes
+28,592192,Canha_Mark,https://www.mlb.com/player/592192,Mark Canha,Canha,New York Mets,New York Mets,Mark Canha,Mark David Canha
+29,592206,Castellanos_Nick,https://www.mlb.com/player/592206,Nick Castellanos,Castellanos N,Philadelphia Phillies,Philadelphia Phillies,Nick Castellanos,Nicholas A. Castellanos
+30,656302,Cease_Dylan,https://www.mlb.com/player/656302,Dylan Cease,Cease,Chicago White Sox,Chicago White Sox,Dylan Cease,Dylan Edward Cease
+31,656305,Chapman_Matt,https://www.mlb.com/player/656305,Matt Chapman,Chapman M,Toronto Blue Jays,Toronto Blue Jays,Matt Chapman,Matt James Chapman
+32,543037,Cole_Gerrit,https://www.mlb.com/player/543037,Gerrit Cole,Cole,New York Yankees,New York Yankees,Gerrit Cole,Gerrit Alan Cole
+33,621043,Correa_Carlos,https://www.mlb.com/player/621043,Carlos Correa,Correa,Minnesota Twins,Minnesota Twins,Carlos Correa,Carlos Javier Correa
+34,641487,Crawford_JP,https://www.mlb.com/player/641487,JP Crawford,Crawford J,Seattle Mariners,Seattle Mariners,J.P. Crawford,John Paul Crawford
+35,630105,Cronenworth_Jake,https://www.mlb.com/player/630105,Jake Cronenworth,Cronenworth,San Diego Padres,San Diego Padres,Jake Cronenworth,Jacob John Cronenworth
+36,543068,Cron_CJ,https://www.mlb.com/player/543068,CJ Cron,Cron,Colorado Rockies,Colorado Rockies,C.J. Cron,Christopher John Cron
+37,443558,Cruz_Jr_Nelson,https://www.mlb.com/player/443558,Nelson Cruz Jr,Cruz N,Washington Nationals,Washington Nationals,Nelson Cruz,Nelson Ramon Cruz
+38,506433,Darvish_Yu,https://www.mlb.com/player/506433,Yu Darvish,Darvish,San Diego Padres,San Diego Padres,Yu Darvish,Yu Darvish
+39,646240,Devers_Rafael,https://www.mlb.com/player/646240,Rafael Devers,Devers,Boston Red Sox,Boston Red Sox,Rafael Devers,Rafael Calcano Devers
+40,650490,Diaz_Yandy,https://www.mlb.com/player/650490,Yandy Diaz,Diaz Y,Tampa Bay Rays,Tampa Bay Rays,Yandy Diaz,Yandy Diaz
+41,518626,Donaldson_Josh,https://www.mlb.com/player/518626,Josh Donaldson,Donaldson,New York Yankees,New York Yankees,Josh Donaldson,Joshua Adam Donaldson
+42,592273,Drury_Brandon,https://www.mlb.com/player/592273,Brandon Drury,Drury,San Diego Padres,San Diego Padres,Brandon Drury,Brandon S. Drury
+43,669242,Edman_Tommy,https://www.mlb.com/player/669242,Tommy Edman,Edman,St. Louis Cardinals,St. Louis Cardinals,Tommy Edman,Thomas Hyunsu Edman
+44,500871,Escobar_Eduardo,https://www.mlb.com/player/500871,Eduardo Escobar,Escobar,New York Mets,New York Mets,Eduardo Escobar,Eduardo Jose Escobar
+45,642731,Estrada_Thairo,https://www.mlb.com/player/642731,Thairo Estrada,Estrada,San Francisco Giants,San Francisco Giants,Thairo Estrada,Thairo Jose Estrada
+46,571657,Farmer_Kyle,https://www.mlb.com/player/571657,Kyle Farmer,Farmer K,Cincinnati Reds,Cincinnati Reds,Kyle Farmer,James Kyle Farmer
+47,527038,Flores_Wilmer,https://www.mlb.com/player/527038,Wilmer Flores,Flores,San Francisco Giants,San Francisco Giants,Wilmer Flores,Wilmer Alejandro Flores
+48,664034,France_Ty,https://www.mlb.com/player/664034,Ty France,France,Seattle Mariners,Seattle Mariners,Ty France,Tyler Lawrence France
+49,624428,Frazier_Adam,https://www.mlb.com/player/624428,Adam Frazier,Frazier,Seattle Mariners,Seattle Mariners,Adam Frazier,Adam Timothy Frazier
+50,607536,Freeland_Kyle,https://www.mlb.com/player/607536,Kyle Freeland,Freeland,Colorado Rockies,Colorado Rockies,Kyle Freeland,Kyle Richard Freeland
+51,518692,Freeman_Freddie,https://www.mlb.com/player/518692,Freddie Freeman,Freeman F,Los Angeles Dodgers,Los Angeles Dodgers,Freddie Freeman,Frederick Charles Freeman
+52,608331,Fried_Max,https://www.mlb.com/player/608331,Max Fried,Fried,Atlanta Braves,Atlanta Braves,Max Fried,Max Dorian Fried
+53,668678,Gallen_Zac,https://www.mlb.com/player/668678,Zac Gallen,Gallen,Arizona Diamondbacks,Arizona Diamondbacks,Zac Gallen,Zachary Peter Gallen
+54,666969,Garcia_Adolis,https://www.mlb.com/player/666969,Adolis Garcia,Garcia Ad,Texas Rangers,Texas Rangers,Adolis Garcia,Jose Adolis Garcia
+55,592332,Gausman_Kevin,https://www.mlb.com/player/592332,Kevin Gausman,Gausman,Toronto Blue Jays,Toronto Blue Jays,Kevin Gausman,Kevin John Gausman
+56,502043,Gibson_Kyle,https://www.mlb.com/player/502043,Kyle Gibson,Gibson,Philadelphia Phillies,Philadelphia Phillies,Kyle Gibson,Kyle Benjamin Gibson
+57,669302,Gilbert_Logan,https://www.mlb.com/player/669302,Logan Gilbert,Gilbert L,Seattle Mariners,Seattle Mariners,Logan Gilbert,Logan Keith Gilbert
+58,665926,Gimenez_Andres,https://www.mlb.com/player/665926,Andres Gimenez,Gimenez,Cleveland Guardians,Cleveland Guardians,Andres Gimenez,Andres Alfonso Gimenez
+59,502671,Goldschmidt_Paul,https://www.mlb.com/player/502671,Paul Goldschmidt,Goldschmidt,St. Louis Cardinals,St. Louis Cardinals,Paul Goldschmidt,Paul Edward Goldschmidt
+60,594835,Gonzales_Marco,https://www.mlb.com/player/594835,Marco Gonzales,Gonzales,Seattle Mariners,Seattle Mariners,Marco Gonzales,Marco Elias Gonzales
+61,545341,Grichuk_Randal,https://www.mlb.com/player/545341,Randal Grichuk,Grichuk,Colorado Rockies,Colorado Rockies,Randal Grichuk,Randal Alexander Grichuk
+62,663757,Grisham_Trent,https://www.mlb.com/player/663757,Trent Grisham,Grisham,San Diego Padres,San Diego Padres,Trent Grisham,Trenton Marcus Grisham
+63,665489,Guerrero_Jr_Vladimir,https://www.mlb.com/player/665489,Vladimir Guerrero Jr,Guerrero,Toronto Blue Jays,Toronto Blue Jays,Vladimir Guerrero,Vladimir Guerrero
+64,493329,Gurriel_Yuli,https://www.mlb.com/player/493329,Yuli Gurriel,Gurriel,Houston Astros,Houston Astros,Yuli Gurriel,Yulieski Gurriel
+65,664023,Happ_Ian,https://www.mlb.com/player/664023,Ian Happ,Happ,Chicago Cubs,Chicago Cubs,Ian Happ,Ian Edward Happ
+66,663647,Hayes_Ke_Bryan,https://www.mlb.com/player/663647,Bryan Hayes Ke,Hayes,Pittsburgh Pirates,Pittsburgh Pirates,Ke'Bryan Hayes,Ke'Bryan Kobe Hayes
+67,669720,Hays_Austin,https://www.mlb.com/player/669720,Austin Hays,Hays,Baltimore Orioles,Baltimore Orioles,Austin Hays,Austin Charles Bryan Hays
+68,514917,Hernandez_Cesar,https://www.mlb.com/player/514917,Cesar Hernandez,Hernandez,Washington Nationals,Washington Nationals,Cesar Hernandez,Cesar Augusto Hernandez
+69,606192,Hernandez_Teoscar,https://www.mlb.com/player/606192,Teoscar Hernandez,Hernandez T,Toronto Blue Jays,Toronto Blue Jays,Teoscar Hernandez,Teoscar Jose Hernandez
+70,663538,Hoerner_Nico,https://www.mlb.com/player/663538,Nico Hoerner,Hoerner,Chicago Cubs,Chicago Cubs,Nico Hoerner,Nicholas Mackie Hoerner
+71,656555,Hoskins_Rhys,https://www.mlb.com/player/656555,Rhys Hoskins,Hoskins,Philadelphia Phillies,Philadelphia Phillies,Rhys Hoskins,Rhys Dean Hoskins
+72,608344,Irvin_Cole,https://www.mlb.com/player/608344,Cole Irvin,Irvin,Oakland Athletics,Oakland Athletics,Cole Irvin,Cole Rj Irvin
+73,592450,Judge_Aaron,https://www.mlb.com/player/592450,Aaron Judge,Judge,New York Yankees,New York Yankees,Aaron Judge,Aaron James Judge
+74,518876,Kelly_Merrill,https://www.mlb.com/player/518876,Merrill Kelly,Kelly M,Arizona Diamondbacks,Arizona Diamondbacks,Merrill Kelly,Kenneth Merrill Kelly
+75,643393,Kemp_Tony,https://www.mlb.com/player/643393,Tony Kemp,Kemp,Oakland Athletics,Oakland Athletics,Tony Kemp,Anthony Allen Kemp
+76,673490,Kim_Ha-Seong,https://www.mlb.com/player/673490,Ha-Seong Kim,Kim,San Diego Padres,San Diego Padres,Ha-Seong Kim,Ha-Seong Kim
+77,643396,Kiner-Falefa_Isiah,https://www.mlb.com/player/643396,Isiah Kiner-Falefa,Kiner-Falefa,New York Yankees,New York Yankees,Isiah Kiner-Falefa,Isiah Kiner-Falefa
+78,672386,Kirk_Alejandro,https://www.mlb.com/player/672386,Alejandro Kirk,Kirk,Toronto Blue Jays,Toronto Blue Jays,Alejandro Kirk,Alejandro Kirk
+79,446372,Kluber_Corey,https://www.mlb.com/player/446372,Corey Kluber,Kluber,Tampa Bay Rays,Tampa Bay Rays,Corey Kluber,Corey Scott Kluber
+80,680757,Kwan_Steven,https://www.mlb.com/player/680757,Steven Kwan,Kwan,Cleveland Guardians,Cleveland Guardians,Steven Kwan,Steven Kwan
+81,518934,LeMahieu_DJ,https://www.mlb.com/player/518934,DJ LeMahieu,LeMahieu,New York Yankees,New York Yankees,DJ LeMahieu,David John LeMahieu
+82,596019,Lindor_Francisco,https://www.mlb.com/player/596019,Francisco Lindor,Lindor,New York Mets,New York Mets,Francisco Lindor,Francisco Miguel Lindor
+83,641154,Lopez_Pablo,https://www.mlb.com/player/641154,Pablo Lopez,Lopez P,Miami Marlins,Miami Marlins,Pablo Lopez,Pablo Jose Lopez
+84,663993,Lowe_Nathaniel,https://www.mlb.com/player/663993,Nathaniel Lowe,Lowe N,Texas Rangers,Texas Rangers,Nathaniel Lowe,David Nathaniel Lowe
+85,543475,Lyles_Jordan,https://www.mlb.com/player/543475,Jordan Lyles,Lyles,Baltimore Orioles,Baltimore Orioles,Jordan Lyles,Jordan Horton Lyles
+86,592518,Machado_Manny,https://www.mlb.com/player/592518,Manny Machado,Machado M,San Diego Padres,San Diego Padres,Manny Machado,Manuel Arturo Machado
+87,641820,Mancini_III_Trey,https://www.mlb.com/player/641820,Trey Mancini III,Mancini,Baltimore Orioles,Houston Astros,Trey Mancini,Joseph Anthony Mancini
+88,666201,Manoah_Alek,https://www.mlb.com/player/666201,Alek Manoah,Manoah,Toronto Blue Jays,Toronto Blue Jays,Alek Manoah,Alek Isaac Manoah
+89,608566,Marquez_German,https://www.mlb.com/player/608566,German Marquez,Marquez,Colorado Rockies,Colorado Rockies,German Marquez,German Andres Marquez
+90,606466,Marte_Ketel,https://www.mlb.com/player/606466,Ketel Marte,Marte K,Arizona Diamondbacks,Arizona Diamondbacks,Ketel Marte,Ketel Ricardo Marte
+91,516782,Marte_Starling,https://www.mlb.com/player/516782,Starling Marte,Marte S,New York Mets,New York Mets,Starling Marte,Starling Javier Marte
+92,502110,Martinez_JD,https://www.mlb.com/player/502110,JD Martinez,Martinez,Boston Red Sox,Boston Red Sox,J.D. Martinez,Julio Daniel Martinez
+93,622761,Mateo_Jorge,https://www.mlb.com/player/622761,Jorge Mateo,Mateo,Baltimore Orioles,Baltimore Orioles,Jorge Mateo,Jorge Luis Mateo
+94,663556,McClanahan_Shane,https://www.mlb.com/player/663556,Shane McClanahan,McClanahan,Tampa Bay Rays,Tampa Bay Rays,Shane McClanahan,Shane McClanahan
+95,457705,McCutchen_Andrew,https://www.mlb.com/player/457705,Andrew McCutchen,McCutchen,Milwaukee Brewers,Milwaukee Brewers,Andrew McCutchen,Andrew Stefan McCutchen
+96,663474,McKenzie_Triston,https://www.mlb.com/player/663474,Triston McKenzie,McKenzie,Cleveland Guardians,Cleveland Guardians,Triston McKenzie,Triston Andrew McKenzie
+97,641857,McMahon_Ryan,https://www.mlb.com/player/641857,Ryan McMahon,McMahon,Colorado Rockies,Colorado Rockies,Ryan McMahon,Ryan Patrick McMahon
+98,643446,McNeil_Jeff,https://www.mlb.com/player/643446,Jeff McNeil,McNeil,New York Mets,New York Mets,Jeff McNeil,Jeff McNeil
+99,669004,Melendez_Jr_MJ,https://www.mlb.com/player/669004,MJ Melendez Jr,Melendez,Kansas City Royals,Kansas City Royals,MJ Melendez,Mervyl S. Melendez
+100,593160,Merrifield_Whit,https://www.mlb.com/player/593160,Whit Merrifield,Merrifield,Toronto Blue Jays,Toronto Blue Jays,Whit Merrifield,Whitley David Merrifield
+101,571945,Mikolas_Miles,https://www.mlb.com/player/571945,Miles Mikolas,Mikolas,St. Louis Cardinals,St. Louis Cardinals,Miles Mikolas,Miles Tice Mikolas
+102,656756,Montgomery_Jordan,https://www.mlb.com/player/656756,Jordan Montgomery,Montgomery,St. Louis Cardinals,St. Louis Cardinals,Jordan Montgomery,Jordan Blackmon Montgomery
+103,450203,Morton_Charlie,https://www.mlb.com/player/450203,Charlie Morton,Morton,Atlanta Braves,Atlanta Braves,Charlie Morton,Charles A. Morton
+104,663624,Mountcastle_Ryan,https://www.mlb.com/player/663624,Ryan Mountcastle,Mountcastle,Baltimore Orioles,Baltimore Orioles,Ryan Mountcastle,Ryan Lee Mountcastle
+105,656775,Mullins_II_Cedric,https://www.mlb.com/player/656775,Cedric Mullins II,Mullins,Baltimore Orioles,Baltimore Orioles,Cedric Mullins,Boyce Cedric Mullins
+106,571970,Muncy_Max,https://www.mlb.com/player/571970,Max Muncy,Muncy,Los Angeles Dodgers,Los Angeles Dodgers,Max Muncy,Maxwell Steven Muncy
+107,669221,Murphy_Sean,https://www.mlb.com/player/669221,Sean Murphy,Murphy S,Oakland Athletics,Oakland Athletics,Sean Murphy,Sean Michael Murphy
+108,605397,Musgrove_Joe,https://www.mlb.com/player/605397,Joe Musgrove,Musgrove,San Diego Padres,San Diego Padres,Joe Musgrove,Joseph Anthony Musgrove
+109,607043,Nimmo_Brandon,https://www.mlb.com/player/607043,Brandon Nimmo,Nimmo,New York Mets,New York Mets,Brandon Nimmo,Brandon Tate Nimmo
+110,605400,Nola_Aaron,https://www.mlb.com/player/605400,Aaron Nola,Nola Aa,Philadelphia Phillies,Philadelphia Phillies,Aaron Nola,Aaron Michael Nola
+111,660271,Ohtani_Shohei,https://www.mlb.com/player/660271,Shohei Ohtani,Ohtani,Los Angeles Angels,Los Angeles Angels,Shohei Ohtani,Shohei Ohtani
+112,621566,Olson_Matt,https://www.mlb.com/player/621566,Matt Olson,Olson,Atlanta Braves,Atlanta Braves,Matt Olson,Matthew Kent Olson
+113,542303,Ozuna_Marcell,https://www.mlb.com/player/542303,Marcell Ozuna,Ozuna,Atlanta Braves,Atlanta Braves,Marcell Ozuna,Marcell Ozuna
+114,665161,Pena_Jeremy,https://www.mlb.com/player/665161,Jeremy Pena,Pena,Houston Astros,Houston Astros,Jeremy Pena,Jeremy Joan Pena
+115,527048,Perez_Martin,https://www.mlb.com/player/527048,Martin Perez,Perez,Texas Rangers,Texas Rangers,Martin Perez,Martin Perez
+116,502054,Pham_Tommy,https://www.mlb.com/player/502054,Tommy Pham,Pham,Cincinnati Reds,Boston Red Sox,Tommy Pham,Thomas James Pham
+117,601713,Pivetta_Nick,https://www.mlb.com/player/601713,Nick Pivetta,Pivetta,Boston Red Sox,Boston Red Sox,Nick Pivetta,Nicholas Johncarlo Pivetta
+118,572041,Pollock_AJ,https://www.mlb.com/player/572041,AJ Pollock,Pollock,Chicago White Sox,Chicago White Sox,AJ Pollock,Allen Lorenz Pollock
+119,595777,Profar_Jurickson,https://www.mlb.com/player/595777,Jurickson Profar,Profar,San Diego Padres,San Diego Padres,Jurickson Profar,Jurickson Barthelomeus Profar
+120,615698,Quantrill_Cal,https://www.mlb.com/player/615698,Cal Quantrill,Quantrill,Cleveland Guardians,Cleveland Guardians,Cal Quantrill,Cal Paul Quantrill
+121,500779,Quintana_Jose,https://www.mlb.com/player/500779,Jose Quintana,Quintana,St. Louis Cardinals,St. Louis Cardinals,Jose Quintana,Jose Guillermo Quintana
+122,608070,Ramirez_Jose,https://www.mlb.com/player/608070,Jose Ramirez,Ramirez Jo,Cleveland Guardians,Cleveland Guardians,Jose Ramirez,Jose Enrique Ramirez
+123,592662,Ray_Robbie,https://www.mlb.com/player/592662,Robbie Ray,Ray,Seattle Mariners,Seattle Mariners,Robbie Ray,Robert Glenn Ray
+124,592663,Realmuto_JT,https://www.mlb.com/player/592663,JT Realmuto,Realmuto,Philadelphia Phillies,Philadelphia Phillies,J.T. Realmuto,Jacob Tyler Realmuto
+125,592669,Renfroe_Hunter,https://www.mlb.com/player/592669,Hunter Renfroe,Renfroe,Milwaukee Brewers,Milwaukee Brewers,Hunter Renfroe,Dustin Hunter Renfroe
+126,650859,Rengifo_Luis,https://www.mlb.com/player/650859,Luis Rengifo,Rengifo,Los Angeles Angels,Los Angeles Angels,Luis Rengifo,Luis Jose Rengifo
+127,668804,Reynolds_Bryan,https://www.mlb.com/player/668804,Bryan Reynolds,Reynolds B,Pittsburgh Pirates,Pittsburgh Pirates,Bryan Reynolds,Bryan Patrick Reynolds
+128,663586,Riley_Austin,https://www.mlb.com/player/663586,Austin Riley,Riley,Atlanta Braves,Atlanta Braves,Austin Riley,Michael Austin Riley
+129,519203,Rizzo_Anthony,https://www.mlb.com/player/519203,Anthony Rizzo,Rizzo,New York Yankees,New York Yankees,Anthony Rizzo,Anthony Vincent Rizzo
+130,663898,Rodgers_Brendan,https://www.mlb.com/player/663898,Brendan Rodgers,Rodgers,Colorado Rockies,Colorado Rockies,Brendan Rodgers,Brendan Austin Rodgers
+131,607074,Rodon_Carlos,https://www.mlb.com/player/607074,Carlos Rodon,Rodon,San Francisco Giants,San Francisco Giants,Carlos Rodon,Carlos Antonio Rodon
+132,677594,Rodriguez_Julio,https://www.mlb.com/player/677594,Julio Rodriguez,Rodriguez J,Seattle Mariners,Seattle Mariners,Julio Rodriguez,Julio Yarnel Rodriguez
+133,668942,Rojas_Josh,https://www.mlb.com/player/668942,Josh Rojas,Rojas J,Arizona Diamondbacks,Arizona Diamondbacks,Josh Rojas,Joshua Luke Rojas
+134,500743,Rojas_Miguel,https://www.mlb.com/player/500743,Miguel Rojas,Rojas M,Miami Marlins,Miami Marlins,Miguel Rojas,Miguel Elias Rojas
+135,642708,Rosario_Amed,https://www.mlb.com/player/642708,Amed Rosario,Rosario A,Cleveland Guardians,Cleveland Guardians,Amed Rosario,German Amed Rosario
+136,467793,Santana_Carlos,https://www.mlb.com/player/467793,Carlos Santana,Santana,Seattle Mariners,Seattle Mariners,Carlos Santana,Carlos Santana
+137,623993,Santander_Anthony,https://www.mlb.com/player/623993,Anthony Santander,Santander,Baltimore Orioles,Baltimore Orioles,Anthony Santander,Anthony Roger Santander
+138,570731,Schoop_Jonathan,https://www.mlb.com/player/570731,Jonathan Schoop,Schoop,Detroit Tigers,Detroit Tigers,Jonathan Schoop,Jonathan Rufino Jezus Schoop
+139,656941,Schwarber_Kyle,https://www.mlb.com/player/656941,Kyle Schwarber,Schwarber,Philadelphia Phillies,Philadelphia Phillies,Kyle Schwarber,Kyle Joseph Schwarber
+140,608369,Seager_Corey,https://www.mlb.com/player/608369,Corey Seager,Seager,Texas Rangers,Texas Rangers,Corey Seager,Corey Drew Seager
+141,543760,Semien_Marcus,https://www.mlb.com/player/543760,Marcus Semien,Semien,Texas Rangers,Texas Rangers,Marcus Semien,Marcus Andrew Semien
+142,669257,Smith_Will,https://www.mlb.com/player/669257,Will Smith,Smith W.D.,Los Angeles Dodgers,Los Angeles Dodgers,Will Smith,William Dills Smith
+143,665742,Soto_Juan,https://www.mlb.com/player/665742,Juan Soto,Soto J,San Diego Padres,San Diego Padres,Juan Soto,Juan Jose Soto
+144,543807,Springer_III_George,https://www.mlb.com/player/543807,George Springer III,Springer,Toronto Blue Jays,Toronto Blue Jays,George Springer,George Chelston Springer
+145,664702,Straw_Myles,https://www.mlb.com/player/664702,Myles Straw,Straw,Cleveland Guardians,Cleveland Guardians,Myles Straw,Myles James Noble Straw
+146,553993,Suarez_Eugenio,https://www.mlb.com/player/553993,Eugenio Suarez,Suarez E,Seattle Mariners,Seattle Mariners,Eugenio Suarez,Eugenio Alejandro Suarez
+147,621020,Swanson_Dansby,https://www.mlb.com/player/621020,Dansby Swanson,Swanson,Atlanta Braves,Atlanta Braves,Dansby Swanson,James Dansby Swanson
+148,592791,Taillon_Jameson,https://www.mlb.com/player/592791,Jameson Taillon,Taillon,New York Yankees,New York Yankees,Jameson Taillon,Jameson Lee Taillon
+149,642133,Tellez_Rowdy,https://www.mlb.com/player/642133,Rowdy Tellez,Tellez,Milwaukee Brewers,Milwaukee Brewers,Rowdy Tellez,Ryan John Tellez
+150,657041,Thomas_Lane,https://www.mlb.com/player/657041,Lane Thomas,Thomas L,Washington Nationals,Washington Nationals,Lane Thomas,Lane Michael Thomas
+151,650402,Torres_Gleyber,https://www.mlb.com/player/650402,Gleyber Torres,Torres,New York Yankees,New York Yankees,Gleyber Torres,Gleyber David Torres
+152,663656,Tucker_Kyle,https://www.mlb.com/player/663656,Kyle Tucker,Tucker,Houston Astros,Houston Astros,Kyle Tucker,Kyle Daniel Tucker
+153,607208,Turner_Justin,https://www.mlb.com/player/607208,Justin Turner,Turner,Los Angeles Dodgers,Los Angeles Dodgers,Trea Turner,Trea Vance Turner
+154,607208,Turner_Trea,https://www.mlb.com/player/607208,Trea Turner,Turner,Los Angeles Dodgers,Los Angeles Dodgers,Trea Turner,Trea Vance Turner
+155,628711,Urias_Julio,https://www.mlb.com/player/628711,Julio Urias,Urias J,Los Angeles Dodgers,Los Angeles Dodgers,Julio Urias,Julio Cesar Urias
+156,664353,Urquidy_Jose,https://www.mlb.com/player/664353,Jose Urquidy,Urquidy,Houston Astros,Houston Astros,Jose Urquidy,Jose Luis Urquidy
+157,570482,Urshela_Gio,https://www.mlb.com/player/570482,Gio Urshela,Urshela,Minnesota Twins,Minnesota Twins,Gio Urshela,Giovanny Urshela
+158,664285,Valdez_Framber,https://www.mlb.com/player/664285,Framber Valdez,Valdez F,Houston Astros,Houston Astros,Framber Valdez,Framber Valdez
+159,662139,Varsho_Daulton,https://www.mlb.com/player/662139,Daulton Varsho,Varsho,Arizona Diamondbacks,Arizona Diamondbacks,Daulton Varsho,Daulton Varsho
+160,683734,Vaughn_Andrew,https://www.mlb.com/player/683734,Andrew Vaughn,Vaughn,Chicago White Sox,Chicago White Sox,Andrew Vaughn,Andrew Clayton Vaughn
+161,657077,Verdugo_Alex,https://www.mlb.com/player/657077,Alex Verdugo,Verdugo,Boston Red Sox,Boston Red Sox,Alex Verdugo,Alexander Brady Verdugo
+162,434378,Verlander_Justin,https://www.mlb.com/player/434378,Justin Verlander,Verlander,Houston Astros,Houston Astros,Justin Verlander,Justin Brooks Verlander
+163,572228,Voit_III_Luke,https://www.mlb.com/player/572228,Luke Voit III,Voit,San Diego Padres,Washington Nationals,Luke Voit,Louis Linwood Voit
+164,425794,Wainwright_Adam,https://www.mlb.com/player/425794,Adam Wainwright,Wainwright,St. Louis Cardinals,St. Louis Cardinals,Adam Wainwright,Adam Parrish Wainwright
+165,572233,Walker_Christian,https://www.mlb.com/player/572233,Christian Walker,Walker C,Arizona Diamondbacks,Arizona Diamondbacks,Christian Walker,Christian Dickson Walker
+166,621493,Ward_Taylor,https://www.mlb.com/player/621493,Taylor Ward,Ward,Los Angeles Angels,Los Angeles Angels,Taylor Ward,Joseph Taylor Ward
+167,657277,Webb_Logan,https://www.mlb.com/player/657277,Logan Webb,Webb,San Francisco Giants,San Francisco Giants,Logan Webb,Logan T. Webb
+168,608385,Winker_Jesse,https://www.mlb.com/player/608385,Jesse Winker,Winker,Seattle Mariners,Seattle Mariners,Jesse Winker,Jesse Winker
+169,621550,Wisdom_Patrick,https://www.mlb.com/player/621550,Patrick Wisdom,Wisdom,Chicago Cubs,Chicago Cubs,Patrick Wisdom,Patrick Ian-Cashel Wisdom
+170,677951,Witt_Jr_Bobby,https://www.mlb.com/player/677951,Bobby Witt Jr,Witt Jr.,Kansas City Royals,Kansas City Royals,Bobby Witt Jr.,Robert Andrew Witt Jr.
+171,657140,Wright_Kyle,https://www.mlb.com/player/657140,Kyle Wright,Wright,Atlanta Braves,Atlanta Braves,Kyle Wright,Kyle Hardy Wright
+172,573262,Yastrzemski_Mike,https://www.mlb.com/player/573262,Mike Yastrzemski,Yastrzemski,San Francisco Giants,San Francisco Giants,Mike Yastrzemski,Michael Andrew Yastrzemski
+173,592885,Yelich_Christian,https://www.mlb.com/player/592885,Christian Yelich,Yelich,Milwaukee Brewers,Milwaukee Brewers,Christian Yelich,Christian Stephen Yelich

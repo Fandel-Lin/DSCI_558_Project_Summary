@@ -1,0 +1,14 @@
+# Player belongs to which team?
+query = """
+SELECT ?player_name ?team_name
+WHERE {
+    ?player <http://dsci558.org/ontology/belong_to_team> ?team.
+    ?player <http://schema.org/name> ?player_name.
+    ?team <http://schema.org/name> ?team_name.
+}
+"""
+
+# Can use either text or table to visualize
+qres = gg.query(query)
+for row in qres:
+    print(row.player_name, '-(belongs to team)->', row.team_name)
