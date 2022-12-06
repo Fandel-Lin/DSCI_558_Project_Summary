@@ -2,7 +2,7 @@
 author:
 - Fandel Lin fandel.lin@usc.edu
 - Zihao Han zihaohan@usc.edu
-subtitle: October 2022
+date: October 2022
 title: "Project Proposal: Baseball KG"
 ---
 
