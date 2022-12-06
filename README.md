@@ -1,3 +1,12 @@
+---
+author:
+- Fandel Lin fandel.lin@usc.edu
+- Zihao Han zihaohan@usc.edu
+date: October 2022
+title: "Project Summary: Baseball KG"
+---
+
+
 # MLB-Knowledge-Graph
 MLB-Knowledge-Graph for DSCI 558
 
@@ -19,13 +28,6 @@ Thanks for visiting!
 
 ======
 
----
-author:
-- Fandel Lin fandel.lin@usc.edu
-- Zihao Han zihaohan@usc.edu
-date: October 2022
-title: "Project Proposal: Baseball KG"
----
 
 # Project Domain and Goal
 
