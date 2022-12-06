@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Houston Astros,MLB,Bases Empty,334,316,,82,30,0,3,3,15,43,,,3,.259,.299,.383,.682
+Houston Astros,MLB,Bases Loaded,18,14,,1,0,0,0,7,3,2,,,0,.071,.222,.071,.293
+Houston Astros,MLB,Runner at 1st,106,98,,21,2,0,5,11,7,12,,,1,.214,.274,.388,.662
+Houston Astros,MLB,Runners at 1st & 2nd,44,42,,6,2,0,0,4,2,9,,,0,.143,.182,.190,.372
+Houston Astros,MLB,Runners at 1st & 3rd,18,17,,3,1,0,0,5,1,2,,,0,.176,.222,.235,.457
+Houston Astros,MLB,Runner at 2nd,37,36,,14,4,0,0,11,0,2,,,1,.389,.405,.500,.905
+Houston Astros,MLB,Runners at 2nd & 3rd,14,13,,3,0,0,0,7,1,3,,,0,.231,.286,.231,.517
+Houston Astros,MLB,Runner at 3rd,13,9,,2,1,0,0,5,1,0,,,1,.222,.308,.333,.641
+Houston Astros,MLB,Scoring Position,144,131,,29,8,0,0,39,8,18,,,2,.221,.271,.282,.553

@@ -1,0 +1,12 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Buffalo Bisons,Triple-A,Home Games,1,0,0,0,0,0,0,0,1,0,0,0,0,.000,1.000,.000,1.000
+Dunedin Blue Jays,Class A Advanced,Home Games,4,4,1,1,0,0,0,0,0,0,0,0,0,.250,.250,.250,.500
+Buffalo Bisons,Triple-A,Away Games,33,30,7,11,1,0,3,8,3,2,1,0,0,.367,.424,.700,1.124
+Dunedin Blue Jays,Class A Advanced,Away Games,13,11,1,3,1,0,0,1,1,2,0,0,1,.273,.385,.364,.749
+Buffalo Bisons,Triple-A,Day Games,14,13,3,5,0,0,1,2,1,0,0,0,0,.385,.429,.615,1.044
+Buffalo Bisons,Triple-A,Night Games,20,17,4,6,1,0,2,6,3,2,1,0,0,.353,.450,.765,1.215
+Dunedin Blue Jays,Class A Advanced,Night Games,17,15,2,4,1,0,0,1,1,2,0,0,1,.267,.353,.333,.686
+Buffalo Bisons,Triple-A,Leading Off,4,3,,1,0,0,0,0,1,0,,,0,.333,.500,.333,.833
+Dunedin Blue Jays,Class A Advanced,Leading Off,4,3,,1,0,0,0,0,0,0,,,1,.333,.500,.333,.833
+Buffalo Bisons,Triple-A,Late / Close,3,3,,1,0,0,1,1,0,0,,,0,.333,.333,1.333,1.666
+Dunedin Blue Jays,Class A Advanced,Late / Close,1,1,,0,0,0,0,0,0,1,,,0,.000,.000,.000,.000

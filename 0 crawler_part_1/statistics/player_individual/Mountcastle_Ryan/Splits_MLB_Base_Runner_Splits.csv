@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Baltimore Orioles,MLB,Bases Empty,342,313,,73,11,0,13,13,27,93,,,2,.233,.298,.393,.691
+Baltimore Orioles,MLB,Bases Loaded,12,11,,3,0,0,0,6,0,2,,,0,.273,.250,.273,.523
+Baltimore Orioles,MLB,Runner at 1st,110,102,,32,12,0,6,20,7,22,,,1,.314,.364,.608,.972
+Baltimore Orioles,MLB,Runners at 1st & 2nd,41,40,,7,3,0,0,8,1,12,,,0,.175,.195,.250,.445
+Baltimore Orioles,MLB,Runners at 1st & 3rd,18,14,,3,0,0,1,10,0,4,,,0,.214,.167,.429,.596
+Baltimore Orioles,MLB,Runner at 2nd,51,49,,10,1,1,2,10,1,16,,,1,.204,.235,.388,.623
+Baltimore Orioles,MLB,Runners at 2nd & 3rd,15,10,,5,0,0,0,10,4,1,,,0,.500,.600,.500,1.100
+Baltimore Orioles,MLB,Runner at 3rd,20,16,,6,1,0,0,8,3,4,,,0,.375,.450,.438,.888
+Baltimore Orioles,MLB,Scoring Position,157,140,,34,5,1,3,52,9,39,,,1,.243,.280,.357,.637

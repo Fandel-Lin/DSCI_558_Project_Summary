@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Minnesota Twins,MLB,Home Games,277,252,30,78,12,2,7,34,20,45,0,0,1,.310,.357,.456,.813
+Minnesota Twins,MLB,Away Games,274,249,31,65,15,1,6,30,21,51,1,0,1,.261,.318,.402,.720
+Minnesota Twins,MLB,Day Games,208,192,17,49,9,0,5,21,13,30,1,0,0,.255,.298,.380,.678
+Minnesota Twins,MLB,Night Games,343,309,44,94,18,3,8,43,28,66,0,0,2,.304,.362,.460,.822
+Minnesota Twins,MLB,Leading Off,128,116,,43,10,2,2,2,12,13,,,0,.371,.430,.543,.973
+Minnesota Twins,MLB,Late / Close,68,59,,16,2,0,3,11,7,8,,,1,.271,.353,.458,.811

@@ -1,0 +1,19 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Kansas City Royals,MLB,Bases Empty,257,244,,59,10,1,5,5,13,38,,,0,.242,.280,.352,.632
+Toronto Blue Jays,MLB,Bases Empty,74,70,,23,4,0,3,3,4,11,,,0,.329,.365,.514,.879
+Toronto Blue Jays,MLB,Bases Loaded,3,3,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+Kansas City Royals,MLB,Bases Loaded,5,4,,1,0,0,0,3,0,2,,,0,.250,.200,.250,.450
+Kansas City Royals,MLB,Runner at 1st,74,69,,14,4,0,1,3,5,10,,,0,.203,.257,.304,.561
+Toronto Blue Jays,MLB,Runner at 1st,24,21,,5,0,0,1,2,3,7,,,0,.238,.333,.381,.714
+Toronto Blue Jays,MLB,Runners at 1st & 2nd,10,10,,1,0,0,1,3,0,2,,,0,.100,.100,.400,.500
+Kansas City Royals,MLB,Runners at 1st & 2nd,27,25,,8,4,0,0,10,2,1,,,0,.320,.370,.480,.850
+Toronto Blue Jays,MLB,Runners at 1st & 3rd,6,6,,2,1,0,0,3,0,1,,,0,.333,.333,.500,.833
+Kansas City Royals,MLB,Runners at 1st & 3rd,6,5,,2,1,0,0,3,1,1,,,0,.400,.500,.600,1.100
+Toronto Blue Jays,MLB,Runner at 2nd,8,7,,1,0,0,0,1,1,3,,,0,.143,.250,.143,.393
+Kansas City Royals,MLB,Runner at 2nd,34,26,,4,2,0,0,4,8,8,,,0,.154,.353,.231,.584
+Kansas City Royals,MLB,Runners at 2nd & 3rd,8,5,,2,1,0,0,9,0,0,,,0,.400,.250,.600,.850
+Toronto Blue Jays,MLB,Runners at 2nd & 3rd,3,2,,1,0,0,0,3,0,0,,,0,.500,.333,.500,.833
+Kansas City Royals,MLB,Runner at 3rd,9,5,,2,1,0,0,5,1,1,,,0,.400,.333,.600,.933
+Toronto Blue Jays,MLB,Runner at 3rd,2,2,,1,0,0,0,1,0,0,,,0,.500,.500,.500,1.000
+Toronto Blue Jays,MLB,Scoring Position,32,30,,6,1,0,1,11,1,6,,,0,.200,.219,.333,.552
+Kansas City Royals,MLB,Scoring Position,89,70,,19,9,0,0,34,12,13,,,0,.271,.348,.400,.748

@@ -1,0 +1,8 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+ACL D-backs,Rookie,Home Games,3,2,0,0,0,0,0,0,1,1,0,0,0,.000,.333,.000,.333
+Reno Aces,Triple-A,Home Games,7,6,2,2,0,0,0,2,1,2,0,0,0,.333,.429,.333,.762
+Reno Aces,Triple-A,Away Games,7,7,0,0,0,0,0,0,0,3,0,0,0,.000,.000,.000,.000
+Reno Aces,Triple-A,Day Games,4,3,2,2,0,0,0,2,1,1,0,0,0,.667,.750,.667,1.417
+ACL D-backs,Rookie,Night Games,3,2,0,0,0,0,0,0,1,1,0,0,0,.000,.333,.000,.333
+Reno Aces,Triple-A,Night Games,10,10,0,0,0,0,0,0,0,4,0,0,0,.000,.000,.000,.000
+Reno Aces,Triple-A,Leading Off,3,2,,0,0,0,0,0,1,0,,,0,.000,.333,.000,.333

@@ -1,0 +1,13 @@
+Team,L,Type,W,L,ERA,G,GS,SV,IP,BF,H,R,ER,HR,BB,SO,WHIP
+Memphis Redbirds,Triple-A,Home Games,0,0,0.00,1,1,0,4.0,16,3,0,0,0,2,4,1.25
+Springfield Cardinals,Double-A,Home Games,1,0,0.00,2,2,0,7.0,24,3,0,0,0,0,6,0.43
+Palm Beach Cardinals,Class A Advanced,Home Games,0,0,0.00,2,2,0,3.0,9,1,0,0,0,0,5,0.33
+Memphis Redbirds,Triple-A,Away Games,1,0,0.00,1,1,0,5.0,20,5,0,0,0,2,7,1.40
+Springfield Cardinals,Double-A,Away Games,0,0,0.00,1,1,0,3.0,12,2,0,0,0,0,3,0.67
+Springfield Cardinals,Double-A,Day Games,1,0,0.00,2,2,0,7.0,24,3,0,0,0,0,6,0.43
+Memphis Redbirds,Triple-A,Night Games,1,0,0.00,2,2,0,9.0,36,8,0,0,0,4,11,1.33
+Springfield Cardinals,Double-A,Night Games,0,0,0.00,1,1,0,3.0,12,2,0,0,0,0,3,0.67
+Palm Beach Cardinals,Class A Advanced,Night Games,0,0,0.00,2,2,0,3.0,9,1,0,0,0,0,5,0.33
+Memphis Redbirds,Triple-A,Leading Off,,,,2,,,2.2,9,1,,,0,0,2,0.38
+Springfield Cardinals,Double-A,Leading Off,,,,3,,,3.1,10,0,,,0,0,4,0.00
+Palm Beach Cardinals,Class A Advanced,Leading Off,,,,2,,,0.2,3,1,,,0,0,1,1.50

@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Minnesota Twins,MLB,Bases Empty,297,272,,82,15,3,7,7,24,54,,,1,.301,.360,.456,.816
+Minnesota Twins,MLB,Bases Loaded,13,9,,3,1,0,0,10,0,0,,,0,.333,.231,.444,.675
+Minnesota Twins,MLB,Runner at 1st,110,103,,28,8,0,0,5,6,18,,,1,.272,.318,.350,.668
+Minnesota Twins,MLB,Runners at 1st & 2nd,41,37,,9,2,0,1,9,4,4,,,0,.243,.317,.378,.695
+Minnesota Twins,MLB,Runners at 1st & 3rd,20,20,,10,1,0,1,15,0,3,,,0,.500,.500,.700,1.200
+Minnesota Twins,MLB,Runner at 2nd,39,35,,6,0,0,3,7,4,9,,,0,.171,.256,.429,.685
+Minnesota Twins,MLB,Runners at 2nd & 3rd,17,14,,2,0,0,1,7,1,5,,,0,.143,.176,.357,.533
+Minnesota Twins,MLB,Runner at 3rd,14,11,,3,0,0,0,4,2,3,,,0,.273,.357,.273,.630
+Minnesota Twins,MLB,Scoring Position,144,126,,33,4,0,6,52,11,24,,,0,.262,.306,.437,.743

@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Toledo Mud Hens,Triple-A,Home Games,8,6,0,1,0,0,0,0,2,0,0,0,0,.167,.375,.167,.542
+Toledo Mud Hens,Triple-A,Away Games,3,3,0,1,1,0,0,0,0,0,0,0,0,.333,.333,.667,1.000
+West Michigan Whitecaps,High-A,Away Games,9,7,2,3,1,0,0,0,2,0,0,0,0,.429,.556,.571,1.127
+Toledo Mud Hens,Triple-A,Day Games,3,3,0,1,1,0,0,0,0,0,0,0,0,.333,.333,.667,1.000
+Toledo Mud Hens,Triple-A,Night Games,8,6,0,1,0,0,0,0,2,0,0,0,0,.167,.375,.167,.542
+West Michigan Whitecaps,High-A,Night Games,9,7,2,3,1,0,0,0,2,0,0,0,0,.429,.556,.571,1.127
+Toledo Mud Hens,Triple-A,Leading Off,3,3,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+West Michigan Whitecaps,High-A,Leading Off,1,0,,0,0,0,0,0,1,0,,,0,.000,1.000,.000,1.000
+Toledo Mud Hens,Triple-A,Late / Close,1,1,,1,1,0,0,0,0,0,,,0,1.000,1.000,2.000,3.000

@@ -1,0 +1,11 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Boston Red Sox,MLB,First Inning,93,85,9,22,5,0,2,12,5,19,0,0,1,.259,.301,.388,.689
+Boston Red Sox,MLB,Second Inning,56,46,9,13,4,0,1,2,10,14,0,0,0,.283,.411,.435,.846
+Boston Red Sox,MLB,Third Inning,58,53,6,16,3,1,4,9,4,13,0,0,1,.302,.362,.623,.985
+Boston Red Sox,MLB,Fourth Inning,85,77,8,18,7,0,2,7,8,19,0,0,0,.234,.306,.403,.709
+Boston Red Sox,MLB,Fifth Inning,53,47,12,14,5,0,4,8,5,15,0,0,0,.298,.365,.660,1.025
+Boston Red Sox,MLB,Sixth Inning,73,67,10,19,6,0,0,4,5,23,0,0,0,.284,.329,.373,.702
+Boston Red Sox,MLB,Seventh Inning,49,46,7,13,3,0,0,1,2,11,0,0,0,.283,.306,.348,.654
+Boston Red Sox,MLB,Eighth Inning,81,71,11,21,7,0,2,10,8,20,0,0,2,.296,.383,.479,.862
+Boston Red Sox,MLB,Ninth Inning,40,35,3,9,3,0,1,7,5,10,0,0,0,.257,.350,.429,.779
+Boston Red Sox,MLB,Extra Innings,8,6,1,1,0,0,0,2,0,1,0,0,1,.167,.250,.167,.417

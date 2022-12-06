@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Kansas City Royals,MLB,Home Games,306,281,52,81,17,4,8,40,19,49,21,5,3,.288,.337,.463,.800
+Kansas City Royals,MLB,Away Games,326,310,30,69,14,2,12,40,11,86,9,2,3,.223,.255,.397,.652
+Kansas City Royals,MLB,Day Games,273,251,38,66,17,0,4,20,17,57,12,5,3,.263,.315,.378,.693
+Kansas City Royals,MLB,Night Games,359,340,44,84,14,6,16,60,13,78,18,2,3,.247,.279,.465,.744
+Kansas City Royals,MLB,Leading Off,112,108,,24,2,0,3,3,4,20,,,0,.222,.250,.324,.574
+Kansas City Royals,MLB,Late / Close,69,63,,22,7,0,3,13,5,12,,,1,.349,.406,.603,1.009

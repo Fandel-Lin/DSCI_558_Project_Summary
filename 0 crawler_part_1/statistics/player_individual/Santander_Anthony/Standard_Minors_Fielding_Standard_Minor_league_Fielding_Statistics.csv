@@ -1,0 +1,60 @@
+Season,Tm,LG,L,POS,G,GS,INN,TC,PO,A,E,DP,RF,FPCT%
+2012,AZL Indians,AZL,ROK,LF,31,30,252.0,42,39,3,0,0,,1.000
+2012,AZL Indians,AZL,ROK,RF,9,8,67.0,11,10,1,0,1,,1.000
+2012,AZL Indians,AZL,ROK,DH,4,4,0.0,0,0,0,0,0,,.000
+2013,Lake County Captains,MID,A(Full),RF,61,61,515.2,122,111,6,5,1,,.959
+2014,Lake County Captains,MID,A(Full),DH,43,43,0.0,0,0,0,0,0,,.000
+2015,2 Teams,,Minors,DH,14,13,0.0,0,0,0,0,0,,.000
+2015,2 Teams,,Minors,RF,13,13,111.0,23,22,1,0,0,,1.000
+2015,Mahoning Valley Scrappers,NYP,A(Short),RF,3,3,24.0,6,6,0,0,0,,1.000
+2015,Mahoning Valley Scrappers,NYP,A(Short),DH,5,5,0.0,0,0,0,0,0,,.000
+2015,Lake County Captains,MID,A(Full),LF,45,44,379.0,64,59,3,2,3,,.969
+2015,Lake County Captains,MID,A(Full),RF,10,10,87.0,17,16,1,0,0,,1.000
+2015,Lake County Captains,MID,A(Full),DH,9,8,0.0,0,0,0,0,0,,.000
+2016,Lynchburg Hillcats,CAR,A(Adv),1B,9,9,79.0,82,80,1,1,5,,.988
+2016,Lynchburg Hillcats,CAR,A(Adv),LF,67,67,581.2,92,88,2,2,0,,.978
+2016,Lynchburg Hillcats,CAR,A(Adv),RF,8,8,71.0,11,11,0,0,0,,1.000
+2016,Lynchburg Hillcats,CAR,A(Adv),DH,44,44,0.0,0,0,0,0,0,,.000
+2017,2 Teams,,Minors,RF,7,7,62.0,8,7,1,0,0,,1.000
+2017,Frederick Keys,CAR,A(Adv),RF,1,1,9.0,0,0,0,0,0,,.000
+2017,Bowie Baysox,EAS,AA,LF,4,4,29.0,3,3,0,0,0,,1.000
+2017,Bowie Baysox,EAS,AA,RF,6,6,53.0,8,7,1,0,0,,1.000
+2017,Bowie Baysox,EAS,AA,DH,4,4,0.0,0,0,0,0,0,,.000
+2018,2 Teams,,Minors,LF,16,16,135.0,27,27,0,0,0,,1.000
+2018,3 Teams,,Minors,RF,48,47,391.1,85,82,3,0,1,,1.000
+2018,3 Teams,,Minors,DH,8,8,0.0,0,0,0,0,0,,.000
+2018,Aberdeen IronBirds,NYP,A(Short),RF,5,5,38.0,5,4,1,0,0,,1.000
+2018,Aberdeen IronBirds,NYP,A(Short),DH,2,2,0.0,0,0,0,0,0,,.000
+2018,Bowie Baysox,EAS,AA,LF,14,14,119.0,24,24,0,0,0,,1.000
+2018,Bowie Baysox,EAS,AA,RF,35,34,283.1,63,62,1,0,0,,1.000
+2018,Bowie Baysox,EAS,AA,DH,5,5,0.0,0,0,0,0,0,,.000
+2018,Norfolk Tides,INT,AAA,LF,2,2,16.0,3,3,0,0,0,,1.000
+2018,Norfolk Tides,INT,AAA,RF,8,8,70.0,17,16,1,0,1,,1.000
+2018,Norfolk Tides,INT,AAA,DH,1,1,0.0,0,0,0,0,0,,.000
+2019,Norfolk Tides,INT,AAA,LF,8,8,67.0,14,13,1,0,0,,1.000
+2019,Norfolk Tides,INT,AAA,RF,35,35,294.0,85,80,2,3,0,,.965
+2019,Norfolk Tides,INT,AAA,DH,5,4,0.0,0,0,0,0,0,,.000
+2021,Bowie Baysox,EAS,AA,RF,2,2,14.0,4,4,0,0,0,,1.000
+2021,Bowie Baysox,EAS,AA,DH,1,1,0.0,0,0,0,0,0,,.000
+,AZL Indians Red,AZL,ROK,LF,31,30,252.0,42,39,3,0,0,,1.000
+,AZL Indians Red,AZL,ROK,RF,9,8,67.0,11,10,1,0,1,,1.000
+,AZL Indians Red,AZL,ROK,DH,4,4,0.0,0,0,0,0,0,,.000
+,Norfolk Tides,INT,AAA,LF,10,10,83.0,17,16,1,0,0,,1.000
+,Norfolk Tides,INT,AAA,RF,43,43,364.0,102,96,3,3,1,,.971
+,Norfolk Tides,INT,AAA,DH,6,5,0.0,0,0,0,0,0,,.000
+,Bowie Baysox,EAS,AA,LF,18,18,148.0,27,27,0,0,0,,1.000
+,Bowie Baysox,EAS,AA,RF,43,42,350.1,75,73,2,0,0,,1.000
+,Bowie Baysox,EAS,AA,DH,10,10,0.0,0,0,0,0,0,,.000
+,Lynchburg Hillcats,CAR,A+,1B,9,9,79.0,82,80,1,1,5,,.988
+,Lynchburg Hillcats,CAR,A+,LF,67,67,581.2,92,88,2,2,0,,.978
+,2 Teams,,A+,RF,9,9,80.0,11,11,0,0,0,,1.000
+,Lynchburg Hillcats,CAR,A+,DH,44,44,0.0,0,0,0,0,0,,.000
+,Lake County Captains,MID,A,LF,45,44,379.0,64,59,3,2,3,,.969
+,Lake County Captains,MID,A,RF,71,71,602.2,139,127,7,5,1,,.964
+,Lake County Captains,MID,A,DH,52,51,0.0,0,0,0,0,0,,.000
+,2 Teams,,A(Short),RF,8,8,62.0,11,10,1,0,0,,1.000
+,2 Teams,,A(Short),DH,7,7,0.0,0,0,0,0,0,,.000
+,1 Teams,,Minors,1B,9,9,79.0,82,80,1,1,5,,.988
+,5 Teams,,Minors,LF,171,169,1443.2,242,229,9,4,3,,.983
+,4 Teams,,Minors,RF,166,164,1384.0,327,306,13,8,3,,.976
+Career Minors,5 Teams,,,DH,116,114,0.0,0,0,0,0,0,,.000

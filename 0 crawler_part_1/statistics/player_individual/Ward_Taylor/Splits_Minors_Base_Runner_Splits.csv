@@ -1,0 +1,13 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+ACL Angels,Rookie,Bases Empty,6,5,,1,1,0,0,0,1,1,,,0,.200,.333,.400,.733
+Salt Lake Bees,Triple-A,Bases Empty,39,32,,16,5,0,4,4,6,8,,,1,.500,.590,1.031,1.621
+Salt Lake Bees,Triple-A,Bases Loaded,2,2,,1,1,0,0,3,0,0,,,0,.500,.500,1.000,1.500
+ACL Angels,Rookie,Runner at 1st,1,1,,0,0,0,0,0,0,1,,,0,.000,.000,.000,.000
+Salt Lake Bees,Triple-A,Runner at 1st,7,7,,3,2,0,0,0,0,1,,,0,.429,.429,.714,1.143
+Salt Lake Bees,Triple-A,Runners at 1st & 2nd,4,3,,1,1,0,0,2,1,2,,,0,.333,.500,.667,1.167
+Salt Lake Bees,Triple-A,Runners at 1st & 3rd,1,0,,0,0,0,0,0,1,0,,,0,.000,1.000,.000,1.000
+ACL Angels,Rookie,Runner at 2nd,1,1,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+Salt Lake Bees,Triple-A,Runner at 2nd,5,4,,0,0,0,0,0,1,1,,,0,.000,.200,.000,.200
+Salt Lake Bees,Triple-A,Runner at 3rd,1,1,,0,0,0,0,1,0,0,,,0,.000,.000,.000,.000
+ACL Angels,Rookie,Scoring Position,1,1,,0,0,0,0,0,0,0,,,0,.000,.000,.000,.000
+Salt Lake Bees,Triple-A,Scoring Position,13,10,,2,2,0,0,6,3,3,,,0,.200,.385,.400,.785

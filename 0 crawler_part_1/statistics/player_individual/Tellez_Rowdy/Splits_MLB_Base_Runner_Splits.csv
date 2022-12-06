@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Milwaukee Brewers,MLB,Bases Empty,339,304,,69,9,0,19,19,32,67,,,3,.227,.307,.444,.751
+Milwaukee Brewers,MLB,Bases Loaded,10,10,,2,1,0,1,6,0,0,,,0,.200,.200,.600,.800
+Milwaukee Brewers,MLB,Runner at 1st,120,115,,18,4,0,8,19,5,28,,,0,.157,.192,.400,.592
+Milwaukee Brewers,MLB,Runners at 1st & 2nd,37,33,,10,5,0,1,15,4,6,,,0,.303,.378,.545,.923
+Milwaukee Brewers,MLB,Runners at 1st & 3rd,13,9,,5,1,0,1,9,2,1,,,1,.556,.615,1.000,1.615
+Milwaukee Brewers,MLB,Runner at 2nd,57,42,,6,1,0,3,8,14,15,,,1,.143,.368,.381,.749
+Milwaukee Brewers,MLB,Runners at 2nd & 3rd,14,8,,1,0,0,1,6,4,3,,,0,.125,.357,.500,.857
+Milwaukee Brewers,MLB,Runner at 3rd,9,8,,5,2,0,1,7,1,1,,,0,.625,.667,1.250,1.917
+Milwaukee Brewers,MLB,Scoring Position,140,110,,29,10,0,8,51,25,26,,,2,.264,.400,.573,.973

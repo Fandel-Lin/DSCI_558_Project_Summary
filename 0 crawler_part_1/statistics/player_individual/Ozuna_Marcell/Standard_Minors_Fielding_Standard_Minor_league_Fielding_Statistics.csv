@@ -1,0 +1,63 @@
+Season,Tm,LG,L,POS,G,GS,INN,TC,PO,A,E,DP,RF,FPCT%
+2008,DSL Marlins,DSL,ROK,1B,1,0,1.2,2,2,0,0,0,,1.000
+2008,DSL Marlins,DSL,ROK,LF,2,2,14.0,2,1,1,0,0,,1.000
+2008,DSL Marlins,DSL,ROK,CF,14,11,106.0,16,16,0,0,0,,1.000
+2008,DSL Marlins,DSL,ROK,RF,48,48,406.1,93,83,6,4,1,,.957
+2008,DSL Marlins,DSL,ROK,DH,1,1,0.0,0,0,0,0,0,,.000
+2009,GCL Marlins,GCL,ROK,LF,1,1,9.0,1,1,0,0,0,,1.000
+2009,GCL Marlins,GCL,ROK,RF,53,53,463.1,96,87,5,4,2,,.958
+2009,GCL Marlins,GCL,ROK,DH,1,1,0.0,0,0,0,0,0,,.000
+2010,2 Teams,,Minors,RF,52,51,437.2,109,98,7,4,2,,.963
+2010,2 Teams,,Minors,CF,9,9,70.0,18,18,0,0,0,,1.000
+2010,2 Teams,,Minors,RF,52,51,437.2,109,98,7,4,2,,.963
+2010,2 Teams,,Minors,CF,9,9,70.0,18,18,0,0,0,,1.000
+2010,Jamestown Jammers,NYP,A(Short),LF,3,3,26.0,7,6,1,0,1,,1.000
+2010,Jamestown Jammers,NYP,A(Short),CF,8,8,64.0,16,16,0,0,0,,1.000
+2010,Jamestown Jammers,NYP,A(Short),RF,46,46,393.2,98,89,6,3,1,,.969
+2010,Jamestown Jammers,NYP,A(Short),DH,11,11,0.0,0,0,0,0,0,,.000
+2010,Greensboro Grasshoppers,SAL,A(Full),CF,1,1,6.0,2,2,0,0,0,,1.000
+2010,Greensboro Grasshoppers,SAL,A(Full),RF,6,5,44.0,11,9,1,1,1,,.909
+2011,Greensboro Grasshoppers,SAL,A(Full),CF,1,0,1.0,0,0,0,0,0,,.000
+2011,Greensboro Grasshoppers,SAL,A(Full),RF,125,122,1063.0,302,278,14,10,5,,.967
+2011,Greensboro Grasshoppers,SAL,A(Full),DH,6,6,0.0,0,0,0,0,0,,.000
+2012,Jupiter Hammerheads,FSL,A(Adv),LF,1,1,9.0,1,1,0,0,0,,1.000
+2012,Jupiter Hammerheads,FSL,A(Adv),CF,14,13,113.0,32,30,1,1,1,,.969
+2012,Jupiter Hammerheads,FSL,A(Adv),RF,107,103,894.0,257,245,9,3,1,,.988
+2012,Jupiter Hammerheads,FSL,A(Adv),DH,7,6,0.0,0,0,0,0,0,,.000
+2013,2 Teams,,Minors,RF,14,14,130.1,23,23,0,0,0,,1.000
+2013,2 Teams,,Minors,RF,14,14,130.1,23,23,0,0,0,,1.000
+2013,Jupiter Hammerheads,FSL,A(Adv),RF,4,4,36.0,6,6,0,0,0,,1.000
+2013,Jacksonville Suns,SOU,AA,RF,10,10,94.1,17,17,0,0,0,,1.000
+2015,New Orleans Zephyrs,PCL,AAA,CF,29,29,251.0,71,67,2,2,1,,.972
+2015,New Orleans Zephyrs,PCL,AAA,DH,2,2,0.0,0,0,0,0,0,,.000
+2019,Memphis Redbirds,PCL,AAA,LF,3,3,19.0,0,0,0,0,0,,.000
+,2 Teams,,ROK,LF,3,3,23.0,3,2,1,0,0,,1.000
+,2 Teams,,ROK,RF,101,101,869.2,189,170,11,8,3,,.958
+,2 Teams,,ROK,DH,2,2,0.0,0,0,0,0,0,,.000
+,DSL Marlins,DSL,ROK,1B,1,0,1.2,2,2,0,0,0,,1.000
+,DSL Marlins,DSL,ROK,CF,14,11,106.0,16,16,0,0,0,,1.000
+,Memphis Redbirds,INT,AAA,LF,3,3,19.0,0,0,0,0,0,,.000
+,New Orleans Baby Cakes,PCL,AAA,CF,29,29,251.0,71,67,2,2,1,,.972
+,New Orleans Baby Cakes,PCL,AAA,DH,2,2,0.0,0,0,0,0,0,,.000
+,Jacksonville Jumbo Shrimp,INT,AA,RF,10,10,94.1,17,17,0,0,0,,1.000
+,Jupiter Hammerheads,FSL,A+,LF,1,1,9.0,1,1,0,0,0,,1.000
+,Jupiter Hammerheads,FSL,A+,CF,14,13,113.0,32,30,1,1,1,,.969
+,Jupiter Hammerheads,FSL,A+,RF,111,107,930.0,263,251,9,3,1,,.989
+,Jupiter Hammerheads,FSL,A+,DH,7,6,0.0,0,0,0,0,0,,.000
+,Greensboro Grasshoppers,SAL,A,CF,2,1,7.0,2,2,0,0,0,,1.000
+,Greensboro Grasshoppers,SAL,A,RF,131,127,1107.0,313,287,15,11,6,,.965
+,Greensboro Grasshoppers,SAL,A,DH,6,6,0.0,0,0,0,0,0,,.000
+,Jamestown Jammers,NYP,A(Short),LF,3,3,26.0,7,6,1,0,1,,1.000
+,Jamestown Jammers,NYP,A(Short),CF,8,8,64.0,16,16,0,0,0,,1.000
+,Jamestown Jammers,NYP,A(Short),RF,46,46,393.2,98,89,6,3,1,,.969
+,Jamestown Jammers,NYP,A(Short),DH,11,11,0.0,0,0,0,0,0,,.000
+,1 Teams,,Minors,1B,1,0,1.2,2,2,0,0,0,,1.000
+,3 Teams,,Minors,LF,7,7,54.0,8,7,1,0,1,,1.000
+,5 Teams,,Minors,CF,67,62,541.0,137,131,3,3,2,,.978
+,4 Teams,,Minors,RF,298,290,2525.0,691,644,30,17,8,,.975
+,4 Teams,,Minors,DH,26,25,0.0,0,0,0,0,0,,.000
+,1 Teams,,Minors,1B,1,0,1.2,2,2,0,0,0,,1.000
+,3 Teams,,Minors,LF,7,7,54.0,8,7,1,0,1,,1.000
+,5 Teams,,Minors,CF,67,62,541.0,137,131,3,3,2,,.978
+,4 Teams,,Minors,RF,298,290,2525.0,691,644,30,17,8,,.975
+Career Minors,4 Teams,,,DH,26,25,0.0,0,0,0,0,0,,.000

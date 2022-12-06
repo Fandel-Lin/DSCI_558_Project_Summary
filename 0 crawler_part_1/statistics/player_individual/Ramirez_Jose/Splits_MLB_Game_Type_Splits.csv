@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Cleveland Guardians,MLB,Home Games,339,297,37,80,22,3,11,54,37,38,9,1,3,.269,.354,.475,.829
+Cleveland Guardians,MLB,Away Games,346,304,53,88,22,2,18,72,32,44,11,6,3,.289,.355,.553,.908
+Cleveland Guardians,MLB,Day Games,292,256,36,69,17,3,14,59,32,45,10,4,1,.270,.349,.523,.872
+Cleveland Guardians,MLB,Night Games,393,345,54,99,27,2,15,67,37,37,10,3,5,.287,.359,.507,.866
+Cleveland Guardians,MLB,Leading Off,138,124,,22,9,0,3,4,14,23,,,0,.177,.261,.323,.584
+Cleveland Guardians,MLB,Late / Close,76,57,,10,3,0,1,8,18,13,,,1,.175,.382,.281,.663

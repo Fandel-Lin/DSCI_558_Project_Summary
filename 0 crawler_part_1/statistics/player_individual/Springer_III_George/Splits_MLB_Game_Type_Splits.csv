@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Toronto Blue Jays,MLB,Home Games,307,271,48,69,8,1,15,40,27,56,8,1,5,.255,.332,.458,.790
+Toronto Blue Jays,MLB,Away Games,276,242,41,68,14,3,10,36,27,44,6,1,2,.281,.353,.488,.841
+Toronto Blue Jays,MLB,Day Games,208,182,35,52,9,0,10,30,18,31,5,2,3,.286,.354,.500,.854
+Toronto Blue Jays,MLB,Night Games,375,331,54,85,13,4,15,46,36,69,9,0,4,.257,.335,.456,.791
+Toronto Blue Jays,MLB,Leading Off,236,209,,62,13,1,12,13,23,33,,,3,.297,.374,.541,.915
+Toronto Blue Jays,MLB,Late / Close,67,59,,10,1,0,1,9,5,11,,,1,.169,.242,.237,.479

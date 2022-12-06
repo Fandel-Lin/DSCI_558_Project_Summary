@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Milwaukee Brewers,MLB,Home Games,277,238,29,56,9,0,10,36,35,63,3,2,2,.235,.336,.399,.735
+Milwaukee Brewers,MLB,Away Games,303,277,37,66,16,0,7,33,22,61,5,4,2,.238,.297,.372,.669
+Milwaukee Brewers,MLB,Day Games,214,192,27,50,8,0,8,25,19,41,2,1,2,.260,.332,.427,.759
+Milwaukee Brewers,MLB,Night Games,366,323,39,72,17,0,9,44,38,83,6,5,2,.223,.306,.359,.665
+Milwaukee Brewers,MLB,Leading Off,141,128,,32,6,0,5,5,13,29,,,0,.250,.319,.414,.733
+Milwaukee Brewers,MLB,Late / Close,71,62,,17,2,0,0,9,8,16,,,0,.274,.352,.306,.658

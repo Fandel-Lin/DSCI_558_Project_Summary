@@ -1,0 +1,12 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Rochester Red Wings,Triple-A,Home Games,13,13,2,5,1,0,1,3,0,2,0,0,0,.385,.385,.692,1.077
+Memphis Redbirds,Triple-A,Home Games,58,49,12,19,5,1,2,13,8,15,2,2,0,.388,.466,.653,1.119
+Memphis Redbirds,Triple-A,Away Games,69,64,6,11,0,1,2,7,4,20,1,0,1,.172,.232,.297,.529
+Memphis Redbirds,Triple-A,Day Games,23,22,4,5,1,0,1,5,1,4,1,0,0,.227,.261,.409,.670
+Rochester Red Wings,Triple-A,Day Games,4,4,1,1,0,0,1,1,0,1,0,0,0,.250,.250,1.000,1.250
+Memphis Redbirds,Triple-A,Night Games,104,91,14,25,4,2,3,15,11,31,2,2,1,.275,.356,.462,.818
+Rochester Red Wings,Triple-A,Night Games,9,9,1,4,1,0,0,2,0,1,0,0,0,.444,.444,.556,1.000
+Rochester Red Wings,Triple-A,Leading Off,5,5,,1,0,0,1,1,0,1,,,0,.200,.200,.800,1.000
+Memphis Redbirds,Triple-A,Leading Off,37,32,,9,1,0,1,1,5,10,,,0,.281,.378,.406,.784
+Memphis Redbirds,Triple-A,Late / Close,9,9,,1,0,0,0,0,0,2,,,0,.111,.111,.111,.222
+Rochester Red Wings,Triple-A,Late / Close,2,2,,1,0,0,0,1,0,0,,,0,.500,.500,.500,1.000

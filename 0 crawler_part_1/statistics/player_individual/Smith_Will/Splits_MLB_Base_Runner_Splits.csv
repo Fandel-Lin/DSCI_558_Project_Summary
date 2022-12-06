@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Los Angeles Dodgers,MLB,Bases Empty,282,254,,65,9,3,14,14,25,54,,,3,.256,.330,.480,.810
+Los Angeles Dodgers,MLB,Bases Loaded,11,11,,6,2,0,0,10,0,0,,,0,.545,.545,.727,1.272
+Los Angeles Dodgers,MLB,Runner at 1st,113,104,,24,7,0,5,15,8,22,,,1,.231,.292,.442,.734
+Los Angeles Dodgers,MLB,Runners at 1st & 2nd,61,55,,15,5,0,2,18,5,9,,,1,.273,.344,.473,.817
+Los Angeles Dodgers,MLB,Runners at 1st & 3rd,24,17,,9,1,0,1,14,4,3,,,1,.529,.583,.765,1.348
+Los Angeles Dodgers,MLB,Runner at 2nd,61,49,,9,2,0,1,7,10,4,,,2,.184,.344,.286,.630
+Los Angeles Dodgers,MLB,Runners at 2nd & 3rd,9,8,,1,0,0,1,3,1,3,,,0,.125,.222,.500,.722
+Los Angeles Dodgers,MLB,Runner at 3rd,17,10,,3,0,0,0,6,3,1,,,2,.300,.471,.300,.771
+Los Angeles Dodgers,MLB,Scoring Position,183,150,,43,10,0,5,58,23,20,,,6,.287,.393,.453,.846

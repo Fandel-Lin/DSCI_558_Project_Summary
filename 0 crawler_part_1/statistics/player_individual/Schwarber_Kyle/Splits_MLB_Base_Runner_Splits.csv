@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Philadelphia Phillies,MLB,Bases Empty,437,384,,84,16,3,31,31,50,139,,,3,.219,.314,.518,.832
+Philadelphia Phillies,MLB,Bases Loaded,11,9,,1,0,0,0,5,1,4,,,1,.111,.273,.111,.384
+Philadelphia Phillies,MLB,Runner at 1st,97,82,,16,1,0,7,15,15,22,,,0,.195,.320,.463,.783
+Philadelphia Phillies,MLB,Runners at 1st & 2nd,34,28,,6,0,0,3,11,6,10,,,0,.214,.353,.536,.889
+Philadelphia Phillies,MLB,Runners at 1st & 3rd,26,23,,6,1,0,3,15,2,10,,,0,.261,.308,.696,1.004
+Philadelphia Phillies,MLB,Runner at 2nd,39,33,,9,2,0,2,9,6,11,,,0,.273,.385,.515,.900
+Philadelphia Phillies,MLB,Runners at 2nd & 3rd,12,9,,2,1,0,0,5,3,2,,,0,.222,.417,.333,.750
+Philadelphia Phillies,MLB,Runner at 3rd,13,9,,2,0,0,0,3,3,2,,,0,.222,.385,.222,.607
+Philadelphia Phillies,MLB,Scoring Position,135,111,,26,4,0,8,48,21,39,,,1,.234,.356,.486,.842

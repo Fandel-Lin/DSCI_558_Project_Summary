@@ -1,0 +1,54 @@
+Season,Tm,LG,L,POS,G,GS,INN,TC,PO,A,E,DP,RF,FPCT%
+2011,AZL Indians,AZL,ROK,2B,47,46,410.2,243,102,131,10,28,,.959
+2012,2 Teams,,Minors,2B,64,64,549.1,292,113,177,2,31,,.993
+2012,2 Teams,,Minors,SS,3,3,24.0,18,5,13,0,1,,1.000
+2012,2 Teams,,Minors,2B,64,64,549.1,292,113,177,2,31,,.993
+2012,2 Teams,,Minors,SS,3,3,24.0,18,5,13,0,1,,1.000
+2012,Mahoning Valley Scrappers,NYP,A(Short),2B,2,2,18.0,9,2,7,0,0,,1.000
+2012,Mahoning Valley Scrappers,NYP,A(Short),SS,1,1,7.0,7,1,6,0,0,,1.000
+2012,Lake County Captains,MID,A(Full),2B,62,62,531.1,283,111,170,2,31,,.993
+2012,Lake County Captains,MID,A(Full),SS,2,2,17.0,11,4,7,0,1,,1.000
+2012,Lake County Captains,MID,A(Full),DH,3,3,0.0,0,0,0,0,0,,.000
+2013,Akron Aeros,EAS,AA,2B,53,52,466.2,264,104,150,10,34,,.962
+2013,Akron Aeros,EAS,AA,3B,8,8,72.0,30,8,20,2,2,,.933
+2013,Akron Aeros,EAS,AA,SS,50,48,426.1,218,70,139,9,30,,.959
+2013,Akron Aeros,EAS,AA,DH,4,4,0.0,0,0,0,0,0,,.000
+2014,Columbus Clippers,INT,AAA,2B,35,34,284.0,152,46,105,1,24,,.993
+2014,Columbus Clippers,INT,AAA,3B,1,1,10.1,1,0,1,0,0,,1.000
+2014,Columbus Clippers,INT,AAA,SS,21,19,174.1,90,32,55,3,15,,.967
+2014,Columbus Clippers,INT,AAA,LF,1,1,9.0,5,5,0,0,0,,1.000
+2014,Columbus Clippers,INT,AAA,CF,3,3,23.0,6,6,0,0,0,,1.000
+2014,Columbus Clippers,INT,AAA,DH,2,2,0.0,0,0,0,0,0,,.000
+2015,Columbus Clippers,INT,AAA,2B,28,28,246.0,142,60,79,3,20,,.979
+2015,Columbus Clippers,INT,AAA,3B,3,3,29.0,9,3,6,0,1,,1.000
+2015,Columbus Clippers,INT,AAA,SS,10,10,85.0,48,21,25,2,10,,.958
+2015,Columbus Clippers,INT,AAA,LF,2,2,18.0,6,6,0,0,0,,1.000
+2015,Columbus Clippers,INT,AAA,DH,1,1,0.0,0,0,0,0,0,,.000
+,AZL Indians Red,AZL,ROK,2B,47,46,410.2,243,102,131,10,28,,.959
+,Columbus Clippers,INT,AAA,2B,63,62,530.0,294,106,184,4,44,,.986
+,Columbus Clippers,INT,AAA,3B,4,4,39.1,10,3,7,0,1,,1.000
+,Columbus Clippers,INT,AAA,SS,31,29,259.1,138,53,80,5,25,,.964
+,Columbus Clippers,INT,AAA,LF,3,3,27.0,11,11,0,0,0,,1.000
+,Columbus Clippers,INT,AAA,CF,3,3,23.0,6,6,0,0,0,,1.000
+,Columbus Clippers,INT,AAA,DH,3,3,0.0,0,0,0,0,0,,.000
+,Akron RubberDucks,EAS,AA,2B,53,52,466.2,264,104,150,10,34,,.962
+,Akron RubberDucks,EAS,AA,3B,8,8,72.0,30,8,20,2,2,,.933
+,Akron RubberDucks,EAS,AA,SS,50,48,426.1,218,70,139,9,30,,.959
+,Akron RubberDucks,EAS,AA,DH,4,4,0.0,0,0,0,0,0,,.000
+,Lake County Captains,MID,A,2B,62,62,531.1,283,111,170,2,31,,.993
+,Lake County Captains,MID,A,SS,2,2,17.0,11,4,7,0,1,,1.000
+,Lake County Captains,MID,A,DH,3,3,0.0,0,0,0,0,0,,.000
+,Mahoning Valley Scrappers,,A(Short),2B,2,2,18.0,9,2,7,0,0,,1.000
+,Mahoning Valley Scrappers,,A(Short),SS,1,1,7.0,7,1,6,0,0,,1.000
+,5 Teams,,Minors,2B,227,224,1956.2,1093,425,642,26,137,,.976
+,2 Teams,,Minors,3B,12,12,111.1,40,11,27,2,3,,.950
+,4 Teams,,Minors,SS,84,80,709.2,374,128,232,14,56,,.963
+,1 Teams,,Minors,LF,3,3,27.0,11,11,0,0,0,,1.000
+,1 Teams,,Minors,CF,3,3,23.0,6,6,0,0,0,,1.000
+,3 Teams,,Minors,DH,10,10,0.0,0,0,0,0,0,,.000
+,5 Teams,,Minors,2B,227,224,1956.2,1093,425,642,26,137,,.976
+,2 Teams,,Minors,3B,12,12,111.1,40,11,27,2,3,,.950
+,4 Teams,,Minors,SS,84,80,709.2,374,128,232,14,56,,.963
+,1 Teams,,Minors,LF,3,3,27.0,11,11,0,0,0,,1.000
+,1 Teams,,Minors,CF,3,3,23.0,6,6,0,0,0,,1.000
+Career Minors,3 Teams,,,DH,10,10,0.0,0,0,0,0,0,,.000

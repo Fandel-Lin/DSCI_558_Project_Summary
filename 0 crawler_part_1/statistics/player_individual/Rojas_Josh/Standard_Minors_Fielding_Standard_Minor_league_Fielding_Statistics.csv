@@ -1,0 +1,86 @@
+Season,Tm,LG,L,POS,G,GS,INN,TC,PO,A,E,DP,RF,FPCT%
+2017,2 Teams,,Minors,2B,22,19,172.1,80,39,40,1,13,,.988
+2017,Quad Cities River Bandits,MID,A(Full),2B,18,15,137.1,61,32,28,1,9,,.984
+2017,Quad Cities River Bandits,MID,A(Full),3B,30,30,255.2,83,32,48,3,7,,.964
+2017,Quad Cities River Bandits,MID,A(Full),SS,3,2,22.0,6,2,3,1,3,,.833
+2017,Quad Cities River Bandits,MID,A(Full),LF,1,1,8.0,4,2,2,0,1,,1.000
+2017,Quad Cities River Bandits,MID,A(Full),DH,2,2,0.0,0,0,0,0,0,,.000
+2017,Fresno Grizzlies,PCL,AAA,2B,4,4,35.0,19,7,12,0,4,,1.000
+2018,2 Teams,,Minors,1B,20,18,166.0,158,141,15,2,16,,.987
+2018,2 Teams,,Minors,SS,10,10,77.0,31,13,18,0,6,,1.000
+2018,2 Teams,,Minors,LF,39,39,345.2,59,54,4,1,1,,.983
+2018,2 Teams,,Minors,2B,22,21,190.2,95,44,48,3,17,,.968
+2018,2 Teams,,Minors,3B,17,17,150.0,56,16,36,4,3,,.929
+2018,2 Teams,,Minors,DH,14,14,0.0,0,0,0,0,0,,.000
+2018,Buies Creek Astros,CAR,A(Adv),1B,7,7,62.0,51,45,5,1,6,,.980
+2018,Buies Creek Astros,CAR,A(Adv),2B,10,10,88.1,42,19,22,1,9,,.976
+2018,Buies Creek Astros,CAR,A(Adv),3B,1,1,9.0,4,1,2,1,0,,.750
+2018,Buies Creek Astros,CAR,A(Adv),SS,1,1,9.0,5,2,3,0,0,,1.000
+2018,Buies Creek Astros,CAR,A(Adv),LF,3,3,27.0,3,3,0,0,0,,1.000
+2018,Buies Creek Astros,CAR,A(Adv),DH,2,2,0.0,0,0,0,0,0,,.000
+2018,Corpus Christi Hooks,TEX,AA,1B,13,11,104.0,107,96,10,1,10,,.991
+2018,Corpus Christi Hooks,TEX,AA,2B,12,11,102.1,53,25,26,2,8,,.962
+2018,Corpus Christi Hooks,TEX,AA,3B,16,16,141.0,52,15,34,3,3,,.942
+2018,Corpus Christi Hooks,TEX,AA,SS,9,9,68.0,26,11,15,0,6,,1.000
+2018,Corpus Christi Hooks,TEX,AA,LF,36,36,318.2,56,51,4,1,1,,.982
+2018,Corpus Christi Hooks,TEX,AA,RF,10,10,88.0,20,18,2,0,1,,1.000
+2018,Corpus Christi Hooks,TEX,AA,DH,12,12,0.0,0,0,0,0,0,,.000
+2019,2 Teams,,Minors,RF,3,3,26.0,4,3,1,0,0,,1.000
+2019,2 Teams,,Minors,2B,45,43,386.2,192,92,98,2,31,,.990
+2019,2 Teams,,Minors,SS,17,15,128.0,65,19,46,0,6,,1.000
+2019,3 Teams,,Minors,LF,16,14,126.0,27,26,1,0,0,,1.000
+2019,3 Teams,,Minors,3B,14,12,118.2,35,9,21,5,3,,.857
+2019,Corpus Christi Hooks,TEX,AA,1B,12,12,106.0,89,80,9,0,10,,1.000
+2019,Corpus Christi Hooks,TEX,AA,2B,30,30,265.0,130,61,67,2,17,,.985
+2019,Corpus Christi Hooks,TEX,AA,3B,2,2,17.0,7,2,1,4,0,,.429
+2019,Corpus Christi Hooks,TEX,AA,LF,1,0,1.0,1,1,0,0,0,,1.000
+2019,Round Rock Express,PCL,AAA,2B,15,13,121.2,62,31,31,0,14,,1.000
+2019,Round Rock Express,PCL,AAA,3B,11,9,92.2,26,7,18,1,3,,.962
+2019,Round Rock Express,PCL,AAA,SS,15,13,110.0,57,18,39,0,6,,1.000
+2019,Round Rock Express,PCL,AAA,LF,13,12,106.0,20,19,1,0,0,,1.000
+2019,Round Rock Express,PCL,AAA,RF,1,1,9.0,1,1,0,0,0,,1.000
+2019,Round Rock Express,PCL,AAA,DH,2,2,0.0,0,0,0,0,0,,.000
+2019,Reno Aces,PCL,AAA,3B,1,1,9.0,2,0,2,0,0,,1.000
+2019,Reno Aces,PCL,AAA,SS,2,2,18.0,8,1,7,0,0,,1.000
+2019,Reno Aces,PCL,AAA,LF,2,2,19.0,6,6,0,0,0,,1.000
+2019,Reno Aces,PCL,AAA,RF,2,2,17.0,3,2,1,0,0,,1.000
+2019,2 Teams,,AAA,3B,12,10,101.2,28,7,20,1,3,,.964
+2019,2 Teams,,AAA,SS,17,15,128.0,65,19,46,0,6,,1.000
+2019,2 Teams,,AAA,LF,15,14,125.0,26,25,1,0,0,,1.000
+2019,2 Teams,,AAA,RF,3,3,26.0,4,3,1,0,0,,1.000
+2021,Reno Aces,PCL,AAA,2B,1,1,9.0,0,0,0,0,0,,.000
+2021,Reno Aces,PCL,AAA,SS,1,1,7.0,6,1,5,0,2,,1.000
+2021,Reno Aces,PCL,AAA,DH,1,1,0.0,0,0,0,0,0,,.000
+2022,Reno Aces,PCL,AAA,3B,1,1,9.0,0,0,0,0,0,,.000
+2022,Reno Aces,PCL,AAA,DH,1,1,0.0,0,0,0,0,0,,.000
+,3 Teams,,AAA,2B,20,18,165.2,81,38,43,0,18,,1.000
+,2 Teams,,AAA,3B,13,11,110.2,28,7,20,1,3,,.964
+,2 Teams,,AAA,SS,18,16,135.0,71,20,51,0,8,,1.000
+,2 Teams,,AAA,LF,15,14,125.0,26,25,1,0,0,,1.000
+,2 Teams,,AAA,RF,3,3,26.0,4,3,1,0,0,,1.000
+,2 Teams,,AAA,DH,4,4,0.0,0,0,0,0,0,,.000
+,Corpus Christi Hooks,TEX,AA,1B,25,23,210.0,196,176,19,1,20,,.995
+,Corpus Christi Hooks,TEX,AA,2B,42,41,367.1,183,86,93,4,25,,.978
+,Corpus Christi Hooks,TEX,AA,3B,18,18,158.0,59,17,35,7,3,,.881
+,Corpus Christi Hooks,TEX,AA,SS,9,9,68.0,26,11,15,0,6,,1.000
+,Corpus Christi Hooks,TEX,AA,LF,37,36,319.2,57,52,4,1,1,,.982
+,Corpus Christi Hooks,TEX,AA,RF,10,10,88.0,20,18,2,0,1,,1.000
+,Corpus Christi Hooks,TEX,AA,DH,12,12,0.0,0,0,0,0,0,,.000
+,Fayetteville Woodpeckers,CAR,A+,1B,7,7,62.0,51,45,5,1,6,,.980
+,Fayetteville Woodpeckers,CAR,A+,2B,10,10,88.1,42,19,22,1,9,,.976
+,Fayetteville Woodpeckers,CAR,A+,3B,1,1,9.0,4,1,2,1,0,,.750
+,Fayetteville Woodpeckers,CAR,A+,SS,1,1,9.0,5,2,3,0,0,,1.000
+,Fayetteville Woodpeckers,CAR,A+,LF,3,3,27.0,3,3,0,0,0,,1.000
+,Fayetteville Woodpeckers,CAR,A+,DH,2,2,0.0,0,0,0,0,0,,.000
+,Quad Cities River Bandits,MID,A,2B,18,15,137.1,61,32,28,1,9,,.984
+,Quad Cities River Bandits,MID,A,3B,30,30,255.2,83,32,48,3,7,,.964
+,Quad Cities River Bandits,MID,A,SS,3,2,22.0,6,2,3,1,3,,.833
+,Quad Cities River Bandits,MID,A,LF,1,1,8.0,4,2,2,0,1,,1.000
+,Quad Cities River Bandits,MID,A,DH,2,2,0.0,0,0,0,0,0,,.000
+,2 Teams,,Minors,1B,32,30,272.0,247,221,24,2,26,,.992
+,3 Teams,,Minors,2B,70,66,593.0,286,137,143,6,43,,.979
+,3 Teams,,Minors,3B,49,49,422.2,146,50,85,11,10,,.925
+,3 Teams,,Minors,SS,13,12,99.0,37,15,21,1,9,,.973
+,3 Teams,,Minors,LF,41,40,354.2,64,57,6,1,2,,.984
+,1 Teams,,Minors,RF,10,10,88.0,20,18,2,0,1,,1.000
+Career Minors,3 Teams,,,DH,16,16,0.0,0,0,0,0,0,,.000

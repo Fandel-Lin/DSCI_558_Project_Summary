@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Iowa Cubs,Triple-A,Home Games,33,28,7,10,0,0,4,9,4,11,0,0,1,.357,.455,.786,1.241
+Iowa Cubs,Triple-A,Away Games,11,7,2,2,1,0,0,0,4,1,0,0,0,.286,.545,.429,.974
+Iowa Cubs,Triple-A,Day Games,8,5,3,1,0,0,0,0,3,1,0,0,0,.200,.500,.200,.700
+Iowa Cubs,Triple-A,Night Games,36,30,6,11,1,0,4,9,5,11,0,0,1,.367,.472,.800,1.272
+Iowa Cubs,Triple-A,Leading Off,5,5,,1,0,0,1,1,0,2,,,0,.200,.200,.800,1.000
+Iowa Cubs,Triple-A,Late / Close,3,3,,3,0,0,1,2,0,0,,,0,1.000,1.000,2.000,3.000

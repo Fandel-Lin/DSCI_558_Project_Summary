@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Boston Red Sox,MLB,No Outs,111,99,,22,7,0,0,2,8,40,,,4,.222,.306,.293,.599
+Cincinnati Reds,MLB,No Outs,102,88,,18,4,0,1,4,12,25,,,1,.205,.304,.284,.588
+Boston Red Sox,MLB,One Out,67,63,,17,0,0,4,13,2,9,,,1,.270,.299,.460,.759
+Cincinnati Reds,MLB,One Out,145,125,,33,5,1,7,21,17,38,,,0,.264,.345,.488,.833
+Cincinnati Reds,MLB,Two Outs,140,127,,30,2,0,3,14,13,37,,,0,.236,.307,.323,.630
+Boston Red Sox,MLB,Two Outs,57,52,,11,5,0,2,9,4,18,,,1,.212,.281,.423,.704

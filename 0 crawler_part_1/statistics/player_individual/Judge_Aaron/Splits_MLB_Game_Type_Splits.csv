@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+New York Yankees,MLB,Home Games,350,289,65,89,13,0,30,60,53,86,7,0,3,.308,.417,.664,1.081
+New York Yankees,MLB,Away Games,346,281,68,88,15,0,32,71,58,89,9,3,3,.313,.433,.708,1.141
+New York Yankees,MLB,Day Games,222,180,44,56,8,0,17,37,37,51,3,0,4,.311,.437,.639,1.076
+New York Yankees,MLB,Night Games,474,390,89,121,20,0,45,94,74,124,13,3,2,.310,.419,.708,1.127
+New York Yankees,MLB,Leading Off,151,129,,45,11,0,19,20,20,51,,,1,.349,.440,.876,1.316
+New York Yankees,MLB,Late / Close,93,71,,18,4,0,7,16,21,23,,,1,.254,.430,.606,1.036

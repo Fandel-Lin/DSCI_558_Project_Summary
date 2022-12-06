@@ -1,0 +1,3 @@
+"record_linkage.csv" is generated from the directory "2 cleaning_to_entity_resolution."
+We use "player_scrapper_pos.ipynb" with "record_linkage.csv" to generate "record_linkage_with_pos.csv."
+This is to facilitate computational resources.

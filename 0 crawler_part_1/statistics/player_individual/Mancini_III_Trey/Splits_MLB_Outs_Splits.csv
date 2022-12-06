@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Houston Astros,MLB,No Outs,66,61,,10,1,0,1,3,4,15,,,1,.164,.227,.230,.457
+Baltimore Orioles,MLB,No Outs,126,110,,29,3,1,4,7,14,24,,,2,.264,.357,.418,.775
+Houston Astros,MLB,One Out,60,53,,6,2,0,3,8,5,22,,,0,.113,.183,.321,.504
+Baltimore Orioles,MLB,One Out,158,136,,40,10,0,4,19,14,38,,,5,.294,.373,.456,.829
+Baltimore Orioles,MLB,Two Outs,117,108,,26,3,0,2,15,7,24,,,2,.241,.299,.324,.623
+Houston Astros,MLB,Two Outs,60,51,,13,4,0,4,11,9,12,,,0,.255,.367,.569,.936

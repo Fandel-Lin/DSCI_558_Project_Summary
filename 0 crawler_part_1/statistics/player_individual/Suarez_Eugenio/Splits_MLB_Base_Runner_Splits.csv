@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Seattle Mariners,MLB,Bases Empty,360,320,,63,15,1,13,13,35,116,,,5,.197,.286,.372,.658
+Seattle Mariners,MLB,Bases Loaded,14,13,,1,0,0,0,3,1,4,,,0,.077,.143,.077,.220
+Seattle Mariners,MLB,Runner at 1st,121,102,,29,3,0,11,23,17,38,,,2,.284,.397,.637,1.034
+Seattle Mariners,MLB,Runners at 1st & 2nd,47,44,,18,5,0,5,25,3,13,,,0,.409,.447,.864,1.311
+Seattle Mariners,MLB,Runners at 1st & 3rd,15,13,,3,1,0,0,6,1,6,,,0,.231,.267,.308,.575
+Seattle Mariners,MLB,Runner at 2nd,46,34,,9,0,1,2,7,11,14,,,1,.265,.457,.500,.957
+Seattle Mariners,MLB,Runners at 2nd & 3rd,14,7,,3,0,0,0,7,4,3,,,0,.429,.500,.429,.929
+Seattle Mariners,MLB,Runner at 3rd,12,10,,2,0,0,0,3,1,2,,,0,.200,.250,.200,.450
+Seattle Mariners,MLB,Scoring Position,148,121,,36,6,1,7,51,21,42,,,1,.298,.392,.537,.929

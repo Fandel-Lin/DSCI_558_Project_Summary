@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Chicago Cubs,MLB,Home Games,255,239,31,76,10,4,4,32,11,23,12,0,4,.318,.357,.444,.801
+Chicago Cubs,MLB,Away Games,262,242,29,59,12,1,6,23,17,34,8,2,2,.244,.298,.376,.674
+Chicago Cubs,MLB,Day Games,215,200,30,62,10,2,5,29,10,20,10,0,4,.310,.353,.455,.808
+Chicago Cubs,MLB,Night Games,302,281,30,73,12,3,5,26,18,37,10,2,2,.260,.308,.377,.685
+Chicago Cubs,MLB,Leading Off,121,115,,29,1,2,3,3,5,12,,,1,.252,.289,.374,.663
+Chicago Cubs,MLB,Late / Close,66,56,,9,3,0,1,4,9,9,,,1,.161,.288,.268,.556

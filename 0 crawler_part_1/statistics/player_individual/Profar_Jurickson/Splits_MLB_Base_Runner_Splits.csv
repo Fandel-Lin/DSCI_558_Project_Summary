@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+San Diego Padres,MLB,Bases Empty,405,366,,88,26,1,7,7,37,66,,,2,.240,.314,.374,.688
+San Diego Padres,MLB,Bases Loaded,15,15,,4,0,0,1,10,0,3,,,0,.267,.267,.467,.734
+San Diego Padres,MLB,Runner at 1st,93,82,,20,4,0,2,6,10,10,,,0,.244,.326,.366,.692
+San Diego Padres,MLB,Runners at 1st & 2nd,41,32,,9,2,0,3,14,7,9,,,1,.281,.425,.625,1.050
+San Diego Padres,MLB,Runners at 1st & 3rd,18,15,,4,2,0,0,7,2,0,,,0,.267,.333,.400,.733
+San Diego Padres,MLB,Runner at 2nd,63,49,,11,1,1,0,5,12,9,,,1,.224,.387,.286,.673
+San Diego Padres,MLB,Runners at 2nd & 3rd,7,4,,0,0,0,0,2,2,2,,,0,.000,.286,.000,.286
+San Diego Padres,MLB,Runner at 3rd,16,12,,4,1,0,2,7,3,4,,,0,.333,.438,.917,1.355
+San Diego Padres,MLB,Scoring Position,160,127,,32,6,1,6,45,26,27,,,2,.252,.380,.457,.837

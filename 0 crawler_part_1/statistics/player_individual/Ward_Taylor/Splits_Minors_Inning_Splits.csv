@@ -1,0 +1,15 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+ACL Angels,Rookie,First Inning,3,2,0,0,0,0,0,0,1,1,1,0,0,.000,.333,.000,.333
+Salt Lake Bees,Triple-A,First Inning,13,9,8,6,3,0,1,1,4,1,1,0,0,.667,.769,1.333,2.102
+Salt Lake Bees,Triple-A,Second Inning,6,4,2,3,1,0,1,1,2,0,0,0,0,.750,.833,1.750,2.583
+ACL Angels,Rookie,Third Inning,3,3,0,1,1,0,0,0,0,0,0,0,0,.333,.333,.667,1.000
+Salt Lake Bees,Triple-A,Third Inning,9,8,0,1,1,0,0,3,0,4,0,0,1,.125,.222,.250,.472
+Salt Lake Bees,Triple-A,Fourth Inning,4,4,0,1,0,0,0,0,0,1,0,0,0,.250,.250,.250,.500
+ACL Angels,Rookie,Fifth Inning,1,1,0,0,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+Salt Lake Bees,Triple-A,Fifth Inning,8,7,1,2,1,0,0,0,1,1,0,0,0,.286,.375,.429,.804
+Salt Lake Bees,Triple-A,Sixth Inning,5,5,1,1,1,0,0,0,0,2,0,0,0,.200,.200,.400,.600
+ACL Angels,Rookie,Seventh Inning,1,1,0,0,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+Salt Lake Bees,Triple-A,Seventh Inning,7,7,2,2,0,0,2,3,0,3,0,0,0,.286,.286,1.143,1.429
+Salt Lake Bees,Triple-A,Eighth Inning,3,2,1,2,0,0,0,0,1,0,1,0,0,1.000,1.000,1.000,2.000
+Salt Lake Bees,Triple-A,Ninth Inning,3,3,0,3,2,0,0,2,0,0,0,0,0,1.000,1.000,1.667,2.667
+Salt Lake Bees,Triple-A,Extra Innings,1,0,0,0,0,0,0,0,1,0,0,0,0,.000,1.000,.000,1.000

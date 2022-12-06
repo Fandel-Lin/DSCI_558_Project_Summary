@@ -1,0 +1,80 @@
+Season,Tm,LG,L,POS,G,GS,INN,TC,PO,A,E,DP,RF,FPCT%
+2014,2 Teams,,Minors,DH,5,5,0.0,0,0,0,0,0,,.000
+2014,2 Teams,,Minors,3B,25,25,209.0,76,19,45,12,8,,.842
+2014,2 Teams,,Minors,CF,20,20,169.0,46,44,1,1,0,,.978
+2014,GCL Blue Jays,GCL,ROK,3B,15,15,123.0,47,13,28,6,5,,.872
+2014,GCL Blue Jays,GCL,ROK,CF,16,16,138.0,37,35,1,1,0,,.973
+2014,GCL Blue Jays,GCL,ROK,DH,3,3,0.0,0,0,0,0,0,,.000
+2014,Bluefield Blue Jays,APP,ROK,3B,10,10,86.0,29,6,17,6,3,,.793
+2014,Bluefield Blue Jays,APP,ROK,LF,3,2,16.0,4,4,0,0,0,,1.000
+2014,Bluefield Blue Jays,APP,ROK,CF,4,4,31.0,9,9,0,0,0,,1.000
+2014,Bluefield Blue Jays,APP,ROK,DH,2,2,0.0,0,0,0,0,0,,.000
+2014,2 Teams,,ROK,3B,25,25,209.0,76,19,45,12,8,,.842
+2014,2 Teams,,ROK,CF,20,20,169.0,46,44,1,1,0,,.978
+2014,2 Teams,,ROK,DH,5,5,0.0,0,0,0,0,0,,.000
+2015,2 Teams,,Minors,DH,7,7,0.0,0,0,0,0,0,,.000
+2015,2 Teams,,Minors,2B,45,44,380.2,236,76,140,20,32,,.915
+2015,Vancouver Canadians,NWL,A(Short),2B,37,36,312.1,192,62,117,13,25,,.932
+2015,Vancouver Canadians,NWL,A(Short),DH,6,6,0.0,0,0,0,0,0,,.000
+2015,Lansing Lugnuts,MID,A(Full),2B,8,8,68.1,44,14,23,7,7,,.841
+2015,Lansing Lugnuts,MID,A(Full),DH,1,1,0.0,0,0,0,0,0,,.000
+2016,2 Teams,,Minors,CF,66,65,552.2,137,126,10,1,4,,.993
+2016,2 Teams,,Minors,DH,4,4,0.0,0,0,0,0,0,,.000
+2016,GCL Blue Jays,GCL,ROK,CF,5,5,34.0,9,9,0,0,0,,1.000
+2016,GCL Blue Jays,GCL,ROK,DH,1,1,0.0,0,0,0,0,0,,.000
+2016,Lansing Lugnuts,MID,A(Full),2B,10,10,88.1,46,21,21,4,2,,.913
+2016,Lansing Lugnuts,MID,A(Full),LF,6,6,51.1,11,11,0,0,0,,1.000
+2016,Lansing Lugnuts,MID,A(Full),CF,61,60,518.2,128,117,10,1,4,,.992
+2016,Lansing Lugnuts,MID,A(Full),RF,1,1,8.0,0,0,0,0,0,,.000
+2016,Lansing Lugnuts,MID,A(Full),DH,3,3,0.0,0,0,0,0,0,,.000
+2017,2 Teams,,Minors,DH,4,4,0.0,0,0,0,0,0,,.000
+2017,2 Teams,,Minors,CF,71,71,619.2,172,159,10,3,2,,.983
+2017,Dunedin Blue Jays,FSL,A(Adv),CF,64,64,561.2,157,145,9,3,2,,.981
+2017,Dunedin Blue Jays,FSL,A(Adv),DH,2,2,0.0,0,0,0,0,0,,.000
+2017,Dunedin Blue Jays,FSL,A(Adv),RF,7,7,62.0,17,15,2,0,1,,1.000
+2017,Palm Beach Cardinals,FSL,A(Adv),CF,7,7,58.0,15,14,1,0,0,,1.000
+2017,Palm Beach Cardinals,FSL,A(Adv),DH,2,2,0.0,0,0,0,0,0,,.000
+2017,2 Teams,,A(Adv),CF,71,71,619.2,172,159,10,3,2,,.983
+2017,2 Teams,,A(Adv),DH,4,4,0.0,0,0,0,0,0,,.000
+2018,2 Teams,,Minors,CF,115,114,996.0,307,298,8,1,4,,.997
+2018,Springfield Cardinals,TEX,AA,CF,83,83,718.1,226,220,6,0,3,,1.000
+2018,Springfield Cardinals,TEX,AA,RF,10,10,82.0,20,18,2,0,0,,1.000
+2018,Springfield Cardinals,TEX,AA,DH,6,6,0.0,0,0,0,0,0,,.000
+2018,Memphis Redbirds,PCL,AAA,CF,32,31,277.2,81,78,2,1,1,,.988
+2019,Memphis Redbirds,PCL,AAA,LF,32,32,262.0,38,32,5,1,0,,.974
+2019,Memphis Redbirds,PCL,AAA,CF,37,36,303.1,95,94,1,0,1,,1.000
+2019,Memphis Redbirds,PCL,AAA,RF,3,2,17.0,4,4,0,0,0,,1.000
+2019,Memphis Redbirds,PCL,AAA,DH,2,2,0.0,0,0,0,0,0,,.000
+2021,2 Teams,,Minors,CF,21,20,171.1,51,49,1,1,0,,.980
+2021,Memphis Redbirds,INT,AAA,LF,3,3,27.0,5,3,2,0,0,,1.000
+2021,Memphis Redbirds,INT,AAA,CF,18,17,144.1,39,37,1,1,0,,.974
+2021,Memphis Redbirds,INT,AAA,RF,4,4,33.0,6,5,1,0,0,,1.000
+2021,Memphis Redbirds,INT,AAA,DH,4,4,0.0,0,0,0,0,0,,.000
+2021,Rochester Red Wings,INT,AAA,CF,3,3,27.0,12,12,0,0,0,,1.000
+2021,2 Teams,,AAA,CF,21,20,171.1,51,49,1,1,0,,.980
+,2 Teams,,ROK,3B,25,25,209.0,76,19,45,12,8,,.842
+,Bluefield Ridge Runners,APP,ROK,LF,3,2,16.0,4,4,0,0,0,,1.000
+,2 Teams,,ROK,CF,25,25,203.0,55,53,1,1,0,,.982
+,2 Teams,,ROK,DH,6,6,0.0,0,0,0,0,0,,.000
+,Memphis Redbirds,INT,AAA,LF,35,35,289.0,43,35,7,1,0,,.977
+,2 Teams,,AAA,CF,90,87,752.1,227,221,4,2,2,,.991
+,Memphis Redbirds,INT,AAA,RF,7,6,50.0,10,9,1,0,0,,1.000
+,Memphis Redbirds,INT,AAA,DH,6,6,0.0,0,0,0,0,0,,.000
+,Springfield Cardinals,TEX,AA,CF,83,83,718.1,226,220,6,0,3,,1.000
+,Springfield Cardinals,TEX,AA,RF,10,10,82.0,20,18,2,0,0,,1.000
+,Springfield Cardinals,TEX,AA,DH,6,6,0.0,0,0,0,0,0,,.000
+,2 Teams,,A+,CF,71,71,619.2,172,159,10,3,2,,.983
+,2 Teams,,A+,DH,4,4,0.0,0,0,0,0,0,,.000
+,Dunedin Blue Jays,FSL,A+,RF,7,7,62.0,17,15,2,0,1,,1.000
+,Lansing Lugnuts,MID,A,2B,18,18,156.2,90,35,44,11,9,,.878
+,Lansing Lugnuts,MID,A,LF,6,6,51.1,11,11,0,0,0,,1.000
+,Lansing Lugnuts,MID,A,CF,61,60,518.2,128,117,10,1,4,,.992
+,Lansing Lugnuts,MID,A,RF,1,1,8.0,0,0,0,0,0,,.000
+,Lansing Lugnuts,MID,A,DH,4,4,0.0,0,0,0,0,0,,.000
+,Vancouver Canadians,NWL,A(Short),2B,37,36,312.1,192,62,117,13,25,,.932
+,Vancouver Canadians,NWL,A(Short),DH,6,6,0.0,0,0,0,0,0,,.000
+,2 Teams,,Minors,2B,55,54,469.0,282,97,161,24,34,,.915
+,3 Teams,,Minors,LF,44,43,356.1,58,50,7,1,0,,.983
+,2 Teams,,Minors,CF,144,143,1237.0,354,337,16,1,7,,.997
+,4 Teams,,Minors,RF,25,24,202.0,47,42,5,0,1,,1.000
+Career Minors,4 Teams,,,DH,22,22,0.0,0,0,0,0,0,,.000

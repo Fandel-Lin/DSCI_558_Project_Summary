@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Baltimore Orioles,MLB,Home Games,326,296,42,72,22,1,10,39,22,69,9,6,3,.243,.299,.426,.725
+Baltimore Orioles,MLB,Away Games,346,312,47,85,10,3,6,25,25,57,25,4,6,.272,.336,.381,.717
+Baltimore Orioles,MLB,Day Games,234,211,20,47,8,1,1,15,16,50,8,4,3,.223,.283,.284,.567
+Baltimore Orioles,MLB,Night Games,438,397,69,110,24,3,15,49,31,76,26,6,6,.277,.337,.466,.803
+Baltimore Orioles,MLB,Leading Off,264,241,,53,10,1,5,6,20,55,,,3,.220,.288,.332,.620
+Baltimore Orioles,MLB,Late / Close,83,72,,17,4,0,0,5,9,19,,,1,.236,.325,.292,.617

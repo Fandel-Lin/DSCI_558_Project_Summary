@@ -1,0 +1,38 @@
+Season,Tm,LG,L,POS,G,GS,INN,TC,PO,A,E,DP,RF,FPCT%
+2010,GCL Marlins,GCL,ROK,C,5,5,31.0,20,16,4,0,1,,1.000
+2010,GCL Marlins,GCL,ROK,3B,1,1,6.0,1,0,1,0,0,,1.000
+2010,GCL Marlins,GCL,ROK,DH,6,6,0.0,0,0,0,0,0,,.000
+2011,Greensboro Grasshoppers,SAL,A(Full),C,76,75,651.1,640,535,91,14,9,,.978
+2011,Greensboro Grasshoppers,SAL,A(Full),DH,20,20,0.0,0,0,0,0,0,,.000
+2012,Jupiter Hammerheads,FSL,A(Adv),C,95,91,788.1,774,686,73,15,4,,.981
+2012,Jupiter Hammerheads,FSL,A(Adv),1B,1,1,6.0,3,3,0,0,0,,1.000
+2012,Jupiter Hammerheads,FSL,A(Adv),DH,25,24,0.0,0,0,0,0,0,,.000
+2013,Jacksonville Suns,SOU,AA,C,100,97,840.1,829,769,52,8,7,,.990
+2013,Jacksonville Suns,SOU,AA,DH,5,5,0.0,0,0,0,0,0,,.000
+2014,Jacksonville Suns,SOU,AA,C,88,88,783.0,643,595,41,7,6,,.989
+2014,Jacksonville Suns,SOU,AA,DH,8,8,0.0,0,0,0,0,0,,.000
+2015,New Orleans Zephyrs,PCL,AAA,C,3,3,28.0,22,19,3,0,0,,1.000
+2018,Jupiter Hammerheads,FSL,A(Adv),C,1,1,5.0,3,2,1,0,0,,1.000
+,FCL Marlins,GCL,ROK,C,5,5,31.0,20,16,4,0,1,,1.000
+,FCL Marlins,GCL,ROK,3B,1,1,6.0,1,0,1,0,0,,1.000
+,FCL Marlins,GCL,ROK,DH,6,6,0.0,0,0,0,0,0,,.000
+,New Orleans Baby Cakes,PCL,AAA,C,3,3,28.0,22,19,3,0,0,,1.000
+,Jacksonville Jumbo Shrimp,INT,AA,C,188,185,1623.1,1472,1364,93,15,13,,.990
+,Jacksonville Jumbo Shrimp,INT,AA,DH,13,13,0.0,0,0,0,0,0,,.000
+,Jupiter Hammerheads,FSL,A+,C,96,92,793.1,777,688,74,15,4,,.981
+,Jupiter Hammerheads,FSL,A+,1B,1,1,6.0,3,3,0,0,0,,1.000
+,Jupiter Hammerheads,FSL,A+,DH,25,24,0.0,0,0,0,0,0,,.000
+,Greensboro Grasshoppers,SAL,A,C,76,75,651.1,640,535,91,14,9,,.978
+,Greensboro Grasshoppers,SAL,A,DH,20,20,0.0,0,0,0,0,0,,.000
+,5 Teams,,Minors,C,368,360,3127.0,2931,2622,265,44,27,,.985
+,1 Teams,,Minors,1B,1,1,6.0,3,3,0,0,0,,1.000
+,1 Teams,,Minors,3B,1,1,6.0,1,0,1,0,0,,1.000
+,4 Teams,,Minors,DH,64,63,0.0,0,0,0,0,0,,.000
+,5 Teams,,Minors,C,368,360,3127.0,2931,2622,265,44,27,,.985
+,1 Teams,,Minors,1B,1,1,6.0,3,3,0,0,0,,1.000
+,1 Teams,,Minors,3B,1,1,6.0,1,0,1,0,0,,1.000
+,4 Teams,,Minors,DH,64,63,0.0,0,0,0,0,0,,.000
+,5 Teams,,Minors,C,368,360,3127.0,2931,2622,265,44,27,,.985
+,1 Teams,,Minors,1B,1,1,6.0,3,3,0,0,0,,1.000
+,1 Teams,,Minors,3B,1,1,6.0,1,0,1,0,0,,1.000
+Career Minors,4 Teams,,,DH,64,63,0.0,0,0,0,0,0,,.000

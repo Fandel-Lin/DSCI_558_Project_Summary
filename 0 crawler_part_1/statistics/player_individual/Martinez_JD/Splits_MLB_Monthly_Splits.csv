@@ -1,0 +1,10 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+Boston Red Sox,MLB,April,61,54,7,15,8,0,1,8,5,16,0,0,1,.278,.344,.481,.825
+Boston Red Sox,MLB,May,120,106,23,43,9,0,4,15,12,28,0,0,1,.406,.467,.604,1.071
+Boston Red Sox,MLB,June,113,99,14,23,7,0,3,10,11,23,0,0,2,.232,.319,.394,.713
+Boston Red Sox,MLB,July,87,81,8,17,8,0,1,7,4,21,0,0,1,.210,.253,.346,.599
+Boston Red Sox,MLB,August,109,98,9,21,4,0,2,10,10,32,0,0,0,.214,.284,.316,.600
+Boston Red Sox,MLB,September,92,82,11,22,7,1,3,8,9,20,0,0,0,.268,.341,.488,.829
+Boston Red Sox,MLB,October,14,13,4,5,0,0,2,4,1,5,0,0,0,.385,.429,.846,1.275
+Boston Red Sox,MLB,Pre All-Star,356,318,51,96,30,0,9,38,31,84,0,0,4,.302,.368,.481,.849
+Boston Red Sox,MLB,Post All-Star,240,215,25,50,13,1,7,24,21,61,0,0,1,.233,.301,.400,.701

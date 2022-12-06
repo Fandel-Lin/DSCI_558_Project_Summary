@@ -1,0 +1,7 @@
+Team,Lg,Type,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS
+San Diego Padres,MLB,Home Games,294,261,42,73,13,0,17,40,31,65,5,1,1,.280,.357,.525,.882
+San Diego Padres,MLB,Away Games,350,317,58,99,24,1,15,62,32,68,4,0,0,.312,.374,.536,.910
+San Diego Padres,MLB,Day Games,238,216,29,56,14,1,8,32,20,58,2,0,1,.259,.324,.444,.768
+San Diego Padres,MLB,Night Games,406,362,71,116,23,0,24,70,43,75,7,1,0,.320,.392,.583,.975
+San Diego Padres,MLB,Leading Off,86,77,,28,7,0,3,4,8,16,,,1,.364,.430,.571,1.001
+San Diego Padres,MLB,Late / Close,61,52,,10,2,0,3,10,9,14,,,0,.192,.311,.404,.715
