@@ -34,47 +34,34 @@ Thanks for visiting!
 The project objective is *building MLB knowledge graph for player and
 game prediction with statistical analysis*.
 
-Baseball is one of the major professional sports in the United States,
-and can attract tens of thousands of on-site spectators per match.
-However, instead of simply skimming through the match results, there are
-complex interactive and synergistic relationships among players in
-baseball.
+Baseball is one of the major professional sports in the United States, and can attract tens of thousands of on-site spectators per match. However, instead of simply skimming through match results, there are complex interactive and synergistic relationships among players in baseball.
 
-In this project, we plan to build a knowledge graph about baseball
-games. The knowledge graph will hold teams of a baseball league, match
-schedules of teams, game results of matches, players of teams,
-historical records of players, and statistics of players in matches. For
-different types (e.g., pitchers and hitters) of players in a team, the
-statistics here span from pitch types, spin direction, and pitch
-movement for pitchers; to pitch tracking, plate discipline, and
-batted-ball profiles for hitters. This brings a total of at least 11
-semantic types.
+In this project, we plan to build a knowledge graph about baseball games. The knowledge graph will hold teams of a baseball league, match schedules of teams, game results of matches, players of teams, historical records of players, and statistics of players in matches. For different types (e.g., pitchers and hitters) of players in a team, the statistics here span from pitch types, spin direction, and pitch movement for pitchers; to pitch tracking, plate discipline, and batted-ball profiles for hitters. This brings a total of at least 11 semantic types.
 
 ## Project Goal
 
-With visualization, this knowledge graph could help people dig into the
-interactive and synergistic relationship among players in baseball
-games. Furthermore, we plan to exploit this knowledge graph to provide a
-data-centric approach to inferring the performance of players and the
-results of matches.
+With visualization, this knowledge graph could help people dig into the interactive and synergistic relationship among players in baseball games. Furthermore, we plan to exploit this knowledge graph to provide a data-centric approach to inferring the performance of players and the results of matches.
+
+To achieve our goal, the architecture is defined and depicted in [Fig 1](https://github.com/Fandel-Lin/DSCI_558_Project_Summary/blob/main/Fig/overview.png).
 
 ## Motivating Example
 
-As a motivating example, spectators for baseball games not only want to
-know whether the team they support can win a match, but also want to
-take part in some 'special events' in person! Such events could be
-intuitive, for instance, a team winning the championship, or a pitcher
-(a player whose routine is stable) winning a match. However, most of
-such events are uncertain, for instance, a team playing a 'perfect game'
-(no opposing player ever reaches base by any means in a match, e.g.,
-there are only 21 perfect games in MLB since 1903), a pitcher getting
-his shot outs or complete games, or a hitter getting his career home run
-in round hundreds (e.g., Albert Pujols gets his $698^{th}$ home run on
-9/16, but his $699^{th}$ and $700^{th}$ ones both on 9/24). These types
-of events are difficult to be expected if a spectator only relies on the
-impression of recent situations of players or teams.
+As a motivating example, spectators of baseball games not only want to know whether the team they support can win a match, but also want to take part in some ‘special events’ in person! Such events could be intuitive, for instance, a team winning the championship, or a pitcher (a player whose routine is stable) winning a match. However, most of such events are uncertain, for instance, a team playing a ‘perfect game’ (no opposing player ever reaches base by any means in a match, e.g., there are only 21 perfect games in MLB since 1903), a pitcher getting his shot outs or complete games, or a hitter getting his career home run in round hundreds (e.g., Albert Pujols gets his $698^{th}$ home run on 9/16, but his $699^{th}$ and $700^{th}$ ones both on 9/24). These types of events are difficult to be expected if a spectator only relies on the impression of recent situations of players or teams.
+
+## Research Question
+
+Accordingly, the major quantitative evaluation for this project consists of three parts: one for entity resolution, and two for predictive tasks. To facilitate the extrapolated prediction, we use a sliding window of 200 matches. For instance, we use match numbers 1 to 200 to construct a sub-KG, and use this sub-KG for predicting the results and performance in match numbers 201 to 400. The formulations are described as follows:
+
+- *RQ1* Can our approach retain good performance in entity resolution by treating a subset of manually labeled data as the validation set?
+- *RQ2* Can our approach perform good extrapolated prediction for match result (either win or lose) under a sliding window?
+- *RQ3* Can our approach perform good extrapolated prediction for player performance (how many points one player gets or loses in a match) under a sliding window?
+
+
+
 
 # Dataset
+
+There are 2430 matches and at least 1200 active players per year in MLB. We will crawl the game and schedule info from the first dataset, and the player info from all three datasets.
 
 1.  MLB.com
 
@@ -92,56 +79,23 @@ impression of recent situations of players or teams.
 
     -   Any other information of players beside match statistics.
 
-There are 2430 matches and at least 1200 active players per year in MLB.
-We will crawl the game and schedule info from the first dataset, and the
-player info from all three datasets.
+All three datasets have structured tables, this is expected to bring around 6030 pages and more than 2400 structured records. Screenshots for the three datasets are displayed in [Fig 2](https://github.com/Fandel-Lin/DSCI_558_Project_Summary/blob/main/Fig/mlb_0.png). 
 
-All three datasets have structured tables, this brings around 6030 pages
-and more than 2400 structured records. We will design custom ontologies
-that capture the concepts from the structured sources, for instance,
-(team, has match against, team), (team, has, player), (player, plays in,
-match), (player, plays against, player), (pitcher, has, pitch type),
-(hitter, has, pitch tracking), (player, belongs to, player type),
-(player, plays against, player type), and (player type, plays against,
-player type), etc.
 
 # Technical Challenge
 
-The project will solve technical challenges in analyzing knowledge
-graphs. The difficulties lie in categorizing entities (players) with
-similar characteristics, understanding the relationship among different
-types of entities, and exploiting the uncertainty in such relationships
-for an inference. To the best of our knowledge, few addresses the
-inference problem based on uncertain relationships in a knowledge graph.
-We conduct the experiment on a real-world dataset from the Major League
-Baseball (MLB), and evaluate the performance for the inference problem
-based on the accuracy of game results and player performance. (e.g., we
-take the first 70% matches in a season for constructing the predictive
-model, and use the last 30% matches for evaluation.)
+The project will solve technical challenges in analyzing knowledge graphs. The difficulties lie in categorizing entities (players) with similar characteristics, understanding the relationship among different types of entities, and exploiting the uncertainty in such relationships for an inference. We conduct the experiment on a real-world dataset from Major League Baseball (MLB), and evaluate the performance for the inference problem based on the accuracy of game results (either win or lose) and player performance (how many point a player gets or loses). To be more precise, we construct a sliding window of 200 matches for all the matches in a season. For every two windows, we treat the first window (200 matches) for constructing the predictive model, and use the next window (200 matches) for evaluation.
 
-We use SPARQL queries to extract and build our knowledge graph for
-players from MLB in various aspects. Precisely, we harvest different
-pitch types, spin direction, and pitch movement for pitchers; different
-pitch tracking, plate discipline, and batted-ball profiles for hitters
-from the baseball savant dataset. Based on these statistics, we can
-categorize these pitchers and hitters. We will use these trends to build
-a probabilistic predictive model among hitters and pitchers based on
-their categories. We then exploit the player list (roster) and game
-schedule of each team from the MLB dataset. However, the starting lineup
-for a match is only part of the player list of a team. Therefore,
-without knowing the exact players who are playing in matches, we have to
-infer the game results and player performance based on our predictive
-model under such an uncertainty in the KG relationship.
+Compared to other ball games, MLB has more teams and players, so we have more relationships between players on each team. Plus with more game data, we could face a very large knowledge graph and then may slow down our predictions.
 
-Compared to other ball games, MLB has more teams and players, so we have
-more relationships between players on each team. Plus with more game
-data, we could face a very large knowledge graph and then may slow down
-our predictions.
+On the other hand, for designing the custom ontologies, we include the statistics and records from multiple aspects of baseball to support further extrapolated prediction.
+
+Next, We use SPARQL queries to extract and build our knowledge graph for players from MLB in various aspects. Precisely, we harvest different pitch types, spin direction, and pitch movement for pitchers; different pitch tracking, plate discipline, and batted-ball profiles for hitters from the baseball savant dataset. Based on these statistics, we can categorize these pitchers and hitters, as well as the teams. We will use these trends to build a probabilistic predictive model among hitters and pitchers based on their categories (embedding).
 
 # Methodology
 
 The architecture for our approach is depicted in
-Fig [1](#fig1){reference-type="ref" reference="fig1"}. In this section,
+[Fig 1](https://github.com/Fandel-Lin/DSCI_558_Project_Summary/blob/main/Fig/overview.png). In this section,
 we introduce our approach to dealing with the technical challenges for
 each step in the architecture.
 
@@ -183,24 +137,23 @@ match), (player, plays against, player), (pitcher, has, pitch type),
 (hitter, has, pitch tracking), (player, belongs to, player type),
 (player, plays against, player type), and (player type, plays against,
 player type), etc. The overview of our custom ontology is illustrated in
-Fig [2](#fig3){reference-type="ref" reference="fig3"}, with some
+[Fig 3](https://github.com/Fandel-Lin/DSCI_558_Project_Summary/blob/main/Fig/ontology_overview.png), with some
 examples listing the defined properties, domains, and ranges in
-Fig [\[fig4\]](#fig4){reference-type="ref" reference="fig4"}. The
+[Fig 4](https://github.com/Fandel-Lin/DSCI_558_Project_Summary/blob/main/Fig/ontology_part.png). The
 statistics for our custom ontology are provided in
-Table [1](#tab1){reference-type="ref" reference="tab1"}, with more than
+[Table 1](#tab1), with more than
 100 nodes in the ontology itself.
 
 For one of the quantitative research questions, we utilize entity
 resolution to solve the issues of distinct representation of data across
-various sources. For instance, in Fig [3](#fig5){reference-type="ref"
-reference="fig5"}, in the game log from MLB.com, when referring to a
+various sources. For instance, in [Fig 5](https://github.com/Fandel-Lin/DSCI_558_Project_Summary/blob/main/Fig/challenge.png), in the game log from MLB.com, when referring to a
 specific player, sometimes it uses the last name or last name with the
 first letter from the first name; however, sometimes it relies on the
 last name with multiple (more than 2) letters from the first name, or
 even letters from the player's full name that is only provided in
 another source. Accordingly, we incorporate multiple attributes from
 each source to perform entity resolution. Precisely, as an example
-depicted in Fig [4](#fig6){reference-type="ref" reference="fig6"}, we
+depicted in [Fig 6](https://github.com/Fandel-Lin/DSCI_558_Project_Summary/blob/main/Fig/linking.png), we
 use a player's name, tokens extracted from the name, and the team
 information (with transfer record if this player is transferred from one
 team to another during a season) with Jaccard index for similarity
@@ -258,7 +211,7 @@ corresponding characteristics.
 
 For the user interface, we provide multiple querying approaches for
 users to explore the Baseball KG. As screenshots shown in
-Fig [\[fig7\]](#fig7){reference-type="ref" reference="fig7"}, users can
+[Fig 7](https://github.com/Fandel-Lin/DSCI_558_Project_Summary/blob/main/Fig/ui_1.png), users can
 select from a set of pre-defined queries, or select their designated
 combinations of subjects and predicates.
 
@@ -271,7 +224,7 @@ The quantitative evaluation consists of three parts.
 First, for entity resolution, we create a subset of 100 players as the
 validation set. The F1 score is selected as the evaluation metric. The
 ablation study for entity resolution is depicted in
-Table [2](#tab2){reference-type="ref" reference="tab2"}. Where our
+[Table 2](#tab2). Where our
 approach secures an F1 score of 1.000 for the validation set.
 
 For extrapolated prediction, We use a sliding window of 200 matches. For
@@ -280,8 +233,8 @@ perform prediction based on this sub-KG for match numbers 201 to 400. We
 use the F1 score and Mean Average Error (MAE) to access the performance
 of the two prediction tasks respectively. The performance of the
 ablation study for these two tasks is shown in
-Table [3](#tab3){reference-type="ref" reference="tab3"} and
-Table [4](#tab4){reference-type="ref" reference="tab4"}. Where our
+[Table 3](#tab3) and
+[Table 4](#tab4). Where our
 approach demonstrates its efficacy in exploiting multiple attributes and
 holds a performance better than baseline methods.
 
@@ -338,11 +291,10 @@ and intuitiveness of querying through SPARQL. On the other hand, as one
 of the key qualitative indicators, securing the KG quality is a crucial
 issue. We perform entity resolution by exploiting relevant attributes,
 and making sure that all the data are free of error under a consistent
-representation. Although the exact attributes being used heavily depend
-on the domain that one is conducting the entity resolution, there are
-several general techniques that can be adopted (and some of them are
-also used in our case) such as blocking, which can save valuable
-computational resources.
+representation.  Although the attributes heavily depend on the domain 
+in which one conducts entity resolution, there are several general 
+techniques that can be adopted (and some of them are also used in our 
+case) such as blocking to save valuable computational resources.
 
 Last but not least, we believe that applying KG makes it somewhat easier
 to be navigated and explored compared to a relational database. For our
@@ -350,15 +302,12 @@ targeted domain, this allows users to fully exploit the complex yet
 sparse relationship. Furthermore, to the best of our knowledge, there
 are no existing ontologies or systems that provide easy access to such
 intriguing relations behind this tempting sport. And our KG opens a door
-for users to dig into it.
+for users to dig into it[^2][^3].
 
 # Appendix
 
-[The project architecture.]{.image}
-
-[The overview of our custom ontology.]{.image}
-
 ::: {#tab1}
+
   Type                      Node      Edge
   --------------------- -------- ---------
   Ontology itself            107       248
@@ -401,14 +350,11 @@ for users to dig into it.
   : Ablation study for player-performance prediction.
 :::
 
-[An example of distinct representation of data across sources, where
-last name or last name with the first letter from the first name is used
-(top); while some rely on the last name with multiple letters from the
-first name, or letters from the full name (bottom).]{.image}
-
-[An example of the entity-resolution workflow.]{.image}
 
 [^1]: Example of an official press release talking about the amendments
     in 2013 MLB schedule:
     https://web.archive.org/web/20160304091328/http://m.mlb.com/news/article/38287660
 
+[^2]: Link to our video: https://youtu.be/vYcA4DLgo2U
+   
+[^3]: Link to our source code: https://github.com/Fandel-Lin/DSCI_558_Project_Summary
