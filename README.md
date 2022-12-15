@@ -18,7 +18,7 @@ MLB-Knowledge-Graph for DSCI 558
 [MLB-Knowledge-Graph](https://github.com/zhan22/MLB-Knowledge-Graph)
 
 #### Video:
-Please visit the following [YouTube link](#)
+Please visit the following [YouTube link](https://youtu.be/vYcA4DLgo2U)
 
 #### Report:
 Our final submission files (proposal, summary, and slides) can be found in `8 report` folder.
